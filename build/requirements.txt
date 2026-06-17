@@ -1,4 +1,4 @@
 # Resume/cover-letter rendering dependencies (pure-Python; no system libs needed)
 python-docx>=1.1     # native Word (.docx) output — ATS-preferred submission format
 reportlab>=4.0       # polished, text-based PDF with exact pagination (balance check)
-pymupdf>=1.24        # optional: rasterize PDF to preview/verify layout
+pymupdf>=1.24        # score-meter gauge (score_meter.py) + PDF preview/verify

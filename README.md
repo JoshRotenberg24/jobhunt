@@ -17,8 +17,9 @@ In a Claude Code session opened on this repo:
 
 1. **Parse the job** — title, must-haves, knockout criteria, keywords.
 2. **Score your fit** — a transparent **Fit Score (0–100)** for how strong a candidate you
-   are for *this* role (separate from the resume's keyword match), with a per-dimension
-   breakdown and any knockout flags.
+   are for *this* role (separate from the resume's keyword match), shown as a visual
+   **score meter** (gauge + per-dimension breakdown bars) and an inline text meter, with
+   any knockout flags.
 3. **Tailor the resume** — match the JD against your master profile using only true
    content, then build it.
 4. **Render it professionally** — a balanced **2-page PDF** (polished, real text, ATS-safe)
@@ -42,6 +43,7 @@ worked example (resume PDF/DOCX, cover letter, and match report).
 | `profile/master-profile.md` | **Single source of truth** — bullets, roles, verified metrics, skills. Edit as your career evolves. |
 | `build/render_resume.py` | Resume JSON → polished PDF + DOCX; reports pages + balance. |
 | `build/render_cover_letter.py` | Cover-letter JSON → one-page PDF + DOCX. |
+| `build/score_meter.py` | Fit JSON → score-meter gauge PNG + inline text meter. |
 | `research/job-market-and-ats-research-2026.md` | Cited research behind the playbook (with confidence levels + verification pass). |
 | `applications/<company>/` | Generated resume, cover letter, and match report per job. |
 

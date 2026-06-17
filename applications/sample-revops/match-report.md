@@ -11,7 +11,16 @@
 | Date | 2026-06-17 |
 | Work mode | Remote-friendly (no knockout) |
 
-## Fit Score: 80 / 100 — **Strong fit**
+## Fit Score
+
+```
+🟢 Fit Score: 80 / 100 — Strong fit
+[████████████████░░░░]  80%
+```
+
+![Fit Score meter](fit.png)
+
+**80 / 100 — Strong fit**
 
 | Dimension | Score | Notes |
 | :--- | :---: | :--- |

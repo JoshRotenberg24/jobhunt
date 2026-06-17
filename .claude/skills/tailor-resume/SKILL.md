@@ -68,6 +68,12 @@ angle exists).
 
 Show the per-dimension breakdown so the number is explainable. Do not inflate.
 
+Then render the **score meter** (the tool's UI for the Fit Score): write
+`applications/<company-slug>/fit.json` (`{score, band, role, breakdown:[[name,val,max],…]}`)
+and run `python3 build/score_meter.py applications/<company-slug>/fit.json`. It writes
+`fit.png` (a band-colored gauge with breakdown bars) and prints an inline text meter.
+Show the user the text meter immediately, and surface `fit.png` to them.
+
 ## Step 5 — Build the resume JSON
 Choose the best **summary variant** for the role type and an honest target **headline**
 (a self-description, e.g., "Revenue Operations Leader" — never a falsified past title).
@@ -107,7 +113,8 @@ keep it to one page.
 ## Step 8 — Write the match report
 Write `applications/<company-slug>/match-report.md`:
 - Role, company, link, date.
-- **Fit Score** (the number, band, and per-dimension breakdown from Step 4).
+- **Fit Score** — paste the inline text meter at the very top, the number, band, and
+  per-dimension breakdown from Step 4, and reference `fit.png` (the score meter image).
 - **Keyword coverage**: must-haves matched vs. total, with the matched terms.
 - **Top strengths** for this role; **Top gaps** (and what Josh could add).
 - **Knockouts**: any work-auth/location/clearance/years items to confirm or that cap fit.
@@ -127,7 +134,8 @@ Write `applications/<company-slug>/match-report.md`:
 
 ---
 
-After producing outputs, give the user a short summary: **Fit Score + band**, the
-keyword-coverage number, **PAGES/balance result**, and the top 1–2 gaps to close.
+After producing outputs, give the user a short summary: the **score meter** (show the
+text meter and surface `fit.png`), the keyword-coverage number, **PAGES/balance result**,
+and the top 1–2 gaps to close.
 The PDF is the polished submission copy (real text, ATS-safe); the DOCX is the editable
 version (ATS-preferred where a Word upload is requested).
