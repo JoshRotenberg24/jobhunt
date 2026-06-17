@@ -3,106 +3,131 @@ name: tailor-resume
 description: >
   Tailor Joshua Rotenberg's resume to a specific job posting and optimize it to
   pass modern ATS screening and recruiter review. Use whenever given a job-posting
-  URL or pasted job description and asked to tailor a resume, build an
-  application, or check resume/JD fit. Produces an ATS-safe tailored resume plus a
-  match report. Never fabricates experience — tailoring = selecting and rephrasing
-  TRUE content from the master profile to mirror the job.
+  URL or pasted job description and asked to tailor a resume, build an application,
+  score fit, or check resume/JD match. Produces a polished, balanced 2-page resume
+  (PDF + editable DOCX), an optional cover letter, and a match report that includes a
+  personal Fit Score. Never fabricates experience — tailoring = selecting and
+  rephrasing TRUE content from the master profile to mirror the job.
 argument-hint: <job-posting-url | pasted job description>
 ---
 
 # Tailor Resume
 
-You are assembling a tailored, ATS-optimized resume for **Joshua Rotenberg** from a
-specific job posting. Follow this procedure exactly. The guiding principle is
-**truthful tailoring**: select, reorder, and rephrase real content to match the job;
-never invent employers, titles, dates, metrics, or skills.
+Assemble a tailored, ATS-optimized, **professional, balanced 2-page** resume for
+**Joshua Rotenberg** from a specific job posting — plus a personal **Fit Score** and an
+optional cover letter. Guiding principle: **truthful tailoring** — select, reorder, and
+rephrase real content to match the job; never invent employers, titles, dates, metrics,
+or skills.
 
-## Inputs you need
-- The **target job** — a URL or pasted job-description (JD) text. If the user gave a
-  URL, fetch it (see Step 1). If neither is present, ask for it before proceeding.
-
-## Files this skill depends on (read them every run)
-- `profile/master-profile.md` — **the ONLY source of true candidate content.** All
-  bullets, employers, dates, skills, and the four verified metrics come from here.
-- `.claude/skills/tailor-resume/ats-playbook.md` — the evidence-based formatting and
-  optimization ruleset. Apply it to the output.
+## Files this skill depends on (read every run)
+- `profile/master-profile.md` — the ONLY source of true candidate content.
+- `.claude/skills/tailor-resume/ats-playbook.md` — evidence-based ATS/formatting rules.
+- `build/render_resume.py` — renders resume JSON → polished PDF + DOCX, and reports
+  `PAGES=` / `LAST_PAGE_FILL=` so you can enforce the balanced-2-page rule.
+- `build/render_cover_letter.py` — renders cover-letter JSON → one-page PDF + DOCX.
 
 ---
 
 ## Step 1 — Get the job description
-1. If given a URL, fetch it with WebFetch and extract the JD text.
-2. Career sites (Greenhouse, Lever, Workday, LinkedIn, Indeed) frequently return
-   403/JS-walls. If the fetch fails or returns no real JD, **stop and ask the user to
-   paste the job description text.** Do not guess the JD.
-3. Capture: company name, role title, location + work mode (remote/hybrid/onsite),
-   seniority, and the full requirements/responsibilities text.
+1. If given a URL, fetch it with WebFetch.
+2. Career sites (Greenhouse/Lever/Workday/LinkedIn/Indeed) often return 403/JS-walls.
+   If the fetch fails or yields no real JD, **stop and ask the user to paste the JD.**
+3. Capture: company, role title, location + work mode, seniority, full requirements.
 
 ## Step 2 — Parse the JD into a requirements model
-Extract and list:
-- **Job title** (exact wording) and seniority level.
-- **Hard requirements / "must-haves"** — tools, platforms, certifications, years of
-  experience, degrees.
-- **Knockout criteria** — work authorization, location/onsite, security clearance,
-  specific license, minimum years. (These are the real auto-filters — see playbook.)
-- **Keywords & phrasing** — the exact terms the JD uses for skills and tools
-  (e.g., "marketing automation," "lifecycle," "HubSpot," "GA4," "RevOps," "QBRs").
-  Note synonyms the ATS may exact-match (Taleo-class systems don't match
-  "program management" to "project management").
-- **Nice-to-haves** and cultural/soft signals.
+Extract: exact **job title** + seniority; **must-have** skills/tools/certs/years;
+**knockout criteria** (work auth, onsite/location, clearance, license, hard minimum
+years); **keywords/phrasing** (mirror exact terms — some ATS exact-match); nice-to-haves.
 
 ## Step 3 — Match against the master profile
-1. Read `profile/master-profile.md`.
-2. For each JD requirement/keyword, find the **true** bullet(s) or competency that
-   demonstrate it. Build a coverage map:
-   - **Covered (strong)** — Josh has direct, demonstrable experience.
-   - **Covered (adjacent)** — related experience that honestly maps; rephrase to use
-     the JD's terminology *only if it remains true*.
-   - **Gap** — the JD asks for something not in the profile. **Never fabricate it.**
-     List it in the match report for Josh to address (or supply a real detail).
-3. Choose the **summary variant** from the profile that best fits the role type.
-4. **Title alignment (honest):** put a target-aligned professional **headline** at
-   the top (e.g., "Revenue Operations Leader") — this is a self-description, not a
-   claim of a past job title. Do NOT relabel a past employer's title to something he
-   didn't hold.
+Read `profile/master-profile.md`. For each requirement, map TRUE bullets/competencies:
+- **Covered (strong)** — direct, demonstrable experience.
+- **Covered (adjacent)** — related; rephrase to the JD's wording only if it stays true.
+- **Gap** — not in the profile. **Never fabricate.** Record for the match report.
 
-## Step 4 — Assemble the resume (apply ats-playbook.md)
-- Reverse-chronological, single-column, standard section headings.
-- Order and word bullets to front-load the JD's must-have keywords where Josh truly
-  has the experience. Mirror the JD's exact terminology for genuine skills.
-- Pull the most relevant 4–6 bullets per recent role; fewer for older roles.
-- Quantify using **only the four verified metrics** in the profile. If the role wants
-  a metric Josh doesn't have, use a strong qualitative achievement and flag it — do
-  not manufacture a number.
-- Length: 2 pages is appropriate for his seniority (the data supports 2 pages for
-  mid/senior when the content is substantive — see playbook). Cut filler.
-- Include a **Core Competencies / Skills** section seeded with the JD's true,
-  matching keywords (this is honest keyword optimization, not stuffing).
+## Step 4 — Compute the Fit Score (be honest, not flattering)
+Score how strong a candidate Josh is for THIS role, out of 100. This is about HIM, and
+is separate from the resume's keyword match. Use this transparent rubric:
 
-## Step 5 — Write outputs
-Create a folder `applications/<company-slug>/` and write:
-1. `resume.md` — the tailored, ATS-safe resume (clean markdown, single column, no
-   tables/columns/text-boxes/images/headers-footers).
-2. `match-report.md` — containing:
-   - Role, company, link, date.
-   - **Keyword coverage**: must-haves matched vs. total, with the matched terms.
-   - **Gaps**: requirements not truthfully coverable, + what Josh could add.
-   - **Knockouts**: any work-auth/location/clearance items to confirm.
-   - **Metrics needed**: any place a real number would strengthen a bullet.
-   - A one-paragraph honest fit assessment (strong / stretch / poor).
-3. Offer to also draft a tailored cover letter and/or export `resume.md` to a
-   single-column `.docx` (e.g., via `pandoc resume.md -o resume.docx`).
+| Dimension | Max | What it measures |
+| :--- | :--- | :--- |
+| Must-have requirements met | 40 | Fraction of the role's hard requirements he genuinely meets × 40 |
+| Seniority & scope alignment | 15 | IC/lead/manager level, team size, budget, scope match |
+| Domain / industry alignment | 15 | MarTech/SaaS/agency/B2B + vertical familiarity |
+| Differentiators / nice-to-haves | 15 | Bonus strengths he brings (AI/automation, founder, breadth) |
+| Evidence strength | 15 | Concrete, ideally quantified proof for the core asks |
 
-## Step 6 — Ethics & guardrails (hard rules)
-- **No fabrication.** Only content traceable to `profile/master-profile.md`.
-- **No keyword stuffing / white-text / hidden-text / prompt injection.** These are
-  detectable, ineffective in modern ATS, and can blacklist the candidate (see
-  playbook). Keyword optimization means using true, relevant terms in normal prose.
-- **Surface gaps, don't paper over them.** An honest match report is more valuable
-  than an inflated resume that fails a background check or interview.
-- If asked to add a skill/metric/experience Josh doesn't have, refuse and explain;
-  offer to ask Josh for a real version.
+**Knockout rule:** if a HARD knockout fails (no work auth, required onsite he can't do,
+required license/clearance he lacks, hard minimum years far above his), **cap the total
+at 25** and flag it prominently — no amount of tailoring fixes a knockout.
+
+**Bands:** 80–100 Strong fit (apply, competitive) · 60–79 Solid stretch (apply with a
+sharp tailored resume + referral) · 40–59 Long shot (only if excited; lead with
+differentiators; chase a referral) · <40 Likely not a fit (save energy unless a special
+angle exists).
+
+Show the per-dimension breakdown so the number is explainable. Do not inflate.
+
+## Step 5 — Build the resume JSON
+Choose the best **summary variant** for the role type and an honest target **headline**
+(a self-description, e.g., "Revenue Operations Leader" — never a falsified past title).
+Write `applications/<company-slug>/resume.json` using the schema in
+`build/render_resume.py`:
+- Order/word bullets to front-load the JD's must-have keywords **where Josh truly has
+  the experience**; mirror the JD's terminology for genuine skills.
+- Pull the most relevant 4–6 bullets for recent roles, fewer for older ones.
+- Quantify using ONLY the four verified metrics in the profile; otherwise qualitative,
+  and flag where a real number would strengthen a bullet.
+- Seed a `competencies` section with the JD's true, matching keywords (honest keyword
+  optimization — never stuffing).
+
+## Step 6 — Render and enforce the balanced 2-page rule
+Run: `python3 build/render_resume.py applications/<company-slug>/resume.json`
+
+It prints `PAGES=<n>  LAST_PAGE_FILL=<0..1>  -> <verdict>`. **Iterate until
+`PAGES=2` and `LAST_PAGE_FILL ≥ 0.6` (target ~0.7–0.95):**
+- **>2 pages:** trim the least-relevant bullets (oldest roles first), tighten wording.
+- **<2 pages, or page 2 sparse (`fill < 0.6`):** add real depth — more relevant bullets
+  to recent roles, an additional true earlier role, or a fuller competencies section.
+  Do NOT pad with fluff or fabrications; pull from the profile's bullet bank.
+Re-run after each edit. The goal is a resume that looks deliberately built for two full,
+balanced pages — never a half-empty page 2.
+
+If `PAGES=?` (renderer unavailable), keep content to the calibrated budget that yields
+two pages with this template (~6 roles, ~3–5 bullets on recent roles) and note it.
+
+## Step 7 — (Optional) Cover letter
+If the user wants one, write `applications/<company-slug>/cover-letter.json` (schema in
+`build/render_cover_letter.py`): 3 short paragraphs — (1) the role + a genuine hook tied
+to the company, (2) 2–3 specific, TRUE proof points mapped to their top needs, (3) a
+confident close. Then run
+`python3 build/render_cover_letter.py applications/<company-slug>/cover-letter.json` and
+keep it to one page.
+
+## Step 8 — Write the match report
+Write `applications/<company-slug>/match-report.md`:
+- Role, company, link, date.
+- **Fit Score** (the number, band, and per-dimension breakdown from Step 4).
+- **Keyword coverage**: must-haves matched vs. total, with the matched terms.
+- **Top strengths** for this role; **Top gaps** (and what Josh could add).
+- **Knockouts**: any work-auth/location/clearance/years items to confirm or that cap fit.
+- **Metrics needed**: where a real number would strengthen a bullet.
+- **Referral prompt**: if Josh may know someone at the company, say to pursue it
+  (referrals beat cold applies by multiples).
+- Output files produced (resume.pdf/.docx, cover-letter.\* if any).
+
+## Step 9 — Ethics & guardrails (hard rules)
+- **No fabrication** — only content traceable to `profile/master-profile.md`.
+- **No keyword stuffing / white-text / hidden-text / prompt injection** — detectable,
+  ineffective, and can blacklist (see playbook). Optimization = true terms in normal prose.
+- **Surface gaps; don't paper over them.** An honest match report + Fit Score beats an
+  inflated resume that fails a background check or interview.
+- If asked to add a skill/metric/experience Josh lacks, refuse and offer to ask him for
+  a real version.
 
 ---
 
-After producing the outputs, give the user a 3-line summary: the fit verdict, the
-keyword coverage number, and the top 1–2 gaps to close.
+After producing outputs, give the user a short summary: **Fit Score + band**, the
+keyword-coverage number, **PAGES/balance result**, and the top 1–2 gaps to close.
+The PDF is the polished submission copy (real text, ATS-safe); the DOCX is the editable
+version (ATS-preferred where a Word upload is requested).
