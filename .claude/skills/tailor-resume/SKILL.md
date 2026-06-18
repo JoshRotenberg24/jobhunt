@@ -75,6 +75,12 @@ and run `python3 build/score_meter.py applications/<company-slug>/fit.json`. It 
 Show the user the text meter immediately, and surface `fit.png` to them.
 
 ## Step 5 — Build the resume JSON
+**Pick the visual style** for the role and set `"style"` in the JSON (default `modern`):
+- `modern` — sans-serif (Helvetica/Calibri) + navy accents. Use for tech/SaaS/
+  startup/growth/marketing roles.
+- `classic` — serif (Times), black, no color accent. Use for traditional/
+  conservative fields: industrial/manufacturing, finance, legal, government, academia.
+
 Choose the best **summary variant** for the role type and an honest target **headline**
 (a self-description, e.g., "Revenue Operations Leader" — never a falsified past title).
 Write `applications/<company-slug>/resume.json` using the schema in
@@ -89,8 +95,10 @@ Write `applications/<company-slug>/resume.json` using the schema in
 
 ## Step 6 — Render and enforce the balanced 2-page rule
 Run: `python3 build/render_resume.py applications/<company-slug>/resume.json`
+(The renderer reads `"style"` from the JSON; or override with a 2nd arg:
+`… resume.json classic`.)
 
-It prints `PAGES=<n>  LAST_PAGE_FILL=<0..1>  -> <verdict>`. **Iterate until
+It prints `STYLE=<name>  PAGES=<n>  LAST_PAGE_FILL=<0..1>  -> <verdict>`. **Iterate until
 `PAGES=2` and `LAST_PAGE_FILL ≥ 0.6` (target ~0.7–0.95):**
 - **>2 pages:** trim the least-relevant bullets (oldest roles first), tighten wording.
 - **<2 pages, or page 2 sparse (`fill < 0.6`):** add real depth — more relevant bullets
@@ -106,7 +114,7 @@ two pages with this template (~6 roles, ~3–5 bullets on recent roles) and note
 If the user wants one, write `applications/<company-slug>/cover-letter.json` (schema in
 `build/render_cover_letter.py`): 3 short paragraphs — (1) the role + a genuine hook tied
 to the company, (2) 2–3 specific, TRUE proof points mapped to their top needs, (3) a
-confident close. Then run
+confident close. Set the **same `"style"`** as the resume so the letterhead matches, then run
 `python3 build/render_cover_letter.py applications/<company-slug>/cover-letter.json` and
 keep it to one page.
 
