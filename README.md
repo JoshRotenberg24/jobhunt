@@ -41,7 +41,7 @@ worked example (resume PDF/DOCX, cover letter, and match report).
 | `.claude/skills/tailor-resume/SKILL.md` | The tool — the workflow Claude follows. |
 | `.claude/skills/tailor-resume/ats-playbook.md` | Evidence-based ATS/formatting ruleset. |
 | `profile/master-profile.md` | **Single source of truth** — bullets, roles, verified metrics, skills. Edit as your career evolves. |
-| `build/render_resume.py` | Resume JSON → polished PDF + DOCX; reports pages + balance. |
+| `build/render_resume.py` | Resume JSON → polished PDF + DOCX; reports pages + balance. Two styles: `modern` (sans + navy) or `classic` (serif, black) per role. |
 | `build/render_cover_letter.py` | Cover-letter JSON → one-page PDF + DOCX. |
 | `build/score_meter.py` | Fit JSON → score-meter gauge PNG + inline text meter. |
 | `research/job-market-and-ats-research-2026.md` | Cited research behind the playbook (with confidence levels + verification pass). |

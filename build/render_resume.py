@@ -7,13 +7,18 @@ Outputs (same dir/basename as the input JSON):
   - <base>.docx  python-docx, native editable Word (ATS-preferred submission).
 
 Prints a report the caller uses to enforce the "balanced 2 pages" rule:
-  PAGES=<n>  LAST_PAGE_FILL=<0..1>  -> <verdict>
+  STYLE=<name>  PAGES=<n>  LAST_PAGE_FILL=<0..1>  -> <verdict>
 
-Design (see research/ + ats-playbook.md): single column, standard headings, real
-text (no images), clean type hierarchy. Looks professional AND parses cleanly.
+Two interchangeable looks (pick per role):
+  - "modern"  sans-serif (Helvetica/Calibri) + navy accents — tech/SaaS/growth.
+  - "classic" serif (Times / Times New Roman), black, no color — traditional,
+              industrial, finance, legal, government.
+Both are single column, standard headings, real text (no images): professional
+AND clean-parsing. Choose the style via the 2nd CLI arg or a "style" key in JSON.
 
 JSON schema:
 {
+  "style": "modern|classic",   # optional; default modern (CLI arg overrides)
   "name": "...", "headline": "...(optional honest self-description)...",
   "contact": {"location":"","phone":"","email":"","linkedin":""},
   "summary": "...",
@@ -22,32 +27,52 @@ JSON schema:
   "education": ["..."], "certifications": ["..."]
 }
 
-Usage:  python3 build/render_resume.py <resume.json>
+Usage:  python3 build/render_resume.py <resume.json> [modern|classic]
 """
 import json, os, sys
 
 # ---------- shared style constants -------------------------------------------
-FONT_MAIN = "Helvetica"          # ATS-standard, clean, professional
-NAVY      = (0x16, 0x3a, 0x5f)
-INK       = (0x1a, 0x1a, 0x1a)
-MUTED     = (0x55, 0x55, 0x55)
+INK   = (0x1a, 0x1a, 0x1a)
+MUTED = (0x55, 0x55, 0x55)
 MARGIN_TB_IN = 0.5
 MARGIN_LR_IN = 0.6
 BODY_PT   = 10.3
 
+# Interchangeable themes. "accent" colors the name, section headings, rule
+# lines, company names, and bullets; classic uses ink (no color accent).
+THEMES = {
+    "modern": {
+        "pdf_regular": "Helvetica", "pdf_bold": "Helvetica-Bold", "pdf_italic": "Helvetica-Oblique",
+        "docx_font": "Calibri",
+        "accent": (0x16, 0x3a, 0x5f), "accent_hex": "163a5f",
+    },
+    "classic": {
+        "pdf_regular": "Times-Roman", "pdf_bold": "Times-Bold", "pdf_italic": "Times-Italic",
+        "docx_font": "Times New Roman",
+        "accent": INK, "accent_hex": "1a1a1a",
+    },
+}
+
+
+def resolve_theme(data, argv_style=None):
+    name = (argv_style or data.get("style") or "modern").lower()
+    if name not in THEMES:
+        name = "modern"
+    return name, THEMES[name]
+
 
 # Map common non-WinAnsi punctuation/symbols to safe equivalents so they don't
-# render as missing-glyph boxes in the ReportLab (Helvetica/WinAnsi) PDF. Chars
-# already in CP1252 (en/em dash, curly quotes, bullet, ellipsis, TM) are kept.
+# render as missing-glyph boxes in the ReportLab PDF (Helvetica/Times WinAnsi).
+# Chars already in CP1252 (en/em dash, curly quotes, bullet, ellipsis, TM) are kept.
 _SUBS = {"→": "->", "←": "<-", "⇒": "=>", "↦": "->",
          "−": "-", "‒": "-", "―": "-", "‐": "-", "‑": "-",
          "·": "-", "▪": "-", "●": "-", "◦": "-", "‣": "-",
-         " ": " ", " ": " ", " ": " ", " ": " "}
+         " ": " ", " ": " ", " ": " ", " ": " "}
 
 
 def _san(s):
-    """Down-map characters outside Helvetica's WinAnsi (CP1252) coverage to ASCII
-    so pasted-JD glyphs (arrows, exotic dashes/bullets, odd spaces) don't render
+    """Down-map characters outside WinAnsi (CP1252) coverage to ASCII so
+    pasted-JD glyphs (arrows, exotic dashes/bullets, odd spaces) don't render
     as boxes. Anything still uncovered falls back to '?' rather than tofu."""
     s = str(s)
     for k, v in _SUBS.items():
@@ -63,7 +88,7 @@ def _esc(s):
 
 
 # ============================ PDF (ReportLab) ================================
-def build_pdf(data, path):
+def build_pdf(data, path, theme):
     from reportlab.lib.pagesizes import letter
     from reportlab.lib.units import inch
     from reportlab.lib.colors import Color
@@ -72,42 +97,44 @@ def build_pdf(data, path):
     from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
                                     Spacer, Table, TableStyle, HRFlowable, KeepTogether)
 
-    navy = Color(*[c / 255 for c in NAVY]); ink = Color(*[c / 255 for c in INK])
-    muted = Color(*[c / 255 for c in MUTED])
+    F_REG, F_BOLD, F_ITAL = theme["pdf_regular"], theme["pdf_bold"], theme["pdf_italic"]
+    accent = Color(*[c / 255 for c in theme["accent"]])
+    ink = Color(*[c / 255 for c in INK]); muted = Color(*[c / 255 for c in MUTED])
+    ahex = "#" + theme["accent_hex"]
     pw, ph = letter
     ml = MARGIN_LR_IN * inch; mt = MARGIN_TB_IN * inch
     usable = pw - 2 * ml; frameH = ph - 2 * mt
 
-    name_st = ParagraphStyle("name", fontName="Helvetica-Bold", fontSize=21,
-                             textColor=navy, alignment=TA_CENTER, spaceAfter=1, leading=24)
-    head_st = ParagraphStyle("head", fontName="Helvetica", fontSize=11.5,
+    name_st = ParagraphStyle("name", fontName=F_BOLD, fontSize=21,
+                             textColor=accent, alignment=TA_CENTER, spaceAfter=1, leading=24)
+    head_st = ParagraphStyle("head", fontName=F_REG, fontSize=11.5,
                              textColor=muted, alignment=TA_CENTER, spaceAfter=2, leading=14)
-    contact_st = ParagraphStyle("contact", fontName="Helvetica", fontSize=9,
+    contact_st = ParagraphStyle("contact", fontName=F_REG, fontSize=9,
                                 textColor=muted, alignment=TA_CENTER, spaceAfter=2, leading=12)
-    sec_st = ParagraphStyle("sec", fontName="Helvetica-Bold", fontSize=10.5,
-                            textColor=navy, spaceBefore=8, spaceAfter=1, leading=13)
-    body_st = ParagraphStyle("body", fontName=FONT_MAIN, fontSize=BODY_PT,
+    sec_st = ParagraphStyle("sec", fontName=F_BOLD, fontSize=10.5,
+                            textColor=accent, spaceBefore=8, spaceAfter=1, leading=13)
+    body_st = ParagraphStyle("body", fontName=F_REG, fontSize=BODY_PT,
                              textColor=ink, leading=BODY_PT + 3, spaceAfter=2, alignment=TA_LEFT)
-    role_l = ParagraphStyle("role_l", fontName="Helvetica-Bold", fontSize=10.5,
+    role_l = ParagraphStyle("role_l", fontName=F_BOLD, fontSize=10.5,
                             textColor=ink, leading=13)
-    role_r = ParagraphStyle("role_r", fontName="Helvetica", fontSize=9,
+    role_r = ParagraphStyle("role_r", fontName=F_REG, fontSize=9,
                             textColor=muted, alignment=TA_RIGHT, leading=13)
-    loc_st = ParagraphStyle("loc", fontName="Helvetica-Oblique", fontSize=9,
+    loc_st = ParagraphStyle("loc", fontName=F_ITAL, fontSize=9,
                             textColor=muted, leading=11, spaceAfter=1)
-    bullet_st = ParagraphStyle("bul", fontName=FONT_MAIN, fontSize=BODY_PT, textColor=ink,
+    bullet_st = ParagraphStyle("bul", fontName=F_REG, fontSize=BODY_PT, textColor=ink,
                                leading=BODY_PT + 3, leftIndent=11, bulletIndent=0,
-                               spaceAfter=1.5)
+                               bulletFontName=F_REG, spaceAfter=1.5)
 
     def rule():
-        return HRFlowable(width="100%", thickness=0.7, color=navy,
+        return HRFlowable(width="100%", thickness=0.7, color=accent,
                           spaceBefore=1, spaceAfter=3, lineCap="round")
 
     def section(title):
         return [Paragraph(title.upper(), sec_st), rule()]
 
     def role_header(job):
-        left = Paragraph("<b>%s</b>&nbsp;&nbsp;|&nbsp;&nbsp;<font color='#163a5f'>%s</font>"
-                         % (_esc(job["title"]), _esc(job.get("company", ""))), role_l)
+        left = Paragraph("<b>%s</b>&nbsp;&nbsp;|&nbsp;&nbsp;<font color='%s'>%s</font>"
+                         % (_esc(job["title"]), ahex, _esc(job.get("company", ""))), role_l)
         right = Paragraph(_esc(job.get("dates", "")), role_r)
         t = Table([[left, right]], colWidths=[usable * 0.72, usable * 0.28])
         t.setStyle(TableStyle([("VALIGN", (0, 0), (-1, -1), "TOP"),
@@ -184,19 +211,21 @@ def build_pdf(data, path):
 
 
 # ============================ DOCX (python-docx) =============================
-def build_docx(data, path):
+def build_docx(data, path, theme):
     from docx import Document
     from docx.shared import Pt, Inches, RGBColor
     from docx.enum.text import WD_TAB_ALIGNMENT, WD_ALIGN_PARAGRAPH
     from docx.oxml.ns import qn
     from docx.oxml import OxmlElement
 
-    ink = RGBColor(*INK); navy = RGBColor(*NAVY); muted = RGBColor(*MUTED)
+    DFONT = theme["docx_font"]
+    ink = RGBColor(*INK); accent = RGBColor(*theme["accent"]); muted = RGBColor(*MUTED)
+    ahex = theme["accent_hex"]
 
     def run(p, text, *, bold=False, italic=False, size=None, color=None, caps=False):
         r = p.add_run(text); r.bold = bold; r.italic = italic
         if size: r.font.size = Pt(size)
-        r.font.color.rgb = color or ink; r.font.name = "Calibri"
+        r.font.color.rgb = color or ink; r.font.name = DFONT
         if caps: r.font.all_caps = True
         return r
 
@@ -204,20 +233,20 @@ def build_docx(data, path):
         pPr = p._p.get_or_add_pPr(); pbdr = OxmlElement("w:pBdr")
         b = OxmlElement("w:bottom")
         b.set(qn("w:val"), "single"); b.set(qn("w:sz"), "6")
-        b.set(qn("w:space"), "2"); b.set(qn("w:color"), "163a5f")
+        b.set(qn("w:space"), "2"); b.set(qn("w:color"), ahex)
         pbdr.append(b); pPr.append(pbdr)
 
     def section(title):
         p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(7)
         p.paragraph_format.space_after = Pt(3)
-        run(p, title.upper(), bold=True, size=10.5, color=navy, caps=True)
+        run(p, title.upper(), bold=True, size=10.5, color=accent, caps=True)
         bottom_border(p)
 
     doc = Document()
-    st = doc.styles["Normal"]; st.font.name = "Calibri"; st.font.size = Pt(BODY_PT)
+    st = doc.styles["Normal"]; st.font.name = DFONT; st.font.size = Pt(BODY_PT)
     st.font.color.rgb = ink
     rpr = st.element.get_or_add_rPr(); rf = rpr.get_or_add_rFonts()
-    for a in ("w:ascii", "w:hAnsi", "w:cs"): rf.set(qn(a), "Calibri")
+    for a in ("w:ascii", "w:hAnsi", "w:cs"): rf.set(qn(a), DFONT)
     st.paragraph_format.line_spacing = 1.04
     st.paragraph_format.space_after = Pt(0)
     sec = doc.sections[0]
@@ -227,7 +256,7 @@ def build_docx(data, path):
 
     p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p.paragraph_format.space_after = Pt(1)
-    run(p, data["name"], bold=True, size=21, color=navy)
+    run(p, data["name"], bold=True, size=21, color=accent)
     if data.get("headline"):
         h = doc.add_paragraph(); h.alignment = WD_ALIGN_PARAGRAPH.CENTER
         h.paragraph_format.space_after = Pt(2); run(h, data["headline"], size=11.5, color=muted)
@@ -248,7 +277,7 @@ def build_docx(data, path):
             p.paragraph_format.space_after = Pt(1)
             p.paragraph_format.tab_stops.add_tab_stop(Inches(usable), WD_TAB_ALIGNMENT.RIGHT)
             run(p, job["title"], bold=True, size=10.5, color=ink)
-            if job.get("company"): run(p, "  |  " + job["company"], size=10.5, color=navy)
+            if job.get("company"): run(p, "  |  " + job["company"], size=10.5, color=accent)
             run(p, "\t" + job.get("dates", ""), size=9, color=muted)
             if job.get("location"):
                 sp = doc.add_paragraph(); sp.paragraph_format.space_after = Pt(1)
@@ -257,7 +286,7 @@ def build_docx(data, path):
                 bp = doc.add_paragraph(); pf = bp.paragraph_format
                 pf.left_indent = Inches(0.18); pf.first_line_indent = Inches(-0.18)
                 pf.space_after = Pt(1.5)
-                run(bp, "•  ", color=navy); run(bp, b)
+                run(bp, "•  ", color=accent); run(bp, b)
 
     if data.get("competencies"):
         section("Core Competencies")
@@ -276,15 +305,17 @@ def build_docx(data, path):
 
 def main():
     if len(sys.argv) < 2:
-        sys.exit("usage: render_resume.py <resume.json>")
+        sys.exit("usage: render_resume.py <resume.json> [modern|classic]")
     spec = sys.argv[1]; data = json.load(open(spec))
+    style_arg = sys.argv[2] if len(sys.argv) > 2 else None
+    style_name, theme = resolve_theme(data, style_arg)
     base = os.path.splitext(os.path.abspath(spec))[0]
     pdf_path, docx_path = base + ".pdf", base + ".docx"
 
-    build_docx(data, docx_path)
+    build_docx(data, docx_path, theme)
     print("DOCX: %s" % docx_path)
     try:
-        pages, fill = build_pdf(data, pdf_path)
+        pages, fill = build_pdf(data, pdf_path, theme)
         print("PDF:  %s" % pdf_path)
         if pages == 2 and fill >= 0.6:
             verdict = "OK — balanced 2 pages"
@@ -294,10 +325,10 @@ def main():
             verdict = "PAGE 2 SPARSE (fill %.2f) — add depth, or trim to a tight 1 page" % fill
         else:
             verdict = "TOO LONG (%d pages) — trim least-relevant bullets to 2 pages" % pages
-        print("PAGES=%d  LAST_PAGE_FILL=%.2f  -> %s" % (pages, fill, verdict))
+        print("STYLE=%s  PAGES=%d  LAST_PAGE_FILL=%.2f  -> %s" % (style_name, pages, fill, verdict))
     except Exception as e:
         print("PDF build failed: %s" % e)
-        print("PAGES=?  (open the .docx to verify pagination)")
+        print("STYLE=%s  PAGES=?  (open the .docx to verify pagination)" % style_name)
 
 
 if __name__ == "__main__":
