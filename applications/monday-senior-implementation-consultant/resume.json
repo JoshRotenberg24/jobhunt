@@ -1,0 +1,111 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Implementation Consultant — AI-First Solution Design & Delivery",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation consultant and AI solutions architect with 15+ years across B2B SaaS, MarTech, and agency environments, leading software implementations from discovery and solution design through hands-on build, configuration, and adoption. Designs and deploys autonomous, agentic AI workflows that automate complex business logic and solve real business problems, pairing systems-design thinking with deep platform fluency in CRM, project-management, and collaborative work-management tools. A self-starter and trusted advisor to C-suite stakeholders who leads through ambiguity, manages projects on-time and on-budget, and is based in the Denver metro for the hybrid role.",
+  "experience": [
+    {
+      "title": "Founder & AI Solutions / Implementation Lead",
+      "company": "Solenzo LLC",
+      "location": "Denver Metro, CO",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Design and deploy autonomous, agentic AI workflows that automate complex business logic and solve real business problems — moving clients from manual processes to AI-first operations.",
+        "Decompose manual workflows into agent architectures with custom logic, building self-improving evaluation loops that continuously optimize outputs (computational thinking and systems design applied end to end).",
+        "Partner with B2B service clients to design, implement, and optimize CRM and marketing-automation systems as a fractional implementation and success manager.",
+        "Architect and implement complex HubSpot CRM systems and integrations — relational data structures, segmentation, lifecycle stages, and data-hygiene protocols — connecting tools and data across each client's tech stack.",
+        "Lead discovery and executive consultations, translating business requirements into technical configurations and delivering hands-on enablement that drives adoption at scale.",
+        "Own project plans and deliverables end to end, building performance dashboards and reporting as a self-starter who leads through ambiguity."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Acted as strategic lead on multi-stakeholder accounts, coordinating cross-functional execution and translating performance data into recommendations that improved outcomes.",
+        "Built rigorous performance reporting across ROI, CAC, LTV, and conversion KPIs, delivering QBRs and executive-level recommendations."
+      ]
+    },
+    {
+      "title": "Customer Onboarding & Channel Implementation",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Led onboarding, implementation, and training for a high-volume customer and partner network, guiding complex setup and configuration of marketing-automation and reputation-management software.",
+        "Functioned in a technical advisory capacity on customer health, retention, and automated workflows, helping customers realize platform value.",
+        "Developed scalable training and product-enablement sequences that reduced onboarding friction and accelerated time-to-value.",
+        "Represented the voice of the customer to Product and Engineering, channeling structured, high-priority feedback that informed the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Managed client accounts across execution, performance reporting, and cross-team communication for a performance-marketing agency.",
+        "Built and refined internal processes that improved reporting accuracy and strengthened cross-team alignment, contributing to practice and process improvement."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote — Global SaaS",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Led onboarding and launch delivery for a high-value account portfolio within a global SaaS organization, ensuring on-time delivery that accelerated time-to-value.",
+        "Directly managed and mentored a team of onboarding specialists, owning scope, budgets, and delivery across the portfolio.",
+        "Drove measurable growth across the portfolio — a 30% increase in website traffic and 25% improvement in conversion in the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Remote — Global SaaS",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold, scoped, and guided implementation of complex CRM and project-management software for agencies and professional-services firms — owning onboarding, workflow design, and API integrations.",
+        "Built C-suite relationships as a trusted advisor on operational system design, establishing credibility with both technical and executive stakeholders.",
+        "Partnered with implementation teams to troubleshoot integration and workflow design and resolve complex technical challenges.",
+        "Served as strategic advisor on CRM adoption, helping clients build scalable operational systems aligned to growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation & Delivery",
+      "items": ["Software Implementation", "Solution Design", "System Configuration", "Hands-on Build", "Onboarding & Adoption", "Managed Services"]
+    },
+    {
+      "category": "AI & Automation",
+      "items": ["Generative AI", "Agentic AI", "AI-Powered Workflows", "Multi-agent Orchestration", "AI-First Solution Design", "Automated Business Logic"]
+    },
+    {
+      "category": "Technical & Integration",
+      "items": ["APIs & Integrations", "Relational Data Structures", "Workflow Automation", "CRM Architecture", "Systems Design", "Computational Thinking"]
+    },
+    {
+      "category": "Project & Practice",
+      "items": ["Project Management", "On-Time / On-Budget Delivery", "Stakeholder Management", "Mentoring", "Process Improvement", "Practice Development"]
+    },
+    {
+      "category": "Communication & Advisory",
+      "items": ["Executive Presentations", "C-Suite Advisory", "Technical Translation", "Discovery & Consultation", "QBRs"]
+    },
+    {
+      "category": "Platforms & Tools",
+      "items": ["monday.com", "Accelo", "HubSpot", "Salesforce", "Jira", "Asana", "Zendesk", "Notion", "Slack", "Google Apps"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"]
+}
