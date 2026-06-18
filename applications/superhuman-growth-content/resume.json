@@ -1,0 +1,120 @@
+{
+  "name": "Joshua Rotenberg",
+  "headline": "Growth Marketing & Website Content Leader",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Growth marketing and website-content leader with 15+ years across MarTech, SaaS, and agency environments, building web content, SEO, and conversion programs that drive acquisition and product understanding. Hands-on content strategist and team lead who pairs editorial judgment with AI-assisted content workflows — architecting agent-driven systems that scale output without sacrificing quality. Founder of Solenzo, translating brand and product strategy into web experiences that convert.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Remote — Arvada, CO",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own content and growth strategy for a portfolio of service-based businesses — building content roadmaps, briefs, and quality-control processes that turn business priorities into web content that drives acquisition and conversion.",
+        "Architect and deploy AI-assisted content and outreach workflows — agent architectures that generate hyper-personalized copy at scale while preserving editorial quality and brand voice.",
+        "Decompose manual content and marketing workflows into AI agent systems with custom logic that increase content output without compromising quality.",
+        "Run technical SEO audits, keyword-gap analyses, and competitor research, implementing on-page fixes directly inside client CMS platforms to grow organic traffic.",
+        "Write direct-response copy, landing pages, and lifecycle sequences that drive engagement, conversion, and pipeline.",
+        "Develop and publish thought-leadership content, guides, and newsletters for B2B audiences, translating complex product and systems topics into clear, intent-driven narratives.",
+        "Build performance dashboards tracking organic traffic, funnel progression, and conversion, using qualitative and quantitative inputs to guide content and growth priorities."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Led integrated digital marketing strategy across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.",
+        "Produced high-converting campaign assets — landing pages, complex email sequences, and conversion-focused copy — improving lead generation and pipeline.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, turning data into optimization recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Developed scalable communication workflows and automated product-training content sequences that reduced onboarding friction across a high-volume partner network.",
+        "Served as trusted advisor on retention strategy and customer health metrics, helping partners communicate product value clearly.",
+        "Partnered with Product and Engineering to channel structured, high-priority customer feedback into the product roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Managed agency client accounts across campaign execution, performance reporting, and cross-team communication for a performance-marketing agency.",
+        "Built internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed and coached a team of onboarding specialists — owning scope, delivery, and professional development across a high-value client portfolio.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Remote",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, advising on operational systems and workflow design.",
+        "Guided client onboarding and workflow design, building C-suite relationships as a trusted advisor on scalable operational systems.",
+        "Served as strategic advisor on CRM adoption, helping clients design operational systems aligned to growth stage and team structure."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Remote",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing-automation platform targeting SMBs — high-volume prospecting, lead qualification, and customer acquisition.",
+        "Developed consultative instincts around customer retention and technology adoption that carry through my growth and content work today."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Growth & Website Content",
+      "items": ["Website Content Strategy", "Content Roadmaps & Briefs", "Landing Pages", "Conversion Rate Optimization (CRO)", "Editorial Quality Control", "Brand & Product Storytelling"]
+    },
+    {
+      "category": "SEO & Acquisition",
+      "items": ["SEO", "Technical SEO Audits", "Keyword-Gap Analysis", "On-Page Optimization", "Paid Media", "A/B Testing"]
+    },
+    {
+      "category": "AI-Assisted Content & Automation",
+      "items": ["AI Content Workflows", "Agentic AI", "Multi-Agent Orchestration", "LLM Workflows", "Prompt Design", "ChatGPT", "Claude"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["GA4", "Google Search Console", "Ahrefs", "Semrush", "Conversion Analytics", "KPI Dashboards"]
+    },
+    {
+      "category": "Leadership & Operations",
+      "items": ["Team Leadership & Coaching", "Content Operations", "Process & SOP Development", "Cross-functional Partnership (Brand, Product, PMM)", "Roadmapping", "CMS Platforms"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["HubSpot", "Salesforce", "Notion", "Asana", "Monday.com", "Slack", "Jira", "Google Apps"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"]
+}
