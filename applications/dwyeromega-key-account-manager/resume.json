@@ -1,0 +1,121 @@
+{
+  "name": "Joshua Rotenberg",
+  "headline": "Strategic Account Manager & B2B Sales Professional",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Strategic account manager and B2B sales professional with 15+ years growing high-value accounts across SaaS, MarTech, and technology — owning the full sales cycle from prospecting and discovery through negotiation, cross-sell/up-sell, and renewal. Consultative seller who pairs deep relationship-building with Salesforce pipeline discipline and data-driven account planning to consistently expand revenue. Entrepreneurial operator (founder of Solenzo) who thrives in remote, target-driven environments and travels to win and grow key accounts.",
+  "experience": [
+    {
+      "title": "Founder & Strategic Account / Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Remote — Arvada, CO",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Serve as the primary strategic and day-to-day contact for a portfolio of B2B clients, leading discovery to understand needs and deliver tailored solutions that drive measurable revenue growth.",
+        "Identify and scope cross-sell and up-sell opportunities, expanding account scope by recommending complementary services aligned to customer objectives.",
+        "Run outbound prospecting and new-business development across email, calls, and targeted campaigns, building qualified pipeline from new and existing accounts.",
+        "Maintain disciplined account and opportunity records in CRM (HubSpot/Salesforce) — stage, status, applications, and account plans — to forecast and prioritize the highest-value opportunities.",
+        "Build performance dashboards and analyze account data — purchases, pipeline progression, and historical trends — translating results into account plans and growth actions.",
+        "Collaborate directly with business owners and sales teams to align programs with revenue objectives, ensuring consistent messaging and qualified lead flow.",
+        "Lead end-to-end onboarding for new technology stacks, translating customer requirements into configurations and providing hands-on product training."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Acted as strategic lead on multi-stakeholder accounts, coordinating execution and translating performance data into recommendations that grew client revenue.",
+        "Built performance reporting across ROI, CAC, LTV, and conversion KPIs, turning sales and marketing data into account growth actions.",
+        "Ensured consistent, high-quality delivery, addressing client feedback promptly to maintain satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Account Management",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Managed and grew a high-volume partner and account network, driving adoption and serving as trusted advisor on retention and account health.",
+        "Functioned in a technical advisory capacity, guiding customers through complex product setup and helping them communicate product value.",
+        "Analyzed partner utilization and performance metrics to identify expansion gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Managed client accounts across execution, performance reporting, and cross-team communication, strengthening account relationships and retention.",
+        "Built and refined internal processes that improved reporting accuracy and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals as the primary strategic contact, driving adoption, retention, and measurable growth — a 30% increase in website traffic and 25% improvement in conversion in the e-commerce segment.",
+        "Led and coached a team of specialists, owning scope and delivery across the account portfolio.",
+        "Led growth consultations and proactively communicated on goals and initiatives, accelerating time-to-value across supported accounts."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Remote",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms — owning full-cycle, consultative sales with deep fluency in pipeline automation and solution selling.",
+        "Built C-suite relationships as a trusted advisor on operational systems, guiding onboarding, workflow design, and integrations to close and expand accounts.",
+        "Engaged leadership on escalations, strategic guidance, and account-level risk mitigation.",
+        "Partnered with implementation teams to guide onboarding, troubleshooting workflow design and resolving technical challenges."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Remote",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing-automation platform targeting SMBs — high-volume prospecting, lead qualification, negotiation, and closing.",
+        "Built consultative selling instincts around customer retention and technology adoption."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Account Management & Sales",
+      "items": ["Key Account Management", "Full-Cycle Sales", "Cross-Sell & Up-Sell", "Account Expansion", "Pipeline Management", "Negotiation & Closing", "Account Planning"]
+    },
+    {
+      "category": "Prospecting & Growth",
+      "items": ["Outbound Prospecting", "New-Business Development", "Lead Qualification", "Funnel Conversion", "Consultative / Solution Selling"]
+    },
+    {
+      "category": "CRM & Sales Tech",
+      "items": ["Salesforce", "HubSpot CRM", "CRM Hygiene & Forecasting", "Opportunity Management"]
+    },
+    {
+      "category": "Data & Analytics",
+      "items": ["Sales & Account Analytics", "Performance Dashboards", "KPI Tracking", "Reporting & Insights", "GA4"]
+    },
+    {
+      "category": "Relationship & Communication",
+      "items": ["C-Suite Relationship Building", "Stakeholder Management", "Trusted Advisory", "Written & Verbal Communication", "QBRs"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Salesforce", "HubSpot", "Notion", "Asana", "Monday.com", "Slack", "Zendesk", "Google Apps"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"]
+}
