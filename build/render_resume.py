@@ -36,6 +36,12 @@ MARGIN_LR_IN = 0.6
 BODY_PT   = 10.3
 
 
+def _esc(s):
+    """Escape data for ReportLab's mini-XML parser (prevents markup injection,
+    entity corruption like 'R&D'->'R&D;', and silent drops of <word> patterns)."""
+    return str(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
 # ============================ PDF (ReportLab) ================================
 def build_pdf(data, path):
     from reportlab.lib.pagesizes import letter
@@ -81,8 +87,8 @@ def build_pdf(data, path):
 
     def role_header(job):
         left = Paragraph("<b>%s</b>&nbsp;&nbsp;|&nbsp;&nbsp;<font color='#163a5f'>%s</font>"
-                         % (job["title"], job.get("company", "")), role_l)
-        right = Paragraph(job.get("dates", ""), role_r)
+                         % (_esc(job["title"]), _esc(job.get("company", ""))), role_l)
+        right = Paragraph(_esc(job.get("dates", "")), role_r)
         t = Table([[left, right]], colWidths=[usable * 0.72, usable * 0.28])
         t.setStyle(TableStyle([("VALIGN", (0, 0), (-1, -1), "TOP"),
                                ("LEFTPADDING", (0, 0), (-1, -1), 0),
@@ -92,43 +98,44 @@ def build_pdf(data, path):
         return t
 
     def make_story():
-        s = [Paragraph(data["name"], name_st)]
+        s = [Paragraph(_esc(data["name"]), name_st)]
         if data.get("headline"):
-            s.append(Paragraph(data["headline"], head_st))
+            s.append(Paragraph(_esc(data["headline"]), head_st))
         c = data.get("contact", {})
         bits = [c.get("location"), c.get("phone"), c.get("email"), c.get("linkedin")]
-        s.append(Paragraph("&nbsp;&nbsp;&bull;&nbsp;&nbsp;".join(b for b in bits if b), contact_st))
+        s.append(Paragraph("&nbsp;&nbsp;&bull;&nbsp;&nbsp;".join(_esc(b) for b in bits if b), contact_st))
 
         if data.get("summary"):
             s += section("Summary")
-            s.append(Paragraph(data["summary"], body_st))
+            s.append(Paragraph(_esc(data["summary"]), body_st))
 
         if data.get("experience"):
             s += section("Professional Experience")
             for job in data["experience"]:
                 head = [role_header(job)]
                 if job.get("location"):
-                    head.append(Paragraph(job["location"], loc_st))
+                    head.append(Paragraph(_esc(job["location"]), loc_st))
                 bl = job.get("bullets", [])
-                first = [Paragraph(bl[0], bullet_st, bulletText="•")] if bl else []
+                first = [Paragraph(_esc(bl[0]), bullet_st, bulletText="•")] if bl else []
                 s.append(KeepTogether(head + first))
                 for b in bl[1:]:
-                    s.append(Paragraph(b, bullet_st, bulletText="•"))
+                    s.append(Paragraph(_esc(b), bullet_st, bulletText="•"))
                 s.append(Spacer(1, 3))
 
         if data.get("competencies"):
             s += section("Core Competencies")
             for g in data["competencies"]:
-                s.append(Paragraph("<b>%s:</b>&nbsp;&nbsp;%s" % (g["category"], ", ".join(g["items"])), body_st))
+                s.append(Paragraph("<b>%s:</b>&nbsp;&nbsp;%s"
+                                   % (_esc(g["category"]), ", ".join(_esc(i) for i in g["items"])), body_st))
 
         if data.get("education"):
             s += section("Education")
             for ln in data["education"]:
-                s.append(Paragraph(ln, body_st))
+                s.append(Paragraph(_esc(ln), body_st))
         if data.get("certifications"):
             s += section("Certifications")
             for ln in data["certifications"]:
-                s.append(Paragraph(ln, body_st))
+                s.append(Paragraph(_esc(ln), body_st))
         return s
 
     frame_top = mt + frameH
@@ -259,12 +266,14 @@ def main():
     try:
         pages, fill = build_pdf(data, pdf_path)
         print("PDF:  %s" % pdf_path)
-        if pages == 2 and fill >= 0.5:
+        if pages == 2 and fill >= 0.6:
             verdict = "OK — balanced 2 pages"
-        elif pages < 2 or (pages == 2 and fill < 0.5):
-            verdict = "UNBALANCED — page 2 sparse; add depth/bullets or richer summary"
+        elif pages < 2:
+            verdict = "ONLY %d PAGE — add depth/bullets to reach a full, balanced 2 pages" % pages
+        elif pages == 2:
+            verdict = "PAGE 2 SPARSE (fill %.2f) — add depth, or trim to a tight 1 page" % fill
         else:
-            verdict = "TOO LONG — trim least-relevant bullets to reach 2 pages"
+            verdict = "TOO LONG (%d pages) — trim least-relevant bullets to 2 pages" % pages
         print("PAGES=%d  LAST_PAGE_FILL=%.2f  -> %s" % (pages, fill, verdict))
     except Exception as e:
         print("PDF build failed: %s" % e)

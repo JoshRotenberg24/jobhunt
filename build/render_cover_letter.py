@@ -26,6 +26,11 @@ NAVY = (0x16, 0x3a, 0x5f); INK = (0x1a, 0x1a, 0x1a); MUTED = (0x55, 0x55, 0x55)
 MARGIN_TB_IN = 0.8; MARGIN_LR_IN = 0.9; BODY_PT = 10.8
 
 
+def _esc(s):
+    """Escape data for ReportLab's mini-XML parser (e.g. company 'Procter & Gamble')."""
+    return str(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
 def build_pdf(data, path):
     from reportlab.lib.pagesizes import letter
     from reportlab.lib.units import inch
@@ -52,23 +57,23 @@ def build_pdf(data, path):
     bits = [c.get("location"), c.get("phone"), c.get("email"), c.get("linkedin")]
     sal = data.get("salutation") or ("Dear %s," % data.get("recipient", "Hiring Team"))
 
-    story = [Paragraph(data["name"], name_st),
-             Paragraph("&nbsp;&nbsp;&bull;&nbsp;&nbsp;".join(b for b in bits if b), contact_st),
+    story = [Paragraph(_esc(data["name"]), name_st),
+             Paragraph("&nbsp;&nbsp;&bull;&nbsp;&nbsp;".join(_esc(b) for b in bits if b), contact_st),
              HRFlowable(width="100%", thickness=0.7, color=navy, spaceBefore=2, spaceAfter=10)]
     if data.get("date"):
-        story.append(Paragraph(data["date"], tight)); story.append(Spacer(1, 6))
+        story.append(Paragraph(_esc(data["date"]), tight)); story.append(Spacer(1, 6))
     if data.get("company"):
-        story.append(Paragraph("<b>%s</b>" % data["company"], tight))
+        story.append(Paragraph("<b>%s</b>" % _esc(data["company"]), tight))
     if data.get("role"):
-        story.append(Paragraph("Re: %s" % data["role"], tight))
+        story.append(Paragraph("Re: %s" % _esc(data["role"]), tight))
     story.append(Spacer(1, 8))
-    story.append(Paragraph(sal, body))
+    story.append(Paragraph(_esc(sal), body))
     for para in data.get("body", []):
-        story.append(Paragraph(para, body))
+        story.append(Paragraph(_esc(para), body))
     story.append(Spacer(1, 4))
-    story.append(Paragraph(data.get("closing", "Sincerely,"), tight))
+    story.append(Paragraph(_esc(data.get("closing", "Sincerely,")), tight))
     story.append(Spacer(1, 14))
-    story.append(Paragraph(data["name"], tight))
+    story.append(Paragraph(_esc(data["name"]), tight))
 
     class _Doc(BaseDocTemplate):
         _last_page = 1

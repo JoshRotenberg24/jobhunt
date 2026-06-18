@@ -33,6 +33,20 @@ BANDS = [
 ]
 
 
+_SUBS = {"—": "-", "–": "-", "‒": "-", "‐": "-", "‘": "'",
+         "’": "'", "“": '"', "”": '"', "•": "*", "…": "...",
+         "→": "->", "·": "-", " ": " "}
+
+
+def _san(s):
+    """PyMuPDF base fonts only cover Latin-1; map common unicode punctuation to ASCII
+    so em-dashes/bullets/curly-quotes don't render as a fallback dot."""
+    s = str(s)
+    for k, v in _SUBS.items():
+        s = s.replace(k, v)
+    return s.encode("latin-1", "replace").decode("latin-1")
+
+
 def band_for(score):
     b = BANDS[0]
     for t in BANDS:
@@ -53,9 +67,9 @@ def render_png(data, out):
     import fitz
     score = max(0, min(100, int(round(data["score"]))))
     _, auto_label, color, _ = band_for(score)
-    label = data.get("band") or auto_label
-    role = data.get("role")
-    bd = data.get("breakdown") or []
+    label = _san(data.get("band") or auto_label)
+    role = _san(data["role"]) if data.get("role") else None
+    bd = [(_san(n), v, m) for (n, v, m) in (data.get("breakdown") or [])]
 
     W = 720
     pad = 36
