@@ -1,0 +1,121 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Channel Partnerships & B2B SaaS Sales Professional",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Channel partnerships and B2B SaaS sales professional with 15+ years across SaaS, MarTech, and agency environments — pairing quota-carrying, full-cycle sales with hands-on channel and partner management. Built and grew a high-volume partner network at Birdeye, owned full-cycle sales and C-suite SaaS negotiations at Accelo and Fivestars, and founded Solenzo, taking go-to-market and partner programs from A to Z. A self-starter and relationship-builder who moves fast, thrives in global SaaS organizations, and is based in the Denver metro for the hybrid role.",
+  "experience": [
+    {
+      "title": "Founder & Go-to-Market / Partnerships Lead",
+      "company": "Solenzo LLC",
+      "location": "Denver Metro, CO",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Founded and run a B2B services firm end to end — owning the strategy and execution of go-to-market, partner, and client programs from A to Z as a self-starter.",
+        "Develop and execute outbound lead-generation strategies, automating prospecting, enrichment, and appointment booking to generate qualified pipeline for service-based businesses.",
+        "Identify expansion opportunities and scope complementary, verticalized solutions aligned to client objectives, negotiating retainer scope and structuring deals.",
+        "Collaborate directly with business owners and sales teams to align programs with revenue objectives, ensuring consistent messaging and qualified lead flow.",
+        "Track performance with data-driven dashboards across pipeline progression, campaign ROI, and conversion, prioritizing the highest-value opportunities."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Acted as strategic lead on multi-stakeholder accounts across marketing and technology channels, coordinating execution and translating performance data into revenue-growing recommendations.",
+        "Built rigorous performance reporting across ROI, CAC, LTV, and conversion KPIs, delivering QBRs and optimization recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Partner Enablement",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Activated, onboarded, and managed a diverse, high-volume channel partner network, driving rapid adoption of marketing-automation and reputation-management solutions across partners' books.",
+        "Acted as a full-stack advisor helping partners grow their business — guiding retention strategy, automated workflows, and how to communicate product value to their own customers.",
+        "Tracked partner utilization and performance metrics to identify adoption and revenue gaps, recommending interventions that reduced churn and optimized partner output.",
+        "Developed scalable partner communication and product-training sequences that reduced onboarding friction and accelerated partner ramp.",
+        "Collaborated cross-functionally with Product and Engineering, channeling high-priority partner feedback to close product and service gaps."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Managed client accounts across campaign execution, performance reporting, and cross-team communication for a performance-marketing agency.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote — Global SaaS",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals as the primary strategic contact within a global SaaS organization, driving measurable growth — a 30% increase in website traffic and 25% improvement in conversion in the e-commerce segment.",
+        "Led and developed a team of specialists, owning scope and delivery across the portfolio.",
+        "Led growth consultations and proactively communicated on goals and initiatives, accelerating time-to-value across supported accounts."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Remote — Global SaaS",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Ran full-cycle, quota-carrying sales of complex CRM and project-management SaaS to agencies and professional-services firms — owning prospecting through negotiation and close.",
+        "Built C-suite relationships as a trusted advisor, negotiating SaaS subscriptions and scoping solutions aligned to each client's growth stage and team structure.",
+        "Partnered with implementation teams to guide onboarding and resolve workflow and integration challenges, expanding accounts post-sale.",
+        "Engaged leadership on escalations, strategic guidance, and account-level risk mitigation."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Remote",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle, quota-carrying sales for a loyalty and marketing-automation platform targeting SMBs — high-volume outbound prospecting, lead qualification, negotiation, and closing.",
+        "Developed consultative selling instincts around customer retention and technology adoption."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Channel & Partnerships",
+      "items": ["Channel Partner Management", "Partner Activation & Enablement", "Partner Performance Optimization", "Channel & Agency Partnerships", "Partner Ecosystem Growth"]
+    },
+    {
+      "category": "Sales & Quota Attainment",
+      "items": ["Full-Cycle Sales", "Quota-Carrying", "Outbound Lead Generation", "Negotiation & Closing", "Pipeline Management", "New-Business Development"]
+    },
+    {
+      "category": "Go-to-Market & Strategy",
+      "items": ["GTM Strategy", "Verticalized Solutions", "Territory / Book Ownership", "Cross-Functional Collaboration", "Sales & CS Alignment"]
+    },
+    {
+      "category": "Account Management",
+      "items": ["Strategic Account Management", "C-Suite Relationship Building", "Cross-Sell & Up-Sell", "Retention", "QBRs"]
+    },
+    {
+      "category": "Data & Analytics",
+      "items": ["Performance Dashboards", "Data-Driven Targeting", "KPI Tracking", "ROI Reporting", "GA4"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["monday.com", "Salesforce", "HubSpot", "Notion", "Asana", "Slack", "Zendesk", "Google Apps"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"]
+}
