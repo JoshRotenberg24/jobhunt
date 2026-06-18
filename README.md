@@ -49,8 +49,9 @@ worked example (resume PDF/DOCX, cover letter, and match report).
 
 ## Setup
 
-The renderers need three Python packages (already installed in the session that built
-this; reinstall anywhere with):
+The renderers need three Python packages. In **Claude Code on the web**, a `SessionStart`
+hook (`.claude/hooks/session-start.sh`) installs them automatically each session — no
+action needed. Anywhere else (or to reinstall), run:
 
 ```
 pip install -r build/requirements.txt

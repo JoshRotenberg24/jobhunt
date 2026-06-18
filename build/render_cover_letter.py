@@ -26,9 +26,29 @@ NAVY = (0x16, 0x3a, 0x5f); INK = (0x1a, 0x1a, 0x1a); MUTED = (0x55, 0x55, 0x55)
 MARGIN_TB_IN = 0.8; MARGIN_LR_IN = 0.9; BODY_PT = 10.8
 
 
+# Map common non-WinAnsi punctuation/symbols to safe equivalents so they don't
+# render as missing-glyph boxes in the ReportLab (Helvetica/WinAnsi) PDF. Chars
+# already in CP1252 (en/em dash, curly quotes, bullet, ellipsis, TM) are kept.
+_SUBS = {"→": "->", "←": "<-", "⇒": "=>", "↦": "->",
+         "−": "-", "‒": "-", "―": "-", "‐": "-", "‑": "-",
+         "·": "-", "▪": "-", "●": "-", "◦": "-", "‣": "-",
+         " ": " ", " ": " ", " ": " ", " ": " "}
+
+
+def _san(s):
+    """Down-map characters outside Helvetica's WinAnsi (CP1252) coverage to ASCII
+    so pasted-JD glyphs (arrows, exotic dashes/bullets, odd spaces) don't render
+    as boxes. Anything still uncovered falls back to '?' rather than tofu."""
+    s = str(s)
+    for k, v in _SUBS.items():
+        s = s.replace(k, v)
+    return s.encode("cp1252", "replace").decode("cp1252")
+
+
 def _esc(s):
-    """Escape data for ReportLab's mini-XML parser (e.g. company 'Procter & Gamble')."""
-    return str(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    """Sanitize to WinAnsi, then escape for ReportLab's mini-XML parser
+    (e.g. company 'Procter & Gamble')."""
+    return _san(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
 def build_pdf(data, path):
