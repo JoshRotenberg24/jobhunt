@@ -1,25 +1,25 @@
 {
   "style": "modern",
   "name": "Joshua Rotenberg",
-  "headline": "Technical Customer Success Manager — AI-Led Adoption, Implementation & Account Growth",
+  "headline": "Technical Customer Success Manager: AI-Led Adoption, Implementation & Account Growth",
   "contact": {
     "location": "Arvada, CO (Denver Metro)",
     "phone": "303-726-5037",
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Technical customer success and implementation professional with 15+ years across B2B SaaS, MarTech, and agency environments, owning the post-sale journey from onboarding through adoption, retention, and expansion. Pairs deep platform fluency and technical literacy — APIs, data flows, integrations, and CRM/workflow architecture — with a builder's command of generative AI, architecting autonomous, AI-driven systems that move customers from tool adoption to measurable business transformation. Trusted advisor to business owners and C-suite stakeholders; Denver-based founder of Solenzo who thrives in fast-paced, evolving technical environments.",
+  "summary": "Technical customer success and implementation professional with 15+ years across B2B SaaS, MarTech, and agency environments, owning the post-sale journey from onboarding through adoption, retention, and expansion. Pairs deep platform fluency and technical literacy across APIs, data flows, integrations, and CRM/workflow architecture with a builder's command of generative AI, architecting autonomous, AI-driven systems that move customers from tool adoption to measurable business transformation. Trusted advisor to business owners and C-suite stakeholders; Denver-based founder of Solenzo who thrives in fast-paced, evolving technical environments.",
   "experience": [
     {
       "title": "Founder & Strategic / Customer Success Lead",
       "company": "Solenzo LLC",
       "location": "Denver Metro, CO",
-      "dates": "Feb 2024 – Present",
+      "dates": "Feb 2024 - Present",
       "bullets": [
-        "Architect and deploy autonomous, AI-driven systems for B2B clients that automate manual workflows, generate insights, and scale internal operations — moving customers from tool adoption to measurable business transformation.",
+        "Architect and deploy autonomous, AI-driven systems for B2B clients that automate manual workflows, generate insights, and scale internal operations, moving customers from tool adoption to measurable business transformation.",
         "Translate generative AI capabilities into tangible business value, decomposing manual workflows into agent architectures with custom logic and self-improving evaluation loops that continuously optimize outcomes.",
         "Act as the primary strategic and technical advisor for a portfolio of B2B clients, leading discovery and onboarding to connect complex business challenges with sophisticated, automated platform solutions.",
-        "Architect and implement complex HubSpot CRM systems and integrations — segmentation, lifecycle stages, lead routing, and data-hygiene protocols — connecting tools and data across each client's tech stack.",
+        "Architect and implement complex HubSpot CRM systems and integrations spanning segmentation, lifecycle stages, lead routing, and data-hygiene protocols, connecting tools and data across each client's tech stack.",
         "Lead deep-dive technical consultations and enablement, translating business requirements into technical configurations and delivering hands-on training that drives product adoption at scale.",
         "Leverage product-usage and behavioral data to identify expansion opportunities, scoping complementary services and recommending the next high-impact win aligned to client objectives, with reporting delivered to executive leadership."
       ]
@@ -28,7 +28,7 @@
       "title": "Account Executive / Client Strategist",
       "company": "Level Agency",
       "location": "Remote",
-      "dates": "Sep 2024 – Feb 2025",
+      "dates": "Sep 2024 - Feb 2025",
       "bullets": [
         "Acted as strategic lead on multi-stakeholder accounts, coordinating cross-functional execution and translating performance data into recommendations that grew client outcomes.",
         "Built rigorous performance reporting across ROI, CAC, LTV, and conversion KPIs, delivering QBRs and optimization recommendations.",
@@ -39,7 +39,7 @@
       "title": "Channel Partnerships & Customer Onboarding",
       "company": "Birdeye",
       "location": "Remote",
-      "dates": "Feb 2023 – Apr 2024",
+      "dates": "Feb 2023 - Apr 2024",
       "bullets": [
         "Led onboarding, training, and adoption for a high-volume B2B partner and customer network, driving rapid adoption of marketing-automation and reputation-management software.",
         "Served as trusted technical advisor on retention strategy, customer health metrics, and automated workflows, guiding customers through complex product setup and helping them realize platform value.",
@@ -51,9 +51,9 @@
       "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
       "company": "Wix.com",
       "location": "Remote",
-      "dates": "Aug 2020 – Aug 2022",
+      "dates": "Aug 2020 - Aug 2022",
       "bullets": [
-        "Owned a high-value account portfolio across diverse verticals as the primary strategic contact, driving adoption and measurable growth — a 30% increase in website traffic and 25% improvement in conversion in the e-commerce segment.",
+        "Owned a high-value account portfolio across diverse verticals as the primary strategic contact, driving adoption and measurable growth, including a 30% increase in website traffic and a 25% improvement in conversion in the e-commerce segment.",
         "Led and developed a team of onboarding specialists, owning scope and delivery and accelerating time-to-value across the portfolio.",
         "Led digital growth consultations and proactively communicated on goals and initiatives, aligning site architecture and best practices to drive adoption and retention."
       ]
@@ -62,7 +62,7 @@
       "title": "Account Executive",
       "company": "Accelo",
       "location": "Remote",
-      "dates": "Apr 2018 – Jul 2020",
+      "dates": "Apr 2018 - Jul 2020",
       "bullets": [
         "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, guiding clients through software transitions and operational process overhauls.",
         "Guided client onboarding, workflow design, and API integrations, building C-suite relationships as a trusted advisor on operational system design.",
@@ -74,7 +74,7 @@
       "title": "Account Executive / Sales Operations",
       "company": "Fetch & Funnel",
       "location": "Remote",
-      "dates": "Sep 2022 – Feb 2023",
+      "dates": "Sep 2022 - Feb 2023",
       "bullets": [
         "Managed client accounts across campaign execution, performance reporting, and cross-team communication for a performance-marketing agency.",
         "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
@@ -84,7 +84,7 @@
       "title": "Account Executive",
       "company": "Fivestars",
       "location": "Remote",
-      "dates": "2017 – 2018",
+      "dates": "2017 - 2018",
       "bullets": [
         "Ran full-cycle sales for a loyalty and marketing-automation platform targeting SMBs, developing consultative instincts around customer retention and technology adoption."
       ]
@@ -116,6 +116,6 @@
       "items": ["monday.com", "HubSpot", "Salesforce", "Notion", "Asana", "Jira", "Slack", "Zendesk", "Google Apps"]
     }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
-  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"]
+  "education": ["B.A. Liberal Arts, Minor in Political Science, Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate, Google / Coursera (2024)"]
 }
