@@ -1,0 +1,84 @@
+{
+  "style": "classic",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Analytics & Optimization Specialist",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Analytics and optimization professional with 15+ years analyzing complex datasets, designing performance models, and translating data insights into measurable business impact. Expert in identifying optimization opportunities across systems and workflows, with a track record building automated analysis frameworks and performance-monitoring dashboards. Strong in hypothesis testing, process decomposition, and collaborative problem-solving across technical and non-technical teams.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Remote",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architect performance dashboards and evaluation frameworks monitoring system outputs and conversion rates across multiple data sources, implementing iterative optimization loops to maximize accuracy and efficiency.",
+        "Analyze complex operational and performance datasets, extracting actionable insights and structured recommendations that directly improve system performance, profitability, and operational scalability.",
+        "Design and validate automated workflows using conditional logic and performance thresholds, decomposing manual processes into optimized systems with measurable KPI improvements.",
+        "Build comprehensive performance tracking systems monitoring lead generation, funnel progression, acquisition costs, and conversion metrics; deliver data-driven reporting to executive leadership.",
+        "Evaluate performance across multiple accounts and workflows using analytics platforms and custom measurement frameworks; apply quantitative testing and experimentation to drive continuous improvement.",
+        "Provide regular performance reporting and strategic optimization recommendations based on rigorous tracking, statistical analysis, and quantitative measurement of operational and marketing metrics."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs; delivered optimization recommendations based on quantitative analysis.",
+        "Analyzed performance data across digital channels using multiple analytics platforms, translating results into strategic insights and tactical improvements.",
+        "Conducted A/B testing and performance optimization analysis, identifying efficiency improvements and recommending resource allocation strategies."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "San Francisco, CA",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Analyzed partner utilization and performance metrics to identify adoption gaps; quantified intervention impacts to reduce churn and improve efficiency.",
+        "Developed automated workflows that reduced onboarding friction; measured and reported on performance improvements via structured data analysis.",
+        "Evaluated feature usage patterns and customer adoption data, collaborating with Product and Engineering to prioritize roadmap based on quantified insights."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "San Francisco, CA",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a diverse account portfolio across verticals, directly contributing to a 30% increase in website traffic and 25% improvement in conversion rates.",
+        "Led digital growth consultations applying rigorous data analysis to optimize site architecture, inbound strategy, and conversion performance.",
+        "Designed and implemented performance-tracking systems to measure client progress against KPIs; led team of onboarding specialists."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Analytics & Quantitative Methods",
+      "items": ["Performance Analysis", "Data Dashboards & Reporting", "Campaign Attribution", "KPI Tracking & Optimization", "ROI Analysis", "Hypothesis Testing", "Statistical Thinking", "Quantitative Insights & Recommendations"]
+    },
+    {
+      "category": "Optimization & Systems Design",
+      "items": ["Process Decomposition", "Workflow Automation", "Computational Efficiency", "Conversion Optimization", "A/B Testing", "Model Performance Monitoring", "Iterative Improvement Frameworks"]
+    },
+    {
+      "category": "Technical & Programming",
+      "items": ["Python", "SQL", "GA4 Analytics", "Google Analytics", "Automation Scripting", "Version Control Fundamentals", "Data Visualization", "CRM & Platform Architecture"]
+    },
+    {
+      "category": "Professional Competencies",
+      "items": ["Problem Solving & Decomposition", "Technical Collaboration", "Cross-functional Communication", "Peer Review & Quality Assurance", "Large Dataset Analysis", "Documentation", "Performance Benchmarking"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO",
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Issued Sept 2024)"
+  ],
+  "certifications": []
+}
