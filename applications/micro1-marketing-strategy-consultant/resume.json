@@ -1,0 +1,119 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Strategy & Storytelling Consultant",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing strategist and storytelling consultant with 15+ years building full-funnel marketing strategy, brand narratives, and executive-ready communications across SaaS, MarTech, and agency environments. Translates complex business ideas, data, and research into clear, compelling narratives that drive stakeholder buy-in — from QBRs and executive reporting to thought leadership and campaign storytelling. Founder of Solenzo, advising B2B and service brands on marketing strategy, branding, and business operations, with a sharp eye for structure, messaging, and audience engagement.",
+  "experience": [
+    {
+      "title": "Founder & Marketing Strategy Consultant",
+      "company": "Solenzo LLC",
+      "location": "Remote — Arvada, CO",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Advise B2B and service-based brands on marketing strategy, branding, and business operations as their fractional strategy lead, leading discovery to align programs with revenue objectives.",
+        "Translate complex marketing and operational data, research, and insights into clear, compelling narratives and recommendations that drive stakeholder buy-in.",
+        "Write and publish thought leadership, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Develop and execute full-lifecycle marketing strategies spanning demand generation, CRM architecture, and customer success, demonstrating clear ROI.",
+        "Build executive reporting and performance dashboards tracking funnel progression, campaign ROI, and pipeline velocity, delivering insights to leadership.",
+        "Draft clean, specific direct-response copy, outreach sequences, and landing pages that clarify key messages and drive engagement."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Managed integrated marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.",
+        "Built campaign performance reporting and QBRs tracking ROI, CAC, LTV, and conversion KPIs, presenting optimization recommendations to clients.",
+        "Produced high-converting campaign assets — landing pages, email sequences, conversion copy — improving lead generation and pipeline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Enablement",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Served as trusted advisor helping a high-volume partner network communicate product value and marketing-automation best practices.",
+        "Developed scalable communication workflows and product-training content that clarified key messages and reduced friction.",
+        "Collaborated cross-functionally with Product and Engineering, translating customer needs into structured, high-priority feedback.",
+        "Analyzed partner utilization and performance metrics to surface adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning brand, site architecture, inbound marketing, and SEO to improve client traffic and conversion.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Proactively communicated strategy, goals, and performance to clients, presenting recommendations that accelerated results."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Managed client accounts across campaign execution and performance reporting, translating results into optimization recommendations across paid media and creative.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Remote",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex software to agencies and professional-services firms, presenting tailored solutions and ROI cases to C-suite stakeholders.",
+        "Served as strategic advisor on operational systems, helping clients build scalable processes aligned to growth stage and team structure."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Remote",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing-automation platform targeting SMBs, developing consultative instincts around retention and messaging."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Strategy",
+      "items": ["Full-Funnel Strategy", "Demand Generation", "Campaign Strategy", "Lifecycle Marketing", "Positioning & Messaging", "Go-to-Market"]
+    },
+    {
+      "category": "Branding & Storytelling",
+      "items": ["Brand Narrative", "Storytelling", "Thought Leadership", "Direct-Response Copy", "Content Strategy", "Audience Engagement"]
+    },
+    {
+      "category": "Executive Communication",
+      "items": ["Executive Presentations & Decks", "Data Storytelling", "QBRs", "Stakeholder Buy-In", "Technical Translation", "Visual Narrative"]
+    },
+    {
+      "category": "Business Operations",
+      "items": ["Process Mapping", "Systems Design", "RevOps", "Cross-Functional Coordination", "Continuous Improvement"]
+    },
+    {
+      "category": "Analytics & Insights",
+      "items": ["GA4", "Campaign Attribution", "KPI Dashboards", "Research & Insights", "Reporting"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Google Workspace (Slides)", "HubSpot", "Salesforce", "Notion", "Asana", "Slack", "Claude", "ChatGPT"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"]
+}
