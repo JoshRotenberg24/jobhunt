@@ -10,15 +10,17 @@
 ## Fit Score
 
 > **Updated 2026-06-21:** Josh confirmed strong PowerPoint / deck-building skill ("I can
-> build a deck better than most"), substantiating the role's #1 required skill. Score
-> revised **64 → 73**; resume updated to surface PowerPoint and executive deck design.
+> build a deck better than most"), substantiating the role's #1 required skill. Deck /
+> presentation experience was then built into the **master profile** and surfaced across
+> **every sales and channel role** (Level, Birdeye, Fetch & Funnel, Wix, Accelo, Fivestars,
+> Solenzo). Score revised **64 → 73 → 74**.
 
 ```
-🔵 Fit Score: 73 / 100 — Solid stretch
-[███████████████░░░░░]  73%
+🔵 Fit Score: 74 / 100 — Solid stretch
+[███████████████░░░░░]  74%
 ```
 
-**73 / 100 — Solid stretch (upper band).** See `fit.png` for the gauge.
+**74 / 100 — Solid stretch (upper band).** See `fit.png` for the gauge.
 
 | Dimension | Score | Notes |
 | :--- | :--- | :--- |
@@ -26,7 +28,7 @@
 | Seniority & scope alignment | 11 / 15 | Contractor/consultant framing fits a founder-consultant well; flexible hourly contributor level. |
 | Domain / industry alignment | 9 / 15 | Marketing/MarTech domain is strong; the specific "enterprise brand presentation consulting" slant is a partial fit. |
 | Differentiators / nice-to-haves | 11 / 15 | Founder + 15 yrs marketing + strong deck craft + genuine AI fluency (a real edge at an AI-training company, even though AI isn't required). |
-| Evidence strength | 10 / 15 | Solid marketing proof (+30% traffic / +25% conversion at Wix; published thought leadership) plus real decks he can demonstrate in the interview. |
+| Evidence strength | 11 / 15 | Deck/presentation work now evidenced across six roles (sales demos, pitch decks, QBR decks, partner enablement, growth-strategy decks), plus +30% traffic / +25% conversion at Wix and real decks he can demo live. |
 
 **Band guidance:** Solid stretch (upper) → invited to interview. Lead with **marketing strategy + storytelling + deck craft** and *show real decks*. The one remaining drag is enterprise/Fortune-500 exposure.
 

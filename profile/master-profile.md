@@ -70,12 +70,14 @@
 - Provide regular performance reporting, actionable insights, and strategic recommendations based on rigorous tracking of sales enablement, marketing, and operations.
 - Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize conversion rates.
 - Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership.
+- Build and present executive strategy decks and performance reviews in PowerPoint for B2B clients, translating data and research into clear visual narratives that drive decisions.
 - Track acquisition and retention across multiple accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth.
 - Analyze complex marketing and operational datasets, extracting actionable insights and structured recommendations that improve campaign performance.
 
 ### Level Agency — Account Executive / Client Strategist (Sep 2024 – Feb 2025)
 - Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
+- Designed and delivered executive presentations and QBR decks in PowerPoint, turning campaign performance and strategy into clear visual narratives that drove stakeholder buy-in.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
 - Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.
 - Ensured consistent, world-class delivery quality across implementations, addressing client feedback promptly to maintain satisfaction and retention.
@@ -84,6 +86,8 @@
 - Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.
 - Served as trusted advisor on retention strategy, customer health metrics, and automated workflows, helping partners communicate product value.
 - Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.
+- Built partner enablement and product-training presentations — sales decks, onboarding slides, and best-practice playbooks — equipping a high-volume channel network to communicate product value.
+- Created executive-ready, branded decks that simplified complex marketing-automation and reputation concepts into clear visual stories for diverse partner audiences.
 - Functioned in a technical advisory capacity, guiding customers through complex setup of reputation and marketing automation tools.
 - Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.
 - Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.
@@ -92,6 +96,7 @@
 - Managed client accounts focused on campaign execution, performance reporting, and cross-team communication for a performance marketing agency.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
+- Built client-facing performance presentations and reporting decks that translated campaign data into clear, actionable recommendations.
 
 ### Wix.com — Account Manager, Onboarding Launch Specialist & Team Lead (Aug 2020 – Aug 2022)
 - Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.
@@ -99,9 +104,11 @@
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
 - Served as team lead for onboarding/launch operations, the primary strategic contact ensuring on-time delivery that accelerated time-to-value.
 - Proactively communicated with clients on goals and initiatives, driving a **25% improvement in conversion rates** across supported accounts.
+- Built and presented growth-strategy and performance decks to clients, using data storytelling to align stakeholders and accelerate decisions.
 
 ### Accelo — Account Executive (Apr 2018 – Jul 2020)
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
+- Designed and delivered sales demos, pitch decks, and ROI presentations to C-suite buyers, turning complex software capabilities into compelling, decision-driving narratives.
 - Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.
 - Served as strategic advisor on CRM adoption, helping clients build scalable operational systems aligned to growth stage and team structure.
 - Partnered with implementation teams to guide onboarding, troubleshooting workflow design and resolving technical challenges.
@@ -110,6 +117,7 @@
 ### Fivestars — Account Executive (2017 – 2018)
 - Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs — high-volume prospecting, lead qualification, and customer acquisition.
 - Developed consultative sales instincts around customer retention and technology adoption.
+- Delivered consultative sales presentations and product demos to SMB owners, tailoring the pitch and story to each prospect's goals.
 
 ### Standing Akimbo — Co-Owner / Operations Lead (Jun 2010 – Sep 2012)
 - Built compliance and customer-management systems from scratch in a highly regulated startup environment.
@@ -131,6 +139,7 @@
 | Marketing Generalist / Head of Marketing | Marketing generalist and operations builder with 15+ years owning the full marketing function in lean, fast-moving environments. Comfortable as sole marketing owner where building from scratch is the job. |
 | Analytics / Consulting | Marketing consultant and systems practitioner with 15+ years analyzing campaign performance, building strategic frameworks, and communicating findings to technical and non-technical stakeholders. |
 | Client Experience / AM | Client Experience and Account Manager with 15+ years as the day-to-day contact and strategic advocate for B2B SaaS clients, driving platform adoption and long-term retention. |
+| Marketing Strategy / Presentations | Marketing strategist and storytelling consultant with 15+ years building marketing strategy, brand narratives, and high-impact executive presentations — designing PowerPoint decks that turn complex data and research into clear visual stories that drive stakeholder buy-in. |
 
 ---
 
@@ -146,7 +155,8 @@
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Google Apps, Procore |
+| Presentations & Storytelling | Microsoft PowerPoint, Executive Deck Design, Sales & Pitch Decks, QBR Decks, Data Storytelling, Visual Narrative, Stakeholder Buy-In, Audience Engagement |
+| Tools & Platforms | HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Microsoft PowerPoint, Google Apps (Slides), Procore |
 
 ---
 
