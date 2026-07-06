@@ -1,0 +1,152 @@
+{
+  "style": "classic",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Sales Operations Manager & Inside Sales Leader",
+  "contact": {
+    "location": "Arvada, Colorado",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Sales operations and team leadership professional with 15+ years driving revenue growth through CRM architecture, process design, and team enablement in B2B SaaS and service environments. Proven ability to manage inside sales teams, build scalable lead-to-order workflows, coach teams on CRM discipline and digital selling, and leverage data and automation to improve conversion, pipeline velocity, and customer retention. Experienced in Salesforce and HubSpot CRM implementation, performance analytics, and AI-driven process optimization.",
+  "experience": [
+    {
+      "title": "Founder & Strategic Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Remote",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architect and implement enterprise CRM systems (HubSpot) for B2B clients, including lead routing, contact segmentation, lifecycle stages, data hygiene, and automated workflows that improve pipeline visibility and conversion.",
+        "Design and deploy AI-driven lead systems that automate lead enrichment, scoring, and personalized outreach, reducing manual prospecting work and improving lead quality for sales teams.",
+        "Partner with B2B service clients as fractional success/operations lead to design post-sale onboarding, customer retention strategies, and lifecycle plays that activate high-value users and reduce churn.",
+        "Build performance dashboards and reporting frameworks tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering actionable insights to sales and executive teams.",
+        "Serve as primary strategic advisor for a portfolio of B2B clients on operational system design, CRM adoption, and go-to-market alignment, identifying opportunities to expand service scope and revenue."
+      ]
+    },
+    {
+      "title": "Account Manager & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Directly managed and developed team of onboarding specialists, overseeing project scope, delivery timelines, and quality standards for a high-value client portfolio across diverse verticals.",
+        "Drove digital growth consultations with clients on site architecture, inbound marketing, and SEO best practices, resulting in 30% increase in website traffic and 25% improvement in conversion rates across supported accounts.",
+        "Served as primary strategic contact for client base, ensuring on-time delivery of onboarding milestones, proactively addressing obstacles, and accelerating time-to-value for complex web and e-commerce projects.",
+        "Built repeatable playbooks and onboarding workflows that reduced friction in client ramp and improved customer satisfaction across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Remote",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, pipeline automation, and CRM discipline.",
+        "Guided client onboarding, workflow design, and API integrations, positioning the product as a scalable operational system aligned to growth stage and team structure.",
+        "Served as strategic advisor on CRM adoption and implementation, helping clients build repeatable processes for lead qualification, contact management, and pipeline tracking.",
+        "Engaged with C-suite executives on operational system design, translating software capabilities into business impact and sustainable adoption."
+      ]
+    },
+    {
+      "title": "Account Executive & Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and strategic quarterly business reviews.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations that improved lead generation and pipeline.",
+        "Ensured consistent, high-quality delivery across implementations, addressing client feedback promptly to maintain satisfaction and identify upsell and retention opportunities."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Led onboarding and training for high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions through structured workflows and product training sequences.",
+        "Served as trusted advisor on adoption strategy, customer health metrics, and automated lifecycle workflows, helping partners identify upsell and retention opportunities.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend targeted interventions that improved product engagement and reduced churn.",
+        "Collaborated with Product and Engineering to capture and prioritize high-impact customer feedback informing the product roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, Colorado",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for loyalty and marketing automation platform targeting SMBs, managing high-volume prospecting, lead qualification, and customer acquisition.",
+        "Developed consultative sales approach that prioritized customer retention and technology adoption over transaction volume, building foundation for long-term customer relationships."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "CRM & Sales Operations",
+      "items": [
+        "HubSpot CRM Architecture & Automation",
+        "Salesforce Implementation & Workflow Design",
+        "Lead Routing & Segmentation",
+        "Opportunity & Pipeline Management",
+        "Contact & Account Organization",
+        "Data Hygiene Protocols",
+        "Lifecycle Stage Design",
+        "Sales Reporting & KPI Dashboards"
+      ]
+    },
+    {
+      "category": "Digital Sales & Lead Management",
+      "items": [
+        "Inbound Lead Conversion",
+        "Outbound Prospecting & Pipeline Development",
+        "Quote Follow-Up & Close Management",
+        "Digital Lead Routing & Qualification",
+        "Email Marketing Automation",
+        "Sales Enablement & Digital Workflows",
+        "Intent-Based Prospecting",
+        "Customer Acquisition & Retention"
+      ]
+    },
+    {
+      "category": "Analytics & Performance Management",
+      "items": [
+        "Campaign Performance Reporting",
+        "Pipeline Velocity & Conversion Analysis",
+        "ROI Tracking & Attribution",
+        "Customer Health Metrics",
+        "Excel Data Analysis & Dashboarding",
+        "KPI Tracking & Executive Reporting",
+        "Adoption & Engagement Metrics"
+      ]
+    },
+    {
+      "category": "Team Leadership & Coaching",
+      "items": [
+        "Inside Sales Team Management",
+        "Customer Service Leadership",
+        "Team Development & Coaching",
+        "Process Adoption & Training",
+        "Performance Management",
+        "Sales Discipline & Accountability",
+        "Workflow Optimization"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "AI-Driven Lead Systems",
+        "Marketing Automation Architecture",
+        "Workflow Automation & Process Design",
+        "Prospect Research & Account Prioritization",
+        "Personalization & Intent Scoring",
+        "Documentation & Reporting Automation"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO",
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Issued Sept 2024)"
+  ],
+  "certifications": []
+}
