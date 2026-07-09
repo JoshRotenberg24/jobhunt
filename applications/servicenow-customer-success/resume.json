@@ -1,0 +1,138 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Customer Success Leader & Adoption Strategist",
+  "contact": {
+    "location": "Arvada, Colorado",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer Success and adoption strategist with 15+ years driving measurable business outcomes for B2B SaaS clients through prescriptive guidance, portfolio management, and strategic enablement. Proven ability to manage diverse customer portfolios, accelerate product adoption, maximize customer lifetime value, and translate business needs into technical solutions. AI-forward practitioner with expertise in automation, workflow optimization, and intelligent decision-making.",
+  "experience": [
+    {
+      "title": "Founder & Strategic Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Remote",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Serve as primary strategic advisor for a portfolio of B2B SaaS clients, managing complex engagements to help them achieve operational and revenue goals through platform adoption and optimization.",
+        "Design and deliver customer onboarding, success planning, and adoption strategies that accelerate time-to-value and deepen product utilization across client organizations.",
+        "Architect AI-driven systems and workflows that automate lead qualification, customer engagement, and lifecycle management, demonstrating deep understanding of how intelligent automation drives customer outcomes.",
+        "Build and optimize customer success playbooks, training materials, and enablement frameworks that scale adoption across diverse customer bases and skill levels.",
+        "Identify upsell, cross-sell, and expansion opportunities through data analysis and customer health metrics, directly contributing to revenue growth and customer lifetime value."
+      ]
+    },
+    {
+      "title": "Account Manager & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed and developed onboarding specialist team, ensuring consistent delivery of customer success across complex implementation projects for a high-value customer portfolio.",
+        "Owned customer outcomes for 50+ accounts across diverse verticals, driving 25% improvement in conversion rates and 30% increase in website traffic through strategic guidance and best practices.",
+        "Served as primary strategic contact for customer portfolio, proactively identifying adoption risks, addressing concerns, and escalating issues to drive resolution and customer satisfaction.",
+        "Built repeatable onboarding playbooks and success workflows that improved time-to-value and reduced implementation friction, resulting in stronger customer retention and lifetime value."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Led onboarding and training for high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions through structured playbooks and hands-on enablement.",
+        "Served as trusted advisor on customer health metrics, adoption strategy, and lifecycle workflows, helping partners identify and act on upsell and retention opportunities.",
+        "Analyzed partner performance data to identify adoption gaps and recommend targeted interventions that improved product engagement and reduced churn.",
+        "Collaborated with Product and Engineering to translate high-priority customer feedback into product requirements, ensuring the roadmap addressed real customer needs.",
+        "Developed success frameworks and training materials that scaled adoption across diverse partner organizations, reducing onboarding time and improving time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive & Strategic Advisor",
+      "company": "Accelo",
+      "location": "Remote",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Guided clients through complex CRM and project-management software implementation, providing prescriptive advice on workflow design, process optimization, and operational system setup.",
+        "Served as strategic advisor on CRM adoption and change management, helping clients build scalable operational systems aligned to growth stage and organizational structure.",
+        "Partnered with implementation and support teams to ensure seamless customer onboarding and ongoing success, translating technical capabilities into business value.",
+        "Developed deep relationships with C-suite executives and operations leaders, positioning ServiceNow as trusted strategic advisor on system design and digital transformation."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning customer site architecture, inbound marketing, and SEO to improve customer traffic and conversion outcomes.",
+        "Managed customer escalations and complex issues, serving as point person for resolution coordination across internal teams and ensuring customer success."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success & Portfolio Management",
+      "items": [
+        "Customer Portfolio Management (50-100+ account portfolios)",
+        "Adoption & Enablement Strategy",
+        "Customer Onboarding & Implementation",
+        "Customer Health Metrics & Lifecycle Management",
+        "Customer Outcome Measurement & ROI",
+        "Retention & Expansion Strategy",
+        "Customer Advocacy & Success Stories",
+        "Prescriptive Guidance & Advisory"
+      ]
+    },
+    {
+      "category": "Technical & Product Fluency",
+      "items": [
+        "CRM Systems (HubSpot, Salesforce architecture)",
+        "SaaS Platform Adoption & Optimization",
+        "Workflow Design & Process Optimization",
+        "Technical Implementation Support",
+        "Product Feature Enablement",
+        "Integration & API Concepts",
+        "Data-Driven Decision Making"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "AI-Driven Workflow Automation",
+        "Intelligent Decision-Making Systems",
+        "Predictive Analytics & Insights",
+        "Personalization & Targeting",
+        "Process Automation Architecture"
+      ]
+    },
+    {
+      "category": "Cross-Functional Leadership",
+      "items": [
+        "Team Development & Coaching",
+        "Stakeholder Alignment & Communication",
+        "Cross-Functional Collaboration",
+        "Project Management & Coordination",
+        "Change Management & Adoption Leadership",
+        "Escalation Resolution",
+        "Executive-Level Communication"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "Customer Performance Analysis",
+        "Adoption & Engagement Metrics",
+        "ROI Tracking & Outcome Measurement",
+        "Trend Analysis & Forecasting",
+        "Data-Informed Recommendations"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO",
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Issued Sept 2024)"
+  ],
+  "certifications": []
+}
