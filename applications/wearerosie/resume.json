@@ -90,7 +90,7 @@
     }
   ],
   "competencies": [
-    {"category": "Growth & Demand Generation", "items": ["Full-funnel acquisition", "Lifecycle Marketing", "CRO / A/B Testing", "Paid Media", "SEO", "Email Marketing", "Landing Pages"]},
+    {"category": "Growth & Demand Generation", "items": ["Full-funnel acquisition", "Lifecycle Marketing", "CRO / A/B Testing", "Paid Media (Meta, Google, LinkedIn Ads)", "SEO", "Email Marketing", "Landing Pages"]},
     {"category": "CRM & Marketing Automation", "items": ["HubSpot CRM Architecture", "Salesforce", "GoHighLevel", "Workflow Design", "Segmentation", "Lead Routing", "Lifecycle Stages"]},
     {"category": "Analytics & Reporting", "items": ["GA4", "Google Search Console", "Ahrefs", "Semrush", "Campaign Attribution", "ROI Dashboards", "QBRs", "KPI Tracking"]},
     {"category": "Content & Writing", "items": ["Thought Leadership", "Direct-Response Copy", "Brand Voice", "Editorial Management", "Technical Translation"]},
