@@ -1,0 +1,95 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Partner Integrations & Technical Account Leader",
+  "contact": {
+    "location": "Denver Metro, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Partner integrations and technical account leader with 15+ years across SaaS, MarTech, and platform-partnership environments, owning integration implementation end to end. Translates technical concepts — API integrations, CRM/CMS connections, and loyalty and marketing-automation platforms — into business solutions for external technology partners, and drives high-visibility launches in close partnership with product and engineering. Detail-oriented program manager and analytical problem-solver who serves as the day-to-day face of the integration to partners while capturing every requirement for both business and technical stakeholders.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Integrations Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Denver Metro, CO",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Build and operate integrations connecting client CRM and CMS platforms via APIs, standing up reusable automation infrastructure and internal tooling that runs as always-on growth engines.",
+        "Lead end-to-end implementation for new technology stacks — translating business requirements into technical configurations, scoping the integration, and providing hands-on training and launch support.",
+        "Decompose manual, multi-system workflows into agent architectures with custom logic, then design self-improving evaluation loops that monitor outputs and continuously optimize performance.",
+        "Serve as the primary strategic and day-to-day contact for a portfolio of B2B clients, leading discovery to understand goals, objectives, and market challenges before scoping a solution.",
+        "Partner directly with business owners and cross-functional teams to align integrations and programs with revenue objectives, ensuring consistent execution and qualified outcomes.",
+        "Build performance dashboards and analyze complex operational datasets, synthesizing results into structured insights and recommendations that drive prioritization."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Owned onboarding, implementation, and training across a diverse, high-volume partner network, driving rapid adoption of marketing-automation and reputation-management integrations.",
+        "Served as the external-facing technical advisor, guiding partners and customers through complex product setup and helping them operationalize and communicate product value.",
+        "Collaborated with Product and Engineering to translate structured, high-priority partner feedback into roadmap inputs and process improvements.",
+        "Built scalable communication and automated product-training workflows that reduced onboarding friction and time-to-launch.",
+        "Analyzed partner utilization and performance metrics to surface adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder accounts spanning marketing and technology channels, acting as strategic lead and coordinating execution across internal departments.",
+        "Built rigorous performance-reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, translating data into optimization recommendations and QBRs.",
+        "Ensured consistent, high-quality delivery across implementations, addressing partner feedback promptly to maintain satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Remote",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Scoped and implemented complex CRM and project-management software for agencies and professional-services firms, guiding onboarding, workflow design, and API integrations.",
+        "Built trusted-advisor relationships with C-Suite executives on operational system design, helping clients build scalable, integrated systems aligned to their growth stage.",
+        "Partnered with implementation teams to troubleshoot workflow and integration design, resolving technical challenges and de-risking launches.",
+        "Owned issue escalation, strategic guidance, and account-level risk mitigation across a portfolio of technical accounts."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists, overseeing scope and delivery for a high-value client portfolio and serving as primary strategic contact for on-time launches.",
+        "Managed accounts across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound strategy, and best practices to accelerate client time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Remote",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing-automation platform serving SMB merchants, from prospecting and qualification through customer acquisition.",
+        "Developed consultative instincts around merchant retention, loyalty program adoption, and technology onboarding."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Integrations & Platforms", "items": ["API Integrations", "CRM/CMS Integration", "Loyalty & Marketing-Automation Platforms", "Middleware & Third-Party Systems", "Workflow & Solution Design", "Implementation & Launch Management"]},
+    {"category": "Partner & Stakeholder Management", "items": ["Channel Partnerships", "Partner Onboarding", "External Relationship Management", "C-Suite Advisory", "Cross-functional Coordination (Product & Engineering)"]},
+    {"category": "Program & Project Management", "items": ["Technical Program Management", "Requirements Translation", "Process Mapping", "SOP Development", "Roadmap Input", "Multi-project Delivery"]},
+    {"category": "Analytics & Reporting", "items": ["Data Analysis & Synthesis", "KPI Dashboards", "GA4", "Campaign Attribution", "QBRs", "Executive Reporting"]},
+    {"category": "AI & Automation", "items": ["Agentic AI", "LLM Workflows", "ChatGPT", "Claude", "Prompt Design", "Rapid Prototyping"]},
+    {"category": "Tools", "items": ["HubSpot", "Salesforce", "Notion", "Jira", "Asana", "Slack", "Zendesk"]}
+  ],
+  "education": ["B.A., Liberal Arts (Minor, Political Science) — Colorado State University"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"]
+}
