@@ -1,0 +1,120 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "B2B Marketing Copywriter & Content Strategist",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "B2B marketing copywriter and content strategist with 15+ years across SaaS, MarTech, and agency environments, translating evolving brand voice and value propositions into clear, compelling, conversion-focused copy. Writes across the full B2B stack — website pages, sales collateral, campaigns, and paid media (LinkedIn, Google Ads) — with a lead-generation mindset and fluency communicating value to executive and technical buyers. Reliable, low-oversight independent contributor who brings a strong point of view, thoughtful pushback, and fresh creative perspective to lean, collaborative teams.",
+  "experience": [
+    {
+      "title": "Founder & Marketing Copywriter / Content Strategist",
+      "company": "Solenzo LLC",
+      "location": "Remote — Arvada, CO",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Write clean, specific, direct-response copy — landing pages, website updates, email and outreach sequences, and campaign assets — that drives engagement, lead generation, and pipeline for B2B service-based clients.",
+        "Translate each client's evolving brand voice and value proposition into a consistent tone across new and existing content, aligning web, sales, and campaign copy to one cohesive message.",
+        "Develop and publish thought-leadership content, newsletters, and educational guides for B2B audiences, turning complex operational and technical topics into clear, intent-driven narratives.",
+        "Partner directly with business owners and growth teams to align messaging with revenue objectives, bringing a strong point of view and creative pushback to sharpen positioning.",
+        "Run technical SEO audits, keyword-gap analyses, and competitor research, then write and implement performance-driven on-page copy directly inside client CMS platforms.",
+        "Build AI-assisted content workflows that scale copy and personalized outreach production while preserving editorial quality and brand voice.",
+        "Track content and campaign performance in GA4 and CRM analytics, using the data to refine messaging and improve conversion."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets — landing pages, complex email sequences, and conversion-focused copy — that improved lead generation and pipeline for B2B clients.",
+        "Led integrated marketing execution across inbound, paid media, and content, coordinating copy and creative delivery across internal departments.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, turning results into copy and creative optimization recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Developed scalable communication workflows and automated product-training content that reduced onboarding friction across a high-volume partner network.",
+        "Served as trusted advisor helping partners communicate product value clearly to their own customers, translating features into benefit-led messaging.",
+        "Channeled structured, high-priority customer feedback to Product and Engineering, informing positioning and the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Managed client accounts across campaign execution and performance reporting for a performance-marketing agency, translating results into paid-media and creative optimizations.",
+        "Built internal processes that improved reporting accuracy and strengthened cross-team alignment on campaign deliverables."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, web content, and SEO best practices to improve client traffic and conversion.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Served as the primary strategic contact ensuring on-time delivery of website and content projects that accelerated time-to-value.",
+        "Directly managed and developed a team of onboarding specialists, overseeing scope, timelines, and delivery quality for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Remote",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex B2B SaaS to agencies and professional-services firms, building relationships with C-Suite executives including finance leaders as a trusted advisor.",
+        "Translated complex product capabilities into clear value narratives for technical and non-technical buyers across the sales cycle."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Remote",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for a payments, loyalty, and marketing-automation platform, communicating platform value to SMB owners and sharpening consultative messaging around retention and adoption."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "B2B Copywriting",
+      "items": ["Direct-Response Copy", "Website & Landing Page Copy", "Sales Collateral & Enablement", "Brochures", "Email & Outreach Sequences", "Brand Voice & Tone", "Editorial QA"]
+    },
+    {
+      "category": "Campaign & Paid Media",
+      "items": ["LinkedIn Ads Copy", "Google Ads Copy", "Campaign Assets", "Ad & Landing-Page CRO", "Value Proposition Messaging"]
+    },
+    {
+      "category": "Lead Generation & Growth",
+      "items": ["Demand Generation", "Performance-Driven Content", "Full-Funnel Acquisition", "Lifecycle Marketing", "SEO Content", "Conversion Optimization"]
+    },
+    {
+      "category": "Content Strategy",
+      "items": ["Thought Leadership", "Technical Translation", "Newsletters", "Content Roadmaps", "Messaging Alignment", "AI-Assisted Content Workflows"]
+    },
+    {
+      "category": "Analytics & Tools",
+      "items": ["GA4", "Google Search Console", "Ahrefs", "Semrush", "HubSpot", "Notion", "CMS / WordPress", "Campaign Reporting"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
+}
