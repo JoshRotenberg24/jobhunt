@@ -9,6 +9,21 @@ produces a polished, balanced 2-page resume + cover letter optimized to pass mod
 
 In a Claude Code session opened on this repo:
 
+### Find roles to apply to
+
+```
+/find-roles                       # uses your profile's default targets (remote US + Colorado)
+/find-roles remote HubSpot ops    # …or pass filters: titles, location, comp, stage, tool
+```
+
+The `find-roles` skill reads your master profile for target role types, seniority, and
+location, then uses **live web search** to surface currently-open postings. It runs a
+quick Fit read + knockout scan on each and saves a **ranked shortlist** to
+`searches/<date>.md` — best fit first, knockouts separated out — with a
+`/tailor-resume <url>` next-step for each. Pass filters to narrow the search.
+
+### Tailor a resume for a specific posting
+
 ```
 /tailor-resume <job-posting-url>
 ```
@@ -38,7 +53,9 @@ worked example (resume PDF/DOCX, cover letter, and match report).
 
 | Path | What it is |
 | :--- | :--- |
+| `.claude/skills/find-roles/SKILL.md` | Role-search tool — web-searches live openings that fit the profile and writes a ranked shortlist. |
 | `.claude/skills/tailor-resume/SKILL.md` | The tool — the workflow Claude follows. |
+| `searches/<date>.md` | Ranked role-search shortlists produced by `/find-roles`. |
 | `.claude/skills/tailor-resume/ats-playbook.md` | Evidence-based ATS/formatting ruleset. |
 | `profile/master-profile.md` | **Single source of truth** — bullets, roles, verified metrics, skills. Edit as your career evolves. |
 | `build/render_resume.py` | Resume JSON → polished PDF + DOCX; reports pages + balance. Two styles: `modern` (sans + navy) or `classic` (serif, black) per role. |
@@ -73,5 +90,6 @@ and disqualifying — see the playbook).
 
 ## Roadmap ideas (not yet built)
 - Pull/sync the profile from Google Drive.
-- A lightweight application tracker across `applications/<company>/`.
+- A lightweight application tracker across `applications/<company>/` (status: found →
+  applied → interview), tying `searches/` results to `applications/` outputs.
 - Optional font embedding (e.g., Carlito) for closer DOCX/PDF visual parity.
