@@ -1,0 +1,103 @@
+{
+  "name": "Joshua Rotenberg",
+  "headline": "HubSpot CRM Architect & Implementation Specialist",
+  "style": "modern",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "HubSpot CRM architect with 5+ years configuring complex HubSpot instances end-to-end for B2B clients — contact segmentation, lifecycle stages, lead routing, workflow automation, and strict data hygiene. As a fractional implementation manager I build directly in client portals, run the client calls, and translate business requirements into working systems, backed by 15+ years of onboarding and account management across MarTech, SaaS, and agency environments.",
+  "experience": [
+    {
+      "title": "Founder & HubSpot Implementation / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architect and implement complex HubSpot CRM systems end-to-end — contact segmentation, lifecycle stages, lead routing, and strict data-hygiene protocols that keep pipeline reporting trustworthy.",
+        "Partner with B2B clients as a fractional implementation manager to design, configure, and optimize HubSpot marketing-automation and CRM systems directly in their portals.",
+        "Lead end-to-end onboarding for new client stacks, translating business requirements into HubSpot configuration and providing hands-on training and client-facing enablement.",
+        "Design and deploy automated lifecycle sequences, onboarding workflows, and lead-scoring logic that activate, nurture, and retain high-value users at scale.",
+        "Maintain rigorous data hygiene across client CRMs — imports with field mapping, deduplication, and segmentation — so reporting and automation stay reliable.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive stakeholders."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts as strategic lead, coordinating execution across internal departments to deliver integrated programs on time.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Ensured consistent, world-class delivery quality, addressing client feedback promptly to maintain satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a high-volume partner network, driving rapid adoption of marketing-automation and reputation-management solutions.",
+        "Functioned in a technical advisory capacity, guiding customers through complex product setup and configuration.",
+        "Analyzed utilization and health metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Served as onboarding/launch team lead and primary contact, managing scope and delivery across a high-value, multi-vertical client portfolio.",
+        "Managed and developed a team of onboarding specialists, overseeing budgets, scope, and on-time delivery.",
+        "Managed a high-value portfolio contributing to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Remote",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in contact management and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, advising C-suite executives on scalable operational system design.",
+        "Served as strategic advisor on CRM adoption, helping clients build scalable systems aligned to growth stage and team structure."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Remote",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle acquisition and onboarding for a loyalty and marketing-automation platform targeting SMBs, developing consultative instincts around retention and technology adoption."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Built customer-management and operational workflows from scratch in a highly regulated startup environment, scaling the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "HubSpot", "items": ["CRM Architecture", "Marketing Hub", "Sales Hub", "Service Hub", "Ops Hub", "Workflows & Automation", "Lifecycle Stages", "Lead Routing"]},
+    {"category": "Implementation & Data", "items": ["Portal Configuration", "Data Imports & Field Mapping", "Data Hygiene", "Segmentation & Lists", "Deduplication", "Reporting & Dashboards"]},
+    {"category": "Client Delivery", "items": ["Client Onboarding", "Requirements Gathering", "Multi-client Project Management", "Client-facing Enablement", "Workshops & Training"]},
+    {"category": "Analytics & Adjacent Stack", "items": ["GA4", "Google Search Console", "Salesforce", "GoHighLevel", "Campaign Attribution", "KPI Tracking"]},
+    {"category": "Tools & Platforms", "items": ["HubSpot", "Salesforce", "Notion", "Slack", "Asana", "Zendesk"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
+}
