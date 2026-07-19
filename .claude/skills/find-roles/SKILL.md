@@ -57,8 +57,14 @@ State the resolved search plan to the user in 1–2 lines before searching (whic
 where, remote vs onsite, and which employment types), so they can redirect early.
 
 ## Step 2 — Search the web for openings
-Use **WebSearch** (and WebFetch to confirm a promising listing when needed). Run several
-targeted queries, not one broad one — vary title × location × source. Good patterns:
+Use **WebSearch** as the primary tool. You *may* try **WebFetch** to confirm a promising
+listing, but expect it to fail: in this environment job boards (Greenhouse, Lever, Ashby,
+Built In, LinkedIn, Indeed, HubSpot community, fractionaljobs, aggregators like BeBee /
+JobLeads) almost always return **403** to automated fetches. So treat the **search-result
+snippet as the primary evidence**, and mark any page-level detail you couldn't fetch
+(exact comp, posted/close dates, full requirements) as **unverified** rather than stating
+it as confirmed. Run several targeted queries, not one broad one — vary title × location ×
+source. Good patterns:
 - `"<title>" remote jobs 2026` and `"<title>" jobs Denver Colorado`
 - `"<title>" <industry> hiring` (e.g. SaaS, MarTech, B2B)
 - Board-scoped: append `site:boards.greenhouse.io`, `site:jobs.lever.co`,
@@ -83,9 +89,14 @@ when a date isn't verifiable rather than assuming freshness.
 > Many boards (Greenhouse/Lever/Workday/LinkedIn) block automated fetching. That's fine
 > at this stage — the search snippet + link is enough for the shortlist. Deep parsing
 > happens later in `/tailor-resume`, which will ask for a paste if the fetch walls off.
+> **Because those same boards block fetching, the `/tailor-resume <url>` handoff will
+> usually need the JD pasted in** — so tell the user to have the JD text handy, and
+> prefer linking the most authoritative source (company ATS) over an aggregator repost.
 
 **De-dupe** the same role reposted across aggregators; keep the most authoritative link
-(company ATS > LinkedIn > aggregator).
+(company ATS > LinkedIn > aggregator). When you only found an aggregator repost (BeBee,
+JobLeads, Remote Rocketship), say so and flag that the original posting should be
+confirmed on apply.
 
 ## Step 3 — Quick Fit read + knockout scan (per role)
 This is a **fast** version of the `/tailor-resume` Fit Score — snippet-level, not a full
@@ -150,7 +161,9 @@ After writing the file:
 - **Honest Fit reads.** Snippet-level scores are estimates — label them `~` and never
   inflate a knockout into a match.
 - **Freshness:** prefer current postings; flag when a date can't be verified rather than
-  presenting a stale or undated post as open.
+  presenting a stale or undated post as open. Since board fetches usually 403, treat
+  posted/close dates from search snippets as **unverified** (mark them `~` or "per search
+  result") — never state a date as confirmed when you couldn't open the page.
 
 ---
 
