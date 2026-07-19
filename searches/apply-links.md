@@ -8,6 +8,18 @@ have a repost, I've said so and pointed you at the company careers page to confi
 > confirmed on the ATS. Email-apply roles don't expose the address in search — grab it from
 > the live posting.
 
+## Strongest fits (85+) — HubSpot partner-agency implementation
+
+Your sharpest archetype: HubSpot is a hard requirement (your #1 keyword), multi-client CRM
+config + client onboarding, agency setting. You meet every must-have with room to spare.
+**Honest caveat:** both are IC "Implementation Specialist" roles — the *fit* is 85+ because
+you clear the bar easily, but title/comp sit below your 15-yr level. High fit ≠ high level.
+
+| # | Role | Apply link | Fit | Notes |
+|---|------|-----------|-----|-------|
+| A | **1406 Consulting** — HubSpot Implementation Specialist | https://1406consulting.applytojob.com/apply/CZFR9uwcog/HubSpot-Implementation-Specialist | ~87 | HubSpot **Elite** Partner. Remote US. **$80–95k** + benefits. 3+ yrs agency/HubSpot-partner. JD maps near-verbatim to your HubSpot architecture bullets. Direct ATS (JazzHR). |
+| B | **CRM Force** — HubSpot Implementation Specialist | https://www.careers-page.com/digital-aura-careers/job/X945X793 | ~85 | Remote **US/Canada, GC/PR/citizen only, no sponsorship** (you qualify). 15–20 client onboardings at once. 2–4 yrs HubSpot. Confirm the entity (posted under "Digital Aura" recruiting network). |
+
 ## Primary — email / no-form apply (your stated preference)
 
 | # | Role | Apply link | Method | Notes |
@@ -36,3 +48,4 @@ have a repost, I've said so and pointed you at the company careers page to confi
 | **Fresh Prints** — Account Manager / CSM | ⛔ India-based | https://remotive.com/remote/jobs/account-management/account-manager-customer-success-manager-4731293 |
 | **Plooto** — Customer Success Manager | ⛔ Canada-only + sales quota | https://remotive.com/remote/jobs/customer-service/customer-success-manager-4387795 |
 | **RevOpsforce** — Marketing Ops Manager, **Automation** | ⛔ Requires Pardot/Salesforce Marketing Cloud (stack mismatch) | https://job-boards.greenhouse.io/revopsforce/jobs/4665136006 |
+| **Treantly** — HubSpot Onboarding Lead | ⛔ Philippines-based (great HubSpot fit otherwise) | https://jobs.workable.com/view/cchQbxtQaodsWYceg2uAdT/remote-hubspot-onboarding-lead-in-philippines-at-treantly |
