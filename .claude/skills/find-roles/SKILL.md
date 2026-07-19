@@ -4,12 +4,13 @@ description: >
   Search for live, currently-open job roles that fit Joshua Rotenberg, using web
   search. Use whenever asked to find, search, source, or discover roles/jobs/openings
   to apply to — as opposed to tailoring a resume for one specific posting you already
-  have. Reads the master profile to know his target role types, seniority, and location,
-  accepts optional filters (titles, remote/location, comp, company stage), runs a quick
-  Fit read + knockout scan on each hit, and saves a ranked shortlist to searches/<date>.md.
+  have. Covers full-time roles AND part-time / contract / fractional / freelance work.
+  Reads the master profile to know his target role types, seniority, and location,
+  accepts optional filters (titles, remote/location, comp, company stage, employment type),
+  runs a quick Fit read + knockout scan on each hit, and saves a ranked shortlist to searches/<date>.md.
   Hands the strongest matches off to /tailor-resume. Never invents postings — every role
   on the shortlist must trace to a real search result with a link.
-argument-hint: <optional filters — e.g. "remote HubSpot ops", "Denver CS lead", "AI ops startups">
+argument-hint: <optional filters — e.g. "remote HubSpot ops", "part-time contract", "fractional RevOps", "Denver CS lead">
 ---
 
 # Find Roles
@@ -39,13 +40,21 @@ Read `profile/master-profile.md` and derive the search targets **before** search
   and avoid VP/C-suite unless the user asks.
 - **Location & mode** — his base is **Arvada, Colorado**. Default to **remote (US)** plus
   **Denver / Colorado metro**; widen only if the user says so.
+- **Employment type** — search **both full-time roles AND part-time / contract /
+  fractional / freelance** work by default. Part-time and contract fit him well (he runs
+  Solenzo LLC and already works as a **fractional** success/implementation manager), and
+  fractional/contract engagements can run alongside it. Note the type on every result so
+  the shortlist separates a W-2 full-time role from a contract or fractional gig.
 
 Then apply the user's **filters** from the argument (titles, location/remote, comp floor,
-company stage/industry, must-have tool like HubSpot). User filters override the defaults.
-If the argument is empty, use the full default profile above.
+company stage/industry, must-have tool like HubSpot, and **employment type** — e.g.
+"part-time", "contract", "fractional", "freelance", or "full-time only"). User filters
+override the defaults: if the user asks only for contract/part-time work, drop full-time
+from the plan (and vice-versa). If the argument is empty, use the full default profile
+above (both employment types).
 
 State the resolved search plan to the user in 1–2 lines before searching (which titles,
-where, remote vs onsite), so they can redirect early.
+where, remote vs onsite, and which employment types), so they can redirect early.
 
 ## Step 2 — Search the web for openings
 Use **WebSearch** (and WebFetch to confirm a promising listing when needed). Run several
@@ -55,7 +64,16 @@ targeted queries, not one broad one — vary title × location × source. Good p
 - Board-scoped: append `site:boards.greenhouse.io`, `site:jobs.lever.co`,
   `site:jobs.ashbyhq.com`, `site:linkedin.com/jobs`, or `site:builtin.com` to catch
   ATS-hosted posts.
+- **Part-time / contract / fractional** (run these unless the user asked full-time only):
+  `"<title>" part-time remote`, `"<title>" contract remote`, `fractional <role> hiring`
+  (e.g. `fractional RevOps`, `fractional marketing ops`), `"<title>" freelance`. Also
+  scope contract/fractional-heavy sources: `site:contra.com`, `site:upwork.com`,
+  `site:continuum.club`, `site:gofractional.com`, `site:linkedin.com/jobs` with a
+  `part-time OR contract` qualifier.
 - If the user named a tool/stack (HubSpot, Salesforce), include it as an exact phrase.
+
+Balance the queries across employment types in the plan — don't let one type crowd out
+the other unless the user narrowed it.
 
 Aim to gather **10–20 candidate postings** across role types before ranking. For each,
 capture what the result gives you: company, title, location/mode, link, and any stated
@@ -101,6 +119,7 @@ bottom. Use this structure:
 ## Shortlist (best fit first)
 
 ### 1. <Company> — <Title>   ·  Fit ~<band> (<Strong/Stretch/Long shot>)
+- **Type:** <Full-time | Part-time | Contract | Fractional | Freelance>
 - **Where:** <location / remote>  ·  **Comp:** <as stated, or "not stated">
 - **Link:** <url>
 - **Why it fits:** <one line, true to profile>

@@ -12,14 +12,16 @@ In a Claude Code session opened on this repo:
 ### Find roles to apply to
 
 ```
-/find-roles                       # uses your profile's default targets (remote US + Colorado)
+/find-roles                       # default targets (remote US + Colorado), full-time + contract
 /find-roles remote HubSpot ops    # …or pass filters: titles, location, comp, stage, tool
+/find-roles fractional contract   # …or narrow to part-time / contract / fractional work
 ```
 
 The `find-roles` skill reads your master profile for target role types, seniority, and
-location, then uses **live web search** to surface currently-open postings. It runs a
-quick Fit read + knockout scan on each and saves a **ranked shortlist** to
-`searches/<date>.md` — best fit first, knockouts separated out — with a
+location, then uses **live web search** to surface currently-open postings. By default it
+covers both **full-time roles and part-time / contract / fractional** work (each result is
+labeled by type). It runs a quick Fit read + knockout scan on each and saves a **ranked
+shortlist** to `searches/<date>.md` — best fit first, knockouts separated out — with a
 `/tailor-resume <url>` next-step for each. Pass filters to narrow the search.
 
 ### Tailor a resume for a specific posting
