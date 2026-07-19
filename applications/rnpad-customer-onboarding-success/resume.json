@@ -1,0 +1,113 @@
+{
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Onboarding & Success Manager",
+  "style": "modern",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer onboarding and success professional with 15+ years in SaaS, MarTech, and agency environments, owning the first 30–60 days of the post-sale journey and turning complex products into fast, measurable value for non-technical users. I build onboarding plans, act as the customer's trusted point of contact after signup, and drive the adoption and retention that keep customers for the long haul — comfortable wearing many hats on a lean, fully remote team.",
+  "experience": [
+    {
+      "title": "Founder & Customer Success / Onboarding Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Lead end-to-end onboarding for new clients, translating business requirements into technical configuration and providing hands-on training that accelerates time-to-value.",
+        "Serve as the primary day-to-day point of contact after signup, managing operational needs and ensuring clients achieve their goals with complex SaaS platforms.",
+        "Design and deploy onboarding workflows and lifecycle sequences that activate, nurture, and retain users at scale.",
+        "Maintain clear, organized client records in HubSpot and Notion, documenting interactions, timelines, and deliverables so nothing drops between onboarding and support.",
+        "Provide regular reporting and proactive recommendations, tracking adoption and identifying opportunities to expand and retain accounts.",
+        "Break down manual workflows into repeatable playbooks and internal tooling that make onboarding and support faster and more consistent."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of SaaS marketing and reputation-management solutions.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction and time-to-value.",
+        "Functioned in a technical advisory capacity, guiding non-technical customers through complex product setup and troubleshooting.",
+        "Analyzed utilization and health metrics to identify adoption gaps and interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Served as onboarding/launch team lead and primary strategic contact, ensuring on-time delivery that accelerated time-to-value across a high-value portfolio.",
+        "Managed and developed a team of onboarding specialists, overseeing scope and delivery across diverse verticals.",
+        "Led growth consultations that helped non-technical clients adopt and succeed with the platform, contributing to a 30% increase in traffic and 25% improvement in conversion across e-commerce accounts."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Remote",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, serving as trusted advisor on CRM adoption for agencies and professional-services firms.",
+        "Partnered with implementation teams to troubleshoot workflow design and resolve technical challenges during onboarding."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts as strategic lead, coordinating delivery and addressing feedback to maintain satisfaction and retention.",
+        "Ensured consistent, world-class delivery quality across implementations, addressing client feedback promptly to sustain retention."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Managed client accounts across onboarding, campaign execution, and cross-team communication for a performance marketing agency.",
+        "Built and refined internal processes that reduced handoff errors and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Remote",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle acquisition and onboarding for a loyalty and marketing-automation platform targeting SMBs, developing consultative instincts around retention and technology adoption."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Built customer-management and compliance workflows from scratch in a highly regulated startup environment.",
+        "Developed early operational infrastructure — intake processes and reporting systems — scaling the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Customer Onboarding & Success", "items": ["Onboarding Strategy", "Time-to-Value Reduction", "Product Adoption", "Success Plans", "Retention", "Churn Prevention"]},
+    {"category": "Account Management", "items": ["Day-to-Day Contact", "Relationship Building", "Upsell Identification", "Escalation Management", "NPS"]},
+    {"category": "Technical Enablement", "items": ["Platform Configuration", "Hands-on Training", "Workflow Design", "Troubleshooting", "CRM Setup"]},
+    {"category": "Cross-functional", "items": ["Product Feedback Loops", "Support Collaboration", "Process Documentation", "Async Remote Teams"]},
+    {"category": "Tools & Platforms", "items": ["HubSpot", "Salesforce", "Notion", "Slack", "Zendesk", "Asana"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
+}

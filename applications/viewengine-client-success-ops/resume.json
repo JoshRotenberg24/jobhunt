@@ -1,0 +1,115 @@
+{
+  "name": "Joshua Rotenberg",
+  "headline": "Client Success & Operations Manager",
+  "style": "modern",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client success and operations leader with 15+ years owning the day-to-day relationship and delivery for portfolios of B2B, agency, and SaaS clients. I keep many clients moving at once — building the systems, timelines, and single source of truth that keep every engagement on schedule and every client seeing results. Hands-on with technical SEO, GA4, and CRM operations, and equal parts organized operator and strategic advisor who owns outcomes from onboarding through retention.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Client Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Serve as the primary strategic point of contact for a portfolio of service-based clients, leading discovery, onboarding, and ongoing success to keep each client aligned to their goals and seeing measurable results.",
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research, implementing fixes directly inside client CMS platforms to grow organic visibility.",
+        "Maintain a single source of truth for every client in HubSpot and Notion — goals, timelines, and deliverables — so overlapping deadlines stay organized and nothing slips.",
+        "Track client performance across GA4 and CRM analytics, delivering regular reporting, insights, and strategic recommendations that drive experimentation and growth.",
+        "Build AI-driven automation and internal tooling that scores a business's digital footprint and personalizes outreach, keeping delivery efficient across multiple clients.",
+        "Identify opportunities to expand retainer scope, recommending complementary services aligned with each client's objectives."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Acted as strategic lead on multi-stakeholder client accounts, coordinating execution across internal departments to deliver integrated campaigns on time.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Ensured consistent, world-class delivery quality, addressing client feedback promptly to maintain satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a high-volume client and partner network, driving rapid adoption of marketing, SEO, and reputation-management solutions.",
+        "Served as trusted advisor on retention, customer health, and workflow optimization, helping clients communicate and realize product value.",
+        "Analyzed utilization and health metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a high-value client portfolio across diverse verticals, contributing to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Served as onboarding/launch team lead and primary strategic contact, overseeing scope and delivery to ensure on-time launches across a busy portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Managed agency client accounts across campaign execution, performance reporting, and cross-team communication.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Remote",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and CRM adoption, advising agencies and professional-services firms on scalable operational systems.",
+        "Served as strategic advisor on CRM adoption, helping clients build scalable operational systems aligned to growth stage and team structure.",
+        "Engaged with leadership on issue escalation, strategic guidance, and account-level risk mitigation."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Remote",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing-automation platform targeting SMBs, developing consultative instincts around customer retention and technology adoption."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Built customer-management, service, and supplier workflows from scratch in a highly regulated startup environment.",
+        "Developed early operational infrastructure — intake processes and reporting systems — scaling the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Client Success & Account Management", "items": ["Onboarding", "Retention", "Success Plans", "Churn Prevention", "Upsell Identification", "QBRs"]},
+    {"category": "SEO & Growth", "items": ["Technical SEO Audits", "Keyword Gap Analysis", "Site Architecture", "CRO", "Content", "Landing Pages"]},
+    {"category": "Analytics & Reporting", "items": ["GA4", "Google Search Console", "Ahrefs", "Semrush", "Campaign Attribution", "KPI Dashboards"]},
+    {"category": "Operations & Delivery", "items": ["Process Mapping", "Project Management", "Cross-functional Coordination", "SOPs", "Multi-client Prioritization"]},
+    {"category": "Tools & Platforms", "items": ["HubSpot", "Notion", "Asana", "Slack", "WordPress", "GA4"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
+}
