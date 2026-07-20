@@ -48,11 +48,11 @@
 - Serve as the primary day-to-day contact for B2B clients, managing operational needs and ensuring they achieve their goals with complex SaaS platforms.
 - Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.
 - Collaborate directly with business owners and sales teams to align marketing programs with revenue objectives, ensuring consistent messaging and qualified lead flow.
-- Maintain clear, organized client records in HubSpot and Notion, documenting interactions, timelines, and deliverables.
+- Maintain clear, organized client records in GoHighLevel, HubSpot, and Notion, documenting interactions, timelines, and deliverables.
 
 **Marketing & Growth Systems**
 - Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.
-- Architect and deploy autonomous, AI-driven marketing systems for service-based businesses, automating lead enrichment, outreach, and appointment booking.
+- Architect and deploy autonomous, AI-driven marketing systems for service-based businesses — largely on GoHighLevel — automating lead enrichment, outreach, and appointment booking.
 - Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.
 - Design and deploy automated lifecycle sequences, onboarding workflows, and CRM architectures that activate, nurture, and retain high-value users at scale.
 - Conduct technical SEO audits, keyword gap analyses, and competitor research, implementing fixes directly inside client CMS platforms.
@@ -60,7 +60,7 @@
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
 
 **Operations & Technical Setup**
-- Architect and implement complex HubSpot CRM systems — contact segmentation, lifecycle stages, and strict data-hygiene protocols.
+- Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and strict data-hygiene protocols.
 - Build reusable agent infrastructure and internal tooling integrating with client CRMs and CMS platforms for 24/7 automated growth engines.
 - Act as the strategic value owner for B2B clients, architecting post-sale onboarding and technical setup for product adoption at scale.
 - Partner with B2B service clients to design, implement, and optimize marketing automation and CRM systems as a fractional success/implementation manager.
@@ -122,7 +122,7 @@
 
 | Role Type | Summary |
 | :--- | :--- |
-| HubSpot / Marketing Ops | Marketing operations leader and CRM architect with 5+ years building HubSpot workflows, campaign automation, and performance reporting infrastructure for service-based and mission-driven organizations. |
+| GHL / HubSpot / Marketing Ops | Marketing operations leader and CRM architect with 15+ years in marketing/revenue operations and 5+ years building CRM and marketing-automation systems — primarily in GoHighLevel, with hands-on HubSpot client builds — spanning campaign automation, lifecycle workflows, and performance reporting for agencies, service-based, and B2B organizations. |
 | Customer Success / Onboarding | Customer Onboarding and Account Management professional with 15+ years in MarTech, SaaS, and agency environments. Proven ability to own the first 30–60 days of the post-sale journey, translating complex product capabilities into measurable business value. |
 | Strategic Account / Client Success | Strategic customer success and account management professional with over a decade driving deep product adoption, high-value retention, and measurable business impact for SaaS and technology clients. |
 | Growth Marketing | Growth marketing leader and operations builder specializing in full-funnel acquisition, lifecycle marketing, and revenue operations. Founder of Solenzo, architecting high-converting acquisition engines for B2B and B2C. |
@@ -138,7 +138,7 @@
 
 | Category | Competencies |
 | :--- | :--- |
-| CRM & Marketing Automation | HubSpot CRM Architecture, Salesforce, GoHighLevel, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing |
+| CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, SEO, Email Marketing, Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Rapid Prototyping |
@@ -146,7 +146,7 @@
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Google Apps, Procore |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Google Apps, Procore |
 
 ---
 
@@ -155,7 +155,7 @@
 - **30% increase in website traffic** (Wix, e-commerce segment)
 - **25% improvement in conversion rates** (Wix, supported accounts / e-commerce segment)
 - **15+ years** total experience in MarTech / SaaS / agency
-- **5+ years** HubSpot / marketing-ops specific
+- **5+ years** building CRM & marketing automation (GoHighLevel primary, HubSpot secondary)
 
 > If a job calls for a metric not in this list, do NOT manufacture one. Use a
 > qualitative achievement instead, or flag it for Josh to supply a real number.

@@ -4,13 +4,15 @@
 **Purpose:** Ranked, leverage-first punch-list of the profile gaps that cap Fit Scores at "stretch." Fixing the top items raises the score against *every* future JD — not one posting.
 **Legend:** 🔧 = I can draft this now from true content · 🙋 = needs a real input from you (I won't fabricate) · ⏱️ effort · 📈 score lift
 
+> **Platform update (2026-07-19):** Josh's **primary CRM/marketing hub is GoHighLevel (GHL)**, with real hands-on **HubSpot** client automation builds as a genuine second platform. Strategy = **GHL-primary spike + HubSpot as a stretch lane (both markets).** GHL is the dominant platform in his actual niche (agencies, local-service, SMB automation) where the specialist field is thin — that's the sharper path to 90+. Master profile updated to lead CRM bullets with GHL and keep HubSpot as a true secondary.
+
 ---
 
-## 1. 🙋 Get HubSpot-certified — highest leverage, lowest effort
-- **Gap:** Only credential on file is the Google Digital Marketing cert. HubSpot/RevOps roles screen for HubSpot certification as a near-binary gate.
-- **Why it caps you:** "5+ yrs HubSpot" without a HubSpot cert reads as self-reported; many ATS filters and recruiters require the badge. This is the single most common knockout on your best-fit roles.
-- **Fix:** Earn (free, ~days each): **HubSpot Marketing Hub Software**, **Revenue Operations**, and **HubSpot CRM / Marketing Hub Implementation**. Add to Education & Certifications + Core Competencies.
-- **⏱️ Days · 📈 +5–10 on every HubSpot/RevOps role (clears a gate, not just a keyword).**
+## 1. 🙋 Credential both lanes — GHL portfolio + HubSpot cert
+- **Gap:** Only credential on file is the Google Digital Marketing cert. GHL roles value **demonstrated builds** over certs; HubSpot roles screen for the **HubSpot cert** as a near-binary gate.
+- **Why it caps you:** In your GHL niche, evidence = case studies of real client automations (you have these — they're just not packaged). In the HubSpot stretch lane, no HubSpot badge is a common knockout.
+- **Fix:** (a) **GHL lane** — package 2–3 short case studies of client automations you've built (problem → build → outcome); pursue HighLevel's own certification/badge if you want the formal stamp. (b) **HubSpot stretch lane** — earn the free **HubSpot Marketing Hub** + **Revenue Operations** certs. Add all to Education & Certifications.
+- **⏱️ GHL case studies ~2–3 hrs · HubSpot certs ~days · 📈 +5–10 per lane (evidence for GHL, gate-clear for HubSpot).**
 
 ## 2. 🔧 Stop under-claiming your marketing-ops tenure
 - **Gap:** Summaries say "5+ years HubSpot / marketing-ops." That's your *HubSpot-tool* years — but marketing/revenue operations as a **function** spans Solenzo + Level + Birdeye + Wix + Fetch & Funnel ≈ **10+ years**.
@@ -30,7 +32,7 @@
 ## 4. 🔧 Niche down — pick a spike, not 9 summaries
 - **Gap:** 9 summary variants = a generalist read. Generalists score ~75 against most JDs; specialists score ~90 in their lane.
 - **Why it caps you:** Breadth dilutes fit. The role you match on "a bit of everything" gives to the candidate whose headline is exactly it.
-- **Fix:** Lead with **one primary spike** — "**Fractional HubSpot / RevOps architect for B2B SaaS & service businesses**" — and **one secondary** (CS / onboarding). Keep the other variants as a back bench, not the front door. Reorder Core Competencies so CRM/MarketingAutomation + AI/Automation sit first.
+- **Fix:** Lead with **one primary spike** — "**Fractional GoHighLevel / CRM & marketing-automation architect for agencies, SaaS & service businesses**" (HubSpot named as a second platform) — and **one secondary** (CS / onboarding). Keep the other variants as a back bench, not the front door. Reorder Core Competencies so CRM/MarketingAutomation + AI/Automation sit first.
 - **⏱️ 1 hr · 📈 +5–10 in-lane; sharper title = higher match + better recall.**
 
 ## 5. 🔧 Surface the consulting you already have
