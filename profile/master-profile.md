@@ -61,6 +61,7 @@
 - Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.
 - Architect and deploy autonomous, AI-driven marketing systems for service-based businesses — largely on GoHighLevel — automating lead enrichment, outreach, and appointment booking.
 - Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.
+- Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions — acting as the bridge between business intent and reliable LLM output.
 - Design and deploy automated lifecycle sequences, onboarding workflows, and CRM architectures that activate, nurture, and retain high-value users at scale.
 - Architected and deployed a **complete GoHighLevel marketing-automation system — 20+ workflows** spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.
 - Built segmented cold-email outreach engines in GHL (website-visibility, missed-calls, and low-reviews campaigns) plus an automated **prospect "audit" workflow that enrolled 180+ contacts**, scoring a business's digital footprint to trigger personalized outreach.
@@ -144,7 +145,7 @@
 | Customer Success / Onboarding | Customer Onboarding and Account Management professional with 15+ years in MarTech, SaaS, and agency environments. Proven ability to own the first 30–60 days of the post-sale journey, translating complex product capabilities into measurable business value. |
 | Strategic Account / Client Success | Strategic customer success and account management professional with over a decade driving deep product adoption, high-value retention, and measurable business impact for SaaS and technology clients. |
 | Growth Marketing | Growth marketing leader and operations builder specializing in full-funnel acquisition, lifecycle marketing, and revenue operations. Founder of Solenzo, architecting high-converting acquisition engines for B2B and B2C. |
-| AI / Agentic Ops | Agentic operator and marketing systems architect building autonomous, AI-driven workflows that execute full-funnel growth. Bridges product thinking and engineering, rapidly prototyping and deploying AI agents. |
+| AI / Agentic Ops | Agentic operator and marketing systems architect building autonomous, AI-driven workflows that execute full-funnel growth. Bridges product thinking, engineering, and non-technical stakeholders — translating loosely-formed business intent into precise prompts and agent logic, then rapidly prototyping and deploying the AI agents that deliver it. |
 | Content / Writing | Content strategist and senior writer translating complex technical and operational concepts into clear, compelling narratives for product builders and B2B audiences. |
 | Marketing Generalist / Head of Marketing | Marketing generalist and operations builder with 15+ years owning the full marketing function in lean, fast-moving environments. Comfortable as sole marketing owner where building from scratch is the job. |
 | Analytics / Consulting | Marketing consultant and systems practitioner with 15+ years analyzing campaign performance, building strategic frameworks, and communicating findings to technical and non-technical stakeholders. |
@@ -159,7 +160,7 @@
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, SEO, Email Marketing, Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
-| AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Rapid Prototyping |
+| AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
