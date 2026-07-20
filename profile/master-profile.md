@@ -26,17 +26,17 @@
 
 ## Work History (employers, titles, dates — fixed facts)
 
-| Employer | Title | Dates |
-| :--- | :--- | :--- |
-| Solenzo LLC | Founder & Strategic / Marketing Operations Lead | Feb 2024 – Present |
-| Level Agency | Account Executive / Client Strategist | Sep 2024 – Feb 2025 |
-| Birdeye | Channel Partnerships & Customer Onboarding | Feb 2023 – Apr 2024 |
-| Fetch & Funnel | Account Executive / Sales Operations | Sep 2022 – Feb 2023 |
-| Wix.com | Account Manager, Onboarding Launch Specialist & Team Lead | Aug 2020 – Aug 2022 |
-| Accelo | Account Executive | Apr 2018 – Jul 2020 |
-| Fivestars | Account Executive | 2017 – 2018 |
-| Senior Directory | Business Development Representative | 2012 – 2016 |
-| Standing Akimbo | Co-Owner / Operations Lead | Jun 2010 – Sep 2012 |
+| Employer | Title | Location | Dates |
+| :--- | :--- | :--- | :--- |
+| Solenzo LLC | Founder & Strategic / Marketing Operations Lead | Arvada, CO (Remote) | Feb 2024 – Present |
+| Level Agency | Account Executive / Client Strategist | Remote | Sep 2024 – Feb 2025 |
+| Birdeye | Channel Partnerships & Customer Onboarding | Remote | Feb 2023 – Apr 2024 |
+| Fetch & Funnel | Account Executive / Sales Operations | Remote | Sep 2022 – Feb 2023 |
+| Wix.com | Account Manager, Onboarding Launch Specialist & Team Lead | Remote | Aug 2020 – Aug 2022 |
+| Accelo | Account Executive | Denver, CO | Apr 2018 – Jul 2020 |
+| Fivestars | Account Executive | Denver, CO | 2017 – 2018 |
+| Senior Directory | Business Development Representative | Denver, CO | 2012 – 2016 |
+| Standing Akimbo | Co-Owner / Operations Lead | Denver, CO | Jun 2010 – Sep 2012 |
 
 ---
 
