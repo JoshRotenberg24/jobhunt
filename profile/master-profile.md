@@ -35,6 +35,7 @@
 | Wix.com | Account Manager, Onboarding Launch Specialist & Team Lead | Aug 2020 – Aug 2022 |
 | Accelo | Account Executive | Apr 2018 – Jul 2020 |
 | Fivestars | Account Executive | 2017 – 2018 |
+| Senior Directory | Business Development Representative | 2012 – 2016 |
 | Standing Akimbo | Co-Owner / Operations Lead | Jun 2010 – Sep 2012 |
 
 ---
@@ -117,6 +118,10 @@
 ### Fivestars — Account Executive (2017 – 2018)
 - Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs — high-volume prospecting, lead qualification, and customer acquisition.
 - Developed consultative sales instincts around customer retention and technology adoption.
+
+### Senior Directory — Business Development Representative (2012 – 2016)
+- Prospected and qualified leads as a Business Development Representative, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings.
+- Developed the consultative outreach, qualification, and pipeline-building fundamentals that carried into later SaaS Account Executive roles.
 
 ### Standing Akimbo — Co-Owner / Operations Lead (Jun 2010 – Sep 2012)
 - Built compliance and customer-management systems from scratch in a highly regulated startup environment.
