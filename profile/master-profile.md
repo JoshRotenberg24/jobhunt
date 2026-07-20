@@ -56,6 +56,7 @@
 - Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.
 - Design and deploy automated lifecycle sequences, onboarding workflows, and CRM architectures that activate, nurture, and retain high-value users at scale.
 - Conduct technical SEO audits, keyword gap analyses, and competitor research, implementing fixes directly inside client CMS platforms.
+- Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
 - Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
 
@@ -82,6 +83,7 @@
 
 ### Birdeye — Channel Partnerships & Customer Onboarding (Feb 2023 – Apr 2024)
 - Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.
+- Onboarded and managed **15–20 reseller partners** (deal sizes ~$10K–$45K), **retaining all but one (~94% retention)** during tenure.
 - Served as trusted advisor on retention strategy, customer health metrics, and automated workflows, helping partners communicate product value.
 - Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.
 - Functioned in a technical advisory capacity, guiding customers through complex setup of reputation and marketing automation tools.
@@ -161,6 +163,7 @@
 - **5+ years** building CRM & marketing automation (GoHighLevel primary, HubSpot secondary)
 - **~$17,750/month average implementation (services) bookings at Accelo (~$213K/yr annualized)**, plus new recurring revenue — consistently above commission floor into accelerator tiers (per Accelo commission records)
 - **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure
+- **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
 
 > If a job calls for a metric not in this list, do NOT manufacture one. Use a
 > qualitative achievement instead, or flag it for Josh to supply a real number.
