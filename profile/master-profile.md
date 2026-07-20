@@ -99,6 +99,7 @@
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
 - Served as team lead for onboarding/launch operations, the primary strategic contact ensuring on-time delivery that accelerated time-to-value.
 - Proactively communicated with clients on goals and initiatives, driving a **25% improvement in conversion rates** across supported accounts.
+- Helped build a brand-new Wix team/vertical from proof-of-concept to a profitable, impactful business line — contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives. *(Corroborated by direct manager's written LinkedIn recommendation — see References.)*
 
 ### Accelo — Account Executive (Apr 2018 – Jul 2020)
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
@@ -159,3 +160,12 @@
 
 > If a job calls for a metric not in this list, do NOT manufacture one. Use a
 > qualitative achievement instead, or flag it for Josh to supply a real number.
+
+---
+
+## References & Social Proof (verbatim, attributed — LinkedIn recommendations)
+
+- **Camille Ramirez** — Manager, Account Management (managed Josh directly at Wix), Aug 2022:
+  > "Josh is the leader you want on your team… heavily involved in developing a brand new team from proof of concept to a profitable and impactful vertical at Wix. He was the first to lead team initiatives, and also the first to pitch new innovative ideas to continuously streamline and make processes more efficient. He assisted with hiring, onboarding, and training new hires as well as helping develop sales training for tenured executives… I would hire him again in an instant."
+- **Nophar Haimovitz** — Customer Success Manager, Wix (teammate), Sep 2022:
+  > "Josh… has vast SaaS and product knowledge like no other, and he is always happy to share it with his customers and team. Josh is a reliable and collaborative teammate… great communications and sales skills, positioning him at the top of the team. Highly recommended."
