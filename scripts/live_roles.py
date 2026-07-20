@@ -65,7 +65,8 @@ def _get(url):
 
 def _epoch_ms_to_date(ms):
     try:
-        return dt.datetime.utcfromtimestamp(int(ms) / 1000).date()
+        # Parse in UTC (matches the ATS timestamps and dt.date.today() in a UTC container).
+        return dt.datetime.fromtimestamp(int(ms) / 1000, tz=dt.timezone.utc).date()
     except Exception:
         return None
 
@@ -153,7 +154,8 @@ def main():
     ap.add_argument("--out", default=None, help="Write markdown shortlist to this path.")
     args = ap.parse_args()
 
-    cfg = json.load(open(args.boards))
+    with open(args.boards) as f:
+        cfg = json.load(f)
     today = dt.date.today()
     cutoff = today - dt.timedelta(days=args.days - 1)
 
