@@ -1,16 +1,23 @@
 #!/usr/bin/env python3
 """
-live_roles.py — Pull GENUINELY-LIVE, DATE-STAMPED roles straight from ATS APIs.
+live_roles.py — Pull GENUINELY-LIVE, DATE-STAMPED roles straight from job APIs.
 
 Why this exists
 ---------------
 WebSearch returns a stale search *index*: filled roles linger for weeks, so
 "liveness by re-search" ships dead links. The ATS JSON APIs (Lever, Greenhouse,
-Ashby) return ONLY currently-open postings, each with a real published/updated
-timestamp — so we can (a) trust every link is live and (b) actually filter to
-"posted today". This only works when the environment's network policy allows
-outbound to these hosts; on a locked-down policy every request 403s and the
-script tells you so instead of pretending.
+Ashby) and the remote-board APIs (RemoteOK, Remotive, Himalayas, Jobicy,
+WeWorkRemotely RSS) return ONLY currently-open postings, each with a real
+published/updated timestamp — so we can (a) trust every link is live and
+(b) actually filter to "posted today". This only works when the environment's
+network policy allows outbound to these hosts; on a locked-down policy every
+request 403s and the script tells you so instead of pretending.
+
+Search shape: WIDE sources, TIGHT parameters. Company ATS boards give depth on
+known-fit companies; the remote boards sweep the whole remote market. The
+filters compensate for that width: title include-list AND exclude-list
+(no junior/intern/VP/C-suite/engineering), geo gating to US-friendly remote for
+aggregator roles, plus the master-profile knockouts (language, excluded regions).
 
 Usage
 -----
@@ -24,12 +31,14 @@ deps — stdlib only.
 """
 import argparse
 import datetime as dt
+import email.utils
 import json
 import os
 import re
 import sys
 import urllib.error
 import urllib.request
+import xml.etree.ElementTree as ET
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -54,13 +63,30 @@ KNOCKOUT_LANG = re.compile(r"\b(bilingual|spanish|español|português|portuguese
 # Soft flag: dedicated-RevOps roles often demand 5+ titled RevOps yrs Josh doesn't have.
 REVOPS_CAUTION = re.compile(r"\b(revenue operations|revops|sales operations)\b", re.I)
 
+# Tight parameters — title-level exclusions (wrong seniority band or wrong craft).
+# Manager/lead/senior-IC band only: no interns/juniors, no VP/C-suite, no engineering reqs.
+EXCLUDE_TITLE = re.compile(
+    r"\b(intern(ship)?|junior|jr\.?|entry[- ]level|vp\b|vice president|chief|"
+    r"c[teom]o\b|president|engineer(ing)?|developer|data scientist)\b", re.I)
+
+# Geo gate for aggregator (remote-board) roles, which list worldwide postings:
+# the stated candidate location must plausibly include a US-based worker.
+US_OK = re.compile(
+    r"\b(usa?|u\.s\.a?\.?|united states|north america|americas?|worldwide|"
+    r"anywhere|global|international)\b", re.I)
+GEO_UNRESTRICTED = re.compile(r"^\s*(remote|flexible|)\s*$", re.I)
+
 HEADERS = {"User-Agent": "Mozilla/5.0 (jobhunt live_roles.py)"}
 
 
-def _get(url):
+def _get_raw(url):
     req = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=25) as r:
-        return json.loads(r.read().decode("utf-8"))
+        return r.read().decode("utf-8")
+
+
+def _get(url):
+    return json.loads(_get_raw(url))
 
 
 def _epoch_ms_to_date(ms):
@@ -75,12 +101,26 @@ def _iso_to_date(s):
     if not s:
         return None
     try:
-        return dt.datetime.fromisoformat(s.replace("Z", "+00:00")).date()
+        return dt.datetime.fromisoformat(str(s).replace("Z", "+00:00")).date()
     except Exception:
         try:
-            return dt.datetime.strptime(s[:10], "%Y-%m-%d").date()
+            return dt.datetime.strptime(str(s)[:10], "%Y-%m-%d").date()
         except Exception:
             return None
+
+
+def _epoch_s_to_date(s):
+    try:
+        return dt.datetime.fromtimestamp(int(s), tz=dt.timezone.utc).date()
+    except Exception:
+        return None
+
+
+def _rfc822_to_date(s):
+    try:
+        return email.utils.parsedate_to_datetime(s).date()
+    except Exception:
+        return None
 
 
 def fetch_lever(handle, company):
@@ -128,9 +168,107 @@ def fetch_ashby(handle, company):
 FETCHERS = {"lever": fetch_lever, "greenhouse": fetch_greenhouse, "ashby": fetch_ashby}
 
 
+# --- Remote-board aggregators (wide sweep; roles get geo_gated=True) ------------
+
+def fetch_remoteok(cfg):
+    data = _get("https://remoteok.com/api")
+    out = []
+    for j in data:
+        if not isinstance(j, dict) or not j.get("position"):
+            continue  # first element is a legal notice
+        out.append({
+            "company": j.get("company", ""), "title": j.get("position", ""),
+            "location": j.get("location", ""), "type": "",
+            "url": j.get("url", ""),
+            "posted": _iso_to_date(j.get("date")),
+            "via": "RemoteOK", "geo_gated": True,
+        })
+    return out
+
+
+def fetch_remotive(cfg):
+    data = _get("https://remotive.com/api/remote-jobs?limit=%d" % cfg.get("limit", 200))
+    out = []
+    for j in data.get("jobs", []):
+        out.append({
+            "company": j.get("company_name", ""), "title": j.get("title", ""),
+            "location": j.get("candidate_required_location", ""),
+            "type": (j.get("job_type") or "").replace("_", "-"),
+            "url": j.get("url", ""),
+            "posted": _iso_to_date(j.get("publication_date")),
+            "via": "Remotive", "geo_gated": True,
+        })
+    return out
+
+
+def fetch_himalayas(cfg):
+    data = _get("https://himalayas.app/jobs/api?limit=%d" % cfg.get("limit", 100))
+    out = []
+    for j in data.get("jobs", []):
+        locs = j.get("locationRestrictions") or []
+        out.append({
+            "company": j.get("companyName", ""), "title": j.get("title", ""),
+            "location": ", ".join(locs) if isinstance(locs, list) else str(locs),
+            "type": "", "url": j.get("applicationLink") or j.get("guid", ""),
+            "posted": _epoch_s_to_date(j.get("pubDate")),
+            "via": "Himalayas", "geo_gated": True,
+        })
+    return out
+
+
+def fetch_jobicy(cfg):
+    data = _get("https://jobicy.com/api/v2/remote-jobs?count=%d" % cfg.get("limit", 100))
+    out = []
+    for j in data.get("jobs", []):
+        jt = j.get("jobType")
+        out.append({
+            "company": j.get("companyName", ""), "title": j.get("jobTitle", ""),
+            "location": j.get("jobGeo", ""),
+            "type": ", ".join(jt) if isinstance(jt, list) else (jt or ""),
+            "url": j.get("url", ""),
+            "posted": _iso_to_date(j.get("pubDate")),
+            "via": "Jobicy", "geo_gated": True,
+        })
+    return out
+
+
+WWR_DEFAULT_CATEGORIES = [
+    "remote-sales-and-marketing-jobs",
+    "remote-customer-support-jobs",
+    "remote-management-and-finance-jobs",
+]
+
+
+def fetch_weworkremotely(cfg):
+    out = []
+    for cat in cfg.get("categories", WWR_DEFAULT_CATEGORIES):
+        root = ET.fromstring(_get_raw(f"https://weworkremotely.com/categories/{cat}.rss"))
+        for item in root.iter("item"):
+            raw_title = (item.findtext("title") or "").strip()
+            company, _, title = raw_title.partition(":")
+            if not title:  # no "Company: Title" split — keep whole string as title
+                company, title = "", raw_title
+            out.append({
+                "company": company.strip(), "title": title.strip(),
+                "location": (item.findtext("region") or "").strip(),
+                "type": (item.findtext("type") or "").strip(),
+                "url": (item.findtext("link") or "").strip(),
+                "posted": _rfc822_to_date(item.findtext("pubDate") or ""),
+                "via": "WeWorkRemotely", "geo_gated": True,
+            })
+    return out
+
+
+AGG_FETCHERS = {
+    "remoteok": fetch_remoteok, "remotive": fetch_remotive,
+    "himalayas": fetch_himalayas, "jobicy": fetch_jobicy,
+    "weworkremotely": fetch_weworkremotely,
+}
+
+
 def is_fit(title):
     t = title.lower()
-    return any(k in t for k in INCLUDE)
+    return any(k in t for k in INCLUDE) and not EXCLUDE_TITLE.search(title)
 
 
 def classify(role):
@@ -140,6 +278,12 @@ def classify(role):
         return "knockout", "geo excludes US/CO"
     if KNOCKOUT_LANG.search(blob):
         return "knockout", "language requirement (Josh is English-only)"
+    # Aggregator boards list worldwide roles; a stated location that never
+    # mentions a US-compatible region means a US applicant is out of scope.
+    loc = role.get("location", "")
+    if role.get("geo_gated") and loc and not GEO_UNRESTRICTED.match(loc) \
+            and not US_OK.search(loc):
+        return "knockout", f"geo excludes US ({loc})"
     if REVOPS_CAUTION.search(role["title"]):
         return "caution", "titled RevOps/SalesOps role — often wants 5+ dedicated RevOps yrs Josh lacks; verify requirements"
     return "shortlist", ""
@@ -175,6 +319,23 @@ def main():
         except Exception as e:  # noqa
             errors.append(f"{b['company']} ({b['platform']}): {e}")
 
+    for rb in cfg.get("remote_boards", []):
+        rb = rb if isinstance(rb, dict) else {"platform": rb}
+        name = rb.get("platform", "")
+        fetch = AGG_FETCHERS.get(name)
+        if not fetch:
+            errors.append(f"remote board: unknown platform {name}")
+            continue
+        try:
+            roles.extend(fetch(rb))
+        except urllib.error.HTTPError as e:
+            errors.append(f"{name} (remote board): HTTP {e.code}")
+        except urllib.error.URLError as e:
+            errors.append(f"{name} (remote board): {e.reason} "
+                          f"(network policy likely blocks this host)")
+        except Exception as e:  # noqa
+            errors.append(f"{name} (remote board): {e}")
+
     # De-dupe by url
     seen, deduped = set(), []
     for r in roles:
@@ -198,8 +359,9 @@ def main():
     scope = "all open" if args.all_dates else (
         "posted today" if args.days == 1 else f"posted within {args.days} days")
     lines.append(f"# Live roles — {today} ({scope})\n")
-    lines.append(f"_Source: ATS APIs (Lever/Greenhouse/Ashby). Every link below is a currently-open "
-                 f"posting; dates are real publish/update timestamps from the ATS._\n")
+    lines.append(f"_Source: ATS APIs (Lever/Greenhouse/Ashby) + remote-board APIs "
+                 f"(RemoteOK/Remotive/Himalayas/Jobicy/WeWorkRemotely). Every link below is a "
+                 f"currently-open posting; dates are real publish/update timestamps from the source._\n")
     if not shortlist and not caution:
         lines.append("**No matching live roles in this window.** Widen with `--days 7` or `--all-dates`, "
                      "or add more boards to `scripts/boards.json`.\n")
@@ -208,8 +370,9 @@ def main():
         for r in shortlist:
             d = r["posted"].isoformat() if r["posted"] else "date n/a"
             tag = " _(updated, not created)_" if r.get("date_is_updated") else ""
+            via = f" · via {r['via']}" if r.get("via") else ""
             lines.append(f"- **{r['company']} — {r['title']}** · {r['location'] or 'loc n/a'}"
-                         f" · {r['type'] or 'type n/a'} · posted {d}{tag}\n  {r['url']}")
+                         f" · {r['type'] or 'type n/a'} · posted {d}{tag}{via}\n  {r['url']}")
     if caution:
         lines.append("\n## Verify fit before applying\n")
         for r in caution:
