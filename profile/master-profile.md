@@ -92,6 +92,7 @@
 - Managed client accounts focused on campaign execution, performance reporting, and cross-team communication for a performance marketing agency.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
+- Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
 
 ### Wix.com — Account Manager, Onboarding Launch Specialist & Team Lead (Aug 2020 – Aug 2022)
 - Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.
@@ -107,6 +108,7 @@
 - Served as strategic advisor on CRM adoption, helping clients build scalable operational systems aligned to growth stage and team structure.
 - Partnered with implementation teams to guide onboarding, troubleshooting workflow design and resolving technical challenges.
 - Engaged with leadership on issue escalation, strategic guidance, and account-level risk mitigation.
+- Consistently performed above commission floor into accelerator ("doubling") tiers — averaging **~$17,750/month in implementation/services bookings (~$213K annualized)** plus new recurring revenue, earning roughly **$9,300 in monthly performance commission**.
 
 ### Fivestars — Account Executive (2017 – 2018)
 - Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs — high-volume prospecting, lead qualification, and customer acquisition.
@@ -157,6 +159,8 @@
 - **25% improvement in conversion rates** (Wix, supported accounts / e-commerce segment)
 - **15+ years** total experience in MarTech / SaaS / agency
 - **5+ years** building CRM & marketing automation (GoHighLevel primary, HubSpot secondary)
+- **~$17,750/month average implementation (services) bookings at Accelo (~$213K/yr annualized)**, plus new recurring revenue — consistently above commission floor into accelerator tiers (per Accelo commission records)
+- **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure
 
 > If a job calls for a metric not in this list, do NOT manufacture one. Use a
 > qualitative achievement instead, or flag it for Josh to supply a real number.
