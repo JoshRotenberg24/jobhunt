@@ -56,15 +56,32 @@ above (both employment types).
 State the resolved search plan to the user in 1–2 lines before searching (which titles,
 where, remote vs onsite, and which employment types), so they can redirect early.
 
-## Step 2 — Search the web for openings
-Use **WebSearch** as the primary tool. You *may* try **WebFetch** to confirm a promising
-listing, but expect it to fail: in this environment job boards (Greenhouse, Lever, Ashby,
-Built In, LinkedIn, Indeed, HubSpot community, fractionaljobs, aggregators like BeBee /
-JobLeads) almost always return **403** to automated fetches. So treat the **search-result
-snippet as the primary evidence**, and mark any page-level detail you couldn't fetch
-(exact comp, posted/close dates, full requirements) as **unverified** rather than stating
-it as confirmed. Run several targeted queries, not one broad one — vary title × location ×
-source. Good patterns:
+## Step 0 — Try the ATS APIs FIRST (the only reliable "posted today" source)
+Before searching, run `python scripts/live_roles.py --days <N>` (N=1 for "today").
+It queries the Lever/Greenhouse/Ashby JSON APIs listed in `scripts/boards.json` and
+returns **only currently-open roles with real publish timestamps** — so links can't be
+dead and "posted today" is actually enforceable. Add relevant company handles to
+`scripts/boards.json` as you discover them.
+
+- **If the script returns roles:** those are your verified, dated shortlist core. Trust
+  them over any search snippet. Still run Step 2 search to widen coverage beyond the
+  boards in the config.
+- **If the script reports every board 403/blocked:** the environment's network policy
+  denies outbound to job boards. Say so plainly, and warn the user that WebSearch-only
+  results (Step 2) **cannot be liveness-verified or date-confirmed from inside the
+  session** — the "posted today" guarantee is impossible here without opening network
+  access. Do NOT present snippet results as confirmed-live; see the liveness rules below.
+
+## Step 2 — Search the web for openings (leads only, when the API path is blocked/partial)
+Use **WebSearch** as the primary tool. **Critical:** WebSearch hits a search *index*, not
+the live board — filled roles linger in the index for days/weeks, so **a role appearing in
+search is NOT evidence it is still open.** WebFetch to the actual posting almost always
+**403s** in this environment (job boards + their ATS APIs alike), so you usually cannot
+independently confirm a snippet role is live. Therefore treat every WebSearch hit as an
+**unverified lead the user must confirm by clicking**, and mark all page-level detail
+(comp, posted/close dates, requirements) as **unverified**. Never state a snippet role as
+confirmed-live or "posted today." Run several targeted queries, not one broad one — vary
+title × location × source. Good patterns:
 - `"<title>" remote jobs 2026` and `"<title>" jobs Denver Colorado`
 - `"<title>" <industry> hiring` (e.g. SaaS, MarTech, B2B)
 - Board-scoped: append `site:boards.greenhouse.io`, `site:jobs.lever.co`,
@@ -86,9 +103,10 @@ capture what the result gives you: company, title, location/mode, link, and any 
 comp or must-haves. Prefer results that look **current** (2026 / "posted recently"); note
 when a date isn't verifiable rather than assuming freshness.
 
-> Many boards (Greenhouse/Lever/Workday/LinkedIn) block automated fetching. That's fine
-> at this stage — the search snippet + link is enough for the shortlist. Deep parsing
-> happens later in `/tailor-resume`, which will ask for a paste if the fetch walls off.
+> Many boards (Greenhouse/Lever/Workday/LinkedIn) block automated fetching, so a snippet
+> link is a **lead, not a confirmed-live role** — it must be labeled unverified unless it
+> came from `scripts/live_roles.py`. Deep parsing happens later in `/tailor-resume`, which
+> will ask for a paste if the fetch walls off.
 > **Because those same boards block fetching, the `/tailor-resume <url>` handoff will
 > usually need the JD pasted in** — so tell the user to have the JD text handy, and
 > prefer linking the most authoritative source (company ATS) over an aggregator repost.
@@ -110,13 +128,18 @@ Every one of these is mandatory:
 3. **Aggregators rot fast** (JobLeads, BeBee, remoteleaf, Remotive reposts, Remote
    Rocketship, jobgether). If that's the only link you have, keep it but label it
    `⚠ aggregator repost — may be expired, confirm on company careers page`.
-4. **Liveness pass before finalizing (required).** For each role that will make the
-   shortlist, run one confirming `WebSearch` for `"<Company>" "<Title>"`. Keep the role
-   **only if it still surfaces as a current posting**; if a fresh re-search no longer
-   returns it, treat it as **likely filled/expired** and drop it (or move it to Screened
-   out with a "could not confirm still open" note). **A WebFetch 403 is NOT evidence of
-   expiry** — it's the board blocking automation; judge liveness by whether the role still
-   appears in fresh search results, never by a 403.
+4. **Liveness pass before finalizing (required).**
+   - **Roles from `scripts/live_roles.py` (Step 0) are already verified live** — they came
+     straight from the ATS API. Use them as-is.
+   - **Roles from WebSearch only cannot be liveness-verified from inside a locked-down
+     session.** Re-searching just re-hits the same lagging index, so a role re-appearing in
+     search is NOT proof it is open (this is exactly how expired roles get shipped). Do the
+     re-search to drop obvious rot, but **never label a snippet-only role "confirmed live"
+     or "posted today."** Mark every such link `⚠ unverified — confirm by opening` and tell
+     the user the shortlist contains leads they must click to confirm.
+   - **A WebFetch 403 is NOT evidence of expiry** — it's the board blocking automation. But
+     the inverse is also true: a search hit is not evidence of liveness. When neither the
+     API nor a fetch is available, the only real confirmation is the user opening the link.
 
 ## Step 3 — Quick Fit read + knockout scan (per role)
 This is a **fast** version of the `/tailor-resume` Fit Score — snippet-level, not a full
