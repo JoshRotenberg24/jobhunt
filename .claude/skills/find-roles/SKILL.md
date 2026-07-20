@@ -93,18 +93,44 @@ when a date isn't verifiable rather than assuming freshness.
 > usually need the JD pasted in** — so tell the user to have the JD text handy, and
 > prefer linking the most authoritative source (company ATS) over an aggregator repost.
 
-**De-dupe** the same role reposted across aggregators; keep the most authoritative link
-(company ATS > LinkedIn > aggregator). When you only found an aggregator repost (BeBee,
-JobLeads, Remote Rocketship), say so and flag that the original posting should be
-confirmed on apply.
+### Link quality & liveness — DO NOT SKIP (this is where stale/dead links come from)
+The #1 failure of this skill is shipping links that 404 or point at the wrong thing.
+Every one of these is mandatory:
+
+1. **One link per role, and it must be the *specific posting* for THAT exact company +
+   title.** Never reuse another role's URL, never approximate or hand-build a URL, and
+   never point at a **generic landing/search page** (e.g. `jobs.lever.co/<company>` with
+   no req id, `builtin.com/jobs/...search...`, `revopscareers.com`, a board's category
+   page). If you do not have the exact posting URL from a search result, **do not invent
+   one** — list the role with `Link: (no direct link — search "<Company>" "<Title>")`
+   instead of a guessed URL.
+2. **Prefer the company's own ATS req link.** Authority order: company ATS specific req
+   (greenhouse/lever/ashby/workday with a job id) > LinkedIn/Built In *specific* job page
+   > aggregator. **De-dupe** the same role across reposts and keep the most authoritative.
+3. **Aggregators rot fast** (JobLeads, BeBee, remoteleaf, Remotive reposts, Remote
+   Rocketship, jobgether). If that's the only link you have, keep it but label it
+   `⚠ aggregator repost — may be expired, confirm on company careers page`.
+4. **Liveness pass before finalizing (required).** For each role that will make the
+   shortlist, run one confirming `WebSearch` for `"<Company>" "<Title>"`. Keep the role
+   **only if it still surfaces as a current posting**; if a fresh re-search no longer
+   returns it, treat it as **likely filled/expired** and drop it (or move it to Screened
+   out with a "could not confirm still open" note). **A WebFetch 403 is NOT evidence of
+   expiry** — it's the board blocking automation; judge liveness by whether the role still
+   appears in fresh search results, never by a 403.
 
 ## Step 3 — Quick Fit read + knockout scan (per role)
 This is a **fast** version of the `/tailor-resume` Fit Score — snippet-level, not a full
 resume build. For each candidate, using only what the profile supports:
-- **Knockout scan first.** Flag hard blockers visible in the listing: onsite in a city he
-  can't do, required security clearance/license he lacks, work-auth constraints, or a
-  hard minimum-years bar far above his. A hard knockout **caps the role's read at ~25 and
-  gets a ⛔ flag** — no tailoring fixes it.
+- **Knockout scan first.** Flag hard blockers visible in the listing. A hard knockout
+  **caps the role's read at ~25 and gets a ⛔ flag** — no tailoring fixes it. Check for:
+  - **Language:** Josh is **English only (not bilingual)** — any role requiring a second
+    language / bilingual fluency (Spanish, etc.) is a hard knockout. Watch the wording:
+    "bilingual required," "Spanish fluency," "must be fluent in <language>."
+  - **Location:** onsite in a city he can't do, relocation required, or a remote posting
+    whose allowed-work-states list **excludes Colorado** → knockout. (A soft geo
+    *preference* that still allows other US states is a watch-out, not a knockout.)
+  - Required security clearance/license he lacks, work-auth constraints, or a hard
+    minimum-years bar far above his.
 - **Quick Fit band (0–100)** using the same dimensions as the tailor-resume rubric
   (must-haves met · seniority/scope · domain · differentiators · evidence), estimated
   from the snippet. Round to a band, don't over-precision a snippet-level read:
@@ -132,7 +158,7 @@ bottom. Use this structure:
 ### 1. <Company> — <Title>   ·  Fit ~<band> (<Strong/Stretch/Long shot>)
 - **Type:** <Full-time | Part-time | Contract | Fractional | Freelance>
 - **Where:** <location / remote>  ·  **Comp:** <as stated, or "not stated">
-- **Link:** <url>
+- **Link:** <specific-posting url — or `(no direct link — search "<Company>" "<Title>")`; add `⚠ aggregator` if it's a repost>  ·  **Liveness:** <confirmed in fresh search / aggregator-only, confirm on apply>
 - **Why it fits:** <one line, true to profile>
 - **Watch-out:** <gap / unknown / knockout note>
 - **Next:** `/tailor-resume <url>`
@@ -156,6 +182,15 @@ After writing the file:
 ## Step 6 — Guardrails (hard rules)
 - **Every role must be real** — traceable to a search result with a working link. If a
   search yields nothing solid, say so plainly; do not invent listings to fill the page.
+- **No fabricated or mismatched links.** Each link must be the specific posting for that
+  exact company + title, from a real search result. Never reuse one role's URL for
+  another, never hand-build/guess a URL, and never substitute a generic board landing
+  page. No exact URL → write `(no direct link — search "<Company>" "<Title>")`.
+- **Run the liveness pass** (Step 2 → Link quality & liveness) on every finalist and drop
+  roles a fresh re-search can no longer surface. Prefer company-ATS links; flag aggregator
+  reposts as possibly expired.
+- **English-only knockout:** any role requiring a second language / bilingual fluency is
+  screened out (see Step 3).
 - **Don't fabricate comp, dates, or requirements** the listing doesn't state — write
   "not stated" and let `/tailor-resume` extract details from the real JD later.
 - **Honest Fit reads.** Snippet-level scores are estimates — label them `~` and never

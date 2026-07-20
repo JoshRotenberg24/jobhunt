@@ -16,6 +16,12 @@
 | Phone | 303-726-5037 |
 | LinkedIn | linkedin.com/in/joshua-rotenberg |
 | Company | Solenzo LLC (Founder) |
+| Languages | English only (not bilingual) |
+
+> **Job-search knockouts (constraints, not resume content):** English only — any role
+> that requires a second language / bilingual (e.g. Spanish) fluency is a hard knockout.
+> Based in Arvada, CO — remote (US) or Denver/Colorado metro only; roles that exclude
+> Colorado or require relocation/onsite elsewhere are knockouts.
 
 ## Education & Certifications
 
