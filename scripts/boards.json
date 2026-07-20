@@ -1,0 +1,20 @@
+{
+  "_comment": "ATS boards to query for live roles. platform = lever | greenhouse | ashby. handle = the company slug in the board URL (e.g. jobs.lever.co/<handle>, boards.greenhouse.io/<handle>, jobs.ashbyhq.com/<handle>). Add/remove freely. Seeded from the 2026-07-20 search; not all of these hire for Josh's profile at any given time — the script just skips empty/irrelevant boards.",
+  "boards": [
+    { "platform": "ashby", "handle": "directive", "company": "Directive Consulting" },
+    { "platform": "ashby", "handle": "palette-media", "company": "Palette Media" },
+    { "platform": "ashby", "handle": "rula", "company": "Rula" },
+    { "platform": "ashby", "handle": "sona", "company": "Sona" },
+    { "platform": "ashby", "handle": "vic.ai", "company": "Vic.ai" },
+    { "platform": "ashby", "handle": "easyllama.com", "company": "EasyLlama" },
+    { "platform": "ashby", "handle": "jellyfishcareers", "company": "Jellyfish" },
+    { "platform": "lever", "handle": "gouconnect", "company": "uConnect" },
+    { "platform": "lever", "handle": "truv", "company": "Truv" },
+    { "platform": "lever", "handle": "wishpond", "company": "Wishpond" },
+    { "platform": "lever", "handle": "dealerware", "company": "Dealerware" },
+    { "platform": "lever", "handle": "honkforhelp", "company": "HONK" },
+    { "platform": "greenhouse", "handle": "revopsforce", "company": "RevOpsforce" },
+    { "platform": "greenhouse", "handle": "recharge", "company": "ReCharge Payments" },
+    { "platform": "greenhouse", "handle": "anomalojobs", "company": "Anomalo" }
+  ]
+}
