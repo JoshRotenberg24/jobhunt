@@ -58,10 +58,13 @@ where, remote vs onsite, and which employment types), so they can redirect early
 
 ## Step 0 — Try the ATS APIs FIRST (the only reliable "posted today" source)
 Before searching, run `python scripts/live_roles.py --days <N>` (N=1 for "today").
-It queries the Lever/Greenhouse/Ashby JSON APIs listed in `scripts/boards.json` and
-returns **only currently-open roles with real publish timestamps** — so links can't be
-dead and "posted today" is actually enforceable. Add relevant company handles to
-`scripts/boards.json` as you discover them.
+It queries the Lever/Greenhouse/Ashby JSON APIs listed in `scripts/boards.json` **plus
+the wide-sweep remote-board APIs (RemoteOK, Remotive, Himalayas, Jobicy, WeWorkRemotely
+RSS)** and returns **only currently-open roles with real publish timestamps** — so links
+can't be dead and "posted today" is actually enforceable. Remote-board roles are
+geo-gated to US-friendly locations and title-filtered to Josh's seniority band (no
+junior/intern/VP/C-suite/engineering) — wide search, tight parameters. Add relevant
+company handles to `scripts/boards.json` as you discover them.
 
 - **If the script returns roles:** those are your verified, dated shortlist core. Trust
   them over any search snippet. Still run Step 2 search to widen coverage beyond the

@@ -15,6 +15,7 @@ Run:  python3 scripts/test_live_roles.py
 """
 import contextlib
 import datetime as dt
+import email.utils
 import io
 import json
 import os
@@ -110,10 +111,92 @@ ASHBY_FIXTURE = {
     ]
 }
 
+REMOTIVE_FIXTURE = {
+    "jobs": [
+        {   # fit + US-friendly geo + posted today -> shortlist
+            "title": "Marketing Automation Specialist",
+            "company_name": "Orbit Labs",
+            "candidate_required_location": "USA Only",
+            "job_type": "full_time",
+            "url": "https://remotive.com/remote-jobs/marketing/orbit-1",
+            "publication_date": f"{TODAY.isoformat()}T08:33:22",
+        },
+        {   # fit but geo-gated out (Europe only) -> knockout
+            "title": "Customer Success Manager",
+            "company_name": "EuroSoft",
+            "candidate_required_location": "Europe",
+            "job_type": "full_time",
+            "url": "https://remotive.com/remote-jobs/csm/eurosoft-1",
+            "publication_date": f"{TODAY.isoformat()}T08:33:22",
+        },
+        {   # excluded title band (VP) despite include-term match -> filtered out
+            "title": "VP of Marketing Operations",
+            "company_name": "BigCo",
+            "candidate_required_location": "USA Only",
+            "job_type": "full_time",
+            "url": "https://remotive.com/remote-jobs/vp/bigco-1",
+            "publication_date": f"{TODAY.isoformat()}T08:33:22",
+        },
+    ]
+}
+
+JOBICY_FIXTURE = {
+    "jobs": [
+        {   # fit, bare "Remote" geo passes the gate, posted today
+            "jobTitle": "HubSpot CRM Manager",
+            "companyName": "Nimbus",
+            "jobGeo": "Remote",
+            "jobType": ["full-time"],
+            "url": "https://jobicy.com/jobs/nimbus-hubspot-crm",
+            "pubDate": f"{TODAY.isoformat()} 10:00:00",
+        },
+    ]
+}
+
+REMOTEOK_FIXTURE = [
+    {"legal": "API terms of service notice — not a job"},
+    {   # fit, worldwide, posted today
+        "position": "Lifecycle Marketing Manager",
+        "company": "Skyline",
+        "location": "Worldwide",
+        "url": "https://remoteok.com/remote-jobs/skyline-lifecycle-1",
+        "date": f"{TODAY.isoformat()}T08:00:00+00:00",
+    },
+]
+
+HIMALAYAS_FIXTURE = {
+    "jobs": [
+        {   # fit, US restriction, epoch-seconds pubDate today
+            "title": "Implementation Manager",
+            "companyName": "Meadow",
+            "locationRestrictions": ["United States"],
+            "applicationLink": "https://himalayas.app/companies/meadow/jobs/onboarding-1",
+            "pubDate": int(dt.datetime(TODAY.year, TODAY.month, TODAY.day, 12,
+                                       tzinfo=dt.timezone.utc).timestamp()),
+        },
+    ]
+}
+
+WWR_RSS_FIXTURE = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>We Work Remotely: jobs</title>
+  <item>
+    <title>Acme Agency: Marketing Operations Lead</title>
+    <region>Anywhere in the World</region>
+    <type>Full-Time</type>
+    <link>https://weworkremotely.com/remote-jobs/acme-agency-marketing-operations-lead</link>
+    <pubDate>{email.utils.format_datetime(dt.datetime(TODAY.year, TODAY.month, TODAY.day, 9, tzinfo=dt.timezone.utc))}</pubDate>
+  </item>
+</channel></rss>"""
+
 FIXTURES_BY_URL_TOKEN = [
     ("api.lever.co", LEVER_FIXTURE),
     ("boards-api.greenhouse.io", GREENHOUSE_FIXTURE),
     ("api.ashbyhq.com", ASHBY_FIXTURE),
+    ("remotive.com", REMOTIVE_FIXTURE),
+    ("jobicy.com", JOBICY_FIXTURE),
+    ("remoteok.com", REMOTEOK_FIXTURE),
+    ("himalayas.app", HIMALAYAS_FIXTURE),
 ]
 
 
@@ -124,27 +207,44 @@ def fake_get_ok(url):
     raise AssertionError(f"unexpected URL {url}")
 
 
+def fake_get_raw_ok(url):
+    """Raw-text stub — only the WeWorkRemotely RSS fetcher uses _get_raw directly."""
+    if "weworkremotely.com" in url:
+        return WWR_RSS_FIXTURE
+    raise AssertionError(f"unexpected raw URL {url}")
+
+
 def fake_get_blocked(url):
     raise urllib.error.URLError("Tunnel connection failed: 403 Forbidden")
 
 
 def make_boards_json(tmpdir):
-    cfg = {"boards": [
-        {"platform": "lever", "handle": "acme", "company": "Acme"},
-        {"platform": "greenhouse", "handle": "globex", "company": "Globex"},
-        {"platform": "ashby", "handle": "initech", "company": "Initech"},
-    ]}
+    cfg = {
+        "boards": [
+            {"platform": "lever", "handle": "acme", "company": "Acme"},
+            {"platform": "greenhouse", "handle": "globex", "company": "Globex"},
+            {"platform": "ashby", "handle": "initech", "company": "Initech"},
+        ],
+        "remote_boards": [
+            {"platform": "remotive"}, {"platform": "jobicy"},
+            {"platform": "remoteok"}, {"platform": "himalayas"},
+            {"platform": "weworkremotely"},
+        ],
+    }
     path = os.path.join(tmpdir, "boards.json")
     with open(path, "w") as f:
         json.dump(cfg, f)
     return path
 
 
-def run_main(argv, get_impl):
+def run_main(argv, get_impl, get_raw_impl=None):
     """Run live_roles.main() with stubbed HTTP; return (stdout, exit_code)."""
+    if get_raw_impl is None:
+        get_raw_impl = fake_get_raw_ok if get_impl is fake_get_ok else get_impl
     out = io.StringIO()
     code = 0
     with mock.patch.object(live_roles, "_get", side_effect=get_impl), \
+         mock.patch.object(live_roles, "_get_raw", side_effect=get_raw_impl), \
          mock.patch.object(sys, "argv", ["live_roles.py"] + argv), \
          contextlib.redirect_stdout(out):
         try:
@@ -178,6 +278,67 @@ class TestParsers(unittest.TestCase):
         hub = next(r for r in roles if "HubSpot" in r["title"])
         self.assertEqual(hub["posted"], TODAY - dt.timedelta(days=3))
         self.assertEqual(hub["type"], "Contract")
+
+
+class TestAggregators(unittest.TestCase):
+    def test_remotive_parse(self):
+        with mock.patch.object(live_roles, "_get", side_effect=fake_get_ok):
+            roles = live_roles.fetch_remotive({})
+        self.assertEqual(len(roles), 3)
+        orbit = next(r for r in roles if r["company"] == "Orbit Labs")
+        self.assertEqual(orbit["posted"], TODAY)
+        self.assertEqual(orbit["type"], "full-time")
+        self.assertTrue(orbit["geo_gated"])
+        self.assertEqual(orbit["via"], "Remotive")
+
+    def test_remoteok_skips_legal_notice(self):
+        with mock.patch.object(live_roles, "_get", side_effect=fake_get_ok):
+            roles = live_roles.fetch_remoteok({})
+        self.assertEqual(len(roles), 1)
+        self.assertEqual(roles[0]["title"], "Lifecycle Marketing Manager")
+        self.assertEqual(roles[0]["posted"], TODAY)
+
+    def test_himalayas_epoch_seconds_and_locations(self):
+        with mock.patch.object(live_roles, "_get", side_effect=fake_get_ok):
+            roles = live_roles.fetch_himalayas({})
+        self.assertEqual(roles[0]["posted"], TODAY)
+        self.assertEqual(roles[0]["location"], "United States")
+
+    def test_wwr_rss_company_title_split_and_date(self):
+        with mock.patch.object(live_roles, "_get_raw", return_value=WWR_RSS_FIXTURE):
+            roles = live_roles.fetch_weworkremotely({})
+        # one item repeated across the 3 default category feeds
+        self.assertEqual(len(roles), 3)
+        r = roles[0]
+        self.assertEqual(r["company"], "Acme Agency")
+        self.assertEqual(r["title"], "Marketing Operations Lead")
+        self.assertEqual(r["location"], "Anywhere in the World")
+        self.assertEqual(r["posted"], TODAY)
+
+    def test_geo_gate_blocks_non_us(self):
+        v, note = live_roles.classify(
+            {"title": "Customer Success Manager", "location": "Europe", "geo_gated": True})
+        self.assertEqual(v, "knockout")
+        self.assertIn("geo excludes US", note)
+
+    def test_geo_gate_allows_bare_remote_and_us(self):
+        for loc in ("Remote", "", "USA Only", "Worldwide", "Anywhere in the World"):
+            v, _ = live_roles.classify(
+                {"title": "Customer Success Manager", "location": loc, "geo_gated": True})
+            self.assertEqual(v, "shortlist", f"location {loc!r} should pass")
+
+    def test_ats_roles_not_geo_gated(self):
+        # Company-ATS roles keep the old behavior: unusual location strings pass.
+        v, _ = live_roles.classify(
+            {"title": "Customer Success Manager", "location": "Denver, CO"})
+        self.assertEqual(v, "shortlist")
+
+    def test_exclude_title_band(self):
+        self.assertFalse(live_roles.is_fit("VP of Marketing Operations"))
+        self.assertFalse(live_roles.is_fit("CRM Developer"))
+        self.assertFalse(live_roles.is_fit("Junior Marketing Operations Associate"))
+        self.assertTrue(live_roles.is_fit("Marketing Operations Manager"))
+        self.assertTrue(live_roles.is_fit("Director of Marketing Operations"))
 
 
 class TestClassify(unittest.TestCase):
@@ -231,6 +392,18 @@ class TestEndToEnd(unittest.TestCase):
         self.assertIn("Revenue Operations Manager", out)
         # non-fit engineering role never appears
         self.assertNotIn("Backend Engineer", out)
+        # remote-board roles flow through with source attribution
+        self.assertIn("Orbit Labs", out)
+        self.assertIn("via Remotive", out)
+        self.assertIn("via RemoteOK", out)
+        self.assertIn("via Jobicy", out)
+        self.assertIn("via Himalayas", out)
+        self.assertIn("via WeWorkRemotely", out)
+        # geo gate: Europe-only aggregator role screened out, not shortlisted
+        self.assertIn("EuroSoft", out)
+        self.assertIn("geo excludes US (Europe)", out)
+        # title exclusion band: VP role never appears
+        self.assertNotIn("VP of Marketing Operations", out)
 
     def test_seven_day_window_includes_3day_old(self):
         out, _ = run_main(["--days", "7", "--boards", self.boards], fake_get_ok)
