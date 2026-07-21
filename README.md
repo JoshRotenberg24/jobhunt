@@ -65,6 +65,7 @@ worked example (resume PDF/DOCX, cover letter, and match report).
 | `build/score_meter.py` | Fit JSON → score-meter gauge PNG + inline text meter. |
 | `research/job-market-and-ats-research-2026.md` | Cited research behind the playbook (with confidence levels + verification pass). |
 | `applications/<company>/` | Generated resume, cover letter, and match report per job. |
+| `portable/job-search-kit.md` | **Standalone, LLM-agnostic** version — one self-contained file anyone can paste into any LLM to run the whole flow (upload resume → profile interview → role fit → tailored resume per role). No Claude Code or Python needed. See `portable/README.md`. |
 
 ## Setup
 
