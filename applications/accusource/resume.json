@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Digital Marketing Manager · Demand Generation & Marketing Operations",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations and demand generation leader with 15+ years in MarTech, SaaS, and agency environments, including 5+ years building CRM and marketing-automation systems across HubSpot and GoHighLevel. I own the full marketing function in lean environments, standing up lifecycle email, paid media, SEO, and analytics, and I'm comfortable defining process from scratch and directing outside vendors rather than only executing. Equal parts builder and operator, focused on turning marketing systems into measurable pipeline and revenue.",
+  "experience": [
+    {
+      "title": "Founder & Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architect and administer CRM and marketing-automation systems in HubSpot and GoHighLevel — segmentation, lifecycle stages, lead routing, dashboards, and strict data hygiene.",
+        "Built segmented, lifecycle email campaigns and 20+ automation workflows spanning lead capture, qualification, nurture, onboarding, reactivation, and review generation.",
+        "Optimized client Google Ads (paid search) accounts, cutting spam and low-quality leads and improving click-through quality, then diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Conduct technical SEO audits, keyword and SERP gap analyses, and competitor research, implementing fixes directly in client CMS platforms.",
+        "Track acquisition and conversion across accounts in GA4 and CRM analytics, building funnel and attribution reporting that drives A/B testing and optimization.",
+        "Identify and scope cross-sell and upsell opportunities, expanding retainer scope where it genuinely aligns with client goals."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across paid media, inbound, and content, coordinating execution across internal teams and outside contributors.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, translating GA4 and funnel data into optimization recommendations.",
+        "Produced high-converting landing pages, email sequences, and conversion-focused copy that improved lead generation and pipeline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Drove adoption of marketing-automation and reputation-management software across a partner network, onboarding 15–20 partners and retaining all but one (~94%).",
+        "Developed automated communication and product-training workflows that reduced onboarding friction and supported cross-sell into the customer base.",
+        "Analyzed utilization and performance data to flag adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Managed campaign execution, performance reporting, and cross-team communication for a performance marketing agency.",
+        "Analyzed paid media and creative performance and translated results into optimization recommendations.",
+        "Built internal processes that improved reporting accuracy and cross-team alignment.",
+        "Closed 6 new-client deals averaging ~$22K each (~$130K+ in total bookings) over tenure."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to lift traffic and conversion.",
+        "Contributed to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Managed a team and a high-value portfolio, overseeing scope and delivery across diverse verticals.",
+        "Served as primary strategic contact, proactively communicating with clients on goals and initiatives to accelerate time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped CRM and workflow-automation software to agencies and professional-services firms, advising on system design and adoption.",
+        "Guided onboarding, workflow design, and integrations as a trusted advisor to C-suite decision-makers.",
+        "Advised clients on building scalable operational and reporting systems aligned to growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Marketing Automation & CRM", "items": ["HubSpot", "GoHighLevel", "Salesforce", "Lifecycle Email Workflows", "Segmentation", "Lead Nurture & Routing", "Marketing Dashboards"]},
+    {"category": "Demand Gen & Paid Media", "items": ["Demand Generation", "Paid Search (Google Ads)", "Paid Social", "Ad Budget Ownership", "Landing Pages", "Vendor Direction"]},
+    {"category": "Analytics & CRO", "items": ["GA4", "Funnel & Attribution Reporting", "A/B Testing", "Conversion Rate Optimization", "KPI / Pipeline Reporting"]},
+    {"category": "SEO", "items": ["Keyword Research", "Technical SEO Audits", "SERP Tracking", "On-page Optimization"]},
+    {"category": "Operations", "items": ["Process Design", "Cross-sell / Upsell Campaigns", "Vendor & Stakeholder Management", "Sales/Marketing Alignment", "Data Hygiene"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Sept 2024)"
+  ]
+}
