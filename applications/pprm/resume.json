@@ -1,0 +1,104 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Executive & Administrative Support · Operations Coordination",
+  "contact": {
+    "location": "Arvada, CO (Denver metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Highly organized operations and administrative professional with 15+ years supporting executives, coordinating cross-team logistics, and building systems that keep people and projects on track. Trusted day-to-day point of contact who anticipates needs, manages competing priorities without dropping details, and produces clear, polished written communication. Comfortable working directly with senior leaders, owning records and documentation, and continuously improving the systems a team relies on.",
+  "experience": [
+    {
+      "title": "Founder & Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Act as the primary day-to-day point of contact for a portfolio of clients, anticipating needs and keeping logistics, timelines, and deliverables on track.",
+        "Maintain clear, organized records across GoHighLevel, HubSpot, and Notion — documenting interactions, timelines, and deliverables so nothing falls through the cracks.",
+        "Design and implement systems and repeatable workflows that organize information and increase efficiency, regularly reassessing tools for improvement opportunities.",
+        "Write, edit, and proofread correspondence, reports, newsletters, and educational materials, translating complex information into clear, polished communication.",
+        "Serve as liaison between non-technical stakeholders and delivery, coordinating priorities and reporting progress to leadership."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments as the central point of contact, managing multiple projects and stakeholders simultaneously.",
+        "Prepared reports and performance materials for review meetings, and addressed feedback promptly to keep work on schedule and on quality.",
+        "Managed multi-stakeholder relationships, translating detailed information into concise updates for decision-makers."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15–20 partner relationships, retaining all but one (~94%) through attentive, organized follow-through.",
+        "Developed scalable communication workflows and training sequences that reduced friction and kept stakeholders informed.",
+        "Tracked utilization and performance data, producing summaries and recommendations for leadership."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team coordination.",
+        "Managed accounts and cross-team communication, keeping projects moving to deadline across multiple stakeholders.",
+        "Prepared performance summaries and trend reports, translating data into clear takeaways for the team and leadership."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team, overseeing budgets, scope, and delivery for a high-value portfolio and ensuring on-time completion.",
+        "Served as the primary point of contact coordinating schedules and deliverables, proactively communicating with clients on goals and next steps.",
+        "Planned ahead across competing priorities to accelerate time-to-value and keep multiple projects on track simultaneously."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Worked directly with C-Suite executives daily as a trusted advisor, coordinating onboarding, scoping, and workflow design.",
+        "Deep fluency with project-management and coordination software (Accelo, CRM, task/workflow tools); guided clients in organizing operational systems.",
+        "Engaged leadership on issue escalation and follow-through, resolving matters expeditiously to successful completion."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Built operational infrastructure from scratch — intake processes, records, and reporting systems — in a highly regulated environment requiring strict compliance and documentation.",
+        "Created vendor, supplier, and customer-management workflows, maintaining accurate records for ongoing operations and audit-ready recordkeeping."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Executive & Admin Support", "items": ["Executive Support", "Calendar & Meeting Coordination", "Correspondence & Proofreading", "Expense Tracking", "Travel Coordination", "Minutes & Records Management"]},
+    {"category": "Organization & Project Coordination", "items": ["Multi-project Tracking", "Deadline Management", "Prioritization Under Pressure", "Process & Systems Improvement", "SOP Development", "Attention to Detail"]},
+    {"category": "Communication", "items": ["Written & Verbal Communication", "Cross-functional Liaison", "Stakeholder Management", "C-Suite / Board Support", "Discretion & Confidentiality"]},
+    {"category": "Tools & Technology", "items": ["Google Workspace", "Notion", "Slack", "Asana", "Monday.com", "HubSpot", "Zoom / Virtual Meetings"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Sept 2024)"
+  ]
+}
