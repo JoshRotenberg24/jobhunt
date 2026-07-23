@@ -1,0 +1,104 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Onboarding & Platform Implementation Manager",
+  "contact": {
+    "location": "Arvada, CO (Denver metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer onboarding and implementation manager with 15+ years in SaaS, MarTech, and SMB-focused environments, owning the post-sale launch experience end to end. I act as the customer's quarterback, project managing implementations, coordinating across sales, account management, and product, troubleshooting technical issues, and training customers to fast, confident adoption. Comfortable owning timelines and details under pressure, and turning onboarding friction into retention and growth.",
+  "experience": [
+    {
+      "title": "Founder & Implementation / Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Lead end-to-end onboarding and implementation for new technology stacks, translating business requirements into technical configurations and providing hands-on training.",
+        "Act as the primary day-to-day point of contact, running discovery and kickoff, coordinating internal and client stakeholders, and keeping launches on timeline.",
+        "Troubleshoot technical setup across CRM and CMS platforms, resolving configuration and integration issues before they reach the customer.",
+        "Provide product education and structured feedback loops, turning recurring merchant/user questions into documentation and process improvements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments as the central client contact, managing multiple implementations and stakeholders simultaneously.",
+        "Delivered clear presentations and performance updates, addressing client feedback promptly to keep work on timeline and quality."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing-automation and reputation software.",
+        "Functioned in a technical advisory capacity, guiding customers through complex product setup and troubleshooting before escalation.",
+        "Onboarded and managed 15–20 partners and retained all but one (~94%), collaborating with Product and Engineering to register and prioritize customer feedback."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Managed client accounts and cross-team communication, keeping implementations and campaigns on deadline across multiple stakeholders.",
+        "Built internal processes that improved accuracy and reduced handoff errors between teams.",
+        "Analyzed campaign and account performance and produced clear summaries for clients and internal teams."
+      ]
+    },
+    {
+      "title": "Onboarding Launch Specialist, Account Manager & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Owned onboarding and launch for a high-value SMB and e-commerce portfolio, serving as the primary contact ensuring on-time delivery that accelerated time-to-value.",
+        "Project-managed website launches and digital growth setups, coordinating across internal teams and proactively guiding clients through the transition and setup process.",
+        "Directly managed and developed a team of onboarding specialists, overseeing scope, delivery, and quality across diverse verticals.",
+        "Drove a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment through hands-on setup and optimization."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations for CRM and project-management software, partnering with implementation teams to resolve technical challenges.",
+        "Served as trusted advisor to SMB and professional-services clients, coordinating cross-functional setup and escalating risk when needed.",
+        "Educated customers on product functionality, building scalable operational systems aligned to their team structure and growth stage."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Onboarded SMB and restaurant merchants onto a loyalty and marketing-automation platform, running full-cycle setup, education, and adoption.",
+        "Built consultative instincts around merchant retention, gift and loyalty program adoption, and technology rollout for local businesses."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Onboarding & Implementation", "items": ["Onboarding Strategy", "Product Implementation", "Kickoff Calls", "Project Management", "Time-to-Value Reduction", "Customer Training & Enablement"]},
+    {"category": "Customer Success", "items": ["Retention (~94% at Birdeye)", "Product Adoption", "Churn Prevention", "Success Plans", "Customer Advocacy"]},
+    {"category": "Technical", "items": ["Technical Troubleshooting", "CRM / CMS Configuration", "Integrations & APIs", "SaaS Platform Setup", "Data Hygiene"]},
+    {"category": "Cross-functional", "items": ["Sales & Account Management Partnership", "Stakeholder Coordination", "Product & Ops Feedback Loops", "Presentation & Communication"]},
+    {"category": "Tools & Platforms", "items": ["HubSpot", "GoHighLevel", "Salesforce", "Notion", "Asana", "Slack", "Zendesk"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Sept 2024)"
+  ]
+}
