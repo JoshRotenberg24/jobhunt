@@ -1,0 +1,22 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "July 22, 2026",
+  "company": "micro1",
+  "role": "AI Agent Productivity Specialist",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the AI Agent Productivity Specialist contract. This is the work I already do every day: I build autonomous, AI-driven workflows that connect agents to real business tools and do real work, then I document them so other people can run them.",
+    "A few specifics that map to your scope. I break manual processes into agent architectures with custom logic, and I translate loosely-formed, non-technical requests into precise prompts and agent instructions, which is the actual hard part of making agents reliable. I've built 20+ end-to-end automation workflows and an audit agent that enrolled 180+ contacts by scoring a business's digital footprint. And I design self-improving loops and evaluation frameworks to monitor agent output and improve it over time, so giving structured feedback on agent performance is a core part of how I already operate.",
+    "Underneath the AI work is 15 years in business and marketing operations, so I read a workflow for where it actually leaks and I write documentation people can follow. I work well with both technical and non-technical stakeholders, and I move fast on new tools. Happy to share examples of agents and workflows I've shipped. I'd welcome the conversation.",
+    "Thank you for your time and consideration."
+  ],
+  "closing": "Sincerely,"
+}

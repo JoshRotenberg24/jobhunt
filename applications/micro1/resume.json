@@ -1,0 +1,107 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Agentic AI Operator · Automation & Productivity Specialist",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Agentic operator and automation specialist building autonomous, AI-driven workflows that execute real work. I break manual business processes into agent architectures, translate loosely-formed stakeholder intent into precise prompts and agent logic, and build the evaluation loops that keep outputs reliable. Fifteen-plus years in business and marketing operations underneath it, so the automation is grounded in how work actually gets done, and documented clearly enough for other people to adopt.",
+  "experience": [
+    {
+      "title": "Founder & AI / Automation Systems Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architect and deploy autonomous, AI-driven workflows that integrate agents with CRMs, CMS platforms, documents, and messaging tools to automate lead enrichment, outreach, research, and booking.",
+        "Break manual business processes into agent architectures with custom logic, scoring a business's digital footprint and generating hyper-personalized outputs.",
+        "Translate non-technical stakeholders' generalized ideas into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable LLM output.",
+        "Design self-improving loops and evaluation frameworks that monitor agent outputs and continuously optimize accuracy and conversion.",
+        "Built and documented 20+ end-to-end automation workflows and an audit/outreach agent that enrolled 180+ contacts, writing best practices clear enough for others to replicate.",
+        "Analyze operations and information flows across clients, synthesizing findings into actionable recommendations for technical and non-technical audiences.",
+        "Conduct research using AI tools, synthesize findings, and present clear, actionable insights to stakeholders."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Developed automated communication and product-training workflows that reduced manual effort and onboarding friction.",
+        "Collaborated with Product and Engineering to capture structured, high-priority feedback that informed the roadmap, an early version of the agent-feedback loops this role runs on.",
+        "Analyzed utilization and performance data to identify inefficiencies and recommend automated interventions.",
+        "Documented product-training sequences and best practices for scalable, repeatable adoption."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Built performance reporting frameworks and translated complex data into clear, actionable recommendations for stakeholders.",
+        "Coordinated execution across technical and non-technical teams to connect tools and deliver end-to-end campaigns.",
+        "Documented reporting processes and workflows so they could be handed off and repeated."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Built and refined internal processes and automations that improved reporting accuracy and reduced handoff errors.",
+        "Analyzed performance data and synthesized results into optimization recommendations."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Designed and documented repeatable onboarding and delivery processes for a team and a high-value portfolio.",
+        "Identified manual bottlenecks and built streamlined workflows that accelerated time-to-value across diverse verticals.",
+        "Trained new hires and produced documentation that made onboarding processes replicable across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Scoped and implemented CRM and workflow-automation software, guiding clients through process design, API integrations, and tool orchestration.",
+        "Advised operations and professional-services teams on connecting data sources and systems for end-to-end efficiency.",
+        "Troubleshot workflow and integration issues, resolving technical challenges before escalation."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Built operational infrastructure, intake processes, and reporting systems from scratch, analyzing workflows to design efficient, documented processes.",
+        "Created vendor, supplier, and customer-management systems in a highly regulated environment requiring accuracy and repeatability."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "AI & Agentic Systems", "items": ["Agentic AI", "Multi-agent Orchestration", "LLM Workflows", "Prompt Design", "Requirements-to-Prompt Translation", "Evaluation Frameworks", "Self-improving Loops", "ChatGPT", "Claude"]},
+    {"category": "Automation & Integration", "items": ["Workflow Automation", "Process Decomposition", "API & Data Connectors", "CRM / CMS Integration", "Tool Orchestration"]},
+    {"category": "Analysis & Research", "items": ["Operational Analysis", "Research Synthesis", "Data Analysis", "Actionable Insights", "Best-practice Documentation"]},
+    {"category": "Operations", "items": ["Business Operations", "Process Mapping", "SOP Development", "Operational Efficiency", "Requirements Elicitation"]},
+    {"category": "Tools & Platforms", "items": ["GoHighLevel", "HubSpot", "Notion", "Slack", "Google Workspace", "Spreadsheets", "GA4"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Sept 2024)"
+  ]
+}
