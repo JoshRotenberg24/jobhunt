@@ -1,0 +1,67 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Marketing & Web Operations · CMS, Landing Pages & Integrations",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing technologist with 15+ years building and maintaining web properties, landing and campaign pages, and the CRM, marketing-automation, and analytics integrations behind them. I work closely with marketing teams, own deliverables end to end in a remote async environment, and care about performance, Core Web Vitals, and technical SEO. Strongest on the marketing-web, CMS, and integration side of web work rather than deep custom application engineering.",
+  "experience": [
+    {
+      "title": "Founder & Marketing Technology Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Build and maintain landing pages and campaign pages in CMS platforms, in close collaboration with marketing goals and brand.",
+        "Conduct technical SEO audits and implement fixes directly in client CMS platforms, improving page performance, Core Web Vitals, and search visibility.",
+        "Integrate third-party tools and APIs across CRM, marketing automation, and analytics platforms to connect web properties to downstream systems.",
+        "Maintain clean documentation and repeatable processes, working self-directed and managing multiple priorities."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed website launches and digital growth setups on the Wix platform, aligning site architecture, performance, and SEO best practices.",
+        "Built and optimized client websites and pages across diverse verticals, contributing to a 30% increase in traffic and 25% improvement in conversion in the e-commerce segment.",
+        "Guided clients through web setup, troubleshooting, and optimization, coordinating closely with internal teams."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Produced landing pages and conversion-focused web assets in partnership with marketing and design.",
+        "Tracked page and funnel performance, translating analytics into optimization work in a fully remote environment."
+      ]
+    },
+    {
+      "title": "Customer Onboarding & Technical Setup",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Guided customers through technical setup and integration of marketing software, troubleshooting configuration issues before escalation."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Web & CMS", "items": ["Landing & Campaign Pages", "CMS Management", "Website Launches", "Responsive Layouts", "QA & Testing", "Documentation"]},
+    {"category": "Performance & SEO", "items": ["Technical SEO", "Core Web Vitals", "Page Speed Optimization", "Search Console", "On-page Optimization"]},
+    {"category": "Integrations", "items": ["CRM Integrations (HubSpot, Salesforce, GoHighLevel)", "Marketing Automation", "Analytics (GA4)", "Third-party APIs", "Remote / Async Delivery"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Sept 2024)"
+  ]
+}

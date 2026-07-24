@@ -1,0 +1,108 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing & GTM Operator · Messaging, Enablement & AI Workflows",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operator and builder with 15+ years shaping messaging, creating go-to-market assets, and driving cross-functional alignment across marketing, sales, and product. I turn complex products into clear narratives, build the collateral and processes that help teams sell, and I already run daily on AI, building LLM-based workflows that automate marketing production and analysis. Entrepreneurial and hands-on, comfortable owning a function and building it from proven examples rather than a playbook handed to me.",
+  "experience": [
+    {
+      "title": "Founder & Marketing / GTM Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own end-to-end messaging and positioning for service-based clients, translating complex offerings into clear value propositions and narratives that convert.",
+        "Build LLM-based workflows that automate marketing production, research, and analysis, exactly the AI-into-the-workflow approach this role calls for.",
+        "Create go-to-market assets, landing pages, email sequences, newsletters, and educational content, and publish thought leadership for B2B audiences.",
+        "Analyze market, competitor, and performance data, synthesizing insights into positioning and campaign recommendations.",
+        "Translate loosely-formed stakeholder intent into precise briefs, prompts, and structured plans, aligning non-technical partners around a shared narrative."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Led integrated go-to-market strategy across paid media, inbound, and content, coordinating execution across product, creative, and delivery teams.",
+        "Produced high-converting campaign assets, landing pages, sequences, and messaging, and tested positioning against performance data.",
+        "Built reporting frameworks tracking funnel, engagement, and conversion, turning results into strategic recommendations.",
+        "Partnered with product and sales stakeholders to align messaging with in-market campaigns."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Marketing",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Built enablement and product-value messaging that helped a partner network communicate and sell the product effectively.",
+        "Developed training sequences and collateral that drove adoption across a high-volume partner base.",
+        "Channeled prioritized market and customer feedback to Product to shape roadmap and positioning.",
+        "Acted as product subject-matter expert, guiding partners on how to position and communicate value."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Analyzed campaign and creative performance for a performance-marketing agency, translating results into messaging and optimization recommendations.",
+        "Built internal processes and templates that improved production accuracy and cross-team alignment.",
+        "Established reporting on content and campaign performance to prioritize what to build and refine next."
+      ]
+    },
+    {
+      "title": "Account Manager & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Helped build a brand-new vertical from proof-of-concept to a profitable business line, contributing to go-to-market, enablement, and sales-training development.",
+        "Led growth consultations aligning site architecture, positioning, and content to lift traffic and conversion (30% traffic, 25% conversion gains in the e-commerce segment).",
+        "Created onboarding and sales-training materials adopted across the team.",
+        "Contributed to messaging and audience targeting that supported new-vertical growth."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold complex CRM/workflow software to agencies and professional-services firms, developing sharp competitive and market positioning to win deals.",
+        "Advised C-Suite buyers, translating product capability into business value and ROI narratives.",
+        "Built competitive knowledge and objection-handling talk tracks that improved win rates."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing-automation platform, positioning the product against alternatives for SMB buyers.",
+        "Translated product features into clear, benefit-led messaging that drove adoption."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Messaging & Positioning", "items": ["Value Proposition Development", "Narrative & Storytelling", "Competitive Positioning", "Audience & Persona Framing", "Technical Translation"]},
+    {"category": "GTM & Enablement", "items": ["Go-to-Market Execution", "Campaign & Launch Support", "Sales Enablement Assets", "Collateral & Content Creation", "Cross-functional Alignment"]},
+    {"category": "AI & Automation", "items": ["LLM Workflows", "AI-assisted Content & Research", "Prompt Design", "Marketing Automation", "Process Building"]},
+    {"category": "Analytics", "items": ["Market & Competitive Research", "Funnel & Engagement Analysis", "Performance Reporting", "Win/Loss Insight"]},
+    {"category": "Tools", "items": ["HubSpot", "Salesforce", "GoHighLevel", "Asana", "Notion", "GA4", "ChatGPT / Claude"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Sept 2024)"
+  ]
+}

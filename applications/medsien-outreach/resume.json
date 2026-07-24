@@ -1,0 +1,62 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Outreach & Enrollment · Phone-based Sales & Support",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Outreach and sales professional who connects with people over the phone, builds trust quickly, and guides them through a process with patience and clarity. Comfortable in high-volume, goal-driven environments, and equally focused on hitting targets and genuinely helping the person on the other end of the line. Organized, consistent with follow-up, and fully set up to thrive in a remote role.",
+  "experience": [
+    {
+      "title": "Founder & Client Outreach / Operations",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Design and run phone and message outreach, including appointment booking, confirmations, reminders, and follow-up.",
+        "Communicate with prospects and clients daily, building rapport and guiding them step by step through onboarding.",
+        "Document every interaction and outcome and follow up consistently to keep people moving forward."
+      ]
+    },
+    {
+      "title": "Customer Onboarding & Support",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and supported customers by phone and message, educating them on the product and walking them through setup with patience.",
+        "Handled questions and concerns with empathy, and followed up reliably to ensure a smooth experience."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle phone sales to small businesses, high-volume outbound prospecting, qualification, and enrollment.",
+        "Balanced clear sales targets with a consultative, helpful, and patient approach."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 – 2016",
+      "bullets": [
+        "Made high-volume outbound calls to prospect, qualify, and book appointments, maintaining a steady pipeline of meetings.",
+        "Built rapport quickly, handled objections with warmth, and kept accurate records of every conversation."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Phone & Communication", "items": ["Outbound Calling", "Rapport Building", "Objection Handling", "Empathetic Communication", "Enrollment & Onboarding"]},
+    {"category": "Follow-through", "items": ["Call & Pipeline Management", "CRM Documentation", "Consistent Follow-up", "Detail-oriented", "Remote Self-starter"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ]
+}
