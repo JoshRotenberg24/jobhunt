@@ -1,0 +1,109 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "eCommerce Content & Operations Manager · Content, Conversion & Cross-functional Delivery",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "eCommerce content and operations professional with 15+ years driving content excellence, conversion, and on-time cross-functional delivery. I serve as the central connector between brand, creative, analytics, and agency partners, keeping product content accurate, consistent, and compliant while managing timelines and stakeholders to flawless execution. Equally comfortable in the details of content management and in using performance data to improve visibility, engagement, and conversion.",
+  "experience": [
+    {
+      "title": "Founder & Content / eCommerce Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own product and web content end to end, building and optimizing pages in CMS platforms and maintaining content standards, accuracy, and consistency.",
+        "Serve as the central connector across clients, creative, and delivery, managing timelines and stakeholders to on-time execution of launches and campaigns.",
+        "Identify content and conversion improvements through technical SEO audits, competitor analysis, and CRO, implementing fixes directly in the CMS.",
+        "Use GA4 and performance data to improve product visibility, engagement, and conversion, and to prioritize what to build next.",
+        "Define and document content rules, standards, and repeatable workflows so execution stays consistent and compliant at scale.",
+        "Support product launches, promotions, and pricing updates, coordinating assets and timelines across stakeholders."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Coordinated content and campaign execution across creative, analytics, and delivery teams, managing multiple priorities to deadline.",
+        "Produced content and conversion-focused assets, and built reporting frameworks tracking engagement and conversion KPIs.",
+        "Translated performance data into optimization and content recommendations for stakeholders.",
+        "Supported product and campaign launches, coordinating creative assets and approvals across teams."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Content Operations",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Managed content and training assets across a high-volume partner base, maintaining accuracy and brand consistency.",
+        "Served as liaison between partners and internal Product, Engineering, and Marketing teams to keep execution aligned.",
+        "Analyzed performance and adoption data to identify improvement opportunities.",
+        "Documented content and process standards to keep execution consistent as volume scaled."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Managed campaign execution and cross-team coordination, keeping deliverables accurate and on schedule.",
+        "Built internal processes and templates that improved content production accuracy and reduced handoff errors.",
+        "Analyzed campaign and content performance and reported clear results to stakeholders."
+      ]
+    },
+    {
+      "title": "Account Manager, eCommerce & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a high-value e-commerce and website portfolio, driving a 30% increase in traffic and 25% improvement in conversion across the e-commerce segment.",
+        "Led site launches and content/merchandising setups, coordinating across internal teams and ensuring on-time delivery.",
+        "Directly managed and developed a team, owning scope, delivery quality, and content standards across diverse verticals.",
+        "Aligned site architecture, product pages, and SEO to improve discoverability and conversion.",
+        "Maintained content accuracy and consistency across a high-volume portfolio under tight deadlines."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Drove cross-functional projects and workflow design for client operations, managing stakeholders and timelines to delivery.",
+        "Guided onboarding and integrations, coordinating internal and external partners on execution.",
+        "Advised clients on organizing content, data, and operational systems for measurable results."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Built content, intake, and reporting systems from scratch in a highly regulated environment where accuracy and compliance were mandatory.",
+        "Codified standards and documented workflows to keep a fast-scaling operation consistent and audit-ready."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "eCommerce & Content", "items": ["Content Operations", "Product & Web Content", "Conversion Rate Optimization", "CMS Management", "Content Standards & Compliance", "Merchandising Support"]},
+    {"category": "Project & Stakeholder Management", "items": ["Timeline Management", "Cross-functional Coordination", "Stakeholder Management", "Launch Execution", "Workflow Improvement", "Agency Liaison"]},
+    {"category": "Data & Insights", "items": ["GA4", "Performance Analysis", "Conversion & Engagement Metrics", "Data-driven Decisions"]},
+    {"category": "Tools", "items": ["HubSpot", "GoHighLevel", "Google Analytics (GA4)", "Search Console", "Notion", "Asana", "Slack"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Sept 2024)"
+  ]
+}
