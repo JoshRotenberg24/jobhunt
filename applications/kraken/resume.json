@@ -1,0 +1,110 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Growth Workflow & Automation Specialist · Technical SEO/AEO + AI Agents",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Growth systems builder who turns SEO and content strategy into automated workflows. I combine hands-on technical SEO (audits, keyword and competitor gap analysis, CMS fixes) with deep AI/agent experience, breaking a content engine into triggers, decisions, actions, and measurements, then building the LLM-driven workflows that run it at scale. I translate strategy into precise specs, build the agents that generate and QA content, and design the evaluation loops that keep output accurate and on-brand.",
+  "experience": [
+    {
+      "title": "Founder & AI / Growth Automation Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architect and run automated growth workflows end to end, from signal ingestion to content generation to CMS deployment, mapping each as triggers, decisions, actions, and measurements.",
+        "Conduct technical SEO audits, keyword and competitor gap analyses, and search-signal research, implementing fixes directly inside client CMS platforms.",
+        "Build LLM-driven agents that generate content and outreach from structured briefs, translating loosely-formed strategy into precise prompts and agent instructions.",
+        "QA agent outputs for accuracy and brand alignment, and design self-improving evaluation loops that monitor quality and continuously optimize.",
+        "Define the content rules, standards, and knowledge-base inputs that agents operate from, documenting specs clear enough for others to build against.",
+        "Track organic and funnel performance in GA4 and Search Console, defining what each workflow should optimize for.",
+        "Deployed 20+ segmented content and outreach automations that run continuously at scale without manual effort."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Led content and SEO-informed campaign strategy across channels, coordinating execution and translating performance data into optimization.",
+        "Produced content briefs and conversion-focused assets, and built reporting frameworks tracking organic and funnel KPIs.",
+        "Wrote clear specs and documentation that aligned cross-functional teams around the work.",
+        "Interpreted organic and campaign data to prioritize content and optimization work."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Automation",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Built automated communication and content-training workflows that scaled across a high-volume partner base.",
+        "Analyzed performance data to flag gaps and define what automated interventions should optimize for.",
+        "Collaborated with Product and Engineering, channeling structured feedback to improve systems.",
+        "Documented product and content standards so training and messaging stayed consistent at scale."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Analyzed content and campaign performance, translating signal into optimization and content recommendations.",
+        "Built internal processes and templates that improved production accuracy and cross-team alignment.",
+        "Documented reporting workflows so they could be handed off and repeated reliably."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, content, and SEO best practices to lift organic traffic and conversion.",
+        "Drove a 30% increase in website traffic and 25% improvement in conversion across the e-commerce segment through hands-on optimization.",
+        "Built repeatable, documented workflows for a team managing high-volume site launches.",
+        "Applied SEO and content best practices across a high-volume portfolio to grow organic visibility."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Scoped and implemented workflow-automation software, mapping processes into triggers, actions, and integrations for client operations.",
+        "Guided API integrations and system design, connecting data sources into end-to-end automated workflows.",
+        "Advised clients on structuring tools and data for measurable, repeatable operations."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Built operational and reporting systems from scratch in a highly regulated environment where content and process compliance were mandatory.",
+        "Codified standards and repeatable workflows to keep a fast-scaling operation accurate and audit-ready."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "SEO & AEO", "items": ["Technical SEO", "Crawling / Indexing / Ranking", "Keyword & Competitor Gap Analysis", "AEO / LLM Visibility", "Ahrefs", "Semrush", "Google Search Console"]},
+    {"category": "Workflow Automation", "items": ["Systems Thinking", "Workflow Design (Triggers / Decisions / Actions)", "No-code Orchestration", "GoHighLevel", "Process Decomposition"]},
+    {"category": "AI & Content Agents", "items": ["LLM Workflows", "AI Content Generation", "Prompt Design", "LLM APIs", "Content QA", "Evaluation Frameworks", "Knowledge-base Inputs"]},
+    {"category": "Content Operations", "items": ["CMS Management", "Content Brief Generation", "Content Deployment Pipelines", "Editorial Standards"]},
+    {"category": "Data & Communication", "items": ["GA4", "Organic Performance Analysis", "Optimization Targets", "Workflow Specs & Documentation", "Technical Translation"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Sept 2024)"
+  ]
+}

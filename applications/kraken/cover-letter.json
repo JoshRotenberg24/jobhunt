@@ -1,0 +1,22 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "July 24, 2026",
+  "company": "Kraken",
+  "role": "Growth Workflow Specialist, Organic Growth",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Growth Workflow Specialist role. This one sits exactly where I already work: technical SEO on one side, AI agents and workflow automation on the other. Taking what a strategist knows and making it run at scale through automation is the core of what I do every day.",
+    "Here is how that maps to your engine. I run technical SEO audits, keyword and competitor gap analysis, and CMS fixes, and I build the LLM-driven agents that turn that signal into content, then QA the output for accuracy and brand fit before it ships. I think in systems, I map a workflow as triggers, decisions, actions, and measurements, and I write the specs precisely enough for a build team to implement without guessing. I've shipped 20+ end-to-end automations that run continuously, and I design the evaluation loops that keep agent output reliable, which is exactly the QA and knowledge-base work this role calls for.",
+    "AEO is new ground for everyone, and that's the part I find most interesting. Optimizing for an intelligence rather than a crawler is a systems and prompting problem, and building the monitoring and response workflows around LLM visibility is squarely the kind of thing I like to build. I'd welcome the conversation.",
+    "Thank you for your time and consideration."
+  ],
+  "closing": "Sincerely,"
+}
