@@ -1,0 +1,15 @@
+{
+  "_comment": "Company handles for the ATS JSON APIs live_roles.py queries. Add handles as you discover them in searches. greenhouse = board token, lever = company slug, ashby = job-board org slug.",
+  "greenhouse": [
+    "doitintl", "mantrahealth", "skupos", "recharge", "wallstreetprep",
+    "shopmonkey", "hivewatch", "abodo", "chartbeatinc", "rebuildmanufacturing",
+    "sironamedical", "apolloio", "inspiraeducation", "leanixjobs"
+  ],
+  "lever": [
+    "peoplegrove", "levelai", "curri"
+  ],
+  "ashby": [
+    "directive", "ramp", "hive.co", "rula", "palette-media", "paragon",
+    "the-global-talent-co"
+  ]
+}
