@@ -1,0 +1,112 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "AI Trainer · Prompt Design & Model Evaluation · Business & Marketing SME",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "AI systems builder and subject-matter expert who works hands-on with LLMs every day — designing prompts, wiring agent workflows, and building the evaluation loops that catch where models fail. 15+ years across marketing, sales, and business operations gives me deep, real-world domain expertise to train and evaluate models on, while a decade of professional writing keeps my outputs clear, precise, and well-structured. My core skill is translating messy, ambiguous intent into exact instructions and reliable model behavior — the same judgment that produces high-quality AI training work.",
+  "experience": [
+    {
+      "title": "Founder & AI Systems / Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Design and deploy autonomous, AI-driven systems built on LLMs — authoring prompts and agent instructions, then testing, grading, and iterating on their outputs until they are reliable enough to run in production.",
+        "Build self-improving loops and evaluation frameworks that monitor LLM and agent outputs, flag failures and hallucinations, and continuously improve response quality — the same evaluate-and-correct judgment at the core of AI training.",
+        "Translate non-technical stakeholders' vague, generalized ideas and feedback into precise, structured prompts and instructions — the bridge between ambiguous human intent and reliable model output.",
+        "Break down complex, high-volume workflows into agent architectures with custom logic that scores inputs and generates hyper-personalized, context-aware outputs at scale (including an audit workflow scoring 180+ businesses).",
+        "Write and publish thought-leadership content, educational guides, and direct-response copy, bringing professional-grade clarity, structure, and factual precision to everything I produce.",
+        "Analyze complex operational and marketing datasets, extracting structured, well-reasoned recommendations and communicating them clearly to non-technical audiences."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Produced high-converting written assets — landing pages, complex email sequences, and conversion copy — under rigorous quality, accuracy, and brand standards.",
+        "Translated performance data into clear, structured strategic recommendations across multi-stakeholder marketing and technology accounts.",
+        "Built rigorous reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, applying careful attention to detail to every metric delivered."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Served as technical advisor to a high-volume partner network, translating complex product capability into clear, unambiguous guidance and instructions.",
+        "Authored scalable communication workflows and automated product-training sequences that required precise, well-structured instructional writing.",
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K), retaining all but one (~94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into structured optimization recommendations across paid media and creative.",
+        "Built and refined internal processes that improved reporting accuracy and reduced handoff errors for a performance marketing agency."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment.",
+        "Developed sales-training materials and led onboarding consultations, work that demanded clear, accurate instructional writing for varied audiences.",
+        "Helped build a brand-new Wix vertical from proof-of-concept to a profitable business line, contributing to hiring, onboarding, and training."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms — deep subject-matter expertise in business systems, sales enablement, and operational workflows.",
+        "Guided client onboarding, workflow design, and API integrations, advising C-suite executives on scalable operational system design."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing-automation platform targeting SMBs, developing consultative instincts around customer needs and technology adoption."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Built compliance, customer-management, and reporting systems from scratch in a highly regulated startup environment, scaling the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "AI Training & Evaluation", "items": ["Prompt Design", "LLM Output Evaluation", "Response-Quality Grading & Ranking", "Instruction Following", "Evaluation Frameworks & Monitoring", "Failure & Edge-Case Analysis", "Attention to Detail"]},
+    {"category": "LLM & Agentic Systems", "items": ["Agentic AI", "Multi-Agent Orchestration", "LLM Workflows", "ChatGPT", "Claude", "Requirements-to-Prompt Translation", "Rapid Prototyping"]},
+    {"category": "Writing & Communication", "items": ["Technical & Instructional Writing", "Direct-Response Copy", "Technical Translation", "Editorial Judgment", "Clear Structured Reasoning"]},
+    {"category": "Subject-Matter Domains", "items": ["Marketing Operations", "CRM & Sales Systems", "SaaS / B2B", "Business Operations", "Analytics & Reporting"]},
+    {"category": "Analysis & Judgment", "items": ["Data Analysis", "Structured Recommendations", "Quality Assurance", "Systems Thinking", "Process Documentation"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
+}
