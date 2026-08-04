@@ -1,0 +1,105 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Digital Marketing & Paid Media Generalist",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Digital marketer with 15+ years across SaaS, agency, and founder-led environments, with hands-on experience in paid media optimization, campaign reporting, and performance analytics. Comfortable in the weeds of campaign builds, reporting, and testing — I want to know not just what the numbers say, but why, and use that to make the next test better.",
+  "experience": [
+    {
+      "title": "Founder & Marketing Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to business owners.",
+        "Design self-improving evaluation frameworks to monitor campaign and content performance and continuously optimize what's working.",
+        "Draft direct-response copy, outreach sequences, and landing pages that drive engagement and conversion.",
+        "Conduct keyword and competitor research, implementing fixes directly inside client platforms.",
+        "Track acquisition and retention across multiple accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment for a performance marketing agency.",
+        "Closed 6 new-client deals averaging ~$22K each — roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Produced high-converting campaign assets — landing pages, email sequences, and conversion-focused copy — improving lead generation and pipeline.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K), retaining all but one (~94% retention) during tenure.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Developed scalable communication workflows and automated training sequences that reduced onboarding friction across a high-volume partner network."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and a 25% improvement in conversion rates.",
+        "Helped build a brand-new Wix team/vertical from proof-of-concept to a profitable, impactful business line."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with fluency in pipeline automation and reporting.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-suite executives as a trusted advisor.",
+        "Consistently performed above commission floor into accelerator tiers — averaging ~$17,750/month in implementation-services bookings (~$213K annualized)."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing-automation platform targeting SMBs — high-volume prospecting, lead qualification, and customer acquisition."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Paid Media & Optimization", "items": ["Google Ads", "Paid Media Strategy", "A/B Testing", "Campaign Optimization", "CRO", "Budget & Performance Tracking"]},
+    {"category": "Analytics & Reporting", "items": ["GA4", "Google Search Console", "Ahrefs", "Semrush", "Campaign Attribution", "ROI Dashboards", "KPI Tracking"]},
+    {"category": "Content & Creative Production", "items": ["Direct-Response Copy", "Landing Pages", "Email Sequences", "Creative Asset Coordination"]},
+    {"category": "Operations", "items": ["Process Documentation", "Cross-Team Coordination", "Testing & Evaluation Frameworks"]},
+    {"category": "Tools & Platforms", "items": ["Google Ads", "HubSpot", "GoHighLevel", "GA4", "Notion"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
+}
