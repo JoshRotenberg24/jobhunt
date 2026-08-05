@@ -7,69 +7,76 @@
 ## Fit Score
 
 ```
-🔵 Fit Score: 65 / 100 — Solid stretch
-[█████████████░░░░░░░]  65%
+🔵 Fit Score: 76 / 100 — Solid stretch
+[███████████████░░░░░]  76%
 ```
 
 | Dimension | Score | Max |
 | :--- | ---: | ---: |
-| Must-have requirements met | 28 | 40 |
+| Must-have requirements met | 33 | 40 |
 | Seniority & scope alignment | 8 | 15 |
-| Domain / industry alignment | 6 | 15 |
-| Differentiators / nice-to-haves | 13 | 15 |
-| Evidence strength | 10 | 15 |
+| Domain / industry alignment | 10 | 15 |
+| Differentiators / nice-to-haves | 14 | 15 |
+| Evidence strength | 11 | 15 |
 
 Score meter image: `fit.png`
+
+*Updated from an initial 65/100 after adding two true, previously-undocumented data
+points: hands-on paid media across Google, Meta, and programmatic (agency-sold, at
+Fetch & Funnel and Level Agency), and early, real music-industry experience — touring
+crew for Fort Collins band Head for the Hills and venue crew at Mishawaka Amphitheatre
+(2005–2009), plus working familiarity with Spotify for Artists.*
 
 ## Keyword coverage (must-haves matched)
 
 Matched (genuine, evidence-backed): B2C and B2B marketing dynamics · lead-generation
-funnels / organic growth into paid amplification · marketing tech stack (CRM, email
-automation, analytics, ad platforms) · KPI-setting and performance reporting · written
-communication (campaign copy, executive reporting) · lean/fast-moving, strategist +
-executor · tech-forward / AI-powered workflows · data-driven decision-making · appetite
-for learning new industries.
+funnels / organic growth into paid amplification · **hands-on paid media across search
+(Google Ads), social (Meta Ads), and display (programmatic, sold at two agencies)** ·
+marketing tech stack (CRM, email automation, analytics, ad platforms) · KPI-setting and
+performance reporting · written communication (campaign copy, executive reporting) ·
+lean/fast-moving, strategist + executor · tech-forward / AI-powered workflows ·
+data-driven decision-making · appetite for learning new industries.
 
-Partial: paid media across search/social/display with budget and ROI accountability
-(Josh has coordinated paid media at Level Agency and optimized a client's Google Ads
-account at Solenzo, but doesn't have deep, sustained hands-on ownership of a paid media
-budget across all three channels) · "5 years in growth marketing/demand gen/integrated
-marketing" (Josh has 15+ years in marketing/sales broadly, with the growth-marketing-
-specific work concentrated in the last ~2.5 years at Solenzo plus Level Agency).
+Partial: "5 years in growth marketing/demand gen/integrated marketing" (Josh has 15+
+years in marketing/sales broadly, with growth-marketing-specific work concentrated in
+the last ~2.5 years at Solenzo plus Level Agency) · budget-management specifics for paid
+media (platforms and campaign types are confirmed; no dollar figures to cite yet).
 
-Not matched: music/entertainment industry experience or music-specific tools (DistroKid,
-TuneCore, Spotify for Artists) — explicitly a "nice to have," not a must-have.
+Now matched (was a gap): music industry familiarity — not professional marketing
+experience, but real, dated exposure (2005–2009 touring/venue crew) plus working
+knowledge of Spotify for Artists, directly answering the "Nice to Have" line on music
+platforms.
 
 ## Top strengths
 - **Organic-to-paid funnel philosophy is a real match, not just phrasing.** Solenzo's
   actual playbook — build traffic/community, layer automation, then paid amplification —
-  is the same sequencing the JD asks for, and it's backed by concrete systems (20+
-  GoHighLevel workflows, a 180+-contact audit/outreach engine).
-- **AI-forward marketing systems are a genuine differentiator.** Few Head of Marketing
-  candidates will show agentic automation architecture at this depth — directly answers
-  "tech-forward mindset... AI-powered workflows" and "quick to test and adopt what moves
-  the needle."
-- **B2C/B2B fluency with real evidence.** Managed both B2C portfolios (Wix e-commerce,
-  +30% traffic/+25% conversion) and B2B service clients (Solenzo, Accelo, Birdeye) —
-  supports the JD's specific point about independent-artist vs. independent-label
-  messaging differing, even without direct music-industry proof.
-- **Comfortable as sole marketing owner building from scratch** — Solenzo is effectively
-  a fractional in-house-agency operation already; that's the exact posture this role asks
-  for on Day 1.
+  is the same sequencing the JD asks for, now backed by named paid-platform experience
+  (Google, Meta, programmatic) on top of the automation systems (20+ GoHighLevel
+  workflows, a 180+-contact audit/outreach engine).
+- **Genuine, if early, roots in the music industry.** Years as touring crew for a Fort
+  Collins bluegrass band and venue crew at Mishawaka Amphitheatre predate his marketing
+  career but give him a lived sense of how independent artists tour, build an audience,
+  and experience the business — a real answer to "rooted in the music industry," not a
+  fabricated one.
+- **AI-forward marketing systems remain a strong differentiator** — directly answers
+  "tech-forward mindset... AI-powered workflows."
+- **B2C/B2B fluency with real evidence** across Wix (B2C e-commerce), and Solenzo/Accelo/
+  Birdeye (B2B service clients).
 
 ## Top gaps (the honest reasons this is a stretch, not a lock)
-- **No music/entertainment industry background.** Zero exposure to DistroKid, TuneCore,
-  Spotify for Artists, label economics, or A&R workflows. The JD frames this as
-  nice-to-have, but "rooted in the music industry" as company identity means Josh would
-  be learning the vertical fast, in public, in a leadership seat.
 - **No prior "Head of Marketing" or director-level marketing title.** Founder (sole
   owner) and team-lead (Wix) experience are the closest analogs, but this role directs
   cross-functional work across Tech, Distribution, Sales, and Social Media departments —
-  a wider organizational scope than anything on his record.
-- **Paid media depth is the thinnest must-have.** The JD wants hands-on search + social +
-  display budget/ROI ownership; Josh's paid media evidence is real but narrower (Level
-  Agency coordination, one client's Google Ads cleanup) than a "managed X budget across
-  three channels" story.
+  a wider organizational scope than anything on his record. This is the single biggest
+  factor holding the score back from "strong fit."
+- **The music-industry experience is early-career and non-marketing** (2005–2009,
+  logistics/crew work, not campaigns or label operations). It's real and worth
+  mentioning, but a hiring team may weigh it as color rather than domain expertise —
+  frame it in an interview as grounding and genuine affinity, not a substitute for
+  music-marketing track record.
+- **No dollar figures for paid media budgets managed.** The platforms and campaign types
+  are now confirmed and on the resume; a real spend number (even an estimate) would
+  further strengthen the ROI-accountability language the JD asks for.
 - **Sponsorships/conference activations and formal sales-asset production (pitch decks,
   case studies) aren't demonstrated** — adjacent skills (client-facing strategy,
   direct-response copy, landing pages) are present, but not this exact deliverable set.
@@ -80,16 +87,25 @@ no bilingual requirement stated. No clearance, license, or relocation requiremen
 band ($90K–$120K) is within a normal range for his experience level.
 
 ## Metrics needed
-- A real "grew pipeline/leads by X%" or "managed $X paid media budget" number from
-  Solenzo or Level Agency would directly close the paid-media and funnel-ROI gaps above —
-  worth asking Josh if either client relationship can supply one before submitting.
+- A real paid-media budget figure (even a rough range) from Solenzo, Level Agency, or
+  Fetch & Funnel would close the last piece of the paid-media must-have.
 
 ## Referral prompt
 Infinite Music is a smaller, growing company — worth a quick check of Josh's network
-(especially anyone in music/entertainment marketing, agency, or Colorado startup circles)
-before applying cold; a referral would meaningfully offset the industry-background gap.
+(especially anyone in music/entertainment marketing, agency, or Colorado
+touring/live-music circles — his Head for the Hills / Mishawaka years may surface real
+connections) before applying cold.
 
 ## Output files
-- `resume.pdf` / `resume.docx` — 2 pages, balanced (fill 0.85), modern style
+- `resume.pdf` / `resume.docx` — 2 pages, balanced (fill 0.93), modern style
 - `fit.png` — score meter
 - (no cover letter requested)
+
+## Profile updates made this run
+Added to `profile/master-profile.md` (true, dated, reusable across future applications):
+- Work history: Mishawaka Amphitheatre — Venue Crew (2007–2009); Head for the Hills
+  (touring band) — Roadie / Touring Crew (2005–2009), Fort Collins, CO.
+- Bullet bank entries for both, including Spotify for Artists familiarity.
+- Broadened the Solenzo paid-media bullet to name Google Ads + Meta Ads explicitly.
+- Added programmatic ad-sales bullets to Fetch & Funnel and Level Agency.
+- Added a "Music Industry Grounding" row to the Core Competencies Bank.

@@ -43,6 +43,8 @@
 | Fivestars | Account Executive | Denver, CO | 2017 – 2018 |
 | Senior Directory | Business Development Representative | Denver, CO | 2012 – 2016 |
 | Standing Akimbo | Co-Owner / Operations Lead | Denver, CO | Jun 2010 – Sep 2012 |
+| Mishawaka Amphitheatre | Venue Crew | Bellvue, CO (Poudre Canyon) | 2007 – 2009 |
+| Head for the Hills (touring band) | Roadie / Touring Crew | Fort Collins, CO | 2005 – 2009 |
 
 ---
 
@@ -66,7 +68,7 @@
 - Architected and deployed a **complete GoHighLevel marketing-automation system — 20+ workflows** spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.
 - Built segmented cold-email outreach engines in GHL (website-visibility, missed-calls, and low-reviews campaigns) plus an automated **prospect "audit" workflow that enrolled 180+ contacts**, scoring a business's digital footprint to trigger personalized outreach.
 - Conduct technical SEO audits, keyword gap analyses, and competitor research, implementing fixes directly inside client CMS platforms.
-- Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
+- Managed paid media across Google Ads and Meta Ads for client accounts — campaign setup, budget management, and ongoing optimization — cutting spam/low-quality leads and improving click-through quality on the Google account, and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
 - Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
 
@@ -86,6 +88,7 @@
 
 ### Level Agency — Account Executive / Client Strategist (Sep 2024 – Feb 2025)
 - Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.
+- Sold and helped manage programmatic display/video ad placements alongside paid social and search as part of integrated client media plans.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
 - Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.
@@ -102,6 +105,7 @@
 
 ### Fetch & Funnel — Account Executive / Sales Operations (Sep 2022 – Feb 2023)
 - Managed client accounts focused on campaign execution, performance reporting, and cross-team communication for a performance marketing agency.
+- Sold programmatic display/video advertising campaigns to clients alongside search and social buys as part of full-funnel media engagements.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
 - Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
@@ -135,6 +139,11 @@
 - Developed early operational infrastructure — intake processes and reporting systems — scaling the business to profitability.
 - Built customer service, vendor, and supplier workflows from the ground up.
 
+### Mishawaka Amphitheatre — Venue Crew (2007 – 2009) / Head for the Hills (touring band) — Roadie / Touring Crew (2005 – 2009)
+- Worked touring crew for Head for the Hills, a Fort Collins bluegrass band, and venue crew at Mishawaka Amphitheatre — hands-on, ground-level grounding in live music production, touring logistics, and how independent artists build and tour an audience.
+- Direct, lived understanding of the independent-artist side of the music business (touring economics, live show production, fan-building on the road) that predates and informs later marketing/CRM work.
+- Familiar with how independent artists use Spotify for Artists and related platforms to manage their audience and release strategy.
+
 ---
 
 ## Summary Variants (pick by target role type)
@@ -166,6 +175,7 @@
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
 | Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Google Apps, Procore |
+| Music Industry Grounding | Live Touring & Venue Production, Independent Artist Ecosystem, Spotify for Artists Familiarity |
 
 ---
 
