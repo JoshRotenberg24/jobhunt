@@ -1,0 +1,96 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "UX Research & Conversion Strategy",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "User researcher and conversion strategist with 15+ years studying how real people actually use digital products. At Wix I ran moderated, task-based sessions with every e-commerce client launching a store, helped define the usability study approach as that vertical was built out, and turned what I observed into personas, layout changes, and site-structure recommendations that lifted conversion 25% and traffic 30%. I work hypothesis-first: state what I think the behavior data is showing, test it, and change the recommendation when the evidence says otherwise. I also build LLM workflows and evaluation loops directly, so I understand what usable, well-structured signal looks like when the audience for the research is a model rather than a design team.",
+  "experience": [
+    {
+      "title": "Founder & Research / Growth Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Diagnose why users fail to convert on client sites, combining behavior analytics, funnel data, and on-site review to isolate the specific friction point rather than guessing at it.",
+        "Run hypothesis-driven test cycles: state what the data appears to show, design the test, measure, and revise the recommendation when results contradict the assumption.",
+        "Analyze mixed qualitative and quantitative datasets and translate them into structured, prioritized recommendations that non-technical stakeholders can act on immediately.",
+        "Design evaluation frameworks and self-improving loops that monitor AI agent output quality and continuously optimize against measured results.",
+        "Translate loosely-formed stakeholder intent into precise specifications and agent instructions, acting as the bridge between what people say they want and what actually gets built.",
+        "Produce written findings, reports, and educational content that make technical and behavioral insights legible to business audiences."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Built performance reporting frameworks tracking conversion, CAC, LTV, and ROI, translating behavioral and campaign data into optimization recommendations delivered directly to clients.",
+        "Produced landing pages and conversion-focused assets, iterating layout and messaging against measured user response."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Worked with agency partners to position and deploy customer-feedback and survey tooling for their end clients, building familiarity with voice-of-customer collection at scale.",
+        "Analyzed partner utilization and product-adoption metrics to identify where users disengaged, then recommended interventions that reduced churn.",
+        "Collaborated with Product and Engineering to translate structured user feedback into roadmap input across multidisciplinary teams."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Ran moderated, task-based working sessions with every e-commerce client launching a store, observing them use the product in real time, asking follow-up questions, and documenting exactly where the experience broke down.",
+        "Helped define the usability study approach used as the e-commerce department was built out, establishing how user friction was surfaced and evaluated for a brand-new vertical.",
+        "Built customer personas from that launch work and used them to anticipate user needs and shape onboarding flows and site-structure recommendations.",
+        "Used heatmaps and on-site behavior analytics (Hotjar) to inform layout and page-structure decisions across client sites.",
+        "Synthesized session findings into growth consultations covering site architecture, information structure, and SEO, contributing to a 30% increase in traffic and 25% improvement in conversion across the e-commerce segment.",
+        "Managed and developed a team of onboarding specialists, standardizing how research findings were captured and applied across the portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Ran in-person and remote discovery sessions with agencies and professional-services firms, mapping how teams actually worked before recommending system and workflow design.",
+        "Built and applied buyer personas to anticipate user needs, objections, and motivations ahead of engagement.",
+        "Guided onboarding, workflow design, and API integrations, troubleshooting where product design and real user behavior diverged."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for an SMB loyalty and marketing-automation platform, working in person with small business owners to understand how they and their customers used the product."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "User Research", "items": ["Moderated User Sessions", "Task-Based Observation", "Usability Study Design", "Personas", "Discovery Interviews", "Voice of Customer", "Remote & In-Person Studies"]},
+    {"category": "Analysis & Testing", "items": ["Hypothesis-Driven Testing", "A/B Testing", "Heatmap & Behavior Analysis", "Qualitative & Quantitative Synthesis", "Funnel & Drop-Off Analysis", "CRO"]},
+    {"category": "Design & Structure", "items": ["Information Architecture", "Site & Page Structure", "Layout Optimization", "Landing Page Design", "Onboarding Flow Design"]},
+    {"category": "Communication", "items": ["Findings Reports", "Stakeholder Presentations", "Technical Translation", "Written Recommendations", "Cross-Functional Collaboration"]},
+    {"category": "Tools & AI", "items": ["Hotjar", "GA4", "Google Search Console", "HubSpot", "GoHighLevel", "LLM Workflows", "Evaluation Framework Design", "Prompt Design"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
+}

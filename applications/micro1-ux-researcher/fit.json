@@ -1,12 +1,12 @@
 {
-  "score": 30,
-  "band": "Likely not a fit",
+  "score": 70,
+  "band": "Solid stretch",
   "role": "micro1 — UX Researcher (Contract)",
   "breakdown": [
-    ["Must-have requirements met", 6, 40],
-    ["Seniority & scope alignment", 6, 15],
-    ["Domain / industry alignment", 5, 15],
-    ["Differentiators / nice-to-haves", 9, 15],
-    ["Evidence strength", 4, 15]
+    ["Must-have requirements met", 27, 40],
+    ["Seniority & scope alignment", 11, 15],
+    ["Domain / industry alignment", 10, 15],
+    ["Differentiators / nice-to-haves", 13, 15],
+    ["Evidence strength", 9, 15]
   ]
 }

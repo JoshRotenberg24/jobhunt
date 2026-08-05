@@ -102,6 +102,7 @@
 - Functioned in a technical advisory capacity, guiding customers through complex setup of reputation and marketing automation tools.
 - Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.
 - Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.
+- Worked with agency partners to position and deploy customer-feedback and survey tooling for their end clients, building familiarity with voice-of-customer collection at scale.
 
 ### Fetch & Funnel — Account Executive / Sales Operations (Sep 2022 – Feb 2023)
 - Managed client accounts focused on campaign execution, performance reporting, and cross-team communication for a performance marketing agency.
@@ -113,10 +114,19 @@
 ### Wix.com — Account Manager, Onboarding Launch Specialist & Team Lead (Aug 2020 – Aug 2022)
 - Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.
+- Helped define the usability study approach used as the e-commerce department was built out, establishing how user friction was surfaced and evaluated for a brand-new vertical.
+- Ran moderated, task-based working sessions with every e-commerce client launching a store — observing them use the product in real time, asking follow-up questions, and identifying where the experience broke down.
+- Built customer personas tied to the e-commerce launch work, using them to anticipate user needs and shape onboarding and site-structure recommendations.
+- Used heatmaps and on-site behavior analytics (Hotjar) to inform layout and page-structure decisions for client sites.
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
 - Served as team lead for onboarding/launch operations, the primary strategic contact ensuring on-time delivery that accelerated time-to-value.
 - Proactively communicated with clients on goals and initiatives, driving a **25% improvement in conversion rates** across supported accounts.
 - Helped build a brand-new Wix team/vertical from proof-of-concept to a profitable, impactful business line — contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives. *(Corroborated by direct manager's written LinkedIn recommendation — see References.)*
+
+### Cross-Role — Research & UX Practice (applies across Wix, Level, Birdeye, Accelo, Solenzo)
+- Built and applied customer/buyer personas in every sales and account role, using them to anticipate user needs, objections, and motivations before engaging.
+- Work hypothesis-first as a standing practice: each cycle starts with a stated hypothesis about what the data or user behavior is showing, then tests it and adjusts based on the result.
+- Comfortable with both remote and in-person research and discovery sessions (in-person client work at Accelo and Fivestars in Denver; remote sessions at Wix, Level, and Solenzo).
 
 ### Accelo — Account Executive (Apr 2018 – Jul 2020)
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
@@ -158,6 +168,7 @@
 | Content / Writing | Content strategist and senior writer translating complex technical and operational concepts into clear, compelling narratives for product builders and B2B audiences. |
 | Marketing Generalist / Head of Marketing | Marketing generalist and operations builder with 15+ years owning the full marketing function in lean, fast-moving environments. Comfortable as sole marketing owner where building from scratch is the job. |
 | Analytics / Consulting | Marketing consultant and systems practitioner with 15+ years analyzing campaign performance, building strategic frameworks, and communicating findings to technical and non-technical stakeholders. |
+| UX / User Research | User researcher and conversion strategist with 15+ years studying how real people actually use digital products. Ran moderated, task-based sessions with e-commerce clients at Wix, helped define the usability study approach for a new vertical, and built personas, heatmap analysis, and A/B testing into recommendations that lifted conversion 25%. Works hypothesis-first and translates mixed qualitative and quantitative signal into changes teams can ship. |
 | Client Experience / AM | Client Experience and Account Manager with 15+ years as the day-to-day contact and strategic advocate for B2B SaaS clients, driving platform adoption and long-term retention. |
 
 ---
@@ -174,7 +185,8 @@
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Google Apps, Procore |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Google Apps, Procore, Hotjar |
+| UX & User Research | Moderated User Sessions, Usability Study Design, Personas, Heatmap & Behavior Analysis, A/B Testing, CRO, Information Architecture, Hypothesis-Driven Testing, Qualitative & Quantitative Synthesis, Voice of Customer |
 | Music Industry Grounding | Live Touring & Venue Production, Independent Artist Ecosystem, Spotify for Artists Familiarity |
 
 ---
