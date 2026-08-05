@@ -1,0 +1,105 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Head of Marketing",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing leader with 15+ years owning the full marketing function in lean, fast-moving environments — comfortable as both strategist and executor, and fluent in building distinct messaging and journeys for B2C and B2B audiences. As founder of Solenzo, I run brand positioning, content and social strategy, demand generation, and CRM architecture end-to-end for a portfolio of clients, directing lead-generation funnels grounded in organic growth before layering in paid amplification and AI-driven automation to scale what's working. I bring the cross-functional range — sales enablement, vendor management, client-facing delivery, and a fast-adopting, tech-forward mindset — to lead a central marketing engine across a growing portfolio of businesses and new verticals.",
+  "experience": [
+    {
+      "title": "Founder & Marketing / Growth Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own the full marketing function for a portfolio of B2C and B2B service-based clients — brand positioning, content and social strategy, demand generation, and lifecycle marketing — acting as the marketing lead accountable for revenue outcomes.",
+        "Direct lead-generation funnel strategy grounded in organic growth: building traffic and community first, then layering AI-driven automation and paid amplification to scale what's working.",
+        "Establish KPIs and manage the marketing tech stack (GoHighLevel, HubSpot, GA4), building executive-facing dashboards on lead generation, funnel progression, ROI, and pipeline velocity — connecting marketing activity directly to pipeline.",
+        "Architected and deployed a complete marketing-automation system of 20+ workflows spanning lead capture, qualification, appointment booking, no-show recovery, nurture/reactivation, and review generation.",
+        "Built segmented multi-channel acquisition engines plus an automated prospect-audit workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger hyper-personalized outreach.",
+        "Draft high-conversion sales assets — landing pages, direct-response copy, outreach sequences — equipping client sales teams to move prospects through the pipeline faster.",
+        "Serve as the primary strategic point of contact for a portfolio of clients — leading discovery, onboarding, and vendor/partner coordination, and aligning marketing programs with sales and technical teams on shared objectives."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Managed integrated multi-channel campaigns across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs to clients.",
+        "Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K), retaining all but one (~94% retention) during tenure — direct experience managing external partner/vendor relationships.",
+        "Served as trusted advisor on retention strategy and automated workflows, helping partners communicate product value to their own customers.",
+        "Collaborated with Product and Engineering to translate structured partner feedback into roadmap input, working cross-functionally across technical and go-to-market teams."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Managed client accounts for a performance marketing agency, translating multi-channel campaign performance data into optimization recommendations across paid media and creative.",
+        "Closed 6 new-client deals averaging ~$22K each — roughly $130K+ in total bookings — with direct accountability for acquisition and revenue results."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Helped build a brand-new Wix vertical from proof-of-concept to a profitable business line — the closest analog to building a launch playbook for a new business vertical — contributing to hiring, onboarding, and sales training.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment.",
+        "Directly managed and developed a team of onboarding specialists, owning budgets, scope, and delivery — people leadership alongside program ownership.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to lift client traffic and conversion."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, advising C-suite executives on scalable operational and marketing system design.",
+        "Averaged ~$17,750/month in implementation-services bookings (~$213K annualized), consistently performing above commission floor into accelerator tiers."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing-automation platform targeting SMBs — high-volume prospecting, lead qualification, and customer acquisition."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Marketing Leadership", "items": ["Full Marketing Function Ownership", "Brand Positioning", "Go-to-Market Strategy", "New Vertical Launch Playbooks", "Cross-Functional Leadership", "Vendor & Partner Management", "Executive Reporting"]},
+    {"category": "Growth & Demand Generation", "items": ["Lead Generation Funnels", "Organic-to-Paid Growth", "Full-Funnel Acquisition", "Paid Media", "SEO", "Email Marketing", "Landing Pages", "CRO"]},
+    {"category": "Content & Brand", "items": ["Content & Social Strategy", "Value-Led Storytelling", "Thought Leadership", "Direct-Response Copy", "Sales Enablement Assets"]},
+    {"category": "MarTech & Analytics", "items": ["GoHighLevel", "HubSpot", "Salesforce", "GA4", "KPI Tracking", "ROI Dashboards", "QBRs", "Campaign Attribution"]},
+    {"category": "AI & Automation", "items": ["Agentic AI", "Marketing Automation Architecture", "LLM Workflows", "Prompt Design", "Rapid Prototyping"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
+}
