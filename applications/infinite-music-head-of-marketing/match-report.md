@@ -98,8 +98,8 @@ connections) before applying cold.
 
 ## Output files
 - `resume.pdf` / `resume.docx` — 2 pages, balanced (fill 0.93), modern style
+- `cover-letter.pdf` / `cover-letter.docx` — 1 page, modern style (matching letterhead)
 - `fit.png` — score meter
-- (no cover letter requested)
 
 ## Profile updates made this run
 Added to `profile/master-profile.md` (true, dated, reusable across future applications):
