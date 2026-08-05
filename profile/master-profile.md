@@ -43,6 +43,8 @@
 | Fivestars | Account Executive | Denver, CO | 2017 – 2018 |
 | Senior Directory | Business Development Representative | Denver, CO | 2012 – 2016 |
 | Standing Akimbo | Co-Owner / Operations Lead | Denver, CO | Jun 2010 – Sep 2012 |
+| Mishawaka Amphitheatre | Venue Crew | Bellvue, CO (Poudre Canyon) | 2007 – 2009 |
+| Head for the Hills (touring band) | Roadie / Touring Crew | Fort Collins, CO | 2005 – 2009 |
 
 ---
 
@@ -66,7 +68,7 @@
 - Architected and deployed a **complete GoHighLevel marketing-automation system — 20+ workflows** spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.
 - Built segmented cold-email outreach engines in GHL (website-visibility, missed-calls, and low-reviews campaigns) plus an automated **prospect "audit" workflow that enrolled 180+ contacts**, scoring a business's digital footprint to trigger personalized outreach.
 - Conduct technical SEO audits, keyword gap analyses, and competitor research, implementing fixes directly inside client CMS platforms.
-- Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
+- Managed paid media across Google Ads and Meta Ads for client accounts — campaign setup, budget management, and ongoing optimization — cutting spam/low-quality leads and improving click-through quality on the Google account, and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
 - Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
 
@@ -86,6 +88,7 @@
 
 ### Level Agency — Account Executive / Client Strategist (Sep 2024 – Feb 2025)
 - Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.
+- Sold and helped manage programmatic display/video ad placements alongside paid social and search as part of integrated client media plans.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
 - Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.
@@ -99,9 +102,11 @@
 - Functioned in a technical advisory capacity, guiding customers through complex setup of reputation and marketing automation tools.
 - Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.
 - Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.
+- Worked with agency partners to position and deploy customer-feedback and survey tooling for their end clients, building familiarity with voice-of-customer collection at scale.
 
 ### Fetch & Funnel — Account Executive / Sales Operations (Sep 2022 – Feb 2023)
 - Managed client accounts focused on campaign execution, performance reporting, and cross-team communication for a performance marketing agency.
+- Sold programmatic display/video advertising campaigns to clients alongside search and social buys as part of full-funnel media engagements.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
 - Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
@@ -109,10 +114,19 @@
 ### Wix.com — Account Manager, Onboarding Launch Specialist & Team Lead (Aug 2020 – Aug 2022)
 - Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.
+- Helped define the usability study approach used as the e-commerce department was built out, establishing how user friction was surfaced and evaluated for a brand-new vertical.
+- Ran moderated, task-based working sessions with every e-commerce client launching a store — observing them use the product in real time, asking follow-up questions, and identifying where the experience broke down.
+- Built customer personas tied to the e-commerce launch work, using them to anticipate user needs and shape onboarding and site-structure recommendations.
+- Used heatmaps and on-site behavior analytics (Hotjar) to inform layout and page-structure decisions for client sites.
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
 - Served as team lead for onboarding/launch operations, the primary strategic contact ensuring on-time delivery that accelerated time-to-value.
 - Proactively communicated with clients on goals and initiatives, driving a **25% improvement in conversion rates** across supported accounts.
 - Helped build a brand-new Wix team/vertical from proof-of-concept to a profitable, impactful business line — contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives. *(Corroborated by direct manager's written LinkedIn recommendation — see References.)*
+
+### Cross-Role — Research & UX Practice (applies across Wix, Level, Birdeye, Accelo, Solenzo)
+- Built and applied customer/buyer personas in every sales and account role, using them to anticipate user needs, objections, and motivations before engaging.
+- Work hypothesis-first as a standing practice: each cycle starts with a stated hypothesis about what the data or user behavior is showing, then tests it and adjusts based on the result.
+- Comfortable with both remote and in-person research and discovery sessions (in-person client work at Accelo and Fivestars in Denver; remote sessions at Wix, Level, and Solenzo).
 
 ### Accelo — Account Executive (Apr 2018 – Jul 2020)
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
@@ -135,6 +149,11 @@
 - Developed early operational infrastructure — intake processes and reporting systems — scaling the business to profitability.
 - Built customer service, vendor, and supplier workflows from the ground up.
 
+### Mishawaka Amphitheatre — Venue Crew (2007 – 2009) / Head for the Hills (touring band) — Roadie / Touring Crew (2005 – 2009)
+- Worked touring crew for Head for the Hills, a Fort Collins bluegrass band, and venue crew at Mishawaka Amphitheatre — hands-on, ground-level grounding in live music production, touring logistics, and how independent artists build and tour an audience.
+- Direct, lived understanding of the independent-artist side of the music business (touring economics, live show production, fan-building on the road) that predates and informs later marketing/CRM work.
+- Familiar with how independent artists use Spotify for Artists and related platforms to manage their audience and release strategy.
+
 ---
 
 ## Summary Variants (pick by target role type)
@@ -149,6 +168,7 @@
 | Content / Writing | Content strategist and senior writer translating complex technical and operational concepts into clear, compelling narratives for product builders and B2B audiences. |
 | Marketing Generalist / Head of Marketing | Marketing generalist and operations builder with 15+ years owning the full marketing function in lean, fast-moving environments. Comfortable as sole marketing owner where building from scratch is the job. |
 | Analytics / Consulting | Marketing consultant and systems practitioner with 15+ years analyzing campaign performance, building strategic frameworks, and communicating findings to technical and non-technical stakeholders. |
+| UX / User Research | User researcher and conversion strategist with 15+ years studying how real people actually use digital products. Ran moderated, task-based sessions with e-commerce clients at Wix, helped define the usability study approach for a new vertical, and built personas, heatmap analysis, and A/B testing into recommendations that lifted conversion 25%. Works hypothesis-first and translates mixed qualitative and quantitative signal into changes teams can ship. |
 | Client Experience / AM | Client Experience and Account Manager with 15+ years as the day-to-day contact and strategic advocate for B2B SaaS clients, driving platform adoption and long-term retention. |
 
 ---
@@ -165,7 +185,9 @@
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Google Apps, Procore |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Google Apps, Procore, Hotjar |
+| UX & User Research | Moderated User Sessions, Usability Study Design, Personas, Heatmap & Behavior Analysis, A/B Testing, CRO, Information Architecture, Hypothesis-Driven Testing, Qualitative & Quantitative Synthesis, Voice of Customer |
+| Music Industry Grounding | Live Touring & Venue Production, Independent Artist Ecosystem, Spotify for Artists Familiarity |
 
 ---
 
