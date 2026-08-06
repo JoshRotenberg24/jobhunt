@@ -63,9 +63,10 @@ or thinly sourced, the rule is written conservatively.
 
 ## Content quality
 - **Quantify with real numbers only.** Quantified bullets read as more credible and
-  are associated with more callbacks; the only verified metrics available are the
-  four in the master profile (Wix: +30% traffic, +25% conversion; 15+ yrs; 5+ yrs
-  HubSpot). For everything else, use concrete qualitative outcomes and flag where a
+  are associated with more callbacks; the only verified metrics available are the ones
+  listed under **Verified Quantified Metrics** in the master profile (read that section
+  each run rather than working from memory — it grows as `/excavate-profile` adds
+  numbers). For everything else, use concrete qualitative outcomes and flag where a
   real number would help. *(Medium on the callback lift; High on "don't fabricate.")*
 - **Front-load relevance.** Recruiters' initial scan is short (the well-known "~7
   seconds" figure is from a 2018 Ladders eye-tracking study, n≈30 — indicative, not

@@ -88,8 +88,11 @@ Write `applications/<company-slug>/resume.json` using the schema in
 - Order/word bullets to front-load the JD's must-have keywords **where Josh truly has
   the experience**; mirror the JD's terminology for genuine skills.
 - Pull the most relevant 4–6 bullets for recent roles, fewer for older ones.
-- Quantify using ONLY the four verified metrics in the profile; otherwise qualitative,
-  and flag where a real number would strengthen a bullet.
+- Quantify using ONLY the numbers in the profile's **Verified Quantified Metrics**
+  section (read it fresh each run — it grows via `/excavate-profile`, so never work from
+  a remembered count). Respect each metric's stated scope: a segment-level result is not
+  a single-client result. Otherwise stay qualitative, and flag where a real number would
+  strengthen a bullet.
 - Seed a `competencies` section with the JD's true, matching keywords (honest keyword
   optimization — never stuffing).
 
@@ -110,6 +113,29 @@ balanced pages — never a half-empty page 2.
 If `PAGES=?` (renderer unavailable), keep content to the calibrated budget that yields
 two pages with this template (~6 roles, ~3–5 bullets on recent roles) and note it.
 
+## Step 6.5 — The tired-recruiter read (adversarial check, do NOT skip)
+Before writing anything else, read the rendered resume as a recruiter at 4:45pm on
+resume #31 who has ~10 seconds and is looking for a reason to pass. Verdict: interview
+or pass? Then **fix the reason.** Check specifically:
+
+- **Title drift.** Do the titles on the page match `master-profile.md` EXACTLY? Tailoring
+  a title is fabrication, not tailoring. This is an easy mistake to make while
+  optimizing for a JD — verify every one against the profile's work-history table.
+- **The wrong-career read.** If most titles say one thing (e.g. "Account Executive") and
+  the target job is another (e.g. implementation), a skimmer pattern-matches on titles
+  and passes. The top third must do that reframing work explicitly, and the
+  most-relevant bullet must lead in every off-title role.
+- **Top third.** Does the summary carry a hard number and the strongest relevant fact
+  first? "15+ years" is context, not proof — lead with proof.
+- **Off-message bullets.** Cut bullets that argue for a different job than the one being
+  applied to, even strong ones. A big sales number on an implementation resume pushes
+  the reader toward the wrong conclusion.
+- **Short stints and gaps.** Anything a skimmer will stumble on — if it can't be fixed
+  (it's true), make sure the surrounding bullets are the strongest on the page.
+- **Consistent date formats** across every role.
+
+Apply the fixes, re-render, and re-check Step 6's page balance.
+
 ## Step 7 — (Optional) Cover letter
 If the user wants one, write `applications/<company-slug>/cover-letter.json` (schema in
 `build/render_cover_letter.py`): 3 short paragraphs — (1) the role + a genuine hook tied
@@ -126,7 +152,10 @@ Write `applications/<company-slug>/match-report.md`:
 - **Keyword coverage**: must-haves matched vs. total, with the matched terms.
 - **Top strengths** for this role; **Top gaps** (and what Josh could add).
 - **Knockouts**: any work-auth/location/clearance/years items to confirm or that cap fit.
-- **Metrics needed**: where a real number would strengthen a bullet.
+- **Metrics needed**: where a real number would strengthen a bullet. Recurring entries
+  here are the signal to run `/excavate-profile` — a gap that shows up across several
+  match reports is worth an interview, since fixing it in the profile fixes every
+  future application at once.
 - **Referral prompt**: if Josh may know someone at the company, say to pursue it
   (referrals beat cold applies by multiples).
 - Output files produced (resume.pdf/.docx, cover-letter.\* if any).
