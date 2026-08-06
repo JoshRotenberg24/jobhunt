@@ -39,6 +39,12 @@ Extract: exact **job title** + seniority; **must-have** skills/tools/certs/years
 **knockout criteria** (work auth, onsite/location, clearance, license, hard minimum
 years); **keywords/phrasing** (mirror exact terms — some ATS exact-match); nice-to-haves.
 
+> **Phrasing is governed by the profile's `Writing Standards` section** — strong verb +
+> specific object + result, no responsibility framing (`Responsible for`, `Served as`,
+> `Helped`, `Functioned in a ... capacity`), no filler adjectives, scope kept attached to
+> every number. Read that section each run and apply it to any bullet you rephrase. It
+> constrains wording only; it never licenses a change to the facts.
+
 ## Step 3 — Match against the master profile
 Read `profile/master-profile.md`. For each requirement, map TRUE bullets/competencies:
 - **Covered (strong)** — direct, demonstrable experience.
