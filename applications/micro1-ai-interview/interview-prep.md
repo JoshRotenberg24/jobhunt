@@ -69,6 +69,10 @@ Under pressure, most people skip step 3. It is the highest-scoring sentence in t
 Fill every `[bracket]` with something real before interview day. Where the profile has no
 number, stay qualitative and specific rather than reaching for one.
 
+> **Rehearsing rather than reading?** Go to **Part II — Talk Tracks** at the end of this
+> file. Same six topics, written to be said out loud. This section is the reasoning behind
+> them, Part II is the delivery.
+
 ### Topic 1 — Driving Adoption
 
 **Headline:** Adoption fails at the workflow level, not the tool level. Handing someone a
@@ -318,6 +322,280 @@ Honest read on where the profile is thin for this specific screen:
    and restate the headline.
 4. If a question lands on something you have not done, say what you have done that is adjacent
    and what you would do. Zara probes claims, not gaps.
+
+---
+
+# Part II — micro1 / Zara: Talk Tracks
+
+Spoken versions of the six topics. Written to be said out loud, not read. Each one runs 60
+to 90 seconds at normal pace, which leaves room for two follow-ups inside the per-question
+limit.
+
+Rehearse the headline until it is automatic. Everything after the headline can be improvised
+as long as the four beats stay in order: headline, instance, judgment call, result.
+
+Anything in `[brackets]` is a fact only you can supply. Fill it or cut the sentence. Do not
+deliver a bracket.
+
+---
+
+## Topic 1 — Driving Adoption
+
+**Headline (say this first, every time):**
+
+> "Adoption fails at the workflow level, not the tool level. Handing someone a blank chat box
+> is not a rollout."
+
+**Full track:**
+
+> "Adoption fails at the workflow level, not the tool level. Handing someone a blank chat box
+> is not a rollout, so I ship the workflow preloaded and make one person visibly successful
+> before I go wide.
+>
+> The pattern I use has five beats. Start where the pain is already measurable, so pick the
+> workflow people complain about, not the most impressive demo. Build a lighthouse user first,
+> one person with real output their peers can see, because peer proof moves a team and
+> mandates do not. Ship the SOP instead of the tool, meaning preloaded prompts, project
+> instructions, connectors already configured, so a new user's first attempt works. Set the
+> trust boundary explicitly, read-only first, human approves anything that writes. And measure
+> behavior, weekly active on the specific workflow and time to first useful output, not seats
+> licensed.
+>
+> The judgment call in there is beat four. Most resistance is risk management, not laziness.
+> If I name the boundary before they ask, the objection never forms, and I trade a little
+> autonomy on day one for a rollout that does not stall in week three.
+>
+> Where I learned this was partner enablement at Birdeye. I onboarded 15 to 20 reseller
+> partners on marketing automation and reputation tooling and retained all but one, about 94
+> percent. Adoption was the entire job there, because partners had to change how they sold,
+> not just log in. Worth saying that is a SaaS adoption number, not an AI one."
+
+**Follow-up ammo, resistance handling** (compress to two lines each if asked):
+
+- "It gets things wrong" is a trust problem. Start on read-only tasks where the answer is
+  checkable in one click, and show source-grounded citations.
+- "Is it reading everything" is permissions anxiety. Explain permission inheritance and admin
+  controls plainly, once, in their words.
+- "I don't have time to learn it" is workflow inertia. Do not teach the tool, replace one step
+  of what they already do and leave the rest alone.
+- Silence from a senior person is usually fear of exposure. Give them the reviewer role so
+  they own quality control instead of competing with the output.
+
+**Second follow-up, likely, "how do you handle an exec mandate":**
+
+> "A mandate gets you logins, not usage. I still need the lighthouse user, because the thing
+> that changes behavior is a peer producing better work on Tuesday, not a slide in an
+> all-hands."
+
+---
+
+## Topic 2 — Daily Use of ChatGPT Work and Claude Cowork
+
+This is the honesty gate. Answer with what you actually run.
+
+**Headline:**
+
+> "I'll give you an actual day rather than a capability list."
+
+**Full track:**
+
+> "I'll give you an actual day rather than a capability list. My work splits into three passes.
+>
+> Morning is retrieval. I'm asking what did we decide about X, and I want it answered across
+> connected sources with citations so verification is one click instead of five tabs.
+>
+> The middle of the day is execution. That's the long multi-step job that touches files, pull
+> the source material, work through it, and write the output to disk as something I keep. The
+> reason that matters is the run ends with a file, not a chat transcript I have to copy out of.
+>
+> The third pass is systems. Anything I do twice becomes a system. The recurring version of
+> that job gets packaged with fixed instructions so it isn't re-prompted from scratch every
+> week. Same instinct behind the 20-plus GoHighLevel workflows I built at Solenzo.
+>
+> Concretely, this week that looked like `[one real job, named tools, named output]`."
+
+**Read this before interview day.** Do not claim daily Cowork use if your daily driver is
+`[Claude in chat / Claude Code / GHL native AI / the API]`. Zara probes claims, not gaps. The
+scoring answer is:
+
+> "My daily driver is `[X]`. I've run `[Y]` in Cowork, and the difference I noticed is `[Z]`."
+
+That answer survives a follow-up. A confident overclaim does not, and integrity is a gate, not
+a factor.
+
+---
+
+## Topic 3 — Connectors
+
+**Headline:**
+
+> "A connector is a permissioned bridge between the model and a system of record. The
+> interesting engineering is in scoping and trust, not in clicking connect."
+
+**Full track:**
+
+> "A connector is a permissioned bridge between the model and a system of record, and the
+> interesting engineering is in scoping and trust, not in clicking connect.
+>
+> On the ChatGPT side, company knowledge pulls context from connected apps like Slack, Drive,
+> GitHub, SharePoint, HubSpot, Zendesk, with citations back to source. It is deliberately
+> read-only retrieval, eligible apps expose search and fetch. Writes need agent mode, a
+> write-capable app, or an automation layer underneath. On the Claude side, Cowork connects
+> over MCP to a wide set of workplace tools, and inside Cowork those connectors gain filesystem
+> access, so external data can land locally and local files can feed external actions.
+>
+> The point I'd actually make is that connectors inherit the user's permissions. Which means
+> bad access hygiene in the source system becomes an AI problem the day you connect it. If a
+> shared drive is over-permissioned, the model is not leaking anything, it is surfacing
+> something that was already wrong. That's a pre-rollout audit step most people skip.
+>
+> I know that from the write side. I've spent years in GoHighLevel and HubSpot moving lead
+> data, tagging, routing, and lifecycle stages, with hygiene protocols that existed because
+> I've seen what happens when a system of record gets written to by an automation nobody
+> audited."
+
+**Judgment sentence if pushed:**
+
+> "So my default sequence is audit permissions, connect read-only, prove value, then earn the
+> write scope."
+
+---
+
+## Topic 4 — Multi-Connector Workflow Walkthrough
+
+Hardest question in the set. Narrate in sequence, named connectors at every step. Pair two
+honest halves rather than inflating one.
+
+**Headline:**
+
+> "I'll walk you through one I actually run, and I'll be precise about which connectors are AI
+> connectors and which are CRM and API."
+
+**Track, part one, the systems answer:**
+
+> "The one I know cold is a prospect audit engine I built at Solenzo. Trigger is a contact
+> entering the system. First step is retrieval, the system pulls the business's digital
+> footprint and scores it against fixed criteria. That score is the branch point, it drives
+> which personalized sequence fires. Output side runs booking, confirmation, reminders, and
+> no-show recovery. That enrolled 180-plus contacts and sits inside a 20-plus workflow build
+> covering capture, qualification, booking, onboarding nurture, reactivation, and reviews.
+>
+> The failure mode I hit was `[real one, ideally scoring or data quality]`, and the fix was
+> `[what you changed]`. Verification was `[spot checks on the first N runs / rules layer /
+> human gate]`.
+>
+> To be clear about the stack, the connectors there are CRM and API rather than ChatGPT or
+> Cowork connectors."
+
+**Track, part two, the AI-connector answer:**
+
+> "The smaller one that's actually a model-connector workflow is `[source connector]` in,
+> `[the judgment the model makes: score, classify, summarize, draft]`, then output written
+> back to `[destination connector]`, with `[me / a human]` approving before it lands.
+>
+> The judgment call was where to put the human. I kept the approval gate on the write for the
+> first `[N]` runs, then `[removed it / kept it]` because `[error rate / stakes]`.
+>
+> The pairing is the honest picture. I've built the deterministic version and the agentic
+> version, so I know which problems deserve which."
+
+**Prep note:** run one real two-connector job before the interview. Source in, analysis, output
+written back. You need beat five, the failure, to be something you hit, not something you
+anticipated. That single detail is what separates this answer from every other candidate's.
+
+If the walkthrough runs past four minutes, cut the transformation detail, not the failure.
+
+---
+
+## Topic 5 — Power Usage of AI Agents
+
+**Headline:**
+
+> "The skill is decomposition and verification, not prompting."
+
+**Full track:**
+
+> "The skill is decomposition and verification, not prompting. I give an agent the same thing
+> I'd give a contractor, a defined outcome, the context it can't infer, the boundaries, and a
+> way to check the work.
+>
+> Four things I actually do. I decompose before I delegate, so I break the manual workflow into
+> steps and decide which steps are model judgment and which are deterministic. Agents are for
+> the judgment steps. I build the evaluation loop with the agent rather than after it, because
+> without a check an agent is just a faster way to be confidently wrong at scale. I keep the
+> human at the write boundary early, read and draft freely, but anything touching a system of
+> record or a customer gets a review gate until the error rate earns removing it.
+>
+> And the fourth one is knowing when not to use an agent. High-volume, deterministic,
+> compliance-sensitive work belongs in a workflow engine, not an LLM. I can say that with some
+> authority because I've built both, and the expensive mistake I see is people reaching for an
+> agent on a problem that needed a rule."
+
+**Guaranteed follow-up, "when has an agent failed for you":**
+
+Have one real answer. Strongest shapes, pick the true one:
+
+- It optimized the wrong objective because my instruction was ambiguous. `[what it produced]`.
+  I fixed it by `[constraining the output / adding an eval case]`.
+- It produced plausible output that a spot check caught. `[what the spot check was]`.
+- It worked in testing and broke on real data that didn't match my assumptions. `[the mismatch]`.
+
+End on the recovery, not the failure. "The lesson was `[X]`, and now `[the check I run first]`."
+
+---
+
+## Topic 6 — Switching Between ChatGPT and Claude
+
+**Headline:**
+
+> "I switch on the shape of the task, not on preference."
+
+**Full track:**
+
+> "I switch on the shape of the task, not on preference.
+>
+> Retrieval and quick reasoning across company knowledge go to ChatGPT. What do we know about
+> X, across connected apps, with citations, where verification speed is the thing that matters.
+> Fast one-shot answers and everyday drafting live there too.
+>
+> Long multi-step execution that produces artifacts goes to Claude Cowork. Go do this whole
+> thing, across many steps, where the output has to land as files, and where the job reads and
+> writes across local files plus connected tools. Repeatable jobs get packaged there as skills
+> or plugins.
+>
+> The honest tradeoff is autonomy versus supervision cost. An agentic run that takes twenty
+> minutes and touches files needs a reviewer at the end, so I only spend that when the output
+> is worth reviewing. For a question I'm going to act on in ten seconds, the agentic path is
+> the worse tool. That's the whole decision, really, am I buying an answer or am I buying a
+> deliverable."
+
+Do not trash either product. The screen is for judgment. Vendor loyalty reads as the absence
+of it.
+
+---
+
+## Delivery rules for the day
+
+1. First ten seconds of every answer is the headline. If you catch yourself preambling, stop
+   and restate the headline.
+2. Say the structure out loud. "Three things. First, second, third."
+3. Never skip the judgment call. It is the highest-scoring sentence and the first thing people
+   drop under time pressure.
+4. Attach scope to every number. "About 94 percent, and that's a SaaS adoption number, not an
+   AI one." Scoped numbers survive follow-ups. Unscoped ones invite them.
+5. If a question lands on something you have not done, say what you have done that is adjacent
+   and what you would do. Gaps do not get probed. Claims do.
+6. Speak, do not type. Single monitor, other tabs closed, notes out of frame, look at the
+   camera.
+
+## Six headlines, paper only
+
+1. Adoption fails at the workflow level, not the tool level.
+2. I'll give you an actual day rather than a capability list.
+3. Connectors inherit permissions.
+4. Two halves, the deterministic one and the agentic one.
+5. Decomposition and verification, not prompting.
+6. I switch on the shape of the task, not preference.
 
 ---
 
