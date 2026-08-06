@@ -1,0 +1,116 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations & Workflow Design — Documentation for AI Systems",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations and growth practitioner with 15+ years across MarTech, SaaS, and agency environments, and 5+ years decomposing real business processes into documented, multi-step workflows. My daily work is exactly this scope of work: designing authentic marketing and operational workflows, executing them across Slack, Google Workspace, Notion, and CRM platforms, and documenting every action, decision point, and deliverable clearly enough for someone who wasn't there to reproduce it. I also translate non-technical stakeholder intent into precise prompts and agent instructions for LLM systems, and build the evaluation loops that flag ambiguous or unrealistic cases before they ship.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Break down manual, multi-step marketing workflows into explicit step-by-step sequences and agent architectures — capturing each action, decision point, and expected outcome so the process can be executed consistently by someone who did not design it.",
+        "Architected and deployed a complete GoHighLevel marketing-automation system — 20+ documented workflows spanning lead capture, tagging and routing, qualification, appointment booking with confirmations and reminders, no-show recovery, post-sale onboarding, long-term nurture and reactivation, and automated review generation.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions — acting as the bridge between loosely-formed business intent and reliable LLM output.",
+        "Design self-improving loops and evaluation frameworks that monitor agent outputs, surface ambiguous or failing cases, and drive iteration cycles against real-world quality standards.",
+        "Run client engagements across Slack, Google Workspace, Notion, HubSpot, and GoHighLevel — referencing threads, shared docs, and CRM records within a single workflow and maintaining organized records of interactions, timelines, and deliverables.",
+        "Write thought leadership, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth — translating complex technical process into clear, structured documentation for non-technical B2B audiences.",
+        "Built a segmented outreach engine including an automated prospect audit workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized, logic-driven follow-up."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content as strategic lead, coordinating multi-step execution across internal departments.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and executive-facing QBR readouts.",
+        "Produced high-converting campaign assets — landing pages, complex email sequences, and conversion-focused copy — improving lead generation and pipeline.",
+        "Translated performance data into strategic recommendations for multi-stakeholder accounts spanning marketing and technology channels."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback that informed the product roadmap.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction across a high-volume partner network.",
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K), retaining all but one (~94% retention) during tenure.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment for a performance marketing agency.",
+        "Closed 6 new-client deals averaging ~$22K each — roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Helped build a brand-new vertical from proof-of-concept to a profitable business line — contributing to hiring, onboarding, and the development of sales training materials for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in workflow design, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, advising C-suite executives as a trusted advisor on operational system design.",
+        "Averaged ~$17,750/month in implementation-services bookings (~$213K annualized), consistently performing above commission floor into accelerator tiers."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing-automation platform targeting SMBs — high-volume prospecting, lead qualification, and customer acquisition."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Built compliance, customer-management, intake, and reporting systems from scratch in a highly regulated startup environment, scaling the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Workflow Design & Documentation", "items": ["Process Mapping", "Workflow Decomposition", "SOP Development", "Step-by-Step Documentation", "Decision-Point Capture", "Multi-Tool Process Documentation", "Technical Translation"]},
+    {"category": "Product Management & Marketing", "items": ["Product Marketing", "Growth Marketing", "Roadmap Feedback Loops", "Campaign Briefs", "Trackers & Reporting Frameworks", "Executive Readouts / QBRs", "Cross-Functional Coordination"]},
+    {"category": "Collaboration Tools", "items": ["Slack", "Google Workspace (Docs, Sheets, Drive)", "Notion", "Asana", "Monday.com", "Jira", "Zendesk"]},
+    {"category": "AI & LLM Workflows", "items": ["Prompt Design", "Requirements-to-Prompt Translation", "Agentic AI & Multi-Agent Orchestration", "LLM Output Evaluation Frameworks", "Stakeholder Elicitation", "ChatGPT", "Claude"]},
+    {"category": "Analytics & Marketing Stack", "items": ["GA4", "Google Search Console", "GoHighLevel", "HubSpot", "Salesforce", "KPI Tracking", "Campaign Attribution", "ROI Dashboards"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
+}
