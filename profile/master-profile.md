@@ -76,6 +76,32 @@ never by estimation.
 
 **Present tense for current roles, past tense for prior roles.** Consistently.
 
+### Prose answers (application questions, cover letters, interview prep)
+
+Same discipline, different shape. Bullets compress; prose has to carry a reader. The
+banned-openings list above is about bullets. Prose has its own failure modes:
+
+- **First sentence establishes scope and role.** "At Wix I led onboarding and launch for
+  high-value e-commerce accounts, and I also ran the team doing that work." The reader
+  should know the size of the thing before hearing about it.
+- **No throat-clearing.** Do not open with "That's a great question," "Throughout my
+  career," "I've always been passionate about," or a restatement of the question.
+- **Name one real decision, not a generic process.** Anyone can describe a kickoff. What
+  separates a specialist answer from a project-manager answer is a judgment call and the
+  reason behind it ("most of the risk sat in the data, so I front-loaded it").
+- **Metrics keep their scope in prose too**, and prose makes scope errors easier to
+  commit. "Across the e-commerce segment I supported" is honest; "my client saw" is not,
+  when the number was segment-level.
+- **No composite stories.** If several engagements are being described as a pattern, say
+  so plainly ("the complex ones followed the same shape"). Never fuse multiple clients
+  into one invented narrative that reads as a single project.
+- **Close on what outlasted the work**, where that is true: the playbook, the process,
+  the thing still in use. It answers "what would this person leave behind here."
+
+**Voice:** direct, commercially aware, no hype, no corporate filler. Commas and
+parentheses instead of em dashes. Short paragraphs. It should read like a competent
+operator talking, not like a candidate performing.
+
 ---
 
 ## Bullet Bank (true, reusable — select & rephrase per job)
