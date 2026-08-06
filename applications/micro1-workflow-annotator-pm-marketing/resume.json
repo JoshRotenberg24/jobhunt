@@ -33,8 +33,7 @@
       "bullets": [
         "Managed integrated digital marketing strategies across inbound, paid media, and content as strategic lead, coordinating multi-step execution across internal departments.",
         "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and executive-facing QBR readouts.",
-        "Produced high-converting campaign assets — landing pages, complex email sequences, and conversion-focused copy — improving lead generation and pipeline.",
-        "Translated performance data into strategic recommendations for multi-stakeholder accounts spanning marketing and technology channels."
+        "Produced high-converting campaign assets — landing pages, complex email sequences, and conversion-focused copy — improving lead generation and pipeline."
       ]
     },
     {
@@ -45,8 +44,7 @@
       "bullets": [
         "Collaborated with Product and Engineering to share structured, high-priority customer feedback that informed the product roadmap.",
         "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction across a high-volume partner network.",
-        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K), retaining all but one (~94% retention) during tenure.",
-        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K), retaining all but one (~94% retention) while analyzing utilization metrics to identify adoption gaps and reduce churn."
       ]
     },
     {
@@ -77,6 +75,7 @@
       "dates": "Apr 2018 – Jul 2020",
       "bullets": [
         "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in workflow design, contact management, and pipeline automation.",
+        "Built and demonstrated Power BI dashboards showing how Accelo's API could sync live platform data into client BI reporting — translating raw system data into the reporting view a stakeholder actually needed.",
         "Guided client onboarding, workflow design, and API integrations, advising C-suite executives as a trusted advisor on operational system design.",
         "Averaged ~$17,750/month in implementation-services bookings (~$213K annualized), consistently performing above commission floor into accelerator tiers."
       ]
@@ -105,7 +104,8 @@
     {"category": "Product Management & Marketing", "items": ["Product Marketing", "Growth Marketing", "Roadmap Feedback Loops", "Campaign Briefs", "Trackers & Reporting Frameworks", "Executive Readouts / QBRs", "Cross-Functional Coordination"]},
     {"category": "Collaboration Tools", "items": ["Slack", "Google Workspace (Docs, Sheets, Drive)", "Notion", "Asana", "Monday.com", "Jira", "Zendesk"]},
     {"category": "AI & LLM Workflows", "items": ["Prompt Design", "Requirements-to-Prompt Translation", "Agentic AI & Multi-Agent Orchestration", "LLM Output Evaluation Frameworks", "Stakeholder Elicitation", "ChatGPT", "Claude"]},
-    {"category": "Analytics & Marketing Stack", "items": ["GA4", "Google Search Console", "GoHighLevel", "HubSpot", "Salesforce", "KPI Tracking", "Campaign Attribution", "ROI Dashboards"]}
+    {"category": "Analytics & Reporting", "items": ["Power BI", "GA4", "Google Search Console", "API-to-BI Data Syncing", "KPI Tracking", "Campaign Attribution", "ROI Dashboards", "Executive Readouts"]},
+    {"category": "Marketing Stack", "items": ["GoHighLevel", "HubSpot", "Salesforce", "Notion", "GitHub (MCP)", "Google Drive"]}
   ],
   "education": [
     "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"

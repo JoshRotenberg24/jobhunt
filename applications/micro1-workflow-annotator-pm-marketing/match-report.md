@@ -14,8 +14,8 @@
 ## Fit Score
 
 ```
-🟢 Fit Score: 84 / 100 — Strong fit
-[█████████████████░░░]  84%
+🟢 Fit Score: 86 / 100 — Strong fit
+[█████████████████░░░]  86%
 ```
 
 Score meter image: `fit.png`
@@ -25,9 +25,16 @@ Score meter image: `fit.png`
 | Must-have requirements met | 34 | 40 | Clears the stated bar: 2+ yrs in growth/marketing (15+ actually), daily Slack + Google Workspace, documented multi-tool processes, strong written communication. Docks for the "product management" half — he is marketing/ops, not a PM, and has never shipped PRDs or roadmaps. |
 | Seniority & scope alignment | 13 | 15 | Well above the minimum bar for a contractor annotation role. Docks only because he is arguably *over*qualified relative to the $13–36/hr band. |
 | Domain / industry alignment | 12 | 15 | Marketing/growth in SaaS + agency is dead-on. Product management and AI-data-labeling as an industry are adjacent, not native. |
-| Differentiators / nice-to-haves | 14 | 15 | Unusually strong: he already decomposes real workflows into agent architectures, writes prompts/agent instructions from vague stakeholder intent, and builds eval loops for LLM output. That is the *purpose* of this job, seen from the other side. |
-| Evidence strength | 11 | 15 | Concrete, documented workflow artifacts (20+ GHL workflows, SOPs, training materials, QBR frameworks) plus verified metrics. Docks for zero BI/SQL/Snowflake evidence and no PRD/roadmap artifacts. |
-| **Total** | **84** | **100** | **Strong fit — apply.** |
+| Differentiators / nice-to-haves | 15 | 15 | Unusually strong: he already decomposes real workflows into agent architectures, writes prompts/agent instructions from vague stakeholder intent, and builds eval loops for LLM output. That is the *purpose* of this job, seen from the other side. Full marks now that Power BI closes the last named nice-to-have. |
+| Evidence strength | 12 | 15 | Concrete, documented workflow artifacts (20+ GHL workflows, SOPs, training materials, QBR frameworks) plus verified metrics, and now a named BI tool with API-sync work behind it. Still docks for no SQL/Snowflake and no PRD/roadmap artifacts. |
+| **Total** | **86** | **100** | **Strong fit — apply.** |
+
+> **Revised 2026-08-06** from 84 → 86. Josh confirmed hands-on **Power BI** use at Accelo, building
+> and demonstrating dashboards that showed how Accelo's **API could sync live platform data into
+> client BI reporting**. That closes preferred qualification #6 outright (BI tooling) and partially
+> addresses #7 (the JD's "pulling metrics from Snowflake" scenario is the same mental model —
+> piping system data into a reporting surface). Added to `profile/master-profile.md`, so it now
+> carries into every future application.
 
 ---
 
@@ -59,8 +66,8 @@ Score meter image: `fit.png`
 | PRDs and roadmaps specifically | ⚠️ Adjacent | Fed structured customer feedback into Birdeye's product roadmap — informed it, never authored one |
 | Cross-functional coordination & complex process documentation | ✅ Strong | Level Agency, Birdeye, Wix team lead |
 | Written/verbal communication for a diverse audience | ✅ Strong | Thought leadership, educational guides, technical translation |
-| Product analytics / BI (Amplitude, Looker, Tableau, Power BI) | ❌ Gap | Has GA4, GSC, CRM dashboards — no named BI tool |
-| SQL / Snowflake / GitHub issues *(explicitly "not required")* | ❌ Gap | None in profile |
+| Product analytics / BI (Amplitude, Looker, Tableau, Power BI) | ✅ Covered | **Power BI at Accelo** — built and demoed dashboards fed by Accelo's API; plus GA4, GSC, CRM dashboards |
+| SQL / Snowflake / GitHub issues *(explicitly "not required")* | ⚠️ Adjacent | No SQL or Snowflake. But the API-to-BI sync work at Accelo is the same pattern the JD describes, and he uses GitHub daily via MCP |
 
 ---
 
@@ -77,8 +84,8 @@ Score meter image: `fit.png`
 | Gap | Impact | Fix |
 | :--- | :--- | :--- |
 | **No PRDs or roadmaps authored** | Medium — named in preferred qual #2 | Don't fake it. If he has a real PRD-like artifact (a scoping doc, a build spec for a client automation), add it to the master profile as a true bullet. Otherwise lean on briefs/trackers/readouts, which he does have. |
-| **No product analytics / BI tool** (Amplitude, Looker, Tableau, Power BI) | Low — a "plus," not a requirement | GA4 + CRM dashboards are the honest answer. A weekend in Looker Studio would let him add it truthfully. |
-| **No SQL / Snowflake / GitHub issues** | Low — explicitly "desirable but not required" | The JD only asks him to *pull metrics from Snowflake* inside a scenario, not to be a SQL analyst. Basic SQL literacy would be a cheap, real add. |
+| ~~No product analytics / BI tool~~ | **CLOSED** | Power BI at Accelo, with API-sync work behind it. Now on the resume and in the master profile. |
+| **No SQL / Snowflake** | Low — explicitly "desirable but not required" | The JD only asks him to *pull metrics from Snowflake* inside a scenario, not to be a SQL analyst. Basic SQL literacy would be a cheap, real add — and he now has a credible bridge story via the Accelo API-to-Power-BI work. |
 | **"Product management" title never held** | Medium — it's half the role name | Frame honestly as product *marketing* and cross-functional PM-adjacent work: roadmap feedback at Birdeye, scoping and requirements work at Accelo and Solenzo. |
 | **No annotation/data-labeling experience** | Low — JD says none required | The differentiator framing (he builds the AI systems this data trains) turns this from a gap into an angle. |
 

@@ -235,6 +235,20 @@ a live, checkable example — use it.
 - **Failure mode:** connectors are only as good as the underlying data hygiene. If the Drive is a
   swamp, retrieval is a swamp. You have a genuine data-hygiene background here — say so.
 
+**The Power BI callback — use this one.** You have a pre-MCP version of this exact story, and it
+plays extremely well because it shows the instinct predates the tooling:
+
+> "I was doing a crude version of this back at Accelo in 2018. I'd build Power BI dashboards and
+> show prospects what their reporting would look like once Accelo's API was syncing live data into
+> it. That was the whole pitch — the data already existed, it was just trapped in a system where
+> nobody looked at it. A connector is the same idea with the plumbing solved: instead of me wiring
+> up an API to move data into a place a human reads it, the model reaches into the system directly.
+> Same instinct, a decade of tooling later."
+
+That answer does four things at once: names a BI tool, demonstrates API literacy, shows you
+understand *why* connectors matter rather than just that they exist, and quietly establishes that
+you've been doing systems integration since before it was easy.
+
 **Trap:** don't recite a catalog of connectors you've never opened. Depth on three beats a list of twelve.
 
 ---
@@ -256,8 +270,12 @@ the combination named in the posting — build it from true material:
 > recommendation → deliver it as a readout. At Level Agency that reporting framework tracked ROI,
 > CAC, LTV, and conversion KPIs and ended in a QBR readout.
 
-Keep the tools honest — say GA4 and CRM dashboards, which you use. **Don't say Snowflake, Looker,
-Tableau, or Amplitude.** You don't use them, and this interviewer will ask a second question.
+Keep the tools honest — say GA4, CRM dashboards, and **Power BI** (Accelo), all of which you've
+used. **Don't say Snowflake, Looker, Tableau, or Amplitude.** You don't use them, and this
+interviewer will ask a second question.
+
+If the scenario they describe involves pulling metrics from a data warehouse, that's your cue for
+the Power BI story — it's the closest true analog you have, and it's a strong one.
 
 ---
 
@@ -358,14 +376,20 @@ someone who uses neither seriously.
 - Wix: 30% traffic increase, 25% conversion improvement (e-commerce segment)
 - 6 deals at Fetch & Funnel, ~$22K average, $130K+ total
 - Accelo: ~$17,750/month implementation bookings (~$213K annualized)
+- Accelo: Power BI dashboards demoed with API-synced platform data
 
 **Terms to use precisely:** MCP (Model Context Protocol) · connector · skill · subagent ·
 source of truth · decision point · failure mode · evaluation loop · deterministic vs. generative
 steps · human-in-the-loop.
 
-**Do NOT claim:** Snowflake · SQL · Looker · Tableau · Power BI · Amplitude · GitHub issue
-management · authoring PRDs or roadmaps · annotation/labeling experience.
+**Do NOT claim:** Snowflake · SQL · Looker · Tableau · Amplitude · authoring PRDs or roadmaps ·
+annotation/labeling experience.
 For every one of those, the script is: **"I haven't. The closest I've done is ___."**
+
+**DO claim — added 2026-08-06:** **Power BI at Accelo.** You built and demonstrated Power BI
+dashboards showing how Accelo's API could sync live platform data into a client's BI reporting.
+That's a named BI tool with real API work behind it, and it closes the posting's analytics
+nice-to-have outright. See the connector section (§3③) for the best way to deploy it.
 
 ---
 

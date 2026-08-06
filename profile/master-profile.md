@@ -118,6 +118,7 @@
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
 - Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.
 - Served as strategic advisor on CRM adoption, helping clients build scalable operational systems aligned to growth stage and team structure.
+- Built and demonstrated **Power BI** dashboards for prospects and clients, showing how Accelo's **API could sync live platform data into their BI reporting** — translating raw system data into the reporting view a buyer actually cared about.
 - Partnered with implementation teams to guide onboarding, troubleshooting workflow design and resolving technical challenges.
 - Engaged with leadership on issue escalation, strategic guidance, and account-level risk mitigation.
 - Consistently performed above commission floor into accelerator ("doubling") tiers — averaging **~$17,750/month in implementation/services bookings (~$213K annualized)** plus new recurring revenue, earning roughly **$9,300 in monthly performance commission**.
@@ -159,13 +160,13 @@
 | :--- | :--- |
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, SEO, Email Marketing, Landing Pages |
-| Analytics & Reporting | GA4, Google Search Console, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
+| Analytics & Reporting | GA4, Google Search Console, Power BI, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking, API-to-BI Data Syncing |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Google Apps, Procore |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Google Apps, Power BI, Procore |
 
 ---
 
