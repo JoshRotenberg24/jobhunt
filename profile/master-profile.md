@@ -46,16 +46,74 @@
 
 ---
 
+## Writing Standards (apply to every bullet in this file and every rendered resume)
+
+These are phrasing rules, not content rules. They never license a change to the facts.
+
+**Bullet form:** strong verb + specific object + result or scale. In that order.
+
+**Banned openings** (responsibility framing — describes a job description, not a person):
+`Responsible for` · `Act as` / `Acted as` · `Serve as` / `Served as` · `Function as` /
+`Functioned in a ... capacity` · `Helped` / `Assisted with` · `Tasked with` ·
+`Worked on` / `Involved in` · `Duties included`.
+
+Rewrite these into the action actually taken. "Served as trusted advisor on retention"
+becomes "Advised partners on retention." Same fact, one is a title, the other is work.
+
+**Banned as filler:** `world-class`, `best-in-class`, `cutting-edge`, `synergy`,
+`passionate about`, `results-driven`, `proven track record`. They cost space and add no
+information. A number or a specific noun does the job they pretend to do.
+
+**Scope discipline.** Every number carries the scope it was measured at: one account, a
+segment, a portfolio, a team. A segment-level result written as a single-client result
+is a false claim even when the number is real. Keep the scope attached in this file so
+it survives into the resume.
+
+**Where a number is missing,** leave the bullet qualitative and specific. Do not reach
+for a vague intensifier to fill the gap ("significantly improved"). Missing numbers are
+tracked below under *Numbers Worth Capturing* and get filled by `/excavate-profile`,
+never by estimation.
+
+**Present tense for current roles, past tense for prior roles.** Consistently.
+
+### Prose answers (application questions, cover letters, interview prep)
+
+Same discipline, different shape. Bullets compress; prose has to carry a reader. The
+banned-openings list above is about bullets. Prose has its own failure modes:
+
+- **First sentence establishes scope and role.** "At Wix I led onboarding and launch for
+  high-value e-commerce accounts, and I also ran the team doing that work." The reader
+  should know the size of the thing before hearing about it.
+- **No throat-clearing.** Do not open with "That's a great question," "Throughout my
+  career," "I've always been passionate about," or a restatement of the question.
+- **Name one real decision, not a generic process.** Anyone can describe a kickoff. What
+  separates a specialist answer from a project-manager answer is a judgment call and the
+  reason behind it ("most of the risk sat in the data, so I front-loaded it").
+- **Metrics keep their scope in prose too**, and prose makes scope errors easier to
+  commit. "Across the e-commerce segment I supported" is honest; "my client saw" is not,
+  when the number was segment-level.
+- **No composite stories.** If several engagements are being described as a pattern, say
+  so plainly ("the complex ones followed the same shape"). Never fuse multiple clients
+  into one invented narrative that reads as a single project.
+- **Close on what outlasted the work**, where that is true: the playbook, the process,
+  the thing still in use. It answers "what would this person leave behind here."
+
+**Voice:** direct, commercially aware, no hype, no corporate filler. Commas and
+parentheses instead of em dashes. Short paragraphs. It should read like a competent
+operator talking, not like a candidate performing.
+
+---
+
 ## Bullet Bank (true, reusable — select & rephrase per job)
 
 ### Solenzo LLC — Founder & Strategic / Marketing Operations Lead (Feb 2024 – Present)
 
 **Strategic & Client Leadership**
-- Act as the primary strategic point of contact for a portfolio of service-based businesses, leading discovery and onboarding to deeply understand client goals, objectives, and market challenges.
-- Serve as the primary day-to-day contact for B2B clients, managing operational needs and ensuring they achieve their goals with complex SaaS platforms.
+- Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.
+- Run day-to-day delivery for B2B clients, managing operational needs and driving them to their goals on complex SaaS platforms.
 - Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.
-- Collaborate directly with business owners and sales teams to align marketing programs with revenue objectives, ensuring consistent messaging and qualified lead flow.
-- Maintain clear, organized client records in GoHighLevel, HubSpot, and Notion, documenting interactions, timelines, and deliverables.
+- Align marketing programs to revenue objectives directly with business owners and sales teams, producing consistent messaging and qualified lead flow.
+- Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.
 
 **Marketing & Growth Systems**
 - Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.
@@ -73,12 +131,12 @@
 **Operations & Technical Setup**
 - Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and strict data-hygiene protocols.
 - Build reusable agent infrastructure and internal tooling integrating with client CRMs and CMS platforms for 24/7 automated growth engines.
-- Act as the strategic value owner for B2B clients, architecting post-sale onboarding and technical setup for product adoption at scale.
-- Partner with B2B service clients to design, implement, and optimize marketing automation and CRM systems as a fractional success/implementation manager.
+- Own post-sale value delivery for B2B clients, architecting onboarding and technical setup that drives product adoption at scale.
+- Design, implement, and optimize marketing automation and CRM systems for B2B service clients as a fractional success/implementation manager.
 - Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and providing hands-on training.
 
 **Analytics & Reporting**
-- Provide regular performance reporting, actionable insights, and strategic recommendations based on rigorous tracking of sales enablement, marketing, and operations.
+- Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations.
 - Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize conversion rates.
 - Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership.
 - Track acquisition and retention across multiple accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth.
@@ -89,19 +147,19 @@
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
 - Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.
-- Ensured consistent, world-class delivery quality across implementations, addressing client feedback promptly to maintain satisfaction and retention.
+- Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.
 
 ### Birdeye — Channel Partnerships & Customer Onboarding (Feb 2023 – Apr 2024)
 - Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.
 - Onboarded and managed **15–20 reseller partners** (deal sizes ~$10K–$45K), **retaining all but one (~94% retention)** during tenure.
-- Served as trusted advisor on retention strategy, customer health metrics, and automated workflows, helping partners communicate product value.
+- Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.
 - Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.
-- Functioned in a technical advisory capacity, guiding customers through complex setup of reputation and marketing automation tools.
+- Guided customers through complex technical setup and configuration of reputation and marketing automation tools.
 - Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.
 - Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.
 
 ### Fetch & Funnel — Account Executive / Sales Operations (Sep 2022 – Feb 2023)
-- Managed client accounts focused on campaign execution, performance reporting, and cross-team communication for a performance marketing agency.
+- Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
 - Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
@@ -110,25 +168,25 @@
 - Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
-- Served as team lead for onboarding/launch operations, the primary strategic contact ensuring on-time delivery that accelerated time-to-value.
-- Proactively communicated with clients on goals and initiatives, driving a **25% improvement in conversion rates** across supported accounts.
-- Helped build a brand-new Wix team/vertical from proof-of-concept to a profitable, impactful business line — contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives. *(Corroborated by direct manager's written LinkedIn recommendation — see References.)*
+- Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.
+- Drove a **25% improvement in conversion rates across supported accounts** through proactive communication on client goals and initiatives.
+- Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives. *(Corroborated by direct manager's written LinkedIn recommendation — see References.)*
 
 ### Accelo — Account Executive (Apr 2018 – Jul 2020)
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
 - Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.
-- Served as strategic advisor on CRM adoption, helping clients build scalable operational systems aligned to growth stage and team structure.
-- Partnered with implementation teams to guide onboarding, troubleshooting workflow design and resolving technical challenges.
-- Engaged with leadership on issue escalation, strategic guidance, and account-level risk mitigation.
+- Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.
+- Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.
+- Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance.
 - Consistently performed above commission floor into accelerator ("doubling") tiers — averaging **~$17,750/month in implementation/services bookings (~$213K annualized)** plus new recurring revenue, earning roughly **$9,300 in monthly performance commission**.
 
 ### Fivestars — Account Executive (2017 – 2018)
 - Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs — high-volume prospecting, lead qualification, and customer acquisition.
-- Developed consultative sales instincts around customer retention and technology adoption.
+- Built the consultative approach to customer retention and technology adoption that carried into later SaaS roles.
 
 ### Senior Directory — Business Development Representative (2012 – 2016)
 - Prospected and qualified leads as a Business Development Representative, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings.
-- Developed the consultative outreach, qualification, and pipeline-building fundamentals that carried into later SaaS Account Executive roles.
+- Built the outreach, qualification, and pipeline fundamentals that carried into later SaaS Account Executive roles.
 
 ### Standing Akimbo — Co-Owner / Operations Lead (Jun 2010 – Sep 2012)
 - Built compliance and customer-management systems from scratch in a highly regulated startup environment.
@@ -182,6 +240,37 @@
 
 > If a job calls for a metric not in this list, do NOT manufacture one. Use a
 > qualitative achievement instead, or flag it for Josh to supply a real number.
+
+---
+
+## Numbers Worth Capturing (open gaps — fill via `/excavate-profile`)
+
+Standing list of numbers Josh plausibly knows that are not yet recorded. Match reports
+that flag "metrics needed" should add to this list rather than restating the gap in
+isolation. When a number gets captured, move it up into **Verified Quantified Metrics**
+with its scope and delete the line here.
+
+**Highest leverage (recurs across role types):**
+- **Concurrent workload.** How many accounts, clients, or implementations he ran at the
+  same time — at Solenzo, Birdeye, and Wix. Nearly every ops, CS, and implementation JD
+  asks about managing multiple projects; there is currently no number for it anywhere.
+- **Time-to-launch / time-to-value.** Typical onboarding duration at Wix and Birdeye,
+  and whether it improved during his tenure (from what, to what).
+- **Team size at Wix.** He led a team of onboarding specialists; the count is unrecorded,
+  as is how many he hired or trained.
+
+**Role-specific:**
+- **Data volume.** Records or contacts in the largest migration or import he has run, and
+  what tool he cleaned it in. Directly requested by implementation JDs (Excel is named
+  explicitly in several) and currently unevidenced.
+- **Training delivery.** Number of sessions run and people trained, at Wix and Birdeye.
+- **Solenzo portfolio size.** How many clients, and typical retainer range.
+- **Level Agency accounts.** Portfolio size and spend under management.
+- **Accelo implementation scope.** Typical implementation size in seats or hours.
+
+**Rules for filling these:** the number comes from Josh, never from inference. Ranges are
+acceptable and should be recorded as ranges. Anything he is unsure of gets tagged
+`(self-estimated)` so a later reference check holds no surprises.
 
 ---
 
