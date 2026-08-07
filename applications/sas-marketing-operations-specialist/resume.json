@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations Specialist — Campaign Execution & Automation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations specialist with 15+ years building and executing email campaigns, newsletters, lifecycle sequences, and marketing-automation workflows for B2B and service-based organizations. Hands-on with CRM/automation platform configuration (GoHighLevel, HubSpot), audience segmentation, landing pages, and campaign reporting, and comfortable working ticket-based (Jira) in a fully remote, process-driven environment. I document and standardize repeatable marketing processes so execution stays accurate and on schedule, and I actively use ChatGPT and Claude to speed up production work.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel marketing-automation system — 20+ workflows spanning lead capture/tagging/routing, qualification, appointment booking with confirmations and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.",
+        "Built segmented email outreach campaigns in GoHighLevel plus an automated audit workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized follow-up.",
+        "Design and deploy automated lifecycle sequences, onboarding workflows, and renewal-style nurture and reactivation campaigns that activate and retain users at scale.",
+        "Write and publish recurring newsletters, thought-leadership content, and educational guides for B2B audiences.",
+        "Draft direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Build performance dashboards tracking campaign ROI, lead generation, and funnel progression, delivering send-level reporting and insights.",
+        "Document every campaign, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping records accurate and auditable across concurrent client work."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Coordinated campaign execution across inbound, paid media, and content, working across internal departments to keep deliverables on schedule.",
+        "Held delivery quality consistent across implementations, resolving feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment at a performance marketing agency.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Guided client onboarding and workflow design, building scalable, repeatable operational processes aligned to each client's growth stage.",
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Email & Campaign Execution", "items": ["Email Campaign Builds", "Newsletter Production", "Lifecycle & Renewal Sequences", "Landing Pages", "Membership/Nurture Communications"]},
+    {"category": "Marketing Automation & CRM", "items": ["GoHighLevel", "HubSpot", "Workflow Configuration", "Audience Segmentation", "List Management", "Data Hygiene"]},
+    {"category": "Workflow & Process", "items": ["Jira", "Ticket-Based Delivery", "SOP Documentation", "Process Standardization", "QA/Testing Before Deployment"]},
+    {"category": "Reporting & Analytics", "items": ["Campaign Performance Reporting", "GA4", "ROI Dashboards", "KPI Tracking"]},
+    {"category": "AI-Assisted Workflows", "items": ["ChatGPT", "Claude", "Prompt-Driven Production", "Rapid Asset Turnaround"]},
+    {"category": "Content & Communications", "items": ["Newsletter Writing", "Direct-Response Copy", "Content Calendars", "Brand-Template Adherence", "Proofreading & QA"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
+}
