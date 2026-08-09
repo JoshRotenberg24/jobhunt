@@ -51,6 +51,24 @@ worked example (resume PDF/DOCX, cover letter, and match report).
 > Many career sites (Greenhouse/Lever/Workday/LinkedIn) block automated fetching. If a
 > URL won't load, the skill will ask you to paste the job description text.
 
+### Track what you sent, and chase it
+
+```
+/track-applications              # what's due today, what's overdue
+/track-applications review       # Monday funnel numbers + one recommendation
+/track-applications applied karbon
+/follow-up karbon                # writes the message the tracker says is due
+```
+
+A job hunt is a funnel, and an untracked funnel can't be diagnosed. The tracker records
+what was actually sent and what came back, then computes response rate, screen rate, and
+where applications die. When the funnel underperforms it names **one** variable to
+change, because changing three at once teaches you nothing.
+
+`/follow-up` writes the message for each trigger (5 days silent, post-interview,
+final round quiet, graceful close). Every message is under 100 words and carries one new
+piece of value, never a bare status request.
+
 ## What's in here
 
 | Path | What it is |
@@ -65,6 +83,9 @@ worked example (resume PDF/DOCX, cover letter, and match report).
 | `build/score_meter.py` | Fit JSON → score-meter gauge PNG + inline text meter. |
 | `research/job-market-and-ats-research-2026.md` | Cited research behind the playbook (with confidence levels + verification pass). |
 | `applications/<company>/` | Generated resume, cover letter, and match report per job. |
+| `applications/tracker.md` | **Live pipeline** — status, dates, follow-up triggers, funnel metrics, strategy-change signals. |
+| `.claude/skills/track-applications/SKILL.md` | Tracker maintenance and the weekly funnel review. |
+| `.claude/skills/follow-up/SKILL.md` | Follow-up, thank-you, and close-the-loop messages. |
 
 ## Setup
 
