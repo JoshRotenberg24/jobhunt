@@ -165,6 +165,8 @@ operator talking, not like a candidate performing.
 - Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
 
 ### Wix.com — Account Manager, Onboarding Launch Specialist & Team Lead (Aug 2020 – Aug 2022)
+- Onboarded and launched **25+ clients per month**, holding **120% of sales targets and 110% of implementation targets**.
+- Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
 - Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
@@ -231,6 +233,8 @@ operator talking, not like a candidate performing.
 
 - **30% increase in website traffic** (Wix, e-commerce segment)
 - **25% improvement in conversion rates** (Wix, supported accounts / e-commerce segment)
+- **25+ clients onboarded/launched per month** (Wix, personal monthly load across the two-year tenure)
+- **120% of sales targets and 110% of implementation targets** (Wix, attainment against quota; role was primarily sales in year one, combined sales and implementation in year two)
 - **15+ years** total experience in MarTech / SaaS / agency
 - **5+ years** building CRM & marketing automation (GoHighLevel primary, HubSpot secondary)
 - **~$17,750/month average implementation (services) bookings at Accelo (~$213K/yr annualized)**, plus new recurring revenue — consistently above commission floor into accelerator tiers (per Accelo commission records)
@@ -252,8 +256,9 @@ with its scope and delete the line here.
 
 **Highest leverage (recurs across role types):**
 - **Concurrent workload.** How many accounts, clients, or implementations he ran at the
-  same time — at Solenzo, Birdeye, and Wix. Nearly every ops, CS, and implementation JD
-  asks about managing multiple projects; there is currently no number for it anywhere.
+  same time — at Solenzo and Birdeye. Wix is now covered (25+/month, see Verified
+  Metrics). Nearly every ops, CS, and implementation JD asks about managing multiple
+  projects, so the remaining two are still worth capturing.
 - **Time-to-launch / time-to-value.** Typical onboarding duration at Wix and Birdeye,
   and whether it improved during his tenure (from what, to what).
 - **Team size at Wix.** He led a team of onboarding specialists; the count is unrecorded,
