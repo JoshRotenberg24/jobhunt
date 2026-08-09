@@ -147,6 +147,7 @@ operator talking, not like a candidate performing.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
 - Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.
+- Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.
 - Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.
 
 ### Birdeye — Channel Partnerships & Customer Onboarding (Feb 2023 – Apr 2024)
@@ -165,6 +166,8 @@ operator talking, not like a candidate performing.
 - Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
 
 ### Wix.com — Account Manager, Onboarding Launch Specialist & Team Lead (Aug 2020 – Aug 2022)
+- Onboarded and launched **25+ clients per month**, holding **120% of sales targets and 110% of implementation targets**.
+- Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
 - Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
@@ -173,6 +176,9 @@ operator talking, not like a candidate performing.
 - Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives. *(Corroborated by direct manager's written LinkedIn recommendation — see References.)*
 
 ### Accelo — Account Executive (Apr 2018 – Jul 2020)
+- Ranked **top three in sales on a team of 8 to 15 reps** for effectively the full tenure (all but the final few months), holding that ranking while **quota roughly doubled** over the period.
+- Closed deals of **$20K and larger** later in tenure, mixed with a base of smaller wins.
+- Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
 - Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.
 - Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.
@@ -231,10 +237,14 @@ operator talking, not like a candidate performing.
 
 - **30% increase in website traffic** (Wix, e-commerce segment)
 - **25% improvement in conversion rates** (Wix, supported accounts / e-commerce segment)
+- **25+ clients onboarded/launched per month** (Wix, personal monthly load across the two-year tenure)
+- **120% of sales targets and 110% of implementation targets** (Wix, attainment against quota; role was primarily sales in year one, combined sales and implementation in year two)
 - **15+ years** total experience in MarTech / SaaS / agency
 - **5+ years** building CRM & marketing automation (GoHighLevel primary, HubSpot secondary)
 - **~$17,750/month average implementation (services) bookings at Accelo (~$213K/yr annualized)**, plus new recurring revenue — consistently above commission floor into accelerator tiers (per Accelo commission records)
-- **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure
+- **Top three in sales on a team of 8 to 15 reps at Accelo**, for all but the final few months of tenure, sustained while **quota roughly doubled**
+- **Accelo deal sizes of $20K+** later in tenure, alongside a base of smaller wins
+- **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure (per-deal contract value, confirmed by Josh)
 - **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
 
@@ -252,8 +262,9 @@ with its scope and delete the line here.
 
 **Highest leverage (recurs across role types):**
 - **Concurrent workload.** How many accounts, clients, or implementations he ran at the
-  same time — at Solenzo, Birdeye, and Wix. Nearly every ops, CS, and implementation JD
-  asks about managing multiple projects; there is currently no number for it anywhere.
+  same time — at Solenzo and Birdeye. Wix is now covered (25+/month, see Verified
+  Metrics). Nearly every ops, CS, and implementation JD asks about managing multiple
+  projects, so the remaining two are still worth capturing.
 - **Time-to-launch / time-to-value.** Typical onboarding duration at Wix and Birdeye,
   and whether it improved during his tenure (from what, to what).
 - **Team size at Wix.** He led a team of onboarding specialists; the count is unrecorded,
