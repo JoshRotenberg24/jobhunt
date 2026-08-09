@@ -40,10 +40,30 @@ Not career roles. Kept out of the full-time funnel math so the denominator stays
 > "Application incomplete" on micro1 means the role closed before the process finished,
 > not that Josh abandoned it. Nothing actionable on those two.
 
+**No reply channel on micro1.** Statuses move on the platform dashboard; there is no
+recruiter, no email, and nothing to follow up. These are wait-only.
+
 **Live: 2 of 8.** AI Agent Power User and Workflow Annotator are also the best-matched
 listings on the platform: AI adoption, AI enablement, and process improvement map
 directly onto the Solenzo automation work. Both sat at "hiring manager reviewing" as of
 2026-08-09, so the next move belongs to them.
+
+## Channel reality (added 2026-08-09)
+
+Recorded after discovering the follow-up plan was unexecutable. Of everything in this
+file, **one row has a human on the other end.**
+
+| Row | Channel | Actionable? |
+| :--- | :--- | :--- |
+| Infinite Music | Tyrese Johnson, Head of Marketing, live email thread | ✅ Yes, the only real conversation |
+| Karbon | Indeed submission, no contact | 🟡 Only if a hiring lead is found on LinkedIn |
+| micro1 ×2 | Platform dashboard, no contact | ❌ Wait only |
+| Nametag, Monte Carlo, HR Transformed, and all other ATS rows | No-reply confirmations | ❌ Close them |
+
+**Implication.** Cold ATS submissions have no post-submit lever: they convert or they do
+not, and nothing Josh does afterward changes it. Every thread that has moved this summer
+had a named human attached. The highest-value five minutes per application is finding that
+human on LinkedIn, not perfecting the resume.
 
 ## Applied, awaiting response
 
