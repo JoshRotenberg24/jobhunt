@@ -49,7 +49,6 @@ directly onto the Solenzo automation work. Both sat at "hiring manager reviewing
 
 | Company | Role | Fit | Applied | Days | Next action | Due |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| TeamSnap | Senior Marketing Manager | 58 | not yet | — | Submit today | 2026-08-09 |
 | Outpost | Reddit Marketer (Client B) | 55 | not yet | — | Submit + message MJ | 2026-08-09 |
 | Karbon | Implementation Specialist | 85 | 2026-08-05 | 4 | Follow-up #1 | 2026-08-12 |
 | RoadRunner Recycling | ? | — | 2026-08-05 | 4 | Follow-up #1 | 2026-08-12 |
@@ -77,6 +76,7 @@ directly onto the Solenzo automation work. Both sat at "hiring manager reviewing
 | Penta Group | Revenue Operations Manager | 2026-07-20 | `Rejected` | Application review | Declined 2026-07-30, 10 days |
 | Superhuman | Group Manager, Growth & Website Content | 2026-06-17 | `Ghosted` | Application review | 53 days silent |
 | DwyerOmega | Key Account Manager | never | `Withdrawn` | Not submitted | Josh judged it not a fit |
+| TeamSnap | Senior Marketing Manager | never | `Withdrawn` | Built, not submitted | Fit 58. Josh passed after review. Materials kept in `applications/teamsnap-senior-marketing-manager/` if it comes back. |
 
 ---
 

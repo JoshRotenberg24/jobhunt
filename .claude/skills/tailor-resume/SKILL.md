@@ -117,6 +117,10 @@ The renderer writes four files: `resume.pdf`/`resume.docx` for the repo, plus
 named copy**, `.docx` by default per `ats-playbook.md`. A file called `resume.pdf` is
 anonymous in a downloads folder holding two hundred of them.
 
+**Always send the rendered PDF into the conversation** with `SendUserFile` once the page
+balance passes, and again after any re-render. Josh reads the resume in the thread rather
+than opening the repo, so a build he cannot see is a build he cannot approve.
+
 It prints `STYLE=<name>  PAGES=<n>  LAST_PAGE_FILL=<0..1>  -> <verdict>`. **Iterate until
 `PAGES=2` and `LAST_PAGE_FILL ≥ 0.6` (target ~0.7–0.95):**
 - **>2 pages:** trim the least-relevant bullets (oldest roles first), tighten wording.
