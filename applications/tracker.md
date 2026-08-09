@@ -154,6 +154,11 @@ Contract section) · Infinite Music (Josh replied same day) · Horizon Organic D
 
 ## Follow-up triggers
 
+**A trigger only fires if a channel exists.** Most ATS confirmations come from no-reply
+addresses, which means email follow-up is impossible and LinkedIn to a named human is the
+only route. Where no human can be found, close the row instead of chasing it. Record the
+channel when the row is created, not when the follow-up comes due.
+
 | Trigger | Action | Timing |
 | :--- | :--- | :--- |
 | Applied, silent | Follow-up #1 | 5 business days |

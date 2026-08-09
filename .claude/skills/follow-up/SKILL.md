@@ -17,6 +17,26 @@ A follow-up that says "just checking in" asks the reader to do work and gives th
 nothing. A follow-up that adds one useful thing is a second impression. Every message
 this skill writes must earn its place in an inbox.
 
+## Step 0 — Establish there is a channel at all
+
+**Do this before writing a word.** Most application confirmations come from no-reply
+addresses (`no-reply@us.greenhouse-mail.io`, `no-reply@ashbyhq.com`, Breezy, ADP). There
+is nothing to reply to, and a follow-up with no delivery path is wasted work.
+
+Check the tracker and the confirmation email for a reachable human. Then:
+
+| Situation | Channel | Verdict |
+| :--- | :--- | :--- |
+| A named person emailed him | Reply in that thread | Write it |
+| No-reply confirmation only | **LinkedIn** to a named recruiter or the function lead | Write a LinkedIn note, not an email |
+| No-reply and no findable human | None | **Say so and do not write anything.** Recommend closing the row or spending the time on a role that has a human attached. |
+
+When the channel is LinkedIn, constraints tighten: under 300 characters if it goes in a
+connection request, no subject line, and it must survive being read on a phone.
+
+**Never invent a recipient address.** Guessed patterns (`first@company.com`) read as spam
+and cost more than the follow-up gains.
+
 ## Step 1 — Read the context
 
 - `applications/tracker.md` for status, dates, and which trigger fired
