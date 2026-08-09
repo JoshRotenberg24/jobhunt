@@ -17,9 +17,33 @@ actually is.
 
 | Company / Thread | Stage | Last event | Days | Next action | Due |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| micro1 (role `?`) | **AI interview complete** | 2026-08-07 | 2 | Confirm what happens next, who reviews it | 2026-08-11 |
-| Infinite Music | **Hiring manager contact** | Msg from Tyrese Johnson, Head of Marketing, 2026-08-05 | 4 | Replied? If not, reply today | 2026-08-09 |
+| Infinite Music | **Hiring manager thread** — Head of Marketing role | Tyrese Johnson msg 2026-08-05, Josh replied same day | 4 | Awaiting reply. Follow up if silent. | 2026-08-12 |
 | Horizon Organic Dairy | Rejection appeal, unanswered | Josh replied 2026-08-05 | 4 | Reframe ask to other open roles, or close | 2026-08-12 |
+
+## Contract / gig platform work (tracked separately)
+
+Not career roles. Kept out of the full-time funnel math so the denominator stays honest.
+
+### micro1 (AI training marketplace)
+
+| Role | Openings | Applied | Status | Action |
+| :--- | :--- | :--- | :--- | :--- |
+| AI Agent Power User | 50 | 2026-08-05 | 🟢 Hiring manager reviewing | Wait |
+| Workflow Annotator, PM & Marketing | 10 | 2026-08-05 | 🟢 Hiring manager reviewing | Wait |
+| AI Agent Productivity Specialist | 31 | 2026-07-23 | Role filled ("incomplete") | Closed |
+| UX Researcher | 10 | 2026-08-05 | Role filled ("incomplete") | Closed |
+| Claude Code User (STEM) | 10 | 2026-08-07 | Did not qualify | Closed |
+| AI trainer | 10 | 2026-08-05 | Did not qualify | Closed |
+| Word and PDF Experts | 49 | 2026-08-07 | Did not qualify | Closed |
+| Business Presentation Consultant | 1 | 2026-08-07 | Did not qualify | Closed |
+
+> "Application incomplete" on micro1 means the role closed before the process finished,
+> not that Josh abandoned it. Nothing actionable on those two.
+
+**Live: 2 of 8.** AI Agent Power User and Workflow Annotator are also the best-matched
+listings on the platform: AI adoption, AI enablement, and process improvement map
+directly onto the Solenzo automation work. Both sat at "hiring manager reviewing" as of
+2026-08-09, so the next move belongs to them.
 
 ## Applied, awaiting response
 
@@ -97,15 +121,17 @@ diagnosis rather than a hypothesis.
 
 Blocking a real funnel diagnosis:
 
-1. **Total applications sent.** "1–50 of many" — needs the actual count and the date range.
-2. **LeahV.** Which company, which role, and what happened in the Aug 5 first round.
-3. **micro1.** Which company it screens for, which role, what the AI interview was for.
-4. **Infinite Music.** Was Tyrese Johnson's Aug 5 message replied to.
-5. **Horizon Organic Dairy.** Which role, what stage the thread reached.
-6. **Full response inventory.** How many of the 50+ produced any human reply, and how many
-   reached a screen or interview.
+1. **Total full-time applications sent**, separated from gig/contract applications. The
+   raw inbox count of 50+ includes at least 8 micro1 gig applications, so the career-role
+   denominator is meaningfully smaller than 50 and is not yet known.
+2. **Full response inventory.** How many full-time applications produced any human reply,
+   and how many reached a screen or interview.
 
-Until #1 and #6 are known, response rate stays uncomputable. Everything else is a guess.
+Until both are known, response rate stays uncomputable.
+
+*Resolved: LeahV (outside sales, Costco, declined by Josh) · micro1 (gig marketplace, see
+Contract section) · Infinite Music (Josh replied same day) · Horizon Organic Dairy
+(Director, Integrated Marketing, rejected).*
 
 ---
 
