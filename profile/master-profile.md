@@ -147,6 +147,7 @@ operator talking, not like a candidate performing.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
 - Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.
+- Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.
 - Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.
 
 ### Birdeye — Channel Partnerships & Customer Onboarding (Feb 2023 – Apr 2024)
@@ -175,6 +176,8 @@ operator talking, not like a candidate performing.
 - Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives. *(Corroborated by direct manager's written LinkedIn recommendation — see References.)*
 
 ### Accelo — Account Executive (Apr 2018 – Jul 2020)
+- Ranked **top three in sales** for effectively the full tenure (all but the final few months). *(Denominator not yet captured — see Numbers Worth Capturing.)*
+- Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
 - Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.
 - Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.
@@ -238,7 +241,8 @@ operator talking, not like a candidate performing.
 - **15+ years** total experience in MarTech / SaaS / agency
 - **5+ years** building CRM & marketing automation (GoHighLevel primary, HubSpot secondary)
 - **~$17,750/month average implementation (services) bookings at Accelo (~$213K/yr annualized)**, plus new recurring revenue — consistently above commission floor into accelerator tiers (per Accelo commission records)
-- **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure
+- **Top three in sales at Accelo** for all but the final few months of tenure (denominator not yet captured)
+- **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure — ⚠️ unit under review, see Numbers Worth Capturing
 - **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
 
@@ -265,6 +269,11 @@ with its scope and delete the line here.
   as is how many he hired or trained.
 
 **Role-specific:**
+- **Accelo sales-team size.** "Top three in sales" needs its denominator — top three out of
+  how many reps? Out of 8 and out of 40 are very different claims, and a screener will ask.
+- **Fetch & Funnel deal units.** Recorded as ~$22K per deal across 6 deals; Josh has also
+  described deals averaging $20K+ **per month**. One of these is the real unit. Resolve
+  before either number is used.
 - **Data volume.** Records or contacts in the largest migration or import he has run, and
   what tool he cleaned it in. Directly requested by implementation JDs (Excel is named
   explicitly in several) and currently unevidenced.
