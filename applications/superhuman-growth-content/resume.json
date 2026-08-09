@@ -1,6 +1,7 @@
 {
   "name": "Joshua Rotenberg",
   "headline": "Growth Marketing & Website Content Leader",
+  "filename_role": "Growth and Content Manager",
   "contact": {
     "location": "Arvada, CO",
     "phone": "303-726-5037",
@@ -92,29 +93,78 @@
   "competencies": [
     {
       "category": "Growth & Website Content",
-      "items": ["Website Content Strategy", "Content Roadmaps & Briefs", "Landing Pages", "Conversion Rate Optimization (CRO)", "Editorial Quality Control", "Brand & Product Storytelling"]
+      "items": [
+        "Website Content Strategy",
+        "Content Roadmaps & Briefs",
+        "Landing Pages",
+        "Conversion Rate Optimization (CRO)",
+        "Editorial Quality Control",
+        "Brand & Product Storytelling"
+      ]
     },
     {
       "category": "SEO & Acquisition",
-      "items": ["SEO", "Technical SEO Audits", "Keyword-Gap Analysis", "On-Page Optimization", "Paid Media", "A/B Testing"]
+      "items": [
+        "SEO",
+        "Technical SEO Audits",
+        "Keyword-Gap Analysis",
+        "On-Page Optimization",
+        "Paid Media",
+        "A/B Testing"
+      ]
     },
     {
       "category": "AI-Assisted Content & Automation",
-      "items": ["AI Content Workflows", "Agentic AI", "Multi-Agent Orchestration", "LLM Workflows", "Prompt Design", "ChatGPT", "Claude"]
+      "items": [
+        "AI Content Workflows",
+        "Agentic AI",
+        "Multi-Agent Orchestration",
+        "LLM Workflows",
+        "Prompt Design",
+        "ChatGPT",
+        "Claude"
+      ]
     },
     {
       "category": "Analytics & Reporting",
-      "items": ["GA4", "Google Search Console", "Ahrefs", "Semrush", "Conversion Analytics", "KPI Dashboards"]
+      "items": [
+        "GA4",
+        "Google Search Console",
+        "Ahrefs",
+        "Semrush",
+        "Conversion Analytics",
+        "KPI Dashboards"
+      ]
     },
     {
       "category": "Leadership & Operations",
-      "items": ["Team Leadership & Coaching", "Content Operations", "Process & SOP Development", "Cross-functional Partnership (Brand, Product, PMM)", "Roadmapping", "CMS Platforms"]
+      "items": [
+        "Team Leadership & Coaching",
+        "Content Operations",
+        "Process & SOP Development",
+        "Cross-functional Partnership (Brand, Product, PMM)",
+        "Roadmapping",
+        "CMS Platforms"
+      ]
     },
     {
       "category": "Tools & Platforms",
-      "items": ["HubSpot", "Salesforce", "Notion", "Asana", "Monday.com", "Slack", "Jira", "Google Apps"]
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "Notion",
+        "Asana",
+        "Monday.com",
+        "Slack",
+        "Jira",
+        "Google Apps"
+      ]
     }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
-  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"]
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
 }

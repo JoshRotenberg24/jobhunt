@@ -2,6 +2,7 @@
   "style": "modern",
   "name": "Joshua Rotenberg",
   "headline": "AI Marketing Operations & Automation Architect",
+  "filename_role": "Marketing Operations Manager",
   "contact": {
     "location": "Arvada, CO",
     "phone": "303-726-5037",
@@ -98,11 +99,61 @@
     }
   ],
   "competencies": [
-    {"category": "AI Agents & Automation", "items": ["Agentic AI", "Multi-Agent Orchestration", "LLM Workflows", "Prompt Design", "Requirements-to-Prompt Translation", "Evaluation Frameworks & Monitoring", "Rapid Prototyping"]},
-    {"category": "Marketing Operations", "items": ["Lead Routing", "Lead Scoring", "Lifecycle Management", "Campaign Execution Automation", "Segmentation", "Data Hygiene", "Follow-Up Sequences"]},
-    {"category": "Marketing Stack", "items": ["HubSpot", "Salesforce", "GoHighLevel", "GA4", "CRM Integrations", "ChatGPT", "Claude"]},
-    {"category": "Analytics & Reporting", "items": ["Campaign Attribution", "ROI Dashboards", "KPI Tracking", "Pipeline Velocity", "Conversion Optimization"]},
-    {"category": "Systems & Stakeholders", "items": ["Systems Thinking", "Scoped Builds from Messy Requirements", "Cross-Functional Collaboration (Marketing / RevOps / Sales)", "SOP Development"]}
+    {
+      "category": "AI Agents & Automation",
+      "items": [
+        "Agentic AI",
+        "Multi-Agent Orchestration",
+        "LLM Workflows",
+        "Prompt Design",
+        "Requirements-to-Prompt Translation",
+        "Evaluation Frameworks & Monitoring",
+        "Rapid Prototyping"
+      ]
+    },
+    {
+      "category": "Marketing Operations",
+      "items": [
+        "Lead Routing",
+        "Lead Scoring",
+        "Lifecycle Management",
+        "Campaign Execution Automation",
+        "Segmentation",
+        "Data Hygiene",
+        "Follow-Up Sequences"
+      ]
+    },
+    {
+      "category": "Marketing Stack",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel",
+        "GA4",
+        "CRM Integrations",
+        "ChatGPT",
+        "Claude"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "Campaign Attribution",
+        "ROI Dashboards",
+        "KPI Tracking",
+        "Pipeline Velocity",
+        "Conversion Optimization"
+      ]
+    },
+    {
+      "category": "Systems & Stakeholders",
+      "items": [
+        "Systems Thinking",
+        "Scoped Builds from Messy Requirements",
+        "Cross-Functional Collaboration (Marketing / RevOps / Sales)",
+        "SOP Development"
+      ]
+    }
   ],
   "education": [
     "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"

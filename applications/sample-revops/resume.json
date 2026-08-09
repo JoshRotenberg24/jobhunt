@@ -1,6 +1,7 @@
 {
   "name": "Joshua Rotenberg",
   "headline": "Revenue & Marketing Operations Leader",
+  "filename_role": "Revenue Operations Manager",
   "contact": {
     "location": "Arvada, CO",
     "phone": "303-726-5037",
@@ -98,11 +99,61 @@
     }
   ],
   "competencies": [
-    {"category": "CRM & Revenue Operations", "items": ["HubSpot CRM Architecture", "Salesforce", "Lifecycle Stages", "Lead Routing", "Data Hygiene", "Pipeline Management"]},
-    {"category": "Analytics & Reporting", "items": ["GA4", "Google Search Console", "Campaign Attribution", "ROI Dashboards", "QBRs", "KPI Tracking"]},
-    {"category": "Growth & Demand Gen", "items": ["Full-funnel acquisition", "Lifecycle Marketing", "CRO", "A/B Testing", "SEO", "Email Marketing"]},
-    {"category": "AI & Automation", "items": ["Agentic AI", "LLM workflows", "Lead Enrichment", "Prompt Design", "Rapid Prototyping"]},
-    {"category": "Tools & Platforms", "items": ["HubSpot", "Salesforce", "GoHighLevel", "Notion", "Asana", "Ahrefs", "Semrush"]}
+    {
+      "category": "CRM & Revenue Operations",
+      "items": [
+        "HubSpot CRM Architecture",
+        "Salesforce",
+        "Lifecycle Stages",
+        "Lead Routing",
+        "Data Hygiene",
+        "Pipeline Management"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "GA4",
+        "Google Search Console",
+        "Campaign Attribution",
+        "ROI Dashboards",
+        "QBRs",
+        "KPI Tracking"
+      ]
+    },
+    {
+      "category": "Growth & Demand Gen",
+      "items": [
+        "Full-funnel acquisition",
+        "Lifecycle Marketing",
+        "CRO",
+        "A/B Testing",
+        "SEO",
+        "Email Marketing"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "Agentic AI",
+        "LLM workflows",
+        "Lead Enrichment",
+        "Prompt Design",
+        "Rapid Prototyping"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel",
+        "Notion",
+        "Asana",
+        "Ahrefs",
+        "Semrush"
+      ]
+    }
   ],
   "education": [
     "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"

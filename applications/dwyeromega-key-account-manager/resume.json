@@ -2,6 +2,7 @@
   "style": "classic",
   "name": "Joshua Rotenberg",
   "headline": "Strategic Account Manager & B2B Sales Professional",
+  "filename_role": "Key Account Manager",
   "contact": {
     "location": "Arvada, CO",
     "phone": "303-726-5037",
@@ -94,29 +95,73 @@
   "competencies": [
     {
       "category": "Account Management & Sales",
-      "items": ["Key Account Management", "Full-Cycle Sales", "Cross-Sell & Up-Sell", "Account Expansion", "Pipeline Management", "Negotiation & Closing", "Account Planning"]
+      "items": [
+        "Key Account Management",
+        "Full-Cycle Sales",
+        "Cross-Sell & Up-Sell",
+        "Account Expansion",
+        "Pipeline Management",
+        "Negotiation & Closing",
+        "Account Planning"
+      ]
     },
     {
       "category": "Prospecting & Growth",
-      "items": ["Outbound Prospecting", "New-Business Development", "Lead Qualification", "Funnel Conversion", "Consultative / Solution Selling"]
+      "items": [
+        "Outbound Prospecting",
+        "New-Business Development",
+        "Lead Qualification",
+        "Funnel Conversion",
+        "Consultative / Solution Selling"
+      ]
     },
     {
       "category": "CRM & Sales Tech",
-      "items": ["Salesforce", "HubSpot CRM", "CRM Hygiene & Forecasting", "Opportunity Management"]
+      "items": [
+        "Salesforce",
+        "HubSpot CRM",
+        "CRM Hygiene & Forecasting",
+        "Opportunity Management"
+      ]
     },
     {
       "category": "Data & Analytics",
-      "items": ["Sales & Account Analytics", "Performance Dashboards", "KPI Tracking", "Reporting & Insights", "GA4"]
+      "items": [
+        "Sales & Account Analytics",
+        "Performance Dashboards",
+        "KPI Tracking",
+        "Reporting & Insights",
+        "GA4"
+      ]
     },
     {
       "category": "Relationship & Communication",
-      "items": ["C-Suite Relationship Building", "Stakeholder Management", "Trusted Advisory", "Written & Verbal Communication", "QBRs"]
+      "items": [
+        "C-Suite Relationship Building",
+        "Stakeholder Management",
+        "Trusted Advisory",
+        "Written & Verbal Communication",
+        "QBRs"
+      ]
     },
     {
       "category": "Tools & Platforms",
-      "items": ["Salesforce", "HubSpot", "Notion", "Asana", "Monday.com", "Slack", "Zendesk", "Google Apps"]
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Notion",
+        "Asana",
+        "Monday.com",
+        "Slack",
+        "Zendesk",
+        "Google Apps"
+      ]
     }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
-  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"]
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
 }

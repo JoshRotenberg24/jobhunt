@@ -6,6 +6,10 @@ Outputs (same dir/basename as the input JSON):
   - <base>.pdf   ReportLab, real selectable text (ATS-safe), EXACT pagination.
   - <base>.docx  python-docx, native editable Word (ATS-preferred submission).
 
+Plus recruiter-facing copies of both, named <Name>_<Role>.<ext> — that filename
+is visible in the ATS, in the email attachment, and in a downloads folder next
+to a few hundred others, so "resume.pdf" is a wasted impression. Upload those.
+
 Prints a report the caller uses to enforce the "balanced 2 pages" rule:
   STYLE=<name>  PAGES=<n>  LAST_PAGE_FILL=<0..1>  -> <verdict>
 
@@ -20,6 +24,9 @@ JSON schema:
 {
   "style": "modern|classic",   # optional; default modern (CLI arg overrides)
   "name": "...", "headline": "...(optional honest self-description)...",
+  "filename_role": "Implementation Specialist",  # optional; names the uploaded
+                                 # file. Falls back to headline. Role type only,
+                                 # never the company (see presentation_basename).
   "contact": {"location":"","phone":"","email":"","linkedin":""},
   "summary": "...",
   "experience": [{"title":"","company":"","location":"","dates":"","bullets":["",""]}],
@@ -29,7 +36,7 @@ JSON schema:
 
 Usage:  python3 build/render_resume.py <resume.json> [modern|classic]
 """
-import json, os, sys
+import json, os, re, shutil, sys
 
 # ---------- shared style constants -------------------------------------------
 INK   = (0x1a, 0x1a, 0x1a)
@@ -52,6 +59,35 @@ THEMES = {
         "accent": INK, "accent_hex": "1a1a1a",
     },
 }
+
+
+def _slug(text, maxlen):
+    """Filename-safe fragment: letters, digits, and single underscores only.
+
+    Truncates on word boundaries — a name clipped mid-word ("..._Spec") reads
+    as carelessness on the one artifact where carelessness is most visible.
+    """
+    words, out = re.sub(r"[^A-Za-z0-9]+", " ", text or "").split(), []
+    for w in words:
+        if out and len("_".join(out)) + 1 + len(w) > maxlen:
+            break
+        out.append(w)
+    return "_".join(out)[:maxlen].strip("_")
+
+
+def presentation_basename(data):
+    """Recruiter-facing filename stem: <Name>_<Role>.
+
+    Role type only — never the company name. Applying at volume makes it a
+    matter of time before the file named for one company gets uploaded to
+    another, and that mistake is visible to the reader. Role types repeat
+    across applications, so a handful of names covers every submission.
+
+    Also deliberately absent: version numbers, "final", and dates.
+    """
+    parts = [_slug(data.get("name"), 40),
+             _slug(data.get("filename_role") or data.get("headline"), 48)]
+    return "_".join(p for p in parts if p) or "Resume"
 
 
 def resolve_theme(data, argv_style=None):
@@ -329,6 +365,16 @@ def main():
     except Exception as e:
         print("PDF build failed: %s" % e)
         print("STYLE=%s  PAGES=?  (open the .docx to verify pagination)" % style_name)
+
+    stem = presentation_basename(data)
+    outdir = os.path.dirname(base)
+    for src in (docx_path, pdf_path):
+        if not os.path.exists(src):
+            continue
+        dst = os.path.join(outdir, stem + os.path.splitext(src)[1])
+        if os.path.abspath(dst) != os.path.abspath(src):
+            shutil.copyfile(src, dst)
+            print("UPLOAD THIS: %s" % dst)
 
 
 if __name__ == "__main__":

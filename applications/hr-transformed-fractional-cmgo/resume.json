@@ -2,6 +2,7 @@
   "style": "modern",
   "name": "Joshua Rotenberg",
   "headline": "Fractional Marketing & Growth Leader",
+  "filename_role": "Marketing and Growth Leader",
   "contact": {
     "location": "Arvada, CO",
     "phone": "303-726-5037",
@@ -99,11 +100,64 @@
     }
   ],
   "competencies": [
-    {"category": "Marketing Leadership", "items": ["Full Marketing Function Ownership", "Go-to-Market Strategy", "Marketing Budget & Scope", "Team Leadership", "Executive Reporting", "Fractional Leadership"]},
-    {"category": "Growth & Demand Generation", "items": ["Full-Funnel Acquisition", "Lifecycle Marketing", "CRO", "A/B Testing", "Paid Media", "SEO", "Email Marketing", "Landing Pages"]},
-    {"category": "AI & Marketing Systems", "items": ["Agentic AI", "Marketing Automation Architecture", "Lead Enrichment & Scoring", "LLM Workflows", "Prompt Design", "Rapid Prototyping"]},
-    {"category": "CRM & Analytics", "items": ["HubSpot", "GoHighLevel", "Salesforce", "GA4", "Campaign Attribution", "ROI Dashboards", "QBRs", "KPI Tracking"]},
-    {"category": "Content & Positioning", "items": ["Thought Leadership", "Direct-Response Copy", "Brand Voice", "Technical Translation", "Editorial"]}
+    {
+      "category": "Marketing Leadership",
+      "items": [
+        "Full Marketing Function Ownership",
+        "Go-to-Market Strategy",
+        "Marketing Budget & Scope",
+        "Team Leadership",
+        "Executive Reporting",
+        "Fractional Leadership"
+      ]
+    },
+    {
+      "category": "Growth & Demand Generation",
+      "items": [
+        "Full-Funnel Acquisition",
+        "Lifecycle Marketing",
+        "CRO",
+        "A/B Testing",
+        "Paid Media",
+        "SEO",
+        "Email Marketing",
+        "Landing Pages"
+      ]
+    },
+    {
+      "category": "AI & Marketing Systems",
+      "items": [
+        "Agentic AI",
+        "Marketing Automation Architecture",
+        "Lead Enrichment & Scoring",
+        "LLM Workflows",
+        "Prompt Design",
+        "Rapid Prototyping"
+      ]
+    },
+    {
+      "category": "CRM & Analytics",
+      "items": [
+        "HubSpot",
+        "GoHighLevel",
+        "Salesforce",
+        "GA4",
+        "Campaign Attribution",
+        "ROI Dashboards",
+        "QBRs",
+        "KPI Tracking"
+      ]
+    },
+    {
+      "category": "Content & Positioning",
+      "items": [
+        "Thought Leadership",
+        "Direct-Response Copy",
+        "Brand Voice",
+        "Technical Translation",
+        "Editorial"
+      ]
+    }
   ],
   "education": [
     "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"

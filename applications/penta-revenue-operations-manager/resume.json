@@ -2,6 +2,7 @@
   "style": "modern",
   "name": "Joshua Rotenberg",
   "headline": "Revenue Operations & CRM Systems Leader",
+  "filename_role": "Revenue Operations Manager",
   "contact": {
     "location": "Arvada, CO",
     "phone": "303-726-5037",
@@ -98,11 +99,64 @@
     }
   ],
   "competencies": [
-    {"category": "Revenue Operations", "items": ["Pipeline Visibility & Management", "Revenue Reporting", "CAC / LTV / Churn Analysis", "Tool Evaluation & Integration", "Process Mapping", "Cross-Functional Alignment"]},
-    {"category": "CRM & Marketing Automation", "items": ["CRM Architecture", "Salesforce", "HubSpot", "GoHighLevel", "Workflow Design", "Lead Routing", "Data Hygiene", "Lifecycle Stages"]},
-    {"category": "Analytics & Reporting", "items": ["GA4", "Campaign Attribution", "ROI Dashboards", "KPI Tracking", "QBRs", "Pipeline Velocity"]},
-    {"category": "Operations & Systems", "items": ["SOP Development", "Workflow Decomposition", "Project Management", "Change Management Support", "Stakeholder Management"]},
-    {"category": "Tools & Platforms", "items": ["Salesforce", "HubSpot", "GoHighLevel", "Notion", "Asana", "Monday.com", "Jira", "Slack"]}
+    {
+      "category": "Revenue Operations",
+      "items": [
+        "Pipeline Visibility & Management",
+        "Revenue Reporting",
+        "CAC / LTV / Churn Analysis",
+        "Tool Evaluation & Integration",
+        "Process Mapping",
+        "Cross-Functional Alignment"
+      ]
+    },
+    {
+      "category": "CRM & Marketing Automation",
+      "items": [
+        "CRM Architecture",
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Workflow Design",
+        "Lead Routing",
+        "Data Hygiene",
+        "Lifecycle Stages"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "GA4",
+        "Campaign Attribution",
+        "ROI Dashboards",
+        "KPI Tracking",
+        "QBRs",
+        "Pipeline Velocity"
+      ]
+    },
+    {
+      "category": "Operations & Systems",
+      "items": [
+        "SOP Development",
+        "Workflow Decomposition",
+        "Project Management",
+        "Change Management Support",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Notion",
+        "Asana",
+        "Monday.com",
+        "Jira",
+        "Slack"
+      ]
+    }
   ],
   "education": [
     "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"

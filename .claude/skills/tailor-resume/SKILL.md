@@ -101,11 +101,21 @@ Write `applications/<company-slug>/resume.json` using the schema in
   strengthen a bullet.
 - Seed a `competencies` section with the JD's true, matching keywords (honest keyword
   optimization — never stuffing).
+- Set `"filename_role"` to the posting's role type, 2–4 words (`"Implementation
+  Specialist"`, `"Revenue Operations Manager"`). This names the file Josh actually
+  uploads. **Role type only — never the company name.** At his application volume, a
+  file named for one company will eventually be uploaded to another, and the recruiter
+  sees it. No versions, no dates, no "final".
 
 ## Step 6 — Render and enforce the balanced 2-page rule
 Run: `python3 build/render_resume.py applications/<company-slug>/resume.json`
 (The renderer reads `"style"` from the JSON; or override with a 2nd arg:
 `… resume.json classic`.)
+
+The renderer writes four files: `resume.pdf`/`resume.docx` for the repo, plus
+`<Name>_<Role>.pdf`/`.docx` copies marked `UPLOAD THIS`. **Tell Josh to submit the
+named copy**, `.docx` by default per `ats-playbook.md`. A file called `resume.pdf` is
+anonymous in a downloads folder holding two hundred of them.
 
 It prints `STYLE=<name>  PAGES=<n>  LAST_PAGE_FILL=<0..1>  -> <verdict>`. **Iterate until
 `PAGES=2` and `LAST_PAGE_FILL ≥ 0.6` (target ~0.7–0.95):**

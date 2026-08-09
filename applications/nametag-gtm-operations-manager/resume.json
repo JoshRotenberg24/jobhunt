@@ -2,6 +2,7 @@
   "style": "modern",
   "name": "Joshua Rotenberg",
   "headline": "GTM Operations & CRM Automation Leader",
+  "filename_role": "GTM Operations Manager",
   "contact": {
     "location": "Arvada, CO",
     "phone": "303-726-5037",
@@ -98,11 +99,64 @@
     }
   ],
   "competencies": [
-    {"category": "CRM & GTM Operations", "items": ["HubSpot Architecture", "Pipeline Stages & Workflows", "Lead Routing", "Data Hygiene", "CRM Standards", "Reporting & Dashboards", "Integrations"]},
-    {"category": "AI-Assisted GTM", "items": ["AI-Assisted Outbound", "Prompt Design & Guardrails", "Lead Scoring", "Lead Enrichment", "Agentic AI", "LLM Workflows", "Rapid Prototyping"]},
-    {"category": "Analytics & Reporting", "items": ["GA4", "Campaign Attribution", "ROI Dashboards", "KPI Tracking", "QBRs", "Pipeline Velocity"]},
-    {"category": "Cross-Functional GTM", "items": ["Sales-Marketing Alignment", "C-Suite Advisory", "Process Mapping", "SOP Development", "Stakeholder Elicitation"]},
-    {"category": "Tools & Platforms", "items": ["HubSpot", "GoHighLevel", "Salesforce", "ChatGPT", "Claude", "Notion", "Slack", "Asana"]}
+    {
+      "category": "CRM & GTM Operations",
+      "items": [
+        "HubSpot Architecture",
+        "Pipeline Stages & Workflows",
+        "Lead Routing",
+        "Data Hygiene",
+        "CRM Standards",
+        "Reporting & Dashboards",
+        "Integrations"
+      ]
+    },
+    {
+      "category": "AI-Assisted GTM",
+      "items": [
+        "AI-Assisted Outbound",
+        "Prompt Design & Guardrails",
+        "Lead Scoring",
+        "Lead Enrichment",
+        "Agentic AI",
+        "LLM Workflows",
+        "Rapid Prototyping"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "GA4",
+        "Campaign Attribution",
+        "ROI Dashboards",
+        "KPI Tracking",
+        "QBRs",
+        "Pipeline Velocity"
+      ]
+    },
+    {
+      "category": "Cross-Functional GTM",
+      "items": [
+        "Sales-Marketing Alignment",
+        "C-Suite Advisory",
+        "Process Mapping",
+        "SOP Development",
+        "Stakeholder Elicitation"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "HubSpot",
+        "GoHighLevel",
+        "Salesforce",
+        "ChatGPT",
+        "Claude",
+        "Notion",
+        "Slack",
+        "Asana"
+      ]
+    }
   ],
   "education": [
     "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
