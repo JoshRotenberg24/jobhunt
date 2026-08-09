@@ -17,10 +17,9 @@ actually is.
 
 | Company / Thread | Stage | Last event | Days | Next action | Due |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| LeahV (company `?`) | **First round interview** | Zoom, 2026-08-05 | 4 | Thank-you sent? If not, send today. Follow-up if silent. | 2026-08-12 |
 | micro1 (role `?`) | **AI interview complete** | 2026-08-07 | 2 | Confirm what happens next, who reviews it | 2026-08-11 |
 | Infinite Music | **Hiring manager contact** | Msg from Tyrese Johnson, Head of Marketing, 2026-08-05 | 4 | Replied? If not, reply today | 2026-08-09 |
-| Horizon Organic Dairy | **Active thread** | Josh replied 2026-08-05 | 4 | Awaiting their response, follow up at 7 days | 2026-08-12 |
+| Horizon Organic Dairy | Rejection appeal, unanswered | Josh replied 2026-08-05 | 4 | Reframe ask to other open roles, or close | 2026-08-12 |
 
 ## Applied, awaiting response
 
@@ -46,6 +45,8 @@ actually is.
 
 | Company | Role | Applied | Status | Died at | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Horizon Organic Dairy | Director, Integrated Marketing | 2026-08-?? | `Rejected` | Application review | Declined 2026-08-05, role filled. Josh sent a same-day appeal asking for a first conversation; unanswered after 4 days. |
+| LeahV | Outside sales, in-Costco | ? | `Withdrawn` | First round done | Interviewed 2026-08-05, then declined by Josh. Not a fit, correct call. |
 | Parachute Health | ? | 2026-08-03 | `Rejected` | Application review | Declined 2026-08-08, 5 days after applying |
 | Penta Group | Revenue Operations Manager | 2026-07-20 | `Rejected` | Application review | Declined 2026-07-30, 10 days |
 | Superhuman | Group Manager, Growth & Website Content | 2026-06-17 | `Ghosted` | Application review | 53 days silent |
@@ -68,6 +69,29 @@ What the corrected data shows:
 
 **The real question has moved downstream:** what happens after first contact. That cannot
 be answered yet, because outcomes for the live threads are unknown.
+
+## Working hypothesis: targeting spread, not volume
+
+The applications visible so far span Director of Integrated Marketing (dairy), outside
+sales inside a Costco, DoorDash platform, Kraken, Ramp, RoadRunner Recycling, ServiceNow,
+Community Phone, Parachute Health, Head of Marketing (music), plus the tailored ops and
+implementation roles. That is an unusually wide net across function, seniority, and
+industry.
+
+Two observations that fit together:
+
+- The one process that reached a live interview was **outside sales in a Costco**, a role
+  Josh does not want.
+- The roles he does want (implementation, onboarding, solutions, ops) are the ones sitting
+  silent.
+
+If that pattern holds across the full 50+, the strategy-change trigger firing is **"high
+volume, low fit scores → raise the fit floor,"** not throughput and not positioning. A
+wide net catches whatever is easiest to catch, and what is easiest to catch is rarely the
+role worth having.
+
+**Not yet confirmed.** Needs the full application inventory before it counts as a
+diagnosis rather than a hypothesis.
 
 ## Open data gaps
 
