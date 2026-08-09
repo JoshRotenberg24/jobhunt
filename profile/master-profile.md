@@ -35,6 +35,16 @@
 | Employer | Title | Location | Dates |
 | :--- | :--- | :--- | :--- |
 | Solenzo LLC | Founder & Strategic / Marketing Operations Lead | Arvada, CO (Remote) | Feb 2024 – Present |
+
+> **Solenzo title on applications.** Josh sets his own title at his own company, and
+> **"Independent Consultant, Solenzo"** or **"Implementation Consultant, Solenzo"** are
+> both accurate descriptions of the work. Use one of those on rendered resumes for
+> individual-contributor roles. "Founder" on an IC application triggers three screening
+> objections in the first seven seconds (flight risk, cannot take direction, reads as a
+> gap with a title attached), and the consultant framing removes them without
+> misrepresenting anything. Never use *founder*, *entrepreneur*, *my company*, or *built
+> from scratch* in application materials. This is a titling convention, not a change to
+> the facts, so it is not title drift.
 | Level Agency | Account Executive / Client Strategist | Remote | Sep 2024 – Feb 2025 |
 | Birdeye | Channel Partnerships & Customer Onboarding | Remote | Feb 2023 – Apr 2024 |
 | Fetch & Funnel | Account Executive / Sales Operations | Remote | Sep 2022 – Feb 2023 |

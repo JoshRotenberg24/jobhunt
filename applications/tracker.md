@@ -49,6 +49,7 @@ directly onto the Solenzo automation work. Both sat at "hiring manager reviewing
 
 | Company | Role | Fit | Applied | Days | Next action | Due |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Outpost | Reddit Marketer (Client B) | 55 | not yet | — | Submit + message MJ | 2026-08-09 |
 | Karbon | Implementation Specialist | 85 | 2026-08-05 | 4 | Follow-up #1 | 2026-08-12 |
 | RoadRunner Recycling | ? | — | 2026-08-05 | 4 | Follow-up #1 | 2026-08-12 |
 | ServiceNow | ? | — | 2026-08-05 | 4 | Follow-up #1 | 2026-08-12 |
