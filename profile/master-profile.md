@@ -37,9 +37,10 @@
 | Solenzo LLC | Founder & Strategic / Marketing Operations Lead | Arvada, CO (Remote) | Feb 2024 – Present |
 
 > **Solenzo title on applications.** Josh sets his own title at his own company, and
-> **"Independent Consultant, Solenzo"** or **"Implementation Consultant, Solenzo"** are
-> both accurate descriptions of the work. Use one of those on rendered resumes for
-> individual-contributor roles. "Founder" on an IC application triggers three screening
+> **"Independent Consultant, Solenzo"**, **"Implementation Consultant, Solenzo"**, or
+> **"Marketing Operations Lead, Solenzo"** (the last is literally the second half of the
+> recorded title) are all accurate descriptions of the work. Use whichever fits the
+> target role on rendered resumes for individual-contributor jobs. "Founder" on an IC application triggers three screening
 > objections in the first seven seconds (flight risk, cannot take direction, reads as a
 > gap with a title attached), and the consultant framing removes them without
 > misrepresenting anything. Never use *founder*, *entrepreneur*, *my company*, or *built
