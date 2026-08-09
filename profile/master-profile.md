@@ -176,7 +176,8 @@ operator talking, not like a candidate performing.
 - Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives. *(Corroborated by direct manager's written LinkedIn recommendation — see References.)*
 
 ### Accelo — Account Executive (Apr 2018 – Jul 2020)
-- Ranked **top three in sales on a team of 8–15 reps** for effectively the full tenure (all but the final few months).
+- Ranked **top three in sales on a team of 8 to 15 reps** for effectively the full tenure (all but the final few months), holding that ranking while **quota roughly doubled** over the period.
+- Closed deals of **$20K and larger** later in tenure, mixed with a base of smaller wins.
 - Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
 - Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.
@@ -241,7 +242,8 @@ operator talking, not like a candidate performing.
 - **15+ years** total experience in MarTech / SaaS / agency
 - **5+ years** building CRM & marketing automation (GoHighLevel primary, HubSpot secondary)
 - **~$17,750/month average implementation (services) bookings at Accelo (~$213K/yr annualized)**, plus new recurring revenue — consistently above commission floor into accelerator tiers (per Accelo commission records)
-- **Top three in sales on a team of 8–15 reps at Accelo**, for all but the final few months of tenure
+- **Top three in sales on a team of 8 to 15 reps at Accelo**, for all but the final few months of tenure, sustained while **quota roughly doubled**
+- **Accelo deal sizes of $20K+** later in tenure, alongside a base of smaller wins
 - **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure (per-deal contract value, confirmed by Josh)
 - **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
