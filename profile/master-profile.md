@@ -276,6 +276,10 @@ with its scope and delete the line here.
   as is how many he hired or trained.
 
 **Role-specific:**
+- **Excel proficiency (capability, not a number).** The tools list names Google Apps but not
+  Excel. "Advanced Excel" is a named must-have on analyst and ops postings (Varonis Business
+  Operations Analyst, 2026-08-10). If he has real depth (pivot tables, lookups, modeling) it
+  should be recorded; right now a named requirement is lost to an omission rather than a gap.
 - **A/B and experimentation volume.** Tests designed and run at Level Agency, Wix, and
   Solenzo, and any measured lift. Named as a must-have by web/CRO/growth postings
   (Neo4j Senior Manager Web, 2026-08-10) and currently backed only by a competency line.

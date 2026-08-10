@@ -1,0 +1,107 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Sales & Revenue Operations — Pipeline Analysis, Dashboards, and CRM Integrity",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Sales and revenue operations practitioner with 15+ years inside B2B SaaS and technology sales organizations, carrying quota as well as building the systems behind it. Ranked top three in sales on a team of 8 to 15 reps at Accelo while quota roughly doubled, and built the internal reporting processes at a performance marketing agency that improved reporting accuracy and reduced handoff errors. Builds dashboards on pipeline health and performance, architects CRM systems for data integrity, identifies workflow bottlenecks, and trains reps on the tools and processes they use.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership.",
+        "Architect and implement CRM systems in GoHighLevel (primary) and HubSpot, covering contact segmentation, lifecycle stages, lead routing, and strict data-hygiene protocols.",
+        "Analyze complex marketing and operational datasets, extracting actionable insights and structured recommendations that improve performance.",
+        "Break down manual workflows into automated architectures with custom logic, removing bottlenecks in lead capture, qualification, routing, and follow-up.",
+        "Align marketing programs to revenue objectives directly with business owners and sales teams, producing consistent messaging and qualified lead flow.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and quarterly business reviews.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Onboarded and managed 15–20 reseller partners with deal sizes of roughly $10K–$45K, retaining all but one (~94% retention).",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Closed six new-client deals averaging ~$22K each, several exceeding $25K, for roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Contributed to hiring, onboarding, and training of new hires and developed sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales & Revenue Operations",
+      "items": ["Pipeline management & analysis", "Sales methodologies", "Territory & account planning", "Customer segmentation", "Comp-plan and quota exposure", "Bottleneck identification", "Playbook development"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["Dashboard design", "Pipeline health reporting", "Operational metrics", "Ad hoc trend analysis", "ROI, CAC & LTV tracking", "GA4", "Executive presentations"]
+    },
+    {
+      "category": "CRM Systems & Data Integrity",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "CRM architecture", "Data hygiene & integrity", "Lifecycle stages", "Lead routing", "Workflow configuration & testing"]
+    },
+    {
+      "category": "Process & Enablement",
+      "items": ["Process improvement", "SOP development", "Rep training on tools & process", "Cross-functional alignment with Marketing, Finance & Customer Success", "Project management", "Asana", "Jira"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Google Sheets & Google Apps", "Microsoft Office", "Notion", "Monday.com", "Zendesk", "Slack"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Sept 2024)"]
+}
