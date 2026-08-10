@@ -56,6 +56,25 @@ Separately, on portfolio retention: at Birdeye I managed 15 to 20 reseller partn
 
 ---
 
+## Q5. What position(s) would you like to be considered for in the future? / If "Other," specify.
+
+Checked on the form: Account Manager, Digital Marketing Manager, Paid Media Specialist/Manager,
+Paid Media Strategist, SEO Specialist, SEO Strategist.
+
+**If leaving "Other" unchecked** (the follow-up field is required regardless):
+
+> I did not select Other. Of the roles checked, Account Manager and Digital Marketing Manager are the strongest fit, with SEO Strategist and Paid Media Strategist next.
+
+**If checking "Other"** (recommended for a recruiter's talent pool, where breadth pays across their client list):
+
+> Client Success Manager, Client Strategist, Marketing Operations Manager, and Growth Marketing Manager. My background spans agency account strategy and the marketing operations and CRM side, so client-facing strategy roles and marketing ops roles both fit alongside the account management and channel titles I selected.
+
+All four trace to real history: Client Strategist is in the Level Agency title, client success to
+Birdeye and Wix, marketing operations to Solenzo. Client Success Manager is where his highest-scoring
+roles have clustered, so it is worth having in the recruiter's system.
+
+---
+
 ## Open gaps in these answers (for `/excavate-profile`)
 
 - **Outcome number for the Google Ads / CRO engagement.** Cost per lead, lead-quality percentage, or conversion rate before and after. The answer currently ends on a qualitative outcome, which is the weakest part of an otherwise strong story.
