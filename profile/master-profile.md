@@ -271,6 +271,15 @@ with its scope and delete the line here.
   as is how many he hired or trained.
 
 **Role-specific:**
+- **A/B and experimentation volume.** Tests designed and run at Level Agency, Wix, and
+  Solenzo, and any measured lift. Named as a must-have by web/CRO/growth postings
+  (Neo4j Senior Manager Web, 2026-08-10) and currently backed only by a competency line.
+  Related non-numeric question worth asking at the same time: has he hands-on configured
+  **Google Tag Manager** (containers, event tags, conversion goals)? If yes it closes a
+  frequently named must-have; if no, it stays off every resume.
+- **Web / CMS scope.** Number of sites or pages he has owned, redesigned, or migrated, and
+  which CMS platforms. Answers the "have you run a site at scale" doubt that caps fit on
+  web-leadership roles.
 - **Data volume.** Records or contacts in the largest migration or import he has run, and
   what tool he cleaned it in. Directly requested by implementation JDs (Excel is named
   explicitly in several) and currently unevidenced.

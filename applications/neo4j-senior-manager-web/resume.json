@@ -1,0 +1,119 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Digital & Web Strategy Leader — Analytics, CRO, and Cross-Functional Execution",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Digital and web strategy leader whose portfolio work at Wix contributed to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment. 15+ years across MarTech, SaaS, and B2B agency environments owning site architecture and SEO, GA4 measurement, landing page and conversion optimization, and the reporting that proves impact. Runs digital programs end to end: strategy, cross-functional stakeholder alignment, project execution, and continuous test-and-learn optimization.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research, implementing fixes directly inside client CMS platforms.",
+        "Track acquisition and conversion across multiple accounts in GA4 and CRM analytics, delivering reporting that drives experimentation and growth.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, and present the insights to executive stakeholders.",
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click-through quality, then diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Draft direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Design self-improving loops and evaluation frameworks that monitor automated outputs and continuously optimize conversion rates.",
+        "Architected and deployed a complete marketing-automation system of 20+ workflows spanning lead capture, tagging and routing, qualification, booking, no-show recovery, and reactivation."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Led integrated digital marketing strategy across inbound, paid media, and content, coordinating execution across internal creative, media, and analytics teams.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and quarterly business reviews.",
+        "Produced high-converting campaign assets, including landing pages, complex email sequences, and conversion-focused copy, improving lead generation and pipeline.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Analyzed partner utilization and engagement metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Onboarded and managed 15–20 reseller partners with deal sizes of roughly $10K–$45K, retaining all but one (~94% retention).",
+        "Collaborated with Product and Engineering to route structured, high-priority customer feedback into the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data at a performance marketing agency and translated results into optimization recommendations across paid media and creative.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.",
+        "Ran client accounts end to end, covering campaign execution, performance reporting, and cross-team communication."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Onboarded and launched 25+ clients per month on the platform, holding 110% of implementation targets and 120% of sales targets.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided client onboarding, workflow design, and API integrations, advising C-Suite executives on operational system design."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Web Strategy & UX",
+      "items": ["Web strategy", "Site architecture", "Navigation & content structure", "UX optimization", "Conversion rate optimization (CRO)", "Landing page optimization", "Competitive analysis"]
+    },
+    {
+      "category": "Web Analytics & Performance",
+      "items": ["GA4", "Google Search Console", "Conversion tracking", "Funnel analysis", "User journey analysis", "KPI dashboards", "ROI reporting", "QBRs & executive presentation"]
+    },
+    {
+      "category": "Testing & Optimization",
+      "items": ["A/B testing", "Test-and-learn roadmaps", "Hypothesis design", "Evaluation frameworks", "Continuous performance optimization"]
+    },
+    {
+      "category": "SEO & SEM",
+      "items": ["Technical SEO audits", "Keyword gap analysis", "Search-term analysis", "Google Ads", "Paid media", "Content strategy", "Ahrefs", "Semrush"]
+    },
+    {
+      "category": "Project & Stakeholder Management",
+      "items": ["Agile workflows", "Asana", "Jira", "Notion", "Intake & prioritization", "Timeline & scope management", "Cross-functional alignment", "Process standardization"]
+    },
+    {
+      "category": "Marketing Technology",
+      "items": ["HubSpot", "Salesforce", "GoHighLevel", "CMS implementation", "Marketing automation", "Lifecycle marketing", "Lead routing & segmentation", "Data hygiene"]
+    },
+    {
+      "category": "AI & Automation",
+      "items": ["Agentic AI workflows", "Multi-agent orchestration", "LLM prompt design", "Requirements-to-prompt translation", "Rapid prototyping"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Sept 2024)"]
+}

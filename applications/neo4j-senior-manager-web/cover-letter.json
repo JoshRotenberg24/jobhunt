@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 10, 2026",
+  "company": "Neo4j",
+  "role": "Senior Manager, Web",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I am applying for the Senior Manager, Web role. Most of my career has been spent on the side of the web that has to produce a number: at Wix I managed a high-value account portfolio where the work contributed to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment, and I ran the team of onboarding specialists doing that work. A company selling a graph platform to both developers and enterprise buyers has a harder version of that problem, since one site has to serve two very different readers without fragmenting into two sites.",
+    "Three things map directly to what you described. On analytics, I track acquisition and conversion in GA4 across a client portfolio and build the dashboards that leadership actually reads, covering funnel progression, campaign ROI, and pipeline velocity. On SEO and site quality, I run technical audits, keyword gap analyses, and competitor research, and I implement the fixes inside the CMS rather than handing off a list. On execution, I led integrated digital strategy at Level Agency across inbound, paid media, and content, coordinating creative, media, and analytics teams and reporting on ROI, CAC, and conversion KPIs through quarterly reviews. The judgment I would bring is about sequencing: on a recent engagement, the paid account looked like the problem, but after cleaning up lead quality the real bottleneck was on-site conversion, so that is where the next round of work went.",
+    "I should be straight about scope. I have owned web strategy, analytics, and optimization for client portfolios and my own firm rather than for a global corporate site with regional stakeholders, and my formal A/B testing has been run through analytics and lifecycle tooling rather than Optimizely or VWO. What I bring instead is a builder's bias, including the AI and automation systems I architect now, and a track record of taking a new line of business from proof of concept to profitable. I would welcome the chance to talk through how I would approach the first ninety days on neo4j.com."
+  ],
+  "closing": "Sincerely,"
+}
