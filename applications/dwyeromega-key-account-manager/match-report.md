@@ -82,8 +82,8 @@ A referral matters even more for a Long shot. Check LinkedIn for any connection 
 
 ## Output files
 
-- `resume.pdf` — ATS-safe, balanced 2 pages (PAGES=2, fill 0.76). Submission copy.
-- `resume.docx` — editable Word version.
-- `cover-letter.pdf` / `cover-letter.docx` — one-page transferable-skills letter.
+- `Joshua_Rotenberg_Resume.pdf` — ATS-safe, balanced 2 pages (PAGES=2, fill 0.76). Submission copy.
+- `Joshua_Rotenberg_Resume.docx` — editable Word version.
+- `Joshua_Rotenberg_Cover_Letter.pdf` / `Joshua_Rotenberg_Cover_Letter.docx` — one-page transferable-skills letter.
 - `fit.json` / `fit.png` — Fit Score data + score-meter image.
 - `resume.json` / `cover-letter.json` — source data for re-rendering.

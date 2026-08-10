@@ -86,7 +86,7 @@ Also worth a direct question, not a number: **has he hands-on configured Google 
 
 ## Output files
 
-- `resume.pdf` / `resume.docx` — 2 pages, `LAST_PAGE_FILL=0.82`, modern style
-- `cover-letter.pdf` / `cover-letter.docx` — 1 page, modern style
+- `Joshua_Rotenberg_Resume.pdf` / `Joshua_Rotenberg_Resume.docx` — 2 pages, `LAST_PAGE_FILL=0.82`, modern style
+- `Joshua_Rotenberg_Cover_Letter.pdf` / `Joshua_Rotenberg_Cover_Letter.docx` — 1 page, modern style
 - `fit.json` / `fit.png` — Fit Score meter
 - `resume.json` / `cover-letter.json` — editable source

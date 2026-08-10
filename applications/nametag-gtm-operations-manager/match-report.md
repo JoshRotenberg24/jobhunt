@@ -60,6 +60,6 @@ Nametag is small and Denver-connected — check LinkedIn for 1st/2nd-degree conn
 before applying cold; a referral would materially raise odds at a "first hire" seat.
 
 ## Output files
-- `resume.pdf` / `resume.docx` — 2 pages, balanced (fill 0.77), modern style
-- `cover-letter.pdf` / `cover-letter.docx` — 1 page, matching letterhead
+- `Joshua_Rotenberg_Resume.pdf` / `Joshua_Rotenberg_Resume.docx` — 2 pages, balanced (fill 0.77), modern style
+- `Joshua_Rotenberg_Cover_Letter.pdf` / `Joshua_Rotenberg_Cover_Letter.docx` — 1 page, matching letterhead
 - `fit.png` — score meter

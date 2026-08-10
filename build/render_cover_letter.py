@@ -10,9 +10,14 @@ render_resume.py — pass the style as the 2nd CLI arg or a "style" key in the J
   - "modern"  sans-serif (Helvetica/Calibri) + navy accents.
   - "classic" serif (Times / Times New Roman), black, no color.
 
+Output filenames follow the submission convention "<Candidate_Name>_Cover_Letter.pdf|.docx"
+(what the recruiter sees on the attachment), written next to the input JSON. Override
+with an "output_basename" key when a posting demands something specific.
+
 JSON schema:
 {
   "style": "modern|classic",           # optional; default modern (CLI arg overrides)
+  "output_basename": "...",            # optional; default "<Candidate_Name>_Cover_Letter"
   "name": "Joshua Rotenberg",
   "contact": {"location":"","phone":"","email":"","linkedin":""},
   "date": "June 17, 2026",
@@ -63,6 +68,19 @@ def _san(s):
     for k, v in _SUBS.items():
         s = s.replace(k, v)
     return s.encode("cp1252", "replace").decode("cp1252")
+
+
+def output_basename(data, suffix):
+    """Submission filenames are what a recruiter sees on the attachment, so they
+    carry the candidate's name and the document type -- never 'cover-letter.pdf'.
+    The input JSON keeps its own stable name; only the rendered output is renamed.
+    An explicit "output_basename" in the JSON overrides this."""
+    import re
+    explicit = data.get("output_basename")
+    if explicit:
+        return str(explicit)
+    slug = re.sub(r"[^A-Za-z0-9]+", "_", _san(data.get("name", "Cover_Letter"))).strip("_")
+    return "%s_%s" % (slug or "Cover", suffix)
 
 
 def _esc(s):
@@ -173,7 +191,8 @@ def main():
     spec = sys.argv[1]; data = json.load(open(spec))
     style_arg = sys.argv[2] if len(sys.argv) > 2 else None
     style_name, theme = resolve_theme(data, style_arg)
-    base = os.path.splitext(os.path.abspath(spec))[0]
+    base = os.path.join(os.path.dirname(os.path.abspath(spec)),
+                        output_basename(data, "Cover_Letter"))
     build_docx(data, base + ".docx", theme); print("DOCX: %s" % (base + ".docx"))
     try:
         pages = build_pdf(data, base + ".pdf", theme)

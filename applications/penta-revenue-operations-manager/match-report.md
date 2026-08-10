@@ -62,5 +62,5 @@ Penta is a stakeholder-solutions firm with a large advisory network — worth a 
 scan for consulting/comms contacts before a cold apply.
 
 ## Output files
-- `resume.pdf` / `resume.docx` — 2 pages, balanced (fill 0.77), modern style
+- `Joshua_Rotenberg_Resume.pdf` / `Joshua_Rotenberg_Resume.docx` — 2 pages, balanced (fill 0.77), modern style
 - `fit.png` — score meter

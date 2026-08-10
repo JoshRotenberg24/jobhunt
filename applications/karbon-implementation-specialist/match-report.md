@@ -106,9 +106,9 @@ Also worth noting from the posting: Karbon states it only contacts candidates fr
 
 ## Files produced
 
-- `resume.pdf` — polished submission copy (real selectable text, single column, ATS-safe)
-- `resume.docx` — editable Word version (use where a Word upload is requested)
-- `cover-letter.pdf` / `cover-letter.docx` — one page, matching letterhead
+- `Joshua_Rotenberg_Resume.pdf` — polished submission copy (real selectable text, single column, ATS-safe)
+- `Joshua_Rotenberg_Resume.docx` — editable Word version (use where a Word upload is requested)
+- `Joshua_Rotenberg_Cover_Letter.pdf` / `Joshua_Rotenberg_Cover_Letter.docx` — one page, matching letterhead
 - `resume.json` / `cover-letter.json` — source
 - `fit.json` / `fit.png` — Fit Score meter
 

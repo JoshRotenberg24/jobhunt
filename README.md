@@ -48,6 +48,11 @@ shortlist** to `searches/<date>.md` — best fit first, knockouts separated out 
 Outputs land in `applications/<company>/`. See `applications/sample-revops/` for a
 worked example (resume PDF/DOCX, cover letter, and match report).
 
+**Submission filenames.** The editable source stays `resume.json` / `cover-letter.json`,
+but the rendered files you actually upload are named for you — `Joshua_Rotenberg_Resume.pdf`
+and `Joshua_Rotenberg_Cover_Letter.pdf` (plus `.docx`) — since that filename is what a
+recruiter sees on the attachment. Set an `"output_basename"` key in the JSON to override.
+
 > Many career sites (Greenhouse/Lever/Workday/LinkedIn) block automated fetching. If a
 > URL won't load, the skill will ask you to paste the job description text.
 

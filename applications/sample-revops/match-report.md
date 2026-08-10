@@ -59,5 +59,5 @@ If you know anyone at Example Co., pursue a referral in parallel — referred ca
 are several-fold more likely to be hired than cold applicants.
 
 ## Files produced
-- `resume.pdf` (polished, ATS-safe, balanced 2 pages) + `resume.docx` (editable)
-- `cover-letter.pdf` + `cover-letter.docx`
+- `Joshua_Rotenberg_Resume.pdf` (polished, ATS-safe, balanced 2 pages) + `Joshua_Rotenberg_Resume.docx` (editable)
+- `Joshua_Rotenberg_Cover_Letter.pdf` + `Joshua_Rotenberg_Cover_Letter.docx`

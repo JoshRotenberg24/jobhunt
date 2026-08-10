@@ -16,9 +16,14 @@ Two interchangeable looks (pick per role):
 Both are single column, standard headings, real text (no images): professional
 AND clean-parsing. Choose the style via the 2nd CLI arg or a "style" key in JSON.
 
+Output filenames follow the submission convention "<Candidate_Name>_Resume.pdf|.docx"
+(what the recruiter sees on the attachment), written next to the input JSON. Override
+with an "output_basename" key when a posting demands something specific.
+
 JSON schema:
 {
   "style": "modern|classic",   # optional; default modern (CLI arg overrides)
+  "output_basename": "...",    # optional; default "<Candidate_Name>_Resume"
   "name": "...", "headline": "...(optional honest self-description)...",
   "contact": {"location":"","phone":"","email":"","linkedin":""},
   "summary": "...",
@@ -85,6 +90,19 @@ def _esc(s):
     markup injection, entity corruption like 'R&D'->'R&D;', and silent drops of
     <word> patterns)."""
     return _san(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def output_basename(data, suffix):
+    """Submission filenames are what a recruiter sees on the attachment, so they
+    carry the candidate's name and the document type -- never 'resume.pdf'. The
+    input JSON keeps its own stable name (resume.json); only the rendered output
+    is renamed. An explicit "output_basename" in the JSON overrides this."""
+    import re
+    explicit = data.get("output_basename")
+    if explicit:
+        return str(explicit)
+    slug = re.sub(r"[^A-Za-z0-9]+", "_", _san(data.get("name", "Resume"))).strip("_")
+    return "%s_%s" % (slug or "Resume", suffix)
 
 
 # ============================ PDF (ReportLab) ================================
@@ -309,7 +327,8 @@ def main():
     spec = sys.argv[1]; data = json.load(open(spec))
     style_arg = sys.argv[2] if len(sys.argv) > 2 else None
     style_name, theme = resolve_theme(data, style_arg)
-    base = os.path.splitext(os.path.abspath(spec))[0]
+    base = os.path.join(os.path.dirname(os.path.abspath(spec)),
+                        output_basename(data, "Resume"))
     pdf_path, docx_path = base + ".pdf", base + ".docx"
 
     build_docx(data, docx_path, theme)

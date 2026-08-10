@@ -107,6 +107,13 @@ Run: `python3 build/render_resume.py applications/<company-slug>/resume.json`
 (The renderer reads `"style"` from the JSON; or override with a 2nd arg:
 `… resume.json classic`.)
 
+**Filenames.** The source JSON always stays `resume.json` / `cover-letter.json`, but the
+renderers write the submission files under the candidate's name —
+`Joshua_Rotenberg_Resume.pdf|.docx` and `Joshua_Rotenberg_Cover_Letter.pdf|.docx` — because
+that filename is what a recruiter sees on the attachment. This is automatic; do not rename
+the outputs by hand, and do not refer to them as `resume.pdf` in the match report. Only set
+an `"output_basename"` key when a specific posting demands a different filename.
+
 It prints `STYLE=<name>  PAGES=<n>  LAST_PAGE_FILL=<0..1>  -> <verdict>`. **Iterate until
 `PAGES=2` and `LAST_PAGE_FILL ≥ 0.6` (target ~0.7–0.95):**
 - **>2 pages:** trim the least-relevant bullets (oldest roles first), tighten wording.
@@ -164,7 +171,8 @@ Write `applications/<company-slug>/match-report.md`:
   future application at once.
 - **Referral prompt**: if Josh may know someone at the company, say to pursue it
   (referrals beat cold applies by multiples).
-- Output files produced (resume.pdf/.docx, cover-letter.\* if any).
+- Output files produced, by their real submission names
+  (`Joshua_Rotenberg_Resume.pdf`/`.docx`, `Joshua_Rotenberg_Cover_Letter.*` if any).
 
 ## Step 9 — Ethics & guardrails (hard rules)
 - **No fabrication** — only content traceable to `profile/master-profile.md`.

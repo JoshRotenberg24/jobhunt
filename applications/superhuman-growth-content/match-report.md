@@ -78,8 +78,8 @@ This is a **Solid stretch** — referrals move stretch candidates from "ranked l
 
 ## Output files
 
-- `resume.pdf` — polished, ATS-safe, balanced 2 pages (PAGES=2, fill 0.77). Submission copy.
-- `resume.docx` — editable Word version (use where a Word upload is requested).
-- `cover-letter.pdf` / `cover-letter.docx` — one-page tailored letter.
+- `Joshua_Rotenberg_Resume.pdf` — polished, ATS-safe, balanced 2 pages (PAGES=2, fill 0.77). Submission copy.
+- `Joshua_Rotenberg_Resume.docx` — editable Word version (use where a Word upload is requested).
+- `Joshua_Rotenberg_Cover_Letter.pdf` / `Joshua_Rotenberg_Cover_Letter.docx` — one-page tailored letter.
 - `fit.json` / `fit.png` — Fit Score data + score-meter image.
 - `resume.json` / `cover-letter.json` — source data for re-rendering.

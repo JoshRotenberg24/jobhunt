@@ -61,5 +61,5 @@ Monte Carlo hires heavily from the data community — check for connections via 
 MarTech network before applying cold.
 
 ## Output files
-- `resume.pdf` / `resume.docx` — 2 pages, balanced (fill 0.79), modern style
+- `Joshua_Rotenberg_Resume.pdf` / `Joshua_Rotenberg_Resume.docx` — 2 pages, balanced (fill 0.79), modern style
 - `fit.png` — score meter

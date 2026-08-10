@@ -62,6 +62,6 @@ GoFractional matches through its network — a warm intro or a strong GoFraction
 matters more here than a cold apply. Worth checking connections to HR Transformed directly.
 
 ## Output files
-- `resume.pdf` / `resume.docx` — 2 pages, balanced (fill 0.79), modern style
+- `Joshua_Rotenberg_Resume.pdf` / `Joshua_Rotenberg_Resume.docx` — 2 pages, balanced (fill 0.79), modern style
 - `fit.png` — score meter
 - (no cover letter requested)
