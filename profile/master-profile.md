@@ -261,6 +261,11 @@ isolation. When a number gets captured, move it up into **Verified Quantified Me
 with its scope and delete the line here.
 
 **Highest leverage (recurs across role types):**
+- **Meetings booked / appointments set.** The Solenzo appointment-booking automation and
+  the audit/outreach workflow have an input number (180+ contacts enrolled) but no outcome
+  number. How many meetings did they actually produce, over what period? Demand-gen and ABM
+  roles are judged on qualified meetings (Software Finder Marketing Manager, 2026-08-10),
+  so this is the missing outcome metric behind his strongest asset.
 - **Concurrent workload.** How many accounts, clients, or implementations he ran at the
   same time — at Solenzo and Birdeye. Wix is now covered (25+/month, see Verified
   Metrics). Nearly every ops, CS, and implementation JD asks about managing multiple

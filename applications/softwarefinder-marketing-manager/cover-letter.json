@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 10, 2026",
+  "company": "Software Finder",
+  "role": "Marketing Manager",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I am applying for the Marketing Manager role. The program you describe, where you score a vendor, form a commercial view of their demand generation, and then spend personalization only where the account value justifies it, is close to what I already built at Solenzo. I run an automated audit workflow that reads a business's digital footprint, scores it, and enrolls the account in personalized outreach. It has enrolled 180+ contacts, and the scoring logic exists specifically so the deep, hand-built version of a message goes to the accounts that earn it.",
+    "Three things line up with what you are hiring for. Research: I run competitor analysis, keyword gap work, and audits of a company's search and ad presence, and the point of that work is always a commercial recommendation rather than a report. Pipeline: I closed six new-client deals averaging roughly $22K each at Fetch & Funnel, about $130K+ in bookings, and ranked top three in sales on a team of 8 to 15 at Accelo while quota roughly doubled, so being measured on meetings and revenue instead of engagement is the environment I come from. Vendor fluency: at Accelo I sold CRM and project-management software to agencies and professional-services firms, and at Birdeye I onboarded and managed 15 to 20 reseller partners on a reputation and reviews platform, retaining all but one. Software vendors and review marketplaces are familiar ground, and I have built in HubSpot as well as GoHighLevel.",
+    "Two honest gaps. I have not run event-led account campaigns, so the pre-event meeting motion would be new to me, and my account scoring has been built in CRM and workflow logic rather than in a dedicated intent-data platform. Both are mechanics on top of judgment I already have about which accounts deserve the effort. I would welcome the chance to walk through how I would build the first version of the target account list and scoring model."
+  ],
+  "closing": "Sincerely,"
+}
