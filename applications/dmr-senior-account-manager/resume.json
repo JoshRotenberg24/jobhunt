@@ -1,0 +1,114 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Account Manager — Agency Client Strategy, SEO & Paid Media, Retention and Growth",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Agency-side account manager and client strategist who retained all but one of a 15–20 account portfolio at Birdeye (~94%, deals $10K–$45K) and managed a portfolio at Wix that contributed to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment. 15+ years across digital marketing agencies, SaaS, and his own practice, with enough hands-on depth in SEO, paid media, CRO, and analytics to be credible with specialists and translate their work into business narratives for VP- and C-level stakeholders. Runs the QBRs, coordinates delivery across channel teams, and finds the expansion inside the accounts he already holds.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery to surface client goals, objectives, and market challenges.",
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research, implementing fixes directly inside client CMS platforms.",
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click-through quality, then diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Track acquisition and conversion across multiple accounts in GA4 and CRM analytics, delivering reporting that drives experimentation and growth.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across marketing and operations.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, bridging business intent and reliable output."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Led integrated digital marketing strategy across inbound, paid media, and content, coordinating execution across internal creative, media, and analytics teams.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and quarterly business reviews.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15–20 reseller partners with deal sizes of roughly $10K–$45K, retaining all but one (~94% retention).",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Analyzed partner utilization and engagement metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Drove team initiatives and process improvements for a brand-new vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Agency Client Strategy",
+      "items": ["Portfolio ownership", "Trusted advisor relationships", "VP & C-level stakeholder engagement", "Quarterly business reviews", "Goal-setting & KPI alignment", "Business narratives from technical work", "Scope & expectation management"]
+    },
+    {
+      "category": "Channel Fluency",
+      "items": ["SEO & technical SEO audits", "Keyword gap analysis", "Paid media & Google Ads", "Conversion rate optimization", "Analytics & GA4", "Content strategy", "Email & lifecycle marketing", "Landing pages"]
+    },
+    {
+      "category": "Retention & Growth",
+      "items": ["Account health monitoring", "Churn risk identification", "Client retention", "Upsell & expansion identification", "Scoping complementary services", "Client satisfaction"]
+    },
+    {
+      "category": "Program & Project Management",
+      "items": ["Cross-team delivery coordination", "Prioritized execution roadmaps", "Deliverable & dependency tracking", "Asana", "Jira", "Monday.com", "Notion", "Process & playbook development"]
+    },
+    {
+      "category": "Reporting & Analysis",
+      "items": ["Performance reporting frameworks", "ROI, CAC & LTV tracking", "KPI dashboards", "Funnel analysis", "Competitor research", "Data-driven recommendations"]
+    },
+    {
+      "category": "AI & Emerging Search",
+      "items": ["Agentic AI workflows", "LLM prompt design", "Multi-agent orchestration", "Automated research & personalization", "Rapid prototyping"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Sept 2024)"]
+}

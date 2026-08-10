@@ -276,6 +276,10 @@ with its scope and delete the line here.
   as is how many he hired or trained.
 
 **Role-specific:**
+- **Client satisfaction score.** Any CSAT, NPS, or equivalent from Wix, Birdeye, or Level.
+  Account-management and client-success postings name "high satisfaction scores" as a
+  required track record (Senior Account Manager via Digital Marketing Recruiters,
+  2026-08-10); retention is recorded but satisfaction is not.
 - **Excel proficiency (capability, not a number).** The tools list names Google Apps but not
   Excel. "Advanced Excel" is a named must-have on analyst and ops postings (Varonis Business
   Operations Analyst, 2026-08-10). If he has real depth (pivot tables, lookups, modeling) it
