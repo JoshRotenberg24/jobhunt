@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 6, 2026",
+  "company": "Karbon",
+  "role": "Implementation Specialist",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Karbon Hiring Team,",
+  "body": [
+    "I'm applying for the Implementation Specialist role. I spent two years at Accelo selling and scoping workflow, CRM, and project-management software to professional-services firms — the same buyer Karbon serves, with the same core problem: work is spread across email and spreadsheets, nobody agrees on who owns what, and the fix is as much process design as software configuration. I've been on both sides of that implementation ever since, and it's the work I do best.",
+    "A few specifics. At Wix I led onboarding and launch operations as team lead and the primary contact for a high-value portfolio, running kickoffs and training sessions and keeping delivery on schedule — supported accounts saw a 30% increase in traffic and a 25% improvement in conversion. At Birdeye I onboarded and managed 15–20 partners on a complex marketing-automation platform and retained all but one, roughly 94%, by watching utilization data for adoption gaps and intervening before they became churn. Through Solenzo I now run concurrent end-to-end implementations myself: discovery, CRM configuration and contact imports with real data-hygiene discipline, 20+ automation workflows built and deployed, and hands-on training for owners and admins. I also use ChatGPT and Claude daily for project planning, customer communications, and process optimization — which is why the AI expectations in this posting read to me as a feature, not a stretch.",
+    "I'm in Arvada, Colorado, work well remotely and independently, and would be glad to walk through how I structure an implementation plan for a small-to-mid firm. Thank you for the consideration."
+  ],
+  "closing": "Sincerely,"
+}

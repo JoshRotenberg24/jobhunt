@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "July 20, 2026",
+  "company": "Nametag",
+  "role": "GTM Operations Manager",
+  "recipient": "Nametag Hiring Team",
+  "salutation": "Dear Nametag Hiring Team,",
+  "body": [
+    "You are hiring your first dedicated owner of GTM operations, which means the real job is part cleanup, part architecture, and part judgment about where AI genuinely improves how a team sells versus where it adds noise. That combination is what I do. I run Solenzo, a consultancy where I build CRM architecture and AI-assisted outbound for B2B businesses, on top of 15+ years inside SaaS go-to-market teams at Wix, Birdeye, and Accelo. I'm also based in Arvada, right up the road from your Denver posting.",
+    "Three things map directly to this role. First, CRM ownership: I architect client systems end-to-end in GoHighLevel and HubSpot (segmentation, lifecycle stages, lead routing, reporting) with data-hygiene standards strict enough that leadership can actually trust the pipeline numbers. Second, AI-assisted outbound with guardrails: I built an automated prospect-audit workflow that enrolled 180+ contacts, scored each business's digital footprint, and triggered personalized outreach, one piece of a 20+ workflow automation system I designed and deployed. Third, translation: I take loosely formed intent from non-technical stakeholders and turn it into precise prompts, agent instructions, and scoped workflows that produce reliable output. That is the exact skill behind operationalizing AI personalization without sacrificing accuracy or brand voice.",
+    "This may read as a nontraditional path, founder and operator rather than career RevOps title-holder. In practice it means I have had to be the entire GTM ops function: evaluate the tools, build the system, enforce the standards, and answer for the results. I would bring that same ownership to Nametag's HubSpot instance and AI roadmap from week one. I'd welcome a conversation about what you want this function to look like a year in."
+  ],
+  "closing": "Sincerely,"
+}
