@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Built 20+ lifecycle and marketing-automation workflows spanning lead capture, qualification, booking, nurture, reactivation, and reviews, plus an automated prospect audit that enrolled 180+ contacts. Marketing generalist and growth-operations builder across SaaS, agency, and service-business environments, translating performance data into tailored programs across paid media, email, SEO, content, landing pages, CRM, and conversion optimization. At Wix, supported an e-commerce segment that increased website traffic 30% and conversion rates 25%.",
+  "summary": "Marketing generalist and growth operations builder with 15+ years across SaaS, agency, and service-business environments, including 5+ years building CRM and marketing-automation systems. Built 20+ lifecycle workflows and an automated prospect audit enrolling 180+ contacts; at Wix, supported an e-commerce segment that increased website traffic 30% and conversion rates 25%. Translate performance data into tailored campaigns across paid media, SEO, email, content, landing pages, and CRM, aligning revenue, operations, and delivery stakeholders around measurable lead-generation and conversion goals.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -16,9 +16,9 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Develop and execute full-lifecycle marketing strategies for service-based businesses, connecting demand generation, CRM architecture, and customer success to lead flow, conversion, and revenue objectives.",
-        "Align marketing programs directly with business owners and sales teams, diagnosing performance constraints and tailoring campaigns to each client's market, audience, and operating goals.",
-        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, then deliver actionable recommendations on a regular reporting cadence.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, using discovery and performance data to identify market challenges and tailor marketing priorities.",
+        "Develop full-lifecycle strategies spanning demand generation, CRM architecture, and customer success, aligning programs directly with business owners and sales teams to improve qualified lead flow.",
+        "Build dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, then deliver actionable recommendations on a regular reporting cadence.",
         "Architect and deploy 20+ GoHighLevel workflows spanning lead capture, qualification, routing, appointment booking, no-show recovery, onboarding nurture, reactivation, reviews, and segmented outreach.",
         "Built an automated prospect-audit workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized outreach and follow-up.",
         "Execute technical SEO audits, keyword-gap and competitor research, Google Ads optimization, landing-page and email copy, and lifecycle automation while documenting concurrent projects in HubSpot, GoHighLevel, and Notion."
@@ -44,8 +44,7 @@
       "bullets": [
         "Onboarded and managed 15-20 reseller partners with deal sizes of roughly $10K-$45K, retaining all but one (~94%) during tenure.",
         "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction and increased adoption of marketing-automation and reputation-management products.",
-        "Analyzed partner utilization and performance metrics to identify adoption gaps, recommend interventions, and reduce churn.",
-        "Shared structured, high-priority customer feedback with Product and Engineering to inform roadmap decisions and product adoption."
+        "Analyzed partner utilization and performance metrics to identify adoption gaps, recommend interventions, and reduce churn."
       ]
     },
     {
@@ -64,6 +63,7 @@
       "company": "Wix.com",
       "location": "Remote",
       "dates": "Aug 2020 - Aug 2022",
+      "page_break_before": true,
       "bullets": [
         "Onboarded and launched 25+ clients per month, reaching 120% of sales targets and 110% of implementation targets.",
         "Led digital-growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve traffic, lead generation, and conversion.",
@@ -90,17 +90,7 @@
       "location": "Denver, CO",
       "dates": "2017 - 2018",
       "bullets": [
-        "Ran full-cycle sales for a loyalty and marketing-automation platform serving SMBs, connecting customer acquisition with retention and technology adoption.",
-        "Built a consultative approach to local-business marketing, customer loyalty, and platform adoption that carried into later SaaS and client-strategy roles."
-      ]
-    },
-    {
-      "title": "Business Development Representative",
-      "company": "Senior Directory",
-      "location": "Denver, CO",
-      "dates": "2012 - 2016",
-      "bullets": [
-        "Prospected and qualified leads, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings."
+        "Ran full-cycle sales for a loyalty and marketing-automation platform serving SMBs, connecting customer acquisition with retention and technology adoption."
       ]
     },
     {
