@@ -1,0 +1,53 @@
+name: Build Storage Asset Management application
+
+on:
+  push:
+    branches:
+      - claude/jolly-mendel-94pcrk
+    paths:
+      - applications/storage-asset-management-marketing-generalist/**
+      - .github/workflows/build-sam-application.yml
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: claude/jolly-mendel-94pcrk
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install renderer dependencies
+        run: pip install -r build/requirements.txt
+
+      - name: Render application artifacts
+        run: |
+          python build/render_resume.py applications/storage-asset-management-marketing-generalist/resume.json
+          python build/render_cover_letter.py applications/storage-asset-management-marketing-generalist/cover-letter.json
+          python build/score_meter.py applications/storage-asset-management-marketing-generalist/fit.json
+
+      - name: Commit generated DOCX and score graphic
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f \
+            applications/storage-asset-management-marketing-generalist/resume.docx \
+            applications/storage-asset-management-marketing-generalist/cover-letter.docx \
+            applications/storage-asset-management-marketing-generalist/fit.png
+          git status --short
+          if git diff --cached --quiet; then
+            echo 'No generated changes to commit.'
+          else
+            git commit -m 'Render Storage Asset Management application artifacts'
+            git push origin HEAD:claude/jolly-mendel-94pcrk
+          fi
