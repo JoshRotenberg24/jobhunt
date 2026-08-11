@@ -38,7 +38,7 @@ Score meter image: `fit.png`
 
 | Item | Status |
 | :--- | :--- |
-| Remote eligibility in Colorado | **Unconfirmed.** The posting limits remote employment to states where SAM is registered but does not identify those states. Confirm Colorado eligibility before applying. |
+| Remote eligibility in Colorado | **Unconfirmed.** The posting limits employment to states where SAM is registered to conduct business but does not identify the eligible states. Confirm Colorado eligibility before applying. |
 | Valid driver's license | **Confirm.** The master profile does not record this. The posting describes it as required because travel may reach 10%. |
 | Up to 10% travel and occasional weekends | **Confirm.** Not enough information is stored to represent willingness or availability. |
 | English fluency | Clear. English is the documented language. |
@@ -120,5 +120,6 @@ Before submission, confirm:
 - `resume.pdf` - text-based, single-column submission copy
 - `resume.docx` - editable Word version
 - `cover-letter.pdf` / `cover-letter.docx` - matching one-page letter
-- `fit.png` - fit-score graphic
+- `resume.json` / `cover-letter.json` - source specifications
+- `fit.json` / `fit.png` - fit-score source and graphic
 - `match-report.md` - this assessment
