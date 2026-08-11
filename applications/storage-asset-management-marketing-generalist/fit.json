@@ -1,12 +1,32 @@
 {
-  "score": 82,
+  "score": 81,
   "band": "Strong fit",
   "role": "Storage Asset Management - Marketing Generalist",
   "breakdown": [
-    ["Must-have requirements met", 35, 40],
-    ["Seniority & scope alignment", 9, 15],
-    ["Domain / industry alignment", 11, 15],
-    ["Differentiators / nice-to-haves", 14, 15],
-    ["Evidence strength", 13, 15]
+    [
+      "Must-have requirements met",
+      35,
+      40
+    ],
+    [
+      "Seniority & scope alignment",
+      9,
+      15
+    ],
+    [
+      "Domain / industry alignment",
+      10,
+      15
+    ],
+    [
+      "Differentiators / nice-to-haves",
+      14,
+      15
+    ],
+    [
+      "Evidence strength",
+      13,
+      15
+    ]
   ]
 }
