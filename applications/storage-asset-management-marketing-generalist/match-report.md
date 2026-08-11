@@ -17,20 +17,20 @@
 ## Fit Score
 
 ```
-Strong fit - 82 / 100
-[################----] 82%
+Strong fit - 80 / 100
+[################----] 80%
 ```
 
 Score meter image: `fit.png`
 
 | Dimension | Score | Notes |
 | :--- | :--- | :--- |
-| Must-have requirements met | 36 / 40 | Strong coverage of multi-channel marketing, lead generation, conversion optimization, performance analytics, project management, deadline ownership, written communication, cross-functional coordination, and post-secondary education. Social-media and traditional-marketing execution are not explicitly documented in the master profile. Driver's-license and travel availability also need confirmation. |
-| Seniority & scope alignment | 9 / 15 | Josh can do the work, but 15+ years, founder-level ownership, and prior team-lead experience create an overqualification risk for a $53K individual-contributor role. The resume therefore emphasizes hands-on execution rather than seniority. |
-| Domain / industry alignment | 12 / 15 | Strong marketing-generalist, SaaS, agency, and service-business alignment. No direct self-storage or retail-industry experience is documented, although local-market demand generation and multi-location performance work are closely adjacent. |
-| Differentiators / nice-to-haves | 13 / 15 | 20+ deployed lifecycle workflows, an automated audit enrolling 180+ prospects, full-funnel troubleshooting, CRM architecture, AI-enabled operations, and commercial account experience provide unusually broad execution depth for this level. |
-| Evidence strength | 12 / 15 | Strong quantified evidence includes 30% traffic and 25% conversion improvements across Wix's e-commerce segment, 120% sales and 110% implementation target attainment, 20+ workflows, 180+ enrolled contacts, and quantified sales bookings. Store- or region-level marketing lift is not directly documented. |
-| **Total** | **82 / 100** | **Strong capability fit. Apply if the compensation and role level are acceptable.** |
+| Must-have requirements met | 35 / 40 | Strong coverage of multi-channel marketing, lead generation, conversion optimization, performance analytics, project management, deadline ownership, written communication, cross-functional coordination, and post-secondary education. Social-media and traditional-marketing execution are not explicitly documented in the master profile. Driver's-license and travel availability also need confirmation. |
+| Seniority & scope alignment | 8 / 15 | Josh can do the work, but 15+ years, founder-level ownership, and prior team-lead experience create an overqualification risk for a $53K individual-contributor role. The resume therefore emphasizes hands-on execution rather than seniority. |
+| Domain / industry alignment | 10 / 15 | Strong marketing-generalist, SaaS, agency, and service-business alignment. No direct self-storage or retail-industry experience is documented, although local-market demand generation and multi-location performance work are closely adjacent. |
+| Differentiators / nice-to-haves | 14 / 15 | 20+ deployed lifecycle workflows, an automated audit enrolling 180+ prospects, full-funnel troubleshooting, CRM architecture, AI-enabled operations, and commercial account experience provide unusually broad execution depth for this level. |
+| Evidence strength | 13 / 15 | Strong quantified evidence includes 30% traffic and 25% conversion improvements across Wix's e-commerce segment, 120% sales and 110% implementation target attainment, 20+ workflows, 180+ enrolled contacts, and quantified sales bookings. Store- or region-level marketing lift is not directly documented. |
+| **Total** | **80 / 100** | **Strong capability fit. Apply if the compensation and role level are acceptable.** |
 
 ---
 
@@ -38,7 +38,7 @@ Score meter image: `fit.png`
 
 | Item | Status |
 | :--- | :--- |
-| Remote eligibility in Colorado | **Unconfirmed.** The posting limits employment to states where SAM is registered to conduct business but does not identify the eligible states. Confirm Colorado eligibility before applying. |
+| Remote eligibility in Colorado | **Unconfirmed.** The posting limits employment to states where SAM is registered to do business, and it does not list those states. Confirm Colorado eligibility before applying. |
 | Valid driver's license | **Confirm.** The master profile does not record this. The posting describes it as required because travel may reach 10%. |
 | Up to 10% travel and occasional weekends | **Confirm.** Not enough information is stored to represent willingness or availability. |
 | English fluency | Clear. English is the documented language. |
@@ -123,3 +123,8 @@ Before submission, confirm:
 - `resume.json` / `cover-letter.json` - source specifications
 - `fit.json` / `fit.png` - fit-score source and graphic
 - `match-report.md` - this assessment
+
+## Build validation
+
+- Resume: 2 pages, single-column, selectable text, visually inspected in PDF and DOCX renders.
+- Cover letter: 1 page, visually inspected in PDF and DOCX renders.
