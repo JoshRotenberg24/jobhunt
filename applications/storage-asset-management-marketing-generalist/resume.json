@@ -1,14 +1,14 @@
 {
   "style": "modern",
   "name": "Joshua Rotenberg",
-  "headline": "Marketing Generalist | Growth, Analytics & Automation",
+  "headline": "Marketing Generalist & Growth Operations Builder",
   "contact": {
     "location": "Arvada, CO",
     "phone": "303-726-5037",
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Marketing generalist who supported a 30% increase in website traffic and 25% improvement in conversion rates across Wix's e-commerce segment, then built 20+ lifecycle workflows and an automated prospect audit enrolling 180+ contacts through Solenzo. Brings 15+ years across SaaS, agency, and service-business environments, with hands-on execution in paid media, email, SEO, content, landing pages, CRM automation, analytics, and cross-functional project delivery.",
+  "summary": "Marketing generalist and growth operations builder with 15+ years across SaaS, agency, and service-business environments, including 5+ years building CRM and marketing-automation systems. Built 20+ lifecycle workflows and an automated prospect audit enrolling 180+ contacts; at Wix, supported an e-commerce segment that increased website traffic 30% and conversion rates 25%. Translate performance data into tailored multi-channel strategies across paid media, email, SEO, content, landing pages, and CRM, coordinating owners, revenue teams, and delivery stakeholders around measurable lead-generation and conversion goals.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -17,11 +17,13 @@
       "dates": "Feb 2024 - Present",
       "bullets": [
         "Develop and execute full-lifecycle marketing strategies for service-based businesses, connecting demand generation, CRM architecture, and customer success to lead flow, conversion, and revenue objectives.",
-        "Align marketing programs directly with business owners and sales teams, diagnosing performance constraints and tailoring campaigns to each client's market, audience, and operating goals.",
+        "Align marketing programs directly with business owners and sales teams, diagnosing performance constraints and tailoring campaigns to each client's market, audience, and operational goals.",
         "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, then deliver actionable recommendations on a regular reporting cadence.",
         "Architect and deploy 20+ GoHighLevel workflows spanning lead capture, qualification, routing, appointment booking, no-show recovery, onboarding nurture, reactivation, reviews, and segmented outreach.",
         "Built an automated prospect-audit workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized outreach and follow-up.",
-        "Execute technical SEO audits, keyword-gap and competitor research, Google Ads optimization, landing-page and email copy, and lifecycle automation while documenting concurrent projects in HubSpot, GoHighLevel, and Notion."
+        "Execute technical SEO audits, keyword-gap and competitor research, and direct CMS improvements that strengthen organic visibility and campaign targeting.",
+        "Optimized a client Google Ads account to reduce spam and low-quality leads and improve click-through quality, then identified onsite CRO as the remaining conversion constraint.",
+        "Write thought-leadership content, newsletters, educational guides, landing pages, and direct-response email sequences while documenting concurrent projects in HubSpot, GoHighLevel, and Notion."
       ]
     },
     {
@@ -33,7 +35,8 @@
         "Managed integrated digital marketing strategies across inbound, paid media, and content as strategic lead, coordinating execution across internal departments and client stakeholders.",
         "Built campaign reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, translating results into optimization recommendations and QBRs.",
         "Produced landing pages, complex email sequences, and conversion-focused copy that supported lead generation and pipeline development.",
-        "Ran keyword research and search-term analysis to refine campaign targeting and content direction while resolving feedback promptly to protect delivery quality and retention."
+        "Ran keyword research and search-term analysis to refine campaign targeting and content direction while resolving feedback promptly to protect delivery quality and retention.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into clear priorities for clients and internal delivery teams."
       ]
     },
     {
@@ -43,9 +46,10 @@
       "dates": "Feb 2023 - Apr 2024",
       "bullets": [
         "Onboarded and managed 15-20 reseller partners with deal sizes of roughly $10K-$45K, retaining all but one (~94%) during tenure.",
-        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction and increased adoption of marketing-automation and reputation-management products.",
+        "Developed scalable communication workflows and automated training sequences that reduced onboarding friction and increased adoption of marketing-automation and reputation-management products.",
         "Analyzed partner utilization and performance metrics to identify adoption gaps, recommend interventions, and reduce churn.",
-        "Shared structured, high-priority customer feedback with Product and Engineering to inform roadmap decisions and product adoption."
+        "Shared structured, high-priority customer feedback with Product and Engineering to inform roadmap decisions and product adoption.",
+        "Led partner training and guided complex product configuration, translating reputation-management and marketing-automation capabilities into practical customer-growth workflows."
       ]
     },
     {
@@ -54,7 +58,7 @@
       "location": "Remote",
       "dates": "Sep 2022 - Feb 2023",
       "bullets": [
-        "Ran client accounts end to end at a performance-marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Ran client accounts end to end at a performance-marketing agency, covering campaign execution, reporting, and cross-team communication.",
         "Analyzed paid-media and creative performance data, translating results into channel and conversion recommendations.",
         "Closed 6 new-client deals averaging ~$22K each, including several above $25K, for roughly $130K+ in total bookings."
       ]
@@ -64,6 +68,7 @@
       "company": "Wix.com",
       "location": "Remote",
       "dates": "Aug 2020 - Aug 2022",
+      "page_break_before": true,
       "bullets": [
         "Onboarded and launched 25+ clients per month, reaching 120% of sales targets and 110% of implementation targets.",
         "Led digital-growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve traffic, lead generation, and conversion.",
@@ -82,7 +87,7 @@
         "Built sequenced implementation plans for incoming clients, prioritizing system changes and handing structured plans to delivery teams.",
         "Ranked top three in sales on a team of 8 to 15 reps for nearly the full tenure while quota roughly doubled.",
         "Averaged ~$17,750 per month in implementation and services bookings (~$213K annualized) plus recurring revenue, consistently performing into accelerator tiers.",
-        "Guided client onboarding, workflow design, and API integrations, troubleshooting technical challenges and helping professional-services teams adopt new operating systems."
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
       ]
     },
     {
@@ -92,7 +97,7 @@
       "dates": "2017 - 2018",
       "bullets": [
         "Ran full-cycle sales for a loyalty and marketing-automation platform serving SMBs, connecting customer acquisition with retention and technology adoption.",
-        "Built a consultative approach to local-business marketing, customer loyalty, and platform adoption that carried into later SaaS and client-strategy roles."
+        "Built the consultative approach to customer retention and technology adoption that carried into later SaaS roles."
       ]
     },
     {
@@ -102,7 +107,7 @@
       "dates": "2012 - 2016",
       "bullets": [
         "Prospected and qualified leads, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings.",
-        "Built the outreach, qualification, and pipeline fundamentals used throughout later marketing, sales, and account-management roles."
+        "Built the outreach, qualification, and pipeline fundamentals that carried into later SaaS account-executive roles."
       ]
     },
     {
@@ -111,75 +116,33 @@
       "location": "Denver, CO",
       "dates": "Jun 2010 - Sep 2012",
       "bullets": [
-        "Built customer-management, intake, reporting, vendor, and supplier workflows from scratch in a regulated startup, scaling the operation to profitability.",
-        "Developed early operating infrastructure and customer-service processes that supported day-to-day growth.",
-        "Managed vendor, supplier, and customer workflows directly, balancing service quality, operating constraints, and commercial priorities."
+        "Built compliance and customer-management systems from scratch in a highly regulated startup environment.",
+        "Developed intake processes and reporting systems, scaling the business to profitability."
       ]
     }
   ],
   "competencies": [
     {
       "category": "Marketing Strategy & Channels",
-      "items": [
-        "Full-Funnel Acquisition",
-        "Lead Generation",
-        "Conversion Optimization",
-        "Lifecycle Marketing",
-        "Email Marketing",
-        "Paid Media",
-        "SEO",
-        "Content Strategy",
-        "Landing Pages",
-        "Campaign Planning"
-      ]
+      "items": ["Full-Funnel Acquisition", "Lead Generation", "Conversion Optimization", "Lifecycle Marketing", "Email Marketing", "Paid Media", "SEO", "Content Strategy", "Landing Pages", "Campaign Planning"]
     },
     {
       "category": "Analytics & Performance",
-      "items": [
-        "GA4",
-        "Campaign Attribution",
-        "ROI / CAC / LTV Reporting",
-        "KPI Dashboards",
-        "Funnel Analysis",
-        "A/B Testing",
-        "Keyword & Competitor Research",
-        "QBRs"
-      ]
+      "items": ["GA4", "Campaign Attribution", "ROI / CAC / LTV Reporting", "KPI Dashboards", "Funnel Analysis", "A/B Testing", "Keyword & Competitor Research", "QBRs"]
     },
     {
       "category": "CRM, Automation & AI",
-      "items": [
-        "GoHighLevel",
-        "HubSpot",
-        "Salesforce",
-        "Workflow Design",
-        "Segmentation",
-        "Lifecycle Stages",
-        "Lead Routing",
-        "ChatGPT",
-        "Claude",
-        "Prompt Design"
-      ]
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Workflow Design", "Segmentation", "Lifecycle Stages", "Lead Routing", "ChatGPT", "Claude", "Prompt Design"]
+    },
+    {
+      "category": "Content & Customer Growth",
+      "items": ["Thought Leadership", "Direct-Response Copy", "Email Sequences", "Newsletters", "Local-Business Marketing", "Reputation Management", "Review Generation", "Customer Loyalty"]
     },
     {
       "category": "Operations & Collaboration",
-      "items": [
-        "Project Management",
-        "Cross-Functional Coordination",
-        "Stakeholder Communication",
-        "Process Mapping",
-        "Notion",
-        "Asana",
-        "Monday.com",
-        "Jira",
-        "Google Workspace"
-      ]
+      "items": ["Project Management", "Cross-Functional Coordination", "Stakeholder Communication", "Process Mapping", "Notion", "Asana", "Monday.com", "Jira", "Google Workspace"]
     }
   ],
-  "education": [
-    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
-  ],
-  "certifications": [
-    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
-  ]
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"]
 }
