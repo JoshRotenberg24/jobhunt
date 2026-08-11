@@ -1,0 +1,142 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations & MarTech Implementation Specialist",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations builder with 15+ years across SaaS, agency, and service-business environments, including 5+ years architecting CRM and marketing-automation systems end to end. Built and maintain 20+ production automation workflows (lead capture, routing, qualification, booking), run technical SEO audits and CMS-level fixes, and track performance through GA4 and campaign attribution. Comfortable as the technical liaison between marketing/SEO stakeholders and delivery, translating requirements into implementation tickets, documenting configurations, and troubleshooting breaks in lead-routing and tracking systems across multiple concurrent client accounts.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and maintain 20+ production GoHighLevel automation workflows spanning lead capture, tagging, routing, qualification, appointment booking with confirmation/reminders, no-show recovery, and post-sale nurture, monitoring and repairing broken automations between lead sources and downstream systems.",
+        "Run technical SEO audits, keyword-gap analysis, and competitor research, implementing on-page fixes (metas, alt tags, robots.txt, on-site improvements) directly inside client CMS platforms.",
+        "Track and validate lead-source and conversion accuracy using GA4 and CRM analytics across concurrent client accounts, reconciling reporting against ad-platform data to catch tracking discrepancies.",
+        "Document CRM architecture, workflow logic, and client-specific configuration quirks in Notion and HubSpot, keeping project records auditable across concurrent engagements and enabling clean handoffs.",
+        "Translate non-technical stakeholders' requirements into precise, structured automation logic and implementation steps, acting as the bridge between business intent and technical execution.",
+        "Built an automated prospect-audit workflow that enrolled 180+ contacts, scoring each business's digital footprint and site health to trigger personalized outreach and follow-up.",
+        "Design and deploy CRM architecture, contact segmentation, and lifecycle-stage logic across GoHighLevel and HubSpot, applying consistent data-hygiene protocols across every build."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94%) during tenure, guiding each through technical setup and configuration of reputation-management and marketing-automation tools.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction and shortened time-to-adoption for new partners and their end customers.",
+        "Served as frontline technical support for partner-facing product issues, triaging configuration problems and escalating structured, high-priority feedback to Product and Engineering.",
+        "Analyzed partner utilization and adoption metrics to identify workflow breaks and configuration gaps, recommending fixes that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets across a combined sales-and-implementation role.",
+        "Led digital-growth consultations aligning site architecture, on-page SEO, and technical setup, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Guided new-brand and new-vertical launches from proof of concept to live production accounts, documenting configuration quirks and building the onboarding process used by the rest of the team.",
+        "Directly managed and trained a team of onboarding specialists, standardizing technical setup steps and QA checkpoints across concurrent client launches.",
+        "Drove team initiatives and process documentation for a brand-new Wix vertical that went from proof of concept to a profitable business line, including hiring and training new hires."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, then handed structured specs to the implementation team to execute against.",
+        "Guided client onboarding, workflow design, and API integrations for CRM and project-management software, troubleshooting technical configuration issues directly with C-suite stakeholders.",
+        "Ranked top three in sales on a team of 8 to 15 reps for nearly the full tenure while quota roughly doubled, closing deals of $20K and larger later in tenure.",
+        "Advised clients on CRM adoption and scalable system design aligned to their growth stage, escalating account-level technical risk to leadership early."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance-marketing agency, covering campaign execution, tracking accuracy, and cross-team communication.",
+        "Built and refined internal reporting processes that improved data accuracy and reduced handoff errors between sales and delivery.",
+        "Closed 6 new-client deals averaging ~$22K each, including several above $25K, for roughly $130K+ in total bookings."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Tag & Tracking Implementation",
+      "items": [
+        "Marketing Automation Workflow Build",
+        "Conversion Tracking Validation",
+        "GA4",
+        "Campaign Attribution",
+        "Lead-Routing QA",
+        "Third-Party Script Implementation",
+        "CRM Automation Debugging"
+      ]
+    },
+    {
+      "category": "Technical SEO",
+      "items": [
+        "On-Page Optimization",
+        "Alt Tags & Metas",
+        "Robots.txt",
+        "Keyword & Competitor Research",
+        "CMS-Level Implementation",
+        "Site Architecture"
+      ]
+    },
+    {
+      "category": "MarTech Platforms",
+      "items": [
+        "GoHighLevel",
+        "HubSpot",
+        "Salesforce",
+        "Notion",
+        "Google Workspace",
+        "Asana",
+        "Monday.com",
+        "Jira"
+      ]
+    },
+    {
+      "category": "Operations & Documentation",
+      "items": [
+        "SOP & Changelog Development",
+        "Workflow Decomposition",
+        "Cross-Functional Coordination",
+        "New-Account/Brand Onboarding",
+        "Configuration QA",
+        "Vendor & Partner Support"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "Agentic Workflow Design",
+        "LLM Prompt Design",
+        "Requirements-to-Implementation Translation",
+        "ChatGPT",
+        "Claude"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

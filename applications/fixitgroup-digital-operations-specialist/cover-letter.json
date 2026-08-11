@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 11, 2026",
+  "company": "The Fix-It Group",
+  "role": "Digital Operations Specialist",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Fix-It Group Hiring Team,",
+  "body": [
+    "I'm applying for the Digital Operations Specialist role because the work is close to what I already do at Solenzo: keep the technical layer under a marketing program accurate and running, not just strategized. I architect and maintain 20+ production automation workflows in GoHighLevel, monitor for breaks between lead sources and downstream systems, and fix them before they cost a client leads. That's the same discipline this role needs applied to tag management, tracking accuracy, and lead-routing across a growing brand portfolio.",
+    "The technical SEO and documentation side of the role also maps to real work I do now. I run technical SEO audits and implement fixes, metas, alt tags, robots.txt, directly inside client CMS platforms, and I document CRM architecture and configuration quirks in Notion so engagements stay auditable across concurrent accounts. At Wix, I onboarded and launched 25+ clients a month while helping guide new-vertical launches from proof of concept to live, documenting the process along the way. I track conversion accuracy with GA4 against CRM and ad-platform data as a matter of course, since a dashboard nobody trusts isn't worth building.",
+    "I don't have hands-on Google Tag Manager, CallRail, or ServiceTitan experience specifically, and I want to be upfront about that rather than imply otherwise. What I do bring is a proven ability to pick up a mixed martech stack quickly, translate SEO and marketing requirements into implementation tickets, and hold the line on tracking integrity across multiple accounts at once, which is the core of what this role is measured on. I'd welcome the chance to talk through how that experience would transfer. Thank you for your consideration."
+  ],
+  "closing": "Sincerely,"
+}
