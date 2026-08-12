@@ -1,0 +1,154 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Account Manager & Client Strategy Lead",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client strategy and account management professional with 15+ years owning strategic relationships across agency, SaaS, and B2B environments, including direct agency experience running integrated SEO, paid media, and content programs. Built QBR and reporting frameworks tracking ROI, CAC, LTV, and conversion; guided a partner portfolio to ~94% retention; and reached 120% of sales and 110% of implementation targets managing a high-value client book. Translate SEO, CRO, and paid-media work into business narratives for executive stakeholders, coordinate cross-channel delivery teams, and keep programs organized and on track without being chased.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based business clients, running discovery and goal-setting to align marketing programs with revenue and growth targets.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across marketing and operations.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned to each client's objectives.",
+        "Coordinate execution across SEO, paid media, CRM, and content workstreams, translating strategy into prioritized delivery plans and keeping engagements organized in Notion and HubSpot.",
+        "Conduct technical SEO audits, keyword-gap analyses, and competitor research, translating findings into business-relevant recommendations for non-technical stakeholders.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights that drive experimentation and decision-making."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing programs across inbound, paid media, and content as strategic lead, coordinating execution across internal departments and client stakeholders at a full-service digital marketing agency.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and leading Quarterly Business Reviews.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations for client leadership.",
+        "Produced high-converting campaign assets - landing pages, email sequences, conversion-focused copy - in partnership with content and creative teams to improve lead generation and pipeline.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Owned strategic relationships for 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention) during tenure through proactive account management.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value to their own end customers.",
+        "Maintained real-time awareness of account health and adoption signals, analyzing utilization data to identify churn risk and recommend interventions.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance-marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Analyzed campaign performance data across paid media and creative, translating results into optimization recommendations for client stakeholders.",
+        "Closed 6 new-client deals averaging ~$22K each, including several above $25K, for roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value e-commerce account portfolio, reaching 120% of sales targets and 110% of implementation targets while onboarding and launching 25+ clients per month.",
+        "Led digital-growth consultations aligning site architecture, inbound marketing, and SEO best practices, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Served as primary strategic contact for a client portfolio, overseeing scope, budget, and delivery while accelerating time-to-value.",
+        "Directly managed and developed a team of onboarding specialists, standardizing process and quality across concurrent client launches.",
+        "Drove team initiatives and process improvements for a new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped CRM and project-management software to agencies and professional-services firms, building relationships with C-suite executives as a trusted advisor on operational system design.",
+        "Ranked top three in sales on a team of 8 to 15 reps for nearly the full tenure while quota roughly doubled, closing deals of $20K and larger later in tenure.",
+        "Built sequenced implementation plans for incoming clients, prioritizing system changes and handing structured plans to the delivery team.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client & Account Strategy",
+      "items": [
+        "Executive Stakeholder Management",
+        "Quarterly Business Reviews",
+        "Account Retention & Growth",
+        "Upsell & Expansion",
+        "Client Onboarding",
+        "Churn Risk Analysis",
+        "Trusted Advisor Relationships"
+      ]
+    },
+    {
+      "category": "Channel Fluency",
+      "items": [
+        "SEO",
+        "Paid Media",
+        "CRO",
+        "Content Strategy",
+        "Email Marketing",
+        "Landing Pages"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "GA4",
+        "Campaign Attribution",
+        "ROI / CAC / LTV Reporting",
+        "KPI Dashboards",
+        "QBR Development",
+        "Funnel Analysis"
+      ]
+    },
+    {
+      "category": "Program & Project Management",
+      "items": [
+        "Cross-Functional Coordination",
+        "Sprint & Resourcing Support",
+        "Notion",
+        "HubSpot",
+        "Salesforce",
+        "Asana",
+        "Monday.com",
+        "Jira"
+      ]
+    },
+    {
+      "category": "AI & Emerging Search",
+      "items": [
+        "Agentic Workflow Design",
+        "LLM/AI Search Fluency",
+        "Prompt Design",
+        "ChatGPT",
+        "Claude"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
