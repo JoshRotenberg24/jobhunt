@@ -1,0 +1,146 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Cross-Functional Program & Operations Manager",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operations and program-execution professional with 15+ years translating ambiguous business priorities into structured plans, owners, and timelines across marketing, CRM, and cross-functional delivery teams. Built and maintain 20+ production automation workflows end to end, coordinate concurrent workstreams for a multi-client portfolio, and keep decisions and follow-through documented so nothing depends on memory. Comfortable working across stakeholders with different priorities, escalating risks early, and building the repeatable operating rhythms that let a team move faster with less ambiguity.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Coordinate cross-functional workstreams across CRM, SEO, paid media, and content for a concurrent client portfolio, translating strategic priorities into scoped deliverables, owners, and timelines.",
+        "Document every client engagement, workflow, and configuration decision in Notion, HubSpot, and GoHighLevel, keeping project records auditable and follow-through visible across concurrent engagements.",
+        "Break down ambiguous business requirements into structured automation logic and implementation steps, acting as the translation layer between non-technical stakeholders and technical execution.",
+        "Monitor 20+ production automation workflows for breaks between lead sources and downstream systems, identifying and resolving issues before they affect delivery.",
+        "Build performance dashboards and deliver reporting on a regular cadence, surfacing risks, blockers, and recommendations rather than just activity.",
+        "Identify process gaps and build repeatable operating rhythms, evolving how engagements are scoped, tracked, and delivered as the client portfolio grows."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across inbound, paid media, and content workstreams as strategic lead, aligning internal departments and client stakeholders around shared priorities.",
+        "Built reporting frameworks and led Quarterly Business Reviews that translated channel performance into leadership-ready updates on progress, risk, and next steps.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, keeping delivery on track and resolving feedback promptly to protect timelines."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed onboarding and technical setup for 15-20 reseller partners concurrently, standardizing communication workflows and training sequences to reduce friction and keep timelines on track.",
+        "Tracked partner utilization and adoption data to identify risk and resource constraints early, escalating with recommended interventions rather than waiting for churn.",
+        "Shared structured, high-priority feedback with Product and Engineering, keeping cross-functional partners aligned on dependencies affecting the roadmap.",
+        "Retained all but one partner in the book (~94% retention) during tenure through proactive account management and clear follow-through."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed a team of onboarding specialists, standardizing process and QA checkpoints to keep concurrent client launches on schedule and accountable.",
+        "Onboarded and launched 25+ clients per month while reaching 120% of sales targets and 110% of implementation targets, coordinating scope, budget, and delivery for each account.",
+        "Drove process improvements and documentation for a new Wix vertical that moved from proof of concept to a profitable business line, including hiring and training new hires.",
+        "Led onboarding and launch operations as primary point of contact, accelerating time-to-value through clear ownership and consistent follow-through."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, then handed structured specs to the delivery team to execute against.",
+        "Guided client onboarding, workflow design, and API integrations, troubleshooting technical configuration directly with C-suite stakeholders.",
+        "Escalated account-level risk to leadership early, with clear options and recommended paths forward.",
+        "Advised clients on CRM adoption and scalable operating systems aligned to their growth stage and team structure."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance-marketing agency, coordinating campaign execution, reporting, and cross-team communication.",
+        "Built and refined internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery teams."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Program & Project Execution",
+      "items": [
+        "Cross-Functional Coordination",
+        "Workflow & Dependency Tracking",
+        "Risk Identification & Escalation",
+        "Decision Documentation",
+        "Operating Rhythm Design",
+        "Change Management Support"
+      ]
+    },
+    {
+      "category": "Stakeholder Communication",
+      "items": [
+        "Executive-Ready Reporting",
+        "Status Updates & Readouts",
+        "Meeting Facilitation",
+        "Influence Without Authority",
+        "Cross-Team Alignment"
+      ]
+    },
+    {
+      "category": "Systems & Documentation",
+      "items": [
+        "Notion",
+        "HubSpot",
+        "GoHighLevel",
+        "Salesforce",
+        "Google Workspace",
+        "Asana",
+        "Monday.com",
+        "Jira"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "GA4",
+        "KPI Dashboards",
+        "QBR Development",
+        "Campaign Attribution",
+        "Process Documentation"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "Agentic Workflow Design",
+        "Requirements-to-Implementation Translation",
+        "ChatGPT",
+        "Claude"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
