@@ -1,0 +1,22 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 13, 2026",
+  "company": "DaVita",
+  "role": "Manager, Search Visibility & AI Discovery",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Manager of Search Visibility & AI Discovery role. The posting is specific about wanting someone who understands classic SEO deeply and is actively experimenting with GEO, not one or the other, and that combination is exactly where I've spent the last few years.",
+    "On the SEO and analytics side, I run technical SEO audits, keyword and competitive research, and on-page fixes directly inside client CMS platforms, then report performance through GA4, Search Console, Ahrefs, and Semrush in dashboards built for business owners, not just for me. On the AI side, I design and direct LLM-based systems for a living, translating loosely-formed business intent into structured prompts and agent logic, and building evaluation loops that monitor outputs and improve them against defined criteria. That's a different problem than optimizing for AI-generated answers specifically, but it's the same underlying discipline: making information legible and reliable to a model.",
+    "I'll say directly what I haven't done: tracked brand citations or share-of-voice inside ChatGPT, Perplexity, or AI Overviews specifically. What I bring instead is real hands-on fluency with how these models parse and represent information, paired with 15+ years owning marketing strategy end to end rather than only executing against someone else's plan, which should make the GEO-specific tooling and reporting a fast ramp rather than a cold start.",
+    "I'd welcome the conversation."
+  ],
+  "closing": "Sincerely,"
+}
