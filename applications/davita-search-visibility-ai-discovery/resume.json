@@ -1,0 +1,106 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Search Visibility Manager · SEO, Analytics & AI/LLM Systems",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations leader with 15+ years in SEO, analytics, and full-funnel digital strategy, including technical SEO audits, keyword and competitive research, and GA4/Search Console/Semrush/Ahrefs-based reporting built for executive audiences. I also design and direct AI/LLM systems, translating loosely-formed business intent into structured prompts and agent logic, which is the same discipline behind making a brand's content extractable, citable, and well-represented inside AI-generated answers. Comfortable owning strategy end to end, not just executing against someone else's plan, and presenting results directly to leadership.",
+  "experience": [
+    {
+      "title": "Founder & Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Translate non-technical stakeholders' loosely-formed ideas into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable LLM output.",
+        "Design self-improving evaluation loops that monitor agent outputs and continuously optimize results against defined success criteria.",
+        "Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.",
+        "Conduct technical SEO audits, keyword and competitor research, and implement fixes directly inside client CMS platforms, keeping content structure aligned with search performance and brand positioning.",
+        "Track acquisition, engagement, and conversion in GA4 and CRM analytics, building KPI dashboards and ROI reporting delivered directly to business owners to drive prioritization.",
+        "Architect and deploy AI-driven marketing systems, primarily in GoHighLevel, automating lead enrichment, outreach, and appointment booking across 20+ live workflows.",
+        "Own marketing strategy end to end for a portfolio of service-based clients, from discovery and prioritization through execution and reporting, rather than only executing against a plan set elsewhere."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, translating results into optimization recommendations for stakeholders.",
+        "Managed integrated digital marketing strategies across paid media, inbound, and content, coordinating execution across internal teams and outside contributors."
+      ]
+    },
+    {
+      "title": "Account Manager & Onboarding Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, content, and SEO best practices, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Directly managed a team of onboarding specialists, overseeing budgets, scope, and delivery across a high-value, multi-vertical client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15–20 partner accounts, driving adoption of marketing-automation and reputation-management software and retaining all but one (~94%).",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Collaborated with Product and Engineering to share structured, high-priority feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Built and refined internal reporting processes that improved accuracy and cross-team alignment.",
+        "Closed 6 new-client deals averaging ~$22K each (~$130K+ in total bookings) over tenure."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Advised clients on CRM adoption and scalable operational systems, translating business requirements into technical configuration and workflow design.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, sustained while quota roughly doubled."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Built compliance and customer-management systems from scratch in a highly regulated startup environment.",
+        "Developed early operational infrastructure, intake processes and reporting systems, scaling the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "SEO & Search", "items": ["Technical SEO Audits", "Keyword & Competitive Research", "On-Page Optimization", "Content Structure & CMS Implementation", "Search Performance Reporting"]},
+    {"category": "Analytics & Reporting Platforms", "items": ["GA4", "Google Search Console", "Ahrefs", "Semrush", "KPI / ROI Dashboards", "Executive Reporting"]},
+    {"category": "AI & LLM Systems", "items": ["Prompt Design & Agent Instructions", "Multi-Agent Orchestration", "LLM Workflow Architecture", "Evaluation & Self-Improving Loops", "Structured Experimentation"]},
+    {"category": "Strategy & Cross-Functional Leadership", "items": ["End-to-End Strategy Ownership", "Cross-Functional Coordination", "Vendor & Agency Management", "Stakeholder Presentation"]},
+    {"category": "Marketing Operations & CRM", "items": ["GoHighLevel", "HubSpot", "Salesforce", "Marketing Automation Workflows", "Campaign Attribution"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (Sept 2024)"
+  ]
+}
