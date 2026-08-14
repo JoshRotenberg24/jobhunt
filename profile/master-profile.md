@@ -43,6 +43,26 @@
 | Fivestars | Account Executive | Denver, CO | 2017 – 2018 |
 | Senior Directory | Business Development Representative | Denver, CO | 2012 – 2016 |
 | Standing Akimbo | Co-Owner / Operations Lead | Denver, CO | Jun 2010 – Sep 2012 |
+| Watercourse | Cook | Denver, CO | ~2009 – ~2011 (a couple years, after Mishawaka/Domenic's — exact dates TBD) |
+| Domenic's Bistro & Wine Bar | Kitchen Manager | Fort Collins, CO | 2007 – 2009 |
+| Head for the Hills (touring band) | Roadie | Fort Collins, CO area / regional touring | 2005 – 2009 |
+| The Mishawaka | Cook / Music Promoter (seasonal) | Bellvue, CO | Summers, exact years TBD — likely within 2005–2009 |
+| Crown Pub | Line Cook | Fort Collins, CO | "A couple years" in college — overlaps Mugs/roadie era, exact dates TBD |
+| Mugs Coffee Lounge | Cook / Barista | Fort Collins, CO | ~2004 – ~2007 (2+ years, start of college — exact dates TBD) |
+| Starbucks | Barista | Location TBD (likely Denver-metro, pre-college) | ~2001 – 2004 (3 years, high school into start of college) |
+| Chauffeur, Mercedes car service (name TBD) | Chauffeur | Denver, CO area | Before the Uber/Lyft rideshare boom (~pre-2012) — exact dates TBD |
+| Uber / Lyft | Rideshare Driver | Denver, CO area | Dates TBD — after the rideshare boom (~2012+) |
+
+> **Pre-career / early-career note:** these four rows are real but pre-date the MarTech/SaaS career track (Senior Directory, 2012, is the start of the "15+ years" headline claim). Use them selectively for hospitality, food & beverage, live-events, or music-industry-adjacent applications (e.g., they directly narrow the "no hospitality experience" gap flagged in the Four Seasons Lanai match report), not blended into the core marketing-ops narrative — mixing them in dilutes the primary positioning rather than strengthening it.
+
+---
+
+## Employer Status Notes (current as of Aug 2026, for interview prep / reference accuracy)
+
+- **Fivestars** — acquired by SumUp; the product now operates as **SumUp Connect** (SumUp's loyalty program). If an interviewer asks "does Fivestars still exist," the accurate answer is that it was folded into SumUp's product line, not shut down.
+- **Standing Akimbo** — still operating, a Colorado cannabis dispensary chain (medical patients only; locations in Denver, Colorado Springs, Fort Collins, Garden City, Brighton, Lakewood). A background check or reference call would find a live, active business.
+- **Fetch & Funnel** — still operating, a Boston-based performance marketing agency working with $1M–$20M revenue brands and up to $200M+ in managed ad spend.
+- **Senior Directory** — still operating, a senior-care services directory site (70+ service categories, 50+ U.S. cities).
 
 ---
 
@@ -198,6 +218,45 @@ operator talking, not like a candidate performing.
 - Built compliance and customer-management systems from scratch in a highly regulated startup environment.
 - Developed early operational infrastructure — intake processes and reporting systems — scaling the business to profitability.
 - Built customer service, vendor, and supplier workflows from the ground up.
+
+### Domenic's Bistro & Wine Bar — Kitchen Manager (2007 – 2009)
+> **DRAFT — confirm/edit before use.** Written from a generic kitchen-manager description; Josh should correct or add real specifics (staff size managed, volume, any metrics) before this goes on a resume.
+- Managed kitchen operations for a full-service restaurant, overseeing staff, food safety/health-code compliance, and service execution during live service.
+- Handled inventory and vendor ordering to keep the kitchen stocked against demand.
+
+### Head for the Hills (touring band) — Roadie (2005 – 2009)
+> **DRAFT — confirm/edit before use.**
+- Handled load-in/load-out, gear setup, and touring logistics for a regionally touring bluegrass band, working under fixed show-time deadlines.
+
+### The Mishawaka — Cook / Music Promoter, seasonal (Summers, ~2005–2009)
+> **DRAFT — confirm/edit before use.**
+- Worked kitchen service and supported concert/event promotion at a riverside amphitheater and restaurant venue.
+
+### Watercourse — Cook (~2009 – ~2011)
+> **DRAFT — confirm/edit before use. Dates approximate.**
+- Worked line-cook service at a Denver restaurant following the Mishawaka/Domenic's period.
+
+### Crown Pub — Line Cook ("a couple years" in college)
+> **DRAFT — confirm/edit before use. Dates approximate, overlapping the Mugs/roadie era.**
+- Worked line-cook service at a Fort Collins pub during college.
+
+### Mugs Coffee Lounge — Cook / Barista (~2004 – ~2007)
+> **DRAFT — confirm/edit before use. Dates approximate.**
+- Worked cook/barista shifts at a Fort Collins coffee house at the start of college.
+
+### Starbucks — Barista (~2001 – 2004)
+> **DRAFT — confirm/edit before use. Dates approximate.**
+- Worked barista shifts for three years, high school into the start of college.
+
+### Chauffeur, Mercedes car service (name TBD) — Chauffeur (pre-rideshare-boom, dates TBD)
+> **DRAFT — confirm/edit before use.**
+- Drove as a professional chauffeur for a Mercedes car service, prior to the Uber/Lyft rideshare boom.
+
+### Uber / Lyft — Rideshare Driver (dates TBD, post-rideshare-boom)
+> **DRAFT — confirm/edit before use.**
+- Drove for Uber and Lyft as a rideshare driver.
+
+**Why these are here:** not for the core MarTech narrative, they're a selective asset for hospitality, food & beverage, live-events, or music-industry-adjacent applications — most directly, they narrow the "no hospitality experience" gap flagged in the Four Seasons Lanai match report (was the single biggest named gap there). The chauffeur and Uber/Lyft driving history is also a direct, concrete answer to the Storage Asset Management match report's unconfirmed "valid driver's license" knockout question — this establishes real, extended driving history, not just a license on paper.
 
 ---
 
