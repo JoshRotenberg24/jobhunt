@@ -1,0 +1,172 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Revenue & Marketing Operations Leader",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Revenue and marketing operations leader with 15+ years building the GTM systems, CRM architecture, and automation infrastructure that let growth-stage companies scale without adding headcount. Built and deployed 20+ GoHighLevel automation workflows and an AI-driven prospect-audit system that enrolled 180+ contacts; at Wix, supported an e-commerce portfolio that grew website traffic 30% and conversion rates 25%. Hands-on across HubSpot, Salesforce, GoHighLevel, and the broader martech stack, translating ambiguous business goals into CRM architecture and reporting frameworks non-technical teams can run.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect end-to-end GTM systems for B2B service clients — CRM architecture, lifecycle stage design, lead scoring/routing, and HubSpot/GoHighLevel-Salesforce integration — replacing manual processes with infrastructure that scales without added headcount.",
+        "Architected and deployed 20+ GoHighLevel automation workflows spanning lead capture/routing, qualification, appointment booking, no-show recovery, onboarding nurture, reactivation, and review generation.",
+        "Designed an AI-driven prospect-audit workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized outreach; translate non-technical stakeholder intent into precise agent prompts and logic.",
+        "Deliver executive-facing revenue dashboards and attribution reporting (GA4 + CRM analytics) giving founders first-time visibility into pipeline performance and campaign ROI, while owning discovery/onboarding for the client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing campaigns across SEO, paid media, and content, coordinating cross-functional teams to ensure consistent execution.",
+        "Built campaign reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, translating results into optimization recommendations and QBRs.",
+        "Produced landing pages, email sequences, and conversion-focused copy supporting lead generation and pipeline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention) during tenure.",
+        "Designed partner onboarding sequences and communication automation that reduced onboarding friction and accelerated platform utilization.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K each (several exceeding $25K), for roughly $130K+ in total bookings.",
+        "Ran client accounts end to end at a performance-marketing agency, covering campaign execution, reporting, and cross-team communication.",
+        "Built and refined internal process documentation that reduced handoff errors and improved alignment between marketing, creative, and client teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Led onboarding and launch operations as team lead, developing repeatable processes for new client activation and reducing time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, while quota roughly doubled over the period.",
+        "Averaged ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue, consistently performing above commission floor into accelerator tiers.",
+        "Sold and scoped professional services automation software to agencies and professional-services firms, closing deals of $20K+ later in tenure and advising C-suite stakeholders on CRM adoption."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing-automation platform targeting SMB retailers and restaurants, building the consultative approach to retention and technology adoption that carried into later SaaS roles."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads for regional sales representatives, building the outreach and pipeline fundamentals that carried into later SaaS account-executive roles."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance, customer-management, and reporting systems from scratch in a highly regulated startup environment, scaling the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "GTM & CRM Systems",
+      "items": [
+        "CRM Architecture",
+        "Lifecycle Stage Design",
+        "Lead Routing & Scoring",
+        "Pipeline Management",
+        "HubSpot-Salesforce Integration"
+      ]
+    },
+    {
+      "category": "Marketing Automation & AI",
+      "items": [
+        "Custom Workflow Design",
+        "Nurture & Lifecycle Sequences",
+        "Agentic AI / LLM Workflows",
+        "Prompt Design",
+        "Rapid Prototyping"
+      ]
+    },
+    {
+      "category": "Revenue Operations & Analytics",
+      "items": [
+        "Attribution Modeling",
+        "Pipeline Reporting",
+        "ROI / CAC / LTV",
+        "GA4",
+        "KPI Dashboards",
+        "QBRs"
+      ]
+    },
+    {
+      "category": "Growth & Demand Generation",
+      "items": [
+        "Full-Funnel Acquisition",
+        "SEO",
+        "Paid Media",
+        "Email Marketing",
+        "Landing Pages",
+        "CRO"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "GoHighLevel",
+        "HubSpot",
+        "Salesforce",
+        "Clay",
+        "Salesloft",
+        "Chili Piper",
+        "ZoomInfo",
+        "Zapier"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
