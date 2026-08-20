@@ -46,6 +46,8 @@
 
 > **CRM breadth (added Aug 2026, confirmed by Josh):** hands-on pipeline experience spans HubSpot (Level Agency, Fetch & Funnel, Senior Directory), Salesforce (Birdeye, Wix, Fivestars), GoHighLevel (Solenzo, primary), and Accelo's own proprietary CRM/PSA product (sold and implemented, not just used). This was missing from earlier versions of this profile, which underrepresented HubSpot/Salesforce depth in favor of the GoHighLevel-primary framing from Solenzo. Use the specific platform per role when tailoring to a JD that names a CRM.
 
+> **Quote & proposal experience (added Aug 2026, confirmed by Josh):** as an AE at Accelo, Wix, Birdeye, and Level Agency, built quotes and detailed proposals outlining exactly what a client would receive. Real, evidenced skill: knowing what a client needs to see to believe it, then backing it up with specifics that make it credible. Use this for any JD asking about bid, quote, or proposal work instead of flagging it as a gap.
+
 ---
 
 ## Writing Standards (apply to every bullet in this file and every rendered resume)
