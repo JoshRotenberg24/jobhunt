@@ -1,0 +1,107 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Program & Data Administration | Constituent Support",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Program administration and coordination professional with 15+ years maintaining accurate records and tracking across CRM systems including Salesforce, supporting clients and partners over email, and coordinating schedules, meetings, and onboarding across cross-functional teams. Onboarded and managed 15-20 partners at roughly 94% retention while keeping every interaction documented and auditable, and onboarded 25+ clients per month at Wix against tracked implementation targets. Detail-oriented, service-minded, and comfortable supporting distributed audiences across time zones. Remote (US), Denver Metro based.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Document every client interaction, timeline, and deliverable in CRM (GoHighLevel, HubSpot) and Notion, keeping records accurate, consistent, and auditable across concurrent engagements.",
+        "Maintain tracking documents and reporting on a regular cadence, surfacing outstanding items and following up to keep deliverables and deadlines on schedule.",
+        "Own the primary relationship for a portfolio of service-based businesses, responding to day-to-day support requests and guiding clients through onboarding and offboarding.",
+        "Architect and maintain CRM systems with contact segmentation, lifecycle stages, and strict data-hygiene protocols that protect record accuracy.",
+        "Lead end-to-end onboarding for new technology stacks, translating requirements into working configurations and providing hands-on training to non-technical stakeholders."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built reporting frameworks that tracked KPIs and delivered clear recommendations in structured quarterly reviews.",
+        "Coordinated execution across internal departments as the strategic lead on integrated program work.",
+        "Managed multi-stakeholder accounts, translating performance data into clear priorities for clients and internal teams.",
+        "Resolved client feedback promptly and professionally to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Monitored and responded to a high-volume partner network's questions and support requests, driving rapid adoption of new tools and processes.",
+        "Onboarded and managed 15-20 reseller partners, retaining roughly 94% of the portfolio during tenure.",
+        "Developed scalable communication workflows and automated training sequences that reduced onboarding friction.",
+        "Guided partners through technical setup and configuration, coordinating with Product and Engineering on high-priority feedback.",
+        "Analyzed partner utilization and performance data to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, maintaining account records in Salesforce and holding 110% of implementation targets.",
+        "Managed and developed a team of onboarding specialists, overseeing scope, schedules, and delivery for a high-value client portfolio.",
+        "Coordinated onboarding and launch as team lead and primary point of contact, delivering launches on time and keeping stakeholders updated.",
+        "Drove process improvements for a brand-new vertical from proof of concept to a profitable line, contributing to hiring, onboarding, and training of new team members."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients and handed them to the implementation team to execute against.",
+        "Guided client onboarding, workflow design, and setup, maintaining accurate documentation and troubleshooting during configuration.",
+        "Coordinated onboarding alongside implementation teams and escalated issues to leadership early to mitigate account-level risk."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Booked and coordinated appointments for regional representatives, maintaining a steady schedule of meetings.",
+        "Maintained pipeline records and consistent follow-up, building the outreach and tracking fundamentals that carried into later roles."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built customer-management, intake, and reporting systems from scratch in a highly regulated environment, scaling the business to profitability.",
+        "Developed customer service, vendor, and supplier workflows from the ground up, keeping records accurate and compliant."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Program & Data Administration", "items": ["Records Management", "Data Entry & Hygiene", "Tracking Spreadsheets & Reporting", "Documentation & SOPs", "Deadline & Follow-up Tracking"]},
+    {"category": "CRM & Systems", "items": ["Salesforce", "HubSpot", "GoHighLevel", "Notion", "Zendesk"]},
+    {"category": "Constituent & Customer Support", "items": ["Email-based Support", "Onboarding & Offboarding", "Application Processing", "Service Orientation", "Professional Communication"]},
+    {"category": "Coordination & Collaboration", "items": ["Meeting Scheduling", "Agendas & Minutes", "Cross-functional Coordination", "Google Workspace", "Slack", "Asana", "Monday.com"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
