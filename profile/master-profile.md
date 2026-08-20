@@ -32,17 +32,19 @@
 
 ## Work History (employers, titles, dates — fixed facts)
 
-| Employer | Title | Location | Dates |
-| :--- | :--- | :--- | :--- |
-| Solenzo LLC | Founder & Strategic / Marketing Operations Lead | Arvada, CO (Remote) | Feb 2024 – Present |
-| Level Agency | Account Executive / Client Strategist | Remote | Sep 2024 – Feb 2025 |
-| Birdeye | Channel Partnerships & Customer Onboarding | Remote | Feb 2023 – Apr 2024 |
-| Fetch & Funnel | Account Executive / Sales Operations | Remote | Sep 2022 – Feb 2023 |
-| Wix.com | Account Manager, Onboarding Launch Specialist & Team Lead | Remote | Aug 2020 – Aug 2022 |
-| Accelo | Account Executive | Denver, CO | Apr 2018 – Jul 2020 |
-| Fivestars | Account Executive | Denver, CO | 2017 – 2018 |
-| Senior Directory | Business Development Representative | Denver, CO | 2012 – 2016 |
-| Standing Akimbo | Co-Owner / Operations Lead | Denver, CO | Jun 2010 – Sep 2012 |
+| Employer | Title | Location | Dates | Primary CRM |
+| :--- | :--- | :--- | :--- | :--- |
+| Solenzo LLC | Founder & Strategic / Marketing Operations Lead | Arvada, CO (Remote) | Feb 2024 – Present | GoHighLevel (primary), HubSpot |
+| Level Agency | Account Executive / Client Strategist | Remote | Sep 2024 – Feb 2025 | HubSpot |
+| Birdeye | Channel Partnerships & Customer Onboarding | Remote | Feb 2023 – Apr 2024 | Salesforce |
+| Fetch & Funnel | Account Executive / Sales Operations | Remote | Sep 2022 – Feb 2023 | HubSpot |
+| Wix.com | Account Manager, Onboarding Launch Specialist & Team Lead | Remote | Aug 2020 – Aug 2022 | Salesforce |
+| Accelo | Account Executive | Denver, CO | Apr 2018 – Jul 2020 | Accelo (proprietary CRM/PSA platform, the product itself) |
+| Fivestars | Account Executive | Denver, CO | 2017 – 2018 | Salesforce |
+| Senior Directory | Business Development Representative | Denver, CO | 2012 – 2016 | HubSpot |
+| Standing Akimbo | Co-Owner / Operations Lead | Denver, CO | Jun 2010 – Sep 2012 | — (pre-dates role's CRM use) |
+
+> **CRM breadth (added Aug 2026, confirmed by Josh):** hands-on pipeline experience spans HubSpot (Level Agency, Fetch & Funnel, Senior Directory), Salesforce (Birdeye, Wix, Fivestars), GoHighLevel (Solenzo, primary), and Accelo's own proprietary CRM/PSA product (sold and implemented, not just used). This was missing from earlier versions of this profile, which underrepresented HubSpot/Salesforce depth in favor of the GoHighLevel-primary framing from Solenzo. Use the specific platform per role when tailoring to a JD that names a CRM.
 
 ---
 
