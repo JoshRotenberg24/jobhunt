@@ -1,0 +1,119 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Partnerships & Business Development | Account Growth",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Full-cycle sales and partnerships professional with 15+ years prospecting new business, converting relationships into ongoing accounts, and growing them past quota. Ranked top three of 8-15 reps at Accelo while quota roughly doubled, held 120% of sales targets at Wix, and retained roughly 94% of a 15-20 partner book at Birdeye. Consultative relationship-builder fluent in HubSpot and Salesforce, comfortable owning a territory in a fast-growth, autonomous environment. Denver Metro based.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary relationship for a portfolio of service-based businesses, running discovery and onboarding to surface goals and expand engagement scope.",
+        "Identify strategic opportunities to grow accounts, recommending and scoping complementary services aligned with each client's objectives.",
+        "Align programs to revenue objectives directly with business owners, producing consistent messaging and qualified lead flow.",
+        "Document every client interaction, timeline, and deliverable in HubSpot and GoHighLevel, keeping account activity accurate and current.",
+        "Report performance on a regular cadence with actionable recommendations that drive adoption and retention."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts as strategic lead, translating performance data into clear priorities and growth recommendations.",
+        "Built reporting frameworks tracking ROI, CAC, and conversion KPIs, delivering optimization recommendations in quarterly business reviews.",
+        "Maintained account activity and pipeline in HubSpot, coordinating execution across internal departments.",
+        "Resolved client feedback promptly to protect satisfaction and retention across implementations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention) during tenure.",
+        "Built and strengthened partner relationships, advising on retention strategy, customer health, and workflows that grew adoption.",
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid product adoption.",
+        "Analyzed partner utilization and performance data to identify growth gaps and recommend interventions that reduced churn.",
+        "Collaborated with Product and Engineering to channel high-priority partner feedback into the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K each (several exceeding $25K), roughly $130K+ in total bookings.",
+        "Ran client accounts end to end, covering prospecting, execution, performance reporting, and cross-team communication.",
+        "Built and refined internal processes that improved reporting accuracy and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Held 120% of sales targets and 110% of implementation targets while onboarding and launching 25+ clients per month.",
+        "Managed a high-value account portfolio across diverse verticals, tracking activity in Salesforce and growing client outcomes.",
+        "Led growth consultations aligning strategy and best practices, contributing to a 30% increase in website traffic and 25% lift in conversion across the e-commerce segment.",
+        "Drove a new vertical from proof of concept to a profitable line, contributing to hiring, onboarding, and training of new reps."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8-15 reps for effectively the full tenure, sustained while quota roughly doubled.",
+        "Prospected, sold, and scoped complex software to agencies and professional-services firms, closing deals of $20K and larger later in tenure.",
+        "Built C-suite relationships as a consultative advisor on operational systems, guiding onboarding, workflow design, and integrations.",
+        "Consistently performed above commission floor into accelerator tiers, averaging ~$17,750/month in services bookings (~$213K annualized) plus new recurring revenue."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for an SMB loyalty and marketing platform, from high-volume prospecting through qualification and close.",
+        "Built the consultative approach to customer retention and technology adoption that carried into later SaaS roles."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads in HubSpot, booking appointments for regional representatives and maintaining a steady flow of sales-ready meetings.",
+        "Built the outreach, qualification, and pipeline fundamentals that carried into later Account Executive roles."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Sales & Business Development", "items": ["Full-cycle Sales", "New-Business Prospecting", "Territory Ownership", "Quota Attainment", "Account Growth & Expansion", "Consultative Selling"]},
+    {"category": "Relationships & Partnerships", "items": ["Channel Partnerships", "C-Suite Relationship Building", "Stakeholder Influence", "Retention & Renewal", "Onboarding & Enablement"]},
+    {"category": "CRM & Tools", "items": ["HubSpot", "Salesforce", "GoHighLevel", "Pipeline Management", "Account Activity Tracking", "Reporting & QBRs"]},
+    {"category": "Ways of Working", "items": ["Fast-growth Startup Environments", "Autonomous Territory Management", "Cross-functional Collaboration", "Denver Metro Based"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
