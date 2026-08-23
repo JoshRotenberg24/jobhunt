@@ -20,29 +20,34 @@ See `fit.png` for the score meter.
 | Differentiators / nice-to-haves | 4 | 15 |
 | Evidence strength | 7 | 15 |
 
-**Band: Long shot (40–59).** No hard knockout. Below the 60 threshold — no resume or cover letter built per instructions.
+**Band: Long shot (40–59).** No hard knockout — the score is held down by seniority/comp mismatch, not a skills gap.
 
-## Why the score lands where it does
+## Update: applying anyway
 
-This is explicitly a **junior/entry-level role** ("Bachelor's degree and less than 2 years of experience, or 4 years of experience with no degree"). Josh clears the listed skill requirements without much trouble (Google Ads exposure via Solenzo, Salesforce experience, client reporting), but the **seniority mismatch runs sharply backward** — 15+ years of experience against a role sized for someone with under 2. This isn't a stretch upward; it's a downgrade in both scope and comp ($50K-$76K vs. his target range), and most hiring managers would flag him as overqualified and a flight risk rather than see it as a plus.
+Josh has decided to apply despite the seniority/comp mismatch. **Resume and cover letter built below**, deliberately positioned to lead with hands-on execution work rather than leadership scope, since that's what this role actually screens for.
 
-## Top strengths (if applying anyway)
+## Why the score is low (context, not a blocker)
 
-- Google Ads / paid-search exposure (optimized a Solenzo client's account).
-- Salesforce familiarity and client-reporting/consultation experience.
+This is an entry-level role ("less than 2 years of experience, or 4 years with no degree"). Josh's real skill set clears every listed requirement — Google Ads, GA4, Salesforce, client reporting and consultation — but at 15+ years of experience, he's well outside the seniority band the role is written for, and the comp ($50K–76K) sits well below his prior roles. That combination is what makes this a "long shot" on paper, not a missing skill.
+
+## Tailoring approach
+
+The resume leans on the most hands-on, individually-executed bullets across his history (Google Ads optimization, SEO audits, keyword research, GA4 tracking, Salesforce documentation) and keeps leadership/team-management bullets to a minimum, since those work against the target level here rather than for it. The cover letter focuses entirely on genuine enthusiasm for hands-on account work — no mention of the comp step-down or overqualification, which is best left unaddressed rather than raised.
+
+## Top strengths
+
+- Google Ads optimization experience, even if from a single client engagement, is directly relevant.
+- Strong, evidenced client-reporting and consultation habit across multiple roles.
+- Salesforce documentation experience matches the "audit trail" requirement directly.
 
 ## Top gaps
 
-- No deep, hands-on paid-social (Meta) or programmatic/video advertising specialist experience.
-- Automotive-dealer vertical is unfamiliar.
-- The real gap isn't skill — it's fit-for-level. Applying here works against, not for, his job search.
-
-## Recommendation
-
-Skip. Even where skills clear the bar, this role represents a step backward in scope and comp that doesn't serve the goal of the search. Not worth the tailoring effort.
+- No deep, dedicated paid-social (Meta) specialist experience.
+- Automotive-dealer vertical is new.
 
 ## Output files
 
+- `resume.pdf` / `resume.docx` — tailored resume (modern style), 2 pages, balanced (fill 0.62)
+- `cover-letter.pdf` / `cover-letter.docx` — 1 page
 - `fit.json` / `fit.png` — Fit Score meter
 - `match-report.md` — this file
-- No resume or cover letter (score below the 60 threshold)
