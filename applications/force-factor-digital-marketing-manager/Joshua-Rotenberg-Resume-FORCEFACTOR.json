@@ -1,0 +1,109 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Performance Marketing Manager",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Performance marketing professional with 15+ years driving campaign strategy, budget accountability, and structured testing across agency and SaaS environments. Built ROI/CAC/LTV reporting frameworks and ran regular experimentation and optimization cycles on paid search and CRM-driven channels, diagnosing performance shifts and translating findings into clear, actionable recommendations for stakeholders and leadership.",
+  "experience": [
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs to leadership.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content as strategic lead, coordinating execution and analysis across internal departments.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Translated performance data into strategic recommendations for multi-stakeholder accounts across marketing and technology channels."
+      ]
+    },
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Design self-improving loops and evaluation frameworks to monitor campaign outputs, separating signal from noise and continuously optimizing conversion rates.",
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click-through quality, then diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to business owners on a regular cadence.",
+        "Conduct competitor research and keyword-gap analyses, translating findings into campaign and content recommendations."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data at a performance marketing agency, translating results into optimization recommendations across paid media and creative.",
+        "Built and refined internal reporting processes that improved accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Analyzed partner utilization and performance metrics across a reseller portfolio to identify the true drivers behind adoption gaps and recommend interventions.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (roughly 94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Consistently performed above commission floor into accelerator tiers, averaging ~$17,750/month in implementation bookings (~$213K annualized) plus new recurring revenue.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled over the period."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for a consumer loyalty and marketing automation platform targeting SMBs, from prospecting through customer acquisition."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Performance Marketing",
+      "items": ["Campaign Strategy", "A/B Testing & Experimentation", "Paid Search (Google Ads)", "Budget & Scope Management", "ROI/CAC/LTV Analysis"]
+    },
+    {
+      "category": "Analytics",
+      "items": ["GA4", "Campaign Attribution", "Competitive Research", "Dashboard Reporting", "Data-Driven Recommendations"]
+    },
+    {
+      "category": "Communication",
+      "items": ["Executive Presentations", "QBRs", "Cross-Team Coordination", "Stakeholder Translation"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Google Ads", "GA4", "Google Search Console", "Ahrefs", "Semrush"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
