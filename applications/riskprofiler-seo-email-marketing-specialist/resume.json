@@ -1,0 +1,94 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SEO & Content Marketing Specialist | Technical Audits, Analytics & Growth",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Hands-on SEO and content marketer comfortable owning the full function solo in a lean, fast-moving startup - technical audits, keyword research, on-page optimization, and analytics using GA4, Search Console, SEMrush, and Ahrefs. Currently running SEO and content strategy for my own B2B client base as founder of Solenzo, including full-funnel content creation, landing pages, and link-building-adjacent outreach campaigns. Comfortable stepping into a founding-team role and building a function from the ground up.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research, implementing fixes directly inside client CMS platforms.",
+        "Optimized a client's Google Ads account - cut spam/low-quality leads and improved click-through quality - and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.",
+        "Track acquisition and retention using GA4 and CRM analytics, delivering reporting that drives experimentation and growth.",
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Built segmented outreach campaigns and an automated prospect 'audit' workflow that enrolled 180+ contacts based on scored digital-footprint signals.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across marketing and operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Produced high-converting campaign assets - landing pages, email sequences, conversion-focused copy - improving lead generation and pipeline.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Developed scalable communication workflows and automated content sequences that reduced onboarding friction across a 15-20 partner portfolio.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend content and outreach interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Built and refined internal processes that improved reporting accuracy and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement and pipeline automation.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled.",
+        "Guided client onboarding, workflow design, and API integrations, troubleshooting technical challenges during setup."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "SEO", "items": ["Technical SEO Audits", "Keyword Research", "On-Page & Off-Page Optimization", "Competitor Analysis"]},
+    {"category": "Analytics", "items": ["GA4", "Google Search Console", "SEMrush", "Ahrefs"]},
+    {"category": "Content & Growth", "items": ["Content Planning", "Landing Pages", "Email Marketing", "Direct-Response Copy"]},
+    {"category": "Startup Operating Style", "items": ["Solo Function Ownership", "Cross-Functional Collaboration", "Independent Execution", "Analytical Problem-Solving"]}
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"]
+}
