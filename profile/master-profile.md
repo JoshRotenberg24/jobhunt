@@ -129,6 +129,7 @@ operator talking, not like a candidate performing.
 - Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
 - Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
+- Build reusable, boilerplate marketing assets and messaging frameworks as needed for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.
 
 **Operations & Technical Setup**
 - Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and strict data-hygiene protocols.
@@ -153,8 +154,9 @@ operator talking, not like a candidate performing.
 - Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.
 
 ### Birdeye — Channel Partnerships & Customer Onboarding (Feb 2023 – Apr 2024)
+> **Partner vertical breadth (added Aug 2026, confirmed by Josh):** the 15-20 reseller partners spanned a variety of verticals, including health, home services, and retail — not a single-industry book. Useful evidence of cross-vertical partner-network management, but not a dedicated multi-year home-services/trade-contractor tenure; represent it as "including home services" rather than as home-services specialization.
 - Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.
-- Onboarded and managed **15–20 reseller partners** (deal sizes ~$10K–$45K), **retaining all but one (~94% retention)** during tenure.
+- Onboarded and managed **15–20 reseller partners** (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), **retaining all but one (~94% retention)** during tenure.
 - Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.
 - Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.
 - Guided customers through complex technical setup and configuration of reputation and marketing automation tools.

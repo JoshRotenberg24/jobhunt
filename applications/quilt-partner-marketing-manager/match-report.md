@@ -6,44 +6,55 @@
 ## Fit Score
 
 ```
-🟡 Fit Score: 42 / 100 — Long shot
-[████████░░░░░░░░░░░░]  42%
+🔵 Fit Score: 61 / 100 — Solid stretch
+[████████████░░░░░░░░]  61%
 ```
 
-See `fit.png` for the score meter.
+See `fit.png` for the score meter. **Revised upward from an initial 42 ("Long shot")** after Josh clarified real domain experience the profile hadn't captured yet.
 
 | Dimension | Score | Max |
 | :--- | :--- | :--- |
-| Must-have requirements met | 16 | 40 |
+| Must-have requirements met | 25 | 40 |
 | Seniority & scope alignment | 11 | 15 |
-| Domain / industry alignment | 2 | 15 |
-| Differentiators / nice-to-haves | 6 | 15 |
-| Evidence strength | 7 | 15 |
+| Domain / industry alignment | 9 | 15 |
+| Differentiators / nice-to-haves | 7 | 15 |
+| Evidence strength | 9 | 15 |
 
-**Band: Long shot (40–59).** No hard knockout, but one explicit, named required qualification is unmet. Below the 60 threshold — no resume or cover letter built per instructions.
+**Band: Solid stretch (60–79).** No hard knockout.
 
-## Why the score lands where it does
+## What changed from the first pass
 
-The JD states plainly: **"5-8 years of marketing experience, with a few years in HVAC, home services, or a related trade/contractor-facing industry (required)."** Josh's profile doesn't document experience in HVAC, home services, or trade/contractor marketing specifically — his Solenzo clients are described only generally as "service-based businesses," with no vertical named. That's the single biggest reason this scores where it does; it's called out as required, not preferred.
+The original score treated "5-8 years of marketing experience, with a few years in HVAC, home services, or a related trade/contractor-facing industry (required)" as almost entirely unmet. Josh clarified two things the master profile hadn't captured:
 
-Everything else about the role shape is a strong match: this is a solo-IC, build-and-run generalist role (campaign management, channel ownership, program marketing, "comfortable operating without a team underneath them") — which is exactly how Josh operates at Solenzo.
+1. **The 15-20 reseller partners he managed at Birdeye spanned a variety of verticals, including health, home services, and retail** — not a single industry. This is genuine, if partial, home-services exposure (now added to `profile/master-profile.md`).
+2. **He builds reusable, boilerplate marketing assets for Solenzo clients as standard practice** — a direct match for Quilt's "library of partner-ready marketing assets" ask (also added to the profile).
+
+More importantly, the **role shape itself turned out to be a much closer match than the initial read gave credit for**: Quilt's core loop — onboarding and training a certified partner network, building enablement assets, driving partner engagement and product adoption — is structurally almost identical to what Josh actually did at Birdeye, just with a different platform (reputation management vs. HVAC hardware) behind it.
+
+## Keyword coverage
+
+Matched: partner network onboarding/training, enablement content, retention strategy, revenue-connected reporting, independent-contributor generalist execution, boilerplate/template asset systems.
+
+Not fully matched: dedicated multi-year HVAC/trade-contractor tenure (his home-services exposure is real but partial, mixed with other verticals over roughly 14 months) — this is named plainly in the cover letter rather than overstated.
 
 ## Top strengths
 
-- **Role shape is a near-perfect match.** Independent-contributor generalist marketing, moving between campaign management and channel ownership without a specialist team — this is literally the Solenzo operating model.
-- Track record connecting marketing activity to downstream revenue metrics (leads, pipeline) is genuine and evidenced.
+- **Structural match on the core job**: partner-network onboarding, training, and retention (Birdeye) is Quilt's job description almost verbatim, applied to a different product.
+- Genuine home-services vertical exposure, honestly scoped (not exclusive, but real).
+- Boilerplate/template asset-building at Solenzo matches the "library of partner-ready marketing assets" ask directly.
 
 ## Top gaps
 
-- **No HVAC/home-services/trade-contractor marketing experience** — the named required qualification.
-- No evidenced Facebook-group community management or YouTube/Instagram partner-channel ownership.
+- No dedicated, exclusive HVAC/trade-contractor tenure — named honestly in the cover letter.
+- No evidenced Facebook-group community management or YouTube/Instagram partner-channel ownership specifically.
 
 ## Recommendation
 
-Worth a direct question to Josh before deciding: **do any of his Solenzo clients operate in home services, HVAC, or a related trade/contractor space?** If yes, this score should be revisited upward and a resume built — the rest of the role is an excellent match. If no, this is a long shot best skipped in favor of higher-scoring roles.
+Apply. The domain gap is real but partial, and the role-shape match (partner network management, training, enablement) is strong enough to outweigh it.
 
 ## Output files
 
+- `resume.pdf` / `resume.docx` — tailored resume (modern style), 2 pages, balanced (fill 0.66)
+- `cover-letter.pdf` / `cover-letter.docx` — 1 page
 - `fit.json` / `fit.png` — Fit Score meter
 - `match-report.md` — this file
-- No resume or cover letter (score below the 60 threshold)
