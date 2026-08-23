@@ -1,0 +1,99 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Technology Solutions Analyst",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technology solutions professional with 15+ years configuring, troubleshooting, and optimizing CRM and marketing-automation systems (GoHighLevel, HubSpot, Salesforce) for B2B clients, serving as the primary point of contact between business users, internal teams, and technical vendors. Deep hands-on experience with AI-driven automation and natural-language prompting, translating non-technical stakeholders' requirements into precise system configurations and workflows that hold up in production.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Configure and troubleshoot CRM and automation systems (GoHighLevel, HubSpot) for B2B clients, resolving setup issues and serving as the primary point of contact for technical problems.",
+        "Translate non-technical stakeholders' requirements into precise, structured system configurations and AI prompts, bridging business intent and technical execution.",
+        "Architect and deploy a complete GoHighLevel automation system spanning 20+ workflows, applying natural-language prompting and AI-assisted logic to automate lead qualification, routing, and follow-up.",
+        "Design self-improving evaluation frameworks to monitor automated system outputs, catching drift and configuration issues before they affect end users.",
+        "Document system configurations, workflows, and client interactions in GoHighLevel, HubSpot, and Notion, keeping records auditable across concurrent implementations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of marketing-automation and reputation-management tools, serving as the point of contact between business users and the vendor's Product and Engineering teams.",
+        "Collaborated with Product and Engineering to share structured, high-priority feedback informing platform improvements.",
+        "Developed scalable communication workflows and automated training sequences that reduced onboarding friction and support burden."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, then handed them to the implementation team to execute.",
+        "Guided client onboarding, workflow design, and API integrations, resolving technical challenges during setup.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists, overseeing technical configuration, budgets, scope, and delivery for a high-value client portfolio.",
+        "Led onboarding and launch operations as primary technical contact, delivering configurations on time and accelerating time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies as strategic lead, coordinating execution and analysis across internal departments and external partners.",
+        "Held delivery quality consistent across implementations, resolving issues promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering implementation, reporting, and cross-team communication.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Systems Configuration & Support",
+      "items": ["Platform Configuration", "Troubleshooting", "Vendor & Stakeholder Liaison", "Workflow Automation", "Technical Documentation"]
+    },
+    {
+      "category": "AI & Automation",
+      "items": ["AI-Driven Workflow Automation", "Natural-Language Prompting", "AI-Assisted Process Design", "Agentic Systems"]
+    },
+    {
+      "category": "Collaboration",
+      "items": ["Cross-Functional Coordination", "Business Requirements Translation", "User Support & Training"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Notion", "Google Apps"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
