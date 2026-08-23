@@ -1,0 +1,56 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Professional Driver",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Reliable, safety-conscious driver with current rideshare experience (Lyft) and prior part-time work with a private car service. Over a decade of client-facing professional experience, including running a small service business, reinforcing punctuality, clear communication, and comfort working independently with a wide range of people.",
+  "experience": [
+    {
+      "title": "Rideshare Driver",
+      "company": "Lyft",
+      "location": "Denver Metro, CO",
+      "dates": "Current",
+      "bullets": [
+        "Provide safe, reliable passenger transportation across the Denver metro area.",
+        "Maintain strong passenger ratings through punctuality, clear communication, and a clean, well-maintained vehicle.",
+        "Navigate varied routes and traffic conditions independently, adjusting to passenger needs and schedules."
+      ]
+    },
+    {
+      "title": "Driver",
+      "company": "Private Car Service",
+      "location": "Denver, CO",
+      "dates": "2010 - 2012 (Part-Time)",
+      "bullets": [
+        "Drove passengers on scheduled and on-demand trips for a local car service.",
+        "Handled client pickups and drop-offs professionally and on time."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built customer service, vendor, and supplier workflows from the ground up in a highly regulated startup environment.",
+        "Developed intake and reporting processes that scaled the business to profitability while maintaining consistent service quality."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Driving & Service",
+      "items": ["Safe Driving Record", "Punctuality", "Passenger Communication", "Independent Route Navigation", "Customer Service"]
+    },
+    {
+      "category": "Professional Background",
+      "items": ["15+ years client-facing account management and business operations experience (2012-Present)"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"]
+}
