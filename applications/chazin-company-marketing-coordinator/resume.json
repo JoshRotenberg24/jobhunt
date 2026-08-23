@@ -1,0 +1,103 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "B2B Email Marketing & HubSpot Automation Specialist",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "B2B marketing professional with 15+ years of experience and hands-on HubSpot fluency built across three roles - Level Agency, Fetch & Funnel, and Senior Directory. Specializes in email campaigns, automated lead-nurturing workflows, and content creation that moves prospects through the funnel, backed by rigorous performance tracking and analysis. Comfortable working close to the tools day to day: building the workflow, writing the copy, and reading the results.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Design and deploy automated lifecycle sequences, onboarding workflows, and lead-nurture campaigns that activate, nurture, and retain high-value contacts at scale.",
+        "Architected a complete marketing-automation system - 20+ workflows spanning lead capture/tagging, qualification, appointment booking with confirmation and reminders, no-show recovery, onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.",
+        "Built segmented email and outreach campaigns (website-visibility, missed-calls, and low-reviews) plus an automated audit workflow that enrolled 180+ contacts based on scored engagement signals.",
+        "Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Track acquisition and retention using GA4 and CRM analytics, delivering reporting that drives experimentation and growth.",
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research, implementing fixes directly inside client CMS platforms.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across marketing and operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets - landing pages, complex email sequences, conversion-focused copy - improving lead generation and pipeline.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, coordinating execution across internal departments.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end on HubSpot at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Built and refined internal processes that improved reporting accuracy and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Developed scalable communication workflows and automated product-training email sequences that reduced onboarding friction.",
+        "Onboarded and managed 15-20 reseller partners, retaining all but one (~94% retention) during tenure through consistent, value-driven communication."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads on HubSpot, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings.",
+        "Built the outreach, qualification, and pipeline fundamentals that carried into later B2B marketing and sales roles."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Email & Automation", "items": ["HubSpot", "Automated Lead-Nurturing Workflows", "Segmentation & Personalization", "A/B Testing"]},
+    {"category": "Content", "items": ["Email Copywriting", "Blog & Newsletter Content", "Direct-Response Copy", "Landing Pages"]},
+    {"category": "Analytics & Reporting", "items": ["Campaign KPI Tracking", "GA4", "ROI Reporting", "QBRs"]},
+    {"category": "B2B Marketing", "items": ["Lead Generation", "Pipeline Development", "Cross-Team Coordination", "CRM Data Hygiene"]}
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"]
+}

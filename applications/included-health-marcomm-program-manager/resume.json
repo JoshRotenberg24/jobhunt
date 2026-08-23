@@ -1,0 +1,92 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations Program Manager | Systems, Workflow & Cross-Functional Delivery",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations and systems builder with 15+ years bringing structure to fast-moving, cross-functional teams - process design, workflow documentation, and clean reporting that keeps distributed work visible and on track. Sold and implemented project-management/PSA software before building marketing operations systems myself, giving genuine fluency on both sides of the intake-to-delivery workflow. Comfortable as the connective tissue between teams: translating ambiguous requests into scoped, tracked work and keeping stakeholders informed without noise.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.",
+        "Design, implement, and optimize marketing automation and CRM systems for B2B service clients as a fractional operations/implementation manager, translating business requirements into structured, trackable workflows.",
+        "Build reusable process infrastructure and internal tooling integrating with client CRMs and CMS platforms, reducing reliance on ad hoc, tribal-knowledge handoffs.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured requirements and execution plans - acting as the bridge between business intent and delivered work.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations.",
+        "Build performance dashboards tracking lead generation, funnel progression, and campaign ROI, delivering structured, repeatable status updates to business-owner stakeholders."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, coordinating execution across internal departments as strategic lead.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction across a 15-20 partner portfolio.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management/PSA software to agencies and professional-services firms - the intake, workflow, and capacity-tracking systems this role is built around.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided client onboarding and workflow design, troubleshooting process gaps and resolving technical challenges during setup.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.",
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Program & Workflow Management", "items": ["Intake & Prioritization Systems", "SOP Development", "Process Mapping", "Capacity & Risk Tracking"]},
+    {"category": "Tools & Platforms", "items": ["Asana", "Notion", "HubSpot", "Salesforce", "GoHighLevel", "Slack", "Monday.com"]},
+    {"category": "Cross-Functional Coordination", "items": ["Stakeholder Reporting", "Requirements Translation", "QBRs", "Status Communication"]},
+    {"category": "Systems & Operations", "items": ["Workflow Automation", "Data Hygiene", "Change Management", "Technology Transformation Support"]}
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"]
+}

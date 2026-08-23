@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 23, 2026",
+  "company": "Dropbox",
+  "role": "Senior Account-Based Marketing Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "I'm applying for the Senior Account-Based Marketing Manager role because it asks for something I already do, just at a different scale: turning account and buyer signals into personalized, multi-channel campaigns, and using AI responsibly to get there faster without losing accuracy.",
+    "At Solenzo, the company I founded, I built a system that scores each prospect account's digital footprint and buyer signals, then triggers personalized outreach across email, landing pages, and forms based on what it finds - the same core logic ABM runs on, applied at SMB scale. I built the automation infrastructure underneath it myself: 20+ GoHighLevel workflows spanning capture, qualification, booking, and nurture, plus an audit workflow that scored and personalized outreach to 180+ contacts. Before I built marketing systems, I spent a decade as the Sales-side stakeholder these programs are built for - as an Account Executive at Accelo, Fivestars, and elsewhere - so I understand firsthand what makes a marketing-sourced account play worth a rep's time.",
+    "I know the leap from agency and small-business scale to Dropbox's enterprise motion is real, and I'd welcome the chance to talk through how the account-signal-scoring approach I've built translates to buying groups and higher-value accounts. Thank you for considering my application."
+  ],
+  "closing": "Sincerely,"
+}
