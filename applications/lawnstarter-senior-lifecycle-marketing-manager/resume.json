@@ -1,0 +1,91 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "AI-Native Lifecycle Marketer | Agentic Automation, Personalization & Monitoring",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Agentic operator and lifecycle marketing systems builder who writes the copy, builds the automation, and reads the results personally - no agency, no hand-off. Founder of Solenzo, where I architect AI-driven lifecycle systems that score engagement signals and trigger personalized email, SMS-style, and in-app-style sequences across the full customer journey: capture, qualification, booking and confirmation, no-show recovery, onboarding nurture, and long-term reactivation. I build the monitoring that catches a broken message before a customer does, and I've been translating loosely-formed business intent into precise automation logic since before it was called agentic AI.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and deploy autonomous, AI-driven marketing systems end to end - largely on GoHighLevel - automating lead enrichment, personalized outreach, and appointment booking without manual intervention.",
+        "Architected a complete lifecycle-automation system - 20+ workflows spanning lead capture/tagging/routing, qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.",
+        "Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach - personalization at a grain a human couldn't produce by hand.",
+        "Design self-improving monitoring loops and evaluation frameworks that catch broken or underperforming automation logic and continuously optimize conversion rates.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, then rapidly prototype and deploy the resulting automation myself.",
+        "Draft the direct-response copy, outreach sequences, and landing pages myself, then track results in GA4 and CRM analytics and use the data to keep iterating.",
+        "Built an automated prospect 'audit' workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger individually personalized outreach."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets - landing pages, multi-touch email sequences, conversion-focused copy - improving lead generation and pipeline.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, coordinating execution across internal departments."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Developed scalable, automated product-training and communication sequences that reduced onboarding friction across a 15-20 partner portfolio.",
+        "Advised partners on retention strategy and customer health metrics, equipping them to communicate product value through their own lifecycle messaging.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive, well-timed communication on client goals and initiatives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and workflow-automation software to agencies and professional-services firms, with deep fluency in triggered messaging and pipeline automation.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled.",
+        "Guided client onboarding, workflow design, and API integrations, troubleshooting technical issues during setup and staying with implementation teams until problems were actually resolved."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Built and refined internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "AI-Native Marketing", "items": ["Agentic AI Workflow Building", "Prompt & Agent-Logic Design", "AI-Assisted Personalization", "Rapid Prototyping"]},
+    {"category": "Lifecycle Marketing", "items": ["Segmentation & Triggered Journeys", "Onboarding, Nurture & Reactivation", "Transactional Messaging", "A/B Testing"]},
+    {"category": "Systems & Monitoring", "items": ["Automation QA & Error Catching", "GoHighLevel", "HubSpot", "CRM Data Hygiene"]},
+    {"category": "Copy & Analytics", "items": ["Direct-Response Copywriting", "GA4", "Conversion Rate Optimization", "Campaign Reporting"]}
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"]
+}

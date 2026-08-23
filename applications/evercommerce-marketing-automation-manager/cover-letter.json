@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 23, 2026",
+  "company": "EverCommerce",
+  "role": "Marketing Automation Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "I'm applying for the Marketing Automation Manager role because the day-to-day you describe - building and QA'ing lifecycle campaigns, keeping segmentation and attribution clean, and partnering with Growth, Sales, and Product to ship the right message at the right time - is what I've spent the last two and a half years doing hands-on for my own clients.",
+    "At Solenzo, the company I founded, I architected a complete marketing-automation system of 20+ workflows covering lead capture and routing, qualification, triggered booking, no-show recovery, onboarding nurture, and reactivation, all built with the same QA discipline this role calls for: I design monitoring loops specifically to catch broken logic before a customer ever sees it. I've built on GoHighLevel and HubSpot rather than Marketo, but the underlying skill set - segmentation, triggers, personalization, clean CRM data - transfers directly, and I pick up new automation platforms fast because I've had to: every client relationship starts with learning their existing stack. Earlier in my career, at Wix and Birdeye, I worked inside Salesforce-backed onboarding and partner programs, so I understand the CRM-MAP handoff from both the marketing and the account-management side.",
+    "I'd welcome the chance to talk through how that automation-building experience maps onto Marketo specifically. Thank you for considering my application."
+  ],
+  "closing": "Sincerely,"
+}

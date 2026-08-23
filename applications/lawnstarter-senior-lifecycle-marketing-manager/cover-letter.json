@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 23, 2026",
+  "company": "LawnStarter",
+  "role": "Senior Lifecycle Marketing Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "I'm applying for the Senior Lifecycle Marketing Manager role because you describe the job the way I actually work: no agency, no contractor pool, you write the message, build it, send it, and read the results yourself. That's been my daily reality at Solenzo, the company I founded, for the past two and a half years.",
+    "I've architected a complete lifecycle-automation system there - 20+ workflows spanning lead capture, qualification, triggered booking with confirmations and reminders, no-show recovery, onboarding nurture, and long-term reactivation - and I build every piece of it myself: the agent logic, the copy, the monitoring that catches a broken sequence before a customer notices. I break down manual marketing workflows into agent architectures that score a business's digital footprint and generate personalized outreach at a level of detail I couldn't produce by hand, which is the same problem you describe as the reason this role exists. I've never touched Braze specifically, but the discipline - segmentation, triggered logic, personalization, and the judgment to know what actually deserves automating - is the same skill regardless of platform, and I pick up new tools fast because every client relationship starts with learning their existing stack.",
+    "I'd welcome the chance to walk through what I've built and what it did. Thank you for considering my application."
+  ],
+  "closing": "Sincerely,"
+}
