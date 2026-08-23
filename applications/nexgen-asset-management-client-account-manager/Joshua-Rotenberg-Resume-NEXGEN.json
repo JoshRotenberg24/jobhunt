@@ -1,0 +1,114 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SaaS Client Account Manager",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client Account Manager with 15+ years as the primary point of contact for B2B SaaS clients, guiding technical setup, configuration, and troubleshooting while driving retention and account growth. Onboarded and launched 25+ clients per month at Wix (120% of sales targets, 110% of implementation targets); managed 15-20 reseller partners at Birdeye at roughly 94% retention. Comfortable translating complex software workflows into clear guidance for non-technical stakeholders, and pairing day-to-day account management with the KPI tracking, QBRs, and strategic account planning that keep clients renewing and growing.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of B2B clients on complex SaaS platforms, running discovery and onboarding to surface goals and drive them toward measurable outcomes.",
+        "Configure and troubleshoot CRM and automation systems (GoHighLevel, HubSpot) as clients' primary technical point of contact, resolving setup issues and guiding platform adoption.",
+        "Identify strategic opportunities to expand account scope, recommending and scoping complementary services aligned with client objectives.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, tracking client-level KPIs across platform adoption and account health.",
+        "Translate non-technical stakeholders' goals into precise system configurations and workflows, bridging business intent and technical execution.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping engagement records auditable across concurrent accounts."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content as strategic lead, coordinating execution across internal departments and client stakeholders.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI and conversion KPIs, delivering optimization recommendations and quarterly business reviews.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (roughly 94% retention) during tenure.",
+        "Guided customers through complex technical setup and configuration of reputation-management and marketing-automation tools as their primary point of contact.",
+        "Advised partners on retention strategy and customer health metrics, equipping them to communicate product value and adopt new features.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering onboarding, performance reporting, and cross-team communication.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.",
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K) - roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.",
+        "Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in workflow configuration and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled over the period."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Account Management",
+      "items": ["Client Retention & Account Growth", "Primary Point of Contact", "Strategic Account Planning", "Quarterly Business Reviews", "Success Plans", "Client Onboarding"]
+    },
+    {
+      "category": "Technical Support & Guidance",
+      "items": ["SaaS Setup & Configuration", "Troubleshooting", "Product Demos & Training", "Workflow Design", "API Integrations", "Technical Translation for Non-Technical Stakeholders"]
+    },
+    {
+      "category": "Performance & Analytics",
+      "items": ["KPI Tracking", "Customer Health Monitoring", "Adoption & Utilization Analysis", "Reporting Dashboards", "Churn Reduction"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Notion", "Google Apps"]
+    },
+    {
+      "category": "Collaboration",
+      "items": ["Cross-Functional Coordination", "Product & Engineering Feedback Loops", "Stakeholder Management"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
