@@ -1,0 +1,104 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Integrated Marketing Specialist",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Performance marketing professional with 15+ years managing multi-channel campaigns, budgets, and stakeholder reporting across agency and SaaS environments. Built ROI/CAC/LTV reporting frameworks and ran QBRs translating channel performance into optimization recommendations, while coordinating with internal specialist teams and external partners to keep integrated campaigns on track. Strong analytical foundation in GA4, campaign attribution, and competitive research, turning performance data into recommendations and presentations for both technical and executive audiences.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to business owners on a regular reporting cadence.",
+        "Track acquisition and retention across multiple concurrent accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth.",
+        "Conduct competitor research and keyword-gap analyses, translating findings into campaign and content recommendations.",
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click-through quality across the campaign.",
+        "Identify strategic opportunities to expand account scope, recommending and scoping complementary services aligned with client objectives.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping engagement records auditable across concurrent accounts."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content as strategic lead, coordinating execution across internal departments and client stakeholders.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Analyzed partner utilization and performance metrics across a reseller portfolio to identify gaps and recommend interventions that improved outcomes.",
+        "Collaborated with Product and Engineering to share structured, high-priority feedback informing the roadmap.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (roughly 94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data at a performance marketing agency, translating results into optimization recommendations across paid media and creative.",
+        "Built and refined internal reporting processes that improved accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, assessing operational data to rank which systems to change and in what order.",
+        "Advised clients on technology adoption, building scalable operational systems aligned to their growth stage and team structure.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled over the period."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Campaign Management",
+      "items": ["Integrated Campaign Planning", "Budget & Scope Management", "Cross-Functional Coordination", "Agency Partner Collaboration"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["GA4", "Campaign Attribution", "ROI/CAC/LTV Tracking", "Competitive Research", "QBRs", "Executive Presentations"]
+    },
+    {
+      "category": "Digital Channels",
+      "items": ["Paid Search (Google Ads)", "SEO", "Email Marketing", "Content Strategy"]
+    },
+    {
+      "category": "Tools",
+      "items": ["GA4", "Google Search Console", "Ahrefs", "Semrush", "Google Apps"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
