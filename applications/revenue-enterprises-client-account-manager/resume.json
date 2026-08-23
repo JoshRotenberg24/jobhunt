@@ -1,0 +1,91 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Account Manager | Cross-Functional Relationships & Executive Reporting",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client Account Manager with 15+ years as the day-to-day contact and strategic advocate for a portfolio of B2B and B2C clients across MarTech, SaaS, and agency environments. Proven track record serving as the connective tissue between clients and internal teams - Product, Engineering, Operations, Sales - tracking commitments, resolving issues before they escalate, and delivering executive-ready reporting on account health and performance. Comfortable managing multiple concurrent client relationships with high accountability and follow-through.",
+  "experience": [
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, serving as the primary strategic contact and driving a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets while maintaining consistent, proactive client communication.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Led digital growth consultations, translating client goals into concrete recommendations and coordinating execution across internal teams."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention) during tenure through proactive, value-driven communication.",
+        "Served as the connective tissue between partners and Product/Engineering, collaborating to share structured, high-priority feedback that informed the roadmap.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Advised partners on retention strategy and customer health metrics, tracking commitments and following through to resolution."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations for client leadership.",
+        "Built rigorous campaign performance reporting frameworks and delivered executive-ready QBRs tracking ROI, CAC, LTV, and conversion KPIs.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built trusted-advisor relationships with C-Suite executives at agencies and professional-services firms, guiding CRM and project-management software adoption.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and coordinated with the implementation team on delivery.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled."
+      ]
+    },
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based business clients, running discovery and onboarding to surface goals, objectives, and challenges.",
+        "Document every client interaction, timeline, and deliverable, keeping project records auditable across concurrent engagements.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across operations.",
+        "Identify strategic opportunities to expand retainer scope, recommending complementary services aligned with client objectives."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Built and refined internal processes that improved reporting accuracy and strengthened cross-team alignment.",
+        "Analyzed campaign performance data and translated results into optimization recommendations for client stakeholders."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Account Management", "items": ["Portfolio Ownership", "Client Relationship Management", "Proactive Communication", "Issue Resolution"]},
+    {"category": "Cross-Functional Coordination", "items": ["Operations & Implementation Liaison", "Product/Engineering Feedback Loops", "Commitment Tracking", "Stakeholder Alignment"]},
+    {"category": "Reporting & Executive Communication", "items": ["QBRs", "Performance Dashboards", "Account Health Reporting", "Client Presentations"]},
+    {"category": "Tools", "items": ["Salesforce", "HubSpot", "GA4", "Google Workspace"]}
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"]
+}
