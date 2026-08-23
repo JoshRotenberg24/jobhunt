@@ -58,6 +58,6 @@ No known Solenzo/Josh connection to NEXGEN Asset Management on file. Worth a qui
 
 ## Output files
 
-- `resume.pdf` / `resume.docx` — 2 pages, balanced (fill 0.89)
-- `cover-letter.pdf` / `cover-letter.docx` — 1 page, conversational tone per Josh's request (no "Dear"/"Sincerely")
+- `Joshua-Rotenberg-Resume-NEXGEN.pdf` / `.docx` — 2 pages, balanced (fill 0.89)
+- `Joshua-Rotenberg-Cover-Letter-NEXGEN.pdf` / `.docx` — 1 page, conversational tone per Josh's request (no "Dear"/"Sincerely")
 - `fit.json` / `fit.png` — Fit Score meter
