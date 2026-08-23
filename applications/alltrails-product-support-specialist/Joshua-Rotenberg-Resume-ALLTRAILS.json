@@ -1,0 +1,103 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Product Support Specialist",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer-facing technical support professional with 15+ years troubleshooting SaaS platforms, translating complex issues into clear explanations, and closing the loop between customers and Product/Engineering teams. At Birdeye, guided 15-20 partner accounts through technical setup and configuration while sharing structured, high-priority customer feedback that informed the product roadmap, sustaining roughly 94% retention. At Wix, onboarded 25+ users monthly across a high-volume support and launch workload. Comfortable digging into a reported issue until the real cause surfaces, then explaining it simply to both the customer and the internal team who needs to fix it.",
+  "experience": [
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of marketing-automation and reputation-management tools, resolving issues directly as their primary technical point of contact.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps, trends, and at-risk accounts, recommending interventions that reduced churn.",
+        "Developed scalable communication workflows and automated training sequences that reduced onboarding friction and support burden.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (roughly 94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Guided client onboarding, workflow design, and technical setup, translating platform capabilities into plain-language guidance for non-technical users.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Configure and troubleshoot CRM and automation systems (GoHighLevel, HubSpot) for B2B clients, resolving setup issues directly inside client platforms.",
+        "Architect AI-driven systems and translate non-technical stakeholders' requests into precise, structured instructions the system can execute reliably.",
+        "Write and publish educational guides and documentation tailored to client needs, translating technical concepts into plain language."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into clear recommendations for clients and internal teams.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, resolving technical challenges during setup and troubleshooting workflow issues.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Built and refined internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical Support & Troubleshooting",
+      "items": ["Platform Configuration & Setup", "Issue Resolution", "Root-Cause Investigation", "Technical Translation (Complex-to-Simple)"]
+    },
+    {
+      "category": "Cross-Functional Collaboration",
+      "items": ["Product & Engineering Feedback Loops", "Voice-of-Customer Advocacy", "Cross-Team Coordination"]
+    },
+    {
+      "category": "Customer Communication",
+      "items": ["High-Volume Account Management", "Written & Verbal Communication", "Onboarding & Training", "Customer Empathy"]
+    },
+    {
+      "category": "AI & Emerging Tech",
+      "items": ["AI-Driven Automation", "Natural-Language Prompting", "Workflow Design"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Notion", "Google Apps"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
