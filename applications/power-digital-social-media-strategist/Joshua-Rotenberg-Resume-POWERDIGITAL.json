@@ -1,0 +1,108 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Strategist & Content Lead",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing strategist with 15+ years across agency and founder-led environments, autonomously owning multi-client account portfolios end to end while producing the copy, content, and campaign strategy behind them. Built an AI-driven outreach system that scores a business's digital footprint and personalizes engagement at scale, and translate loosely-defined client goals into structured content and campaign logic. Comfortable owning accounts independently, staying current on channel shifts, and using AI tooling to keep content production moving at agency pace.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of B2B clients, running discovery and onboarding to surface goals and translate them into campaign and content strategy.",
+        "Draft direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline across multiple concurrent client accounts.",
+        "Write and publish thought leadership content, newsletters, and educational guides tailored to each client's brand voice and audience.",
+        "Architect AI-driven outreach systems that score a business's digital footprint and generate hyper-personalized messaging at scale.",
+        "Translate non-technical stakeholders' loosely-formed ideas into precise, structured content and campaign instructions, bridging business intent and execution.",
+        "Design self-improving loops and evaluation frameworks to monitor content and campaign performance, continuously refining messaging based on results."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets - landing pages, complex email sequences, conversion-focused copy - improving lead generation and pipeline across multiple client accounts.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content as strategic lead, coordinating execution across internal departments.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Advised partners on how to communicate product value to their own customers, developing training content and messaging that reduced onboarding friction.",
+        "Onboarded and managed 15-20 reseller partner accounts simultaneously (deal sizes ~$10K-$45K), retaining roughly 94% during tenure.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, content, and cross-team communication.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.",
+        "Closed 6 new-client deals during tenure, averaging ~$22K each - roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, translating client needs into product narratives.",
+        "Guided client onboarding and built relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled over the period."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Content & Copy",
+      "items": ["Direct-Response Copy", "Email Sequences", "Landing Pages", "Thought Leadership Content", "Brand-Aligned Messaging"]
+    },
+    {
+      "category": "Account Ownership",
+      "items": ["Autonomous Account Management", "Multi-Client Portfolio Management", "Client Communication", "Retention"]
+    },
+    {
+      "category": "AI & Automation",
+      "items": ["AI-Driven Personalization", "Prompt Design", "Workflow Automation", "Rapid Prototyping"]
+    },
+    {
+      "category": "Strategy & Analytics",
+      "items": ["Campaign Strategy", "KPI Tracking", "Competitor Research", "Performance Optimization"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Notion", "Google Apps"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}

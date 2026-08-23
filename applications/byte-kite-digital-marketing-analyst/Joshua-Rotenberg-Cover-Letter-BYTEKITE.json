@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 23, 2026",
+  "company": "Byte&Kite",
+  "role": "Digital Marketing Analyst",
+  "salutation": "Hi there,",
+  "body": [
+    "I like that this role is explicit about the job: turn campaign, website, and customer data into decisions clients can actually act on, not just build reports that sit in a folder. That's most of what I already do day to day, just usually with my own name on the invoice instead of a client's logo on the report.",
+    "At Solenzo, I build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity across several concurrent client accounts, using GA4 and CRM analytics to connect activity to outcomes and flag attribution gaps before they turn into wrong conclusions. At Level Agency, I built reporting frameworks tracking ROI, CAC, and LTV across inbound, paid, and content, and used them to run QBRs where the recommendation had to survive a client actually pushing back on it. And at Wix, the account portfolio I managed contributed to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment I supported, which is the kind of number that only means something if the analysis behind it holds up.",
+    "One thing worth being upfront about: I don't have hands-on SQL experience, so if that's more central to the role than the posting suggests, I'd rather say so now than overstate it. What I do bring is a decade and a half of turning messy multi-channel data into something a non-technical business owner can use, and I'd like to talk through how that fits what you're building at Byte&Kite."
+  ],
+  "closing": "Thanks for reading,"
+}

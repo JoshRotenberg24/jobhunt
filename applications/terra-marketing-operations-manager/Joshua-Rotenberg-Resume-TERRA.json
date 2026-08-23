@@ -1,0 +1,106 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations Manager",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations manager with 15+ years across agency and B2B environments, including 5+ years building and troubleshooting CRM and marketing-automation systems (GoHighLevel primary, hands-on HubSpot and Salesforce). Built lead nurture, email, and multichannel campaigns for B2B clients, architected 20+ automation workflows spanning capture, qualification, routing, and nurture, and maintained the data hygiene and lead scoring that keep those systems accurate. Comfortable troubleshooting a client's martech stack, building the dashboards that report on it, and presenting results to non-technical stakeholders on client calls.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and deployed a complete GoHighLevel marketing-automation system - 20+ workflows spanning lead capture/tagging/routing, qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation.",
+        "Configure and troubleshoot CRM and automation systems (GoHighLevel, HubSpot) for B2B clients, resolving setup issues and martech-stack problems as they surface.",
+        "Architect CRM systems with contact segmentation, lifecycle stages, and strict data-hygiene protocols, keeping lead records clean and reporting comparable across accounts.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering results on a regular cadence during client calls.",
+        "Built segmented cold-email outreach engines (website-visibility, missed-calls, and low-reviews campaigns) plus an automated prospect-audit workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger outreach.",
+        "Translate non-technical stakeholders' goals into precise system configurations and workflows, bridging business intent and technical execution."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content as strategic lead, coordinating execution across internal departments and client stakeholders.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Produced landing pages and complex email sequences supporting lead generation and pipeline development.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation-management and marketing-automation tools as their primary point of contact.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (roughly 94% retention) during tenure.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal reporting processes at a performance marketing agency, improving accuracy and reducing handoff errors.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K) - roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in workflow automation and pipeline configuration.",
+        "Guided client onboarding, workflow design, and API integrations, advising clients on CRM adoption and operational system design.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled over the period."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Automation & CRM",
+      "items": ["GoHighLevel (Primary)", "HubSpot", "Salesforce", "Workflow Design", "Lead Scoring & Segmentation", "Lifecycle Stages", "Data Hygiene"]
+    },
+    {
+      "category": "Campaign Execution",
+      "items": ["Email & Lead Nurture", "Paid Media", "SEO", "Organic & Social", "Landing Pages", "Multichannel Campaigns"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["Dashboards", "ROI/CAC/LTV Tracking", "Attribution", "QBRs", "GA4"]
+    },
+    {
+      "category": "Operations",
+      "items": ["Martech Troubleshooting", "Cross-Functional Coordination", "Client Communication", "Process Documentation"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}

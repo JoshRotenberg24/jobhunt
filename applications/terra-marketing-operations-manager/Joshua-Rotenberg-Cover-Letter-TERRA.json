@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 23, 2026",
+  "company": "Terra",
+  "role": "Marketing Operations Manager",
+  "salutation": "Hi Terra team,",
+  "body": [
+    "I've spent the last several years building the exact thing this role describes: lead nurture and email campaigns inside client CRMs, martech troubleshooting when something breaks, and dashboards that make campaign performance legible to a client on a call. Most of that's been on GoHighLevel and HubSpot rather than Marketo or Eloqua specifically, so I want to name that up front rather than let the resume imply something it doesn't.",
+    "At Solenzo, I architected a GoHighLevel automation system with 20+ workflows covering capture, qualification, booking, no-show recovery, onboarding nurture, and reactivation, and I keep the underlying data clean with contact segmentation and lifecycle stages so the reporting stays trustworthy. At Level Agency, I built ROI, CAC, and LTV reporting frameworks and ran the QBRs where a client would actually push back on the numbers. And across an agency background at Fetch & Funnel and Birdeye, I've been the one walking clients through technical setup and configuration myself, not routing them to someone else.",
+    "One other thing worth flagging: I don't have direct financial-services marketing experience, so the wirehouse-versus-independent-advisor distinction isn't something I've worked in before. What I do have is a track record of ramping fast on a new vertical's rules and language, agency work means a new client's context every few months, and I'd like to talk through how that applies here."
+  ],
+  "closing": "Thanks for reading,"
+}

@@ -1,0 +1,100 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Technologist & Independent Contractor",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing technologist and independent contractor (Solenzo LLC, founded 2024) with 15+ years across agency and SaaS environments, including hands-on CRM/CMS configuration, troubleshooting, and landing-page production inside HubSpot and GoHighLevel. Comfortable working independently as the single accountable point of contact on marketing-technical work, taking a client brief and running with it without close supervision.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Operate as an independent contractor, running my own client-facing technical and marketing operation since 2024 - sourcing scope, setting my own schedule, and delivering against client deadlines without in-house oversight.",
+        "Configure and troubleshoot CRM and automation systems (GoHighLevel, HubSpot) for B2B clients, resolving setup issues directly inside client platforms.",
+        "Implement fixes and technical SEO improvements directly inside client CMS platforms, informed by keyword-gap and competitor research.",
+        "Build landing pages and marketing assets integrated with client CRMs, translating campaign requirements into working pages.",
+        "Optimized a client's Google Ads account to cut spam and low-quality leads, then diagnosed on-site conversion issues as the remaining bottleneck.",
+        "Translate non-technical stakeholders' requests into precise technical configurations, bridging business intent and execution."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced landing pages and complex email sequences integrated with client marketing stacks, supporting lead generation and pipeline.",
+        "Coordinated execution across internal specialist departments (creative, paid, content) to deliver client-facing assets on deadline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of marketing-automation and reputation-management tools as their primary technical point of contact.",
+        "Developed scalable communication workflows and automated training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution and cross-team communication on tight deadlines.",
+        "Built and refined internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month on a website-building SaaS platform, working hands-on with site setup and configuration."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, then handed them to the implementation team to execute.",
+        "Guided client onboarding, workflow design, and API integrations, resolving technical challenges during setup.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in workflow configuration."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing-Technical Work",
+      "items": ["CRM/CMS Configuration", "Landing Page Production", "Technical SEO", "Troubleshooting", "Site Architecture Consultation", "API Integrations", "Workflow Design"]
+    },
+    {
+      "category": "Independent Work",
+      "items": ["Independent Contractor", "Self-Directed Delivery", "Client-Facing Communication", "Deadline Management", "Cross-Client Prioritization"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["HubSpot", "GoHighLevel", "Salesforce", "Notion", "Google Apps"]
+    },
+    {
+      "category": "Marketing Fundamentals",
+      "items": ["SEO", "CRO", "Google Ads", "Email Marketing", "A/B Testing"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
