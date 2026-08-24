@@ -1,0 +1,100 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Brand Marketing Manager",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations professional with 15+ years owning day-to-day execution for client and account portfolios in agency and SaaS environments, translating strategy and leadership direction into content, reporting, and stakeholder-facing materials. Serve as the primary point of contact for client and partner priorities, triaging routine requests independently and escalating what needs deeper strategic input. Build the performance dashboards and data storytelling that turn campaign and content metrics into clear recommendations for leadership and cross-functional partners.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of B2B clients, running discovery to surface goals and translating strategy into content, campaigns, and deliverables.",
+        "Serve as the first point of contact for client questions and requests, resolving routine matters independently and identifying when an issue needs deeper strategic input.",
+        "Manage recurring operational activities including status reporting, deliverable tracking, and documentation, keeping priorities organized across concurrent engagements.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, tracking client-level KPIs and account health.",
+        "Write and publish thought-leadership content, newsletters, and educational guides tailored to each client's brand voice and audience."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content as strategic lead, coordinating execution across internal departments and stakeholders.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs to leadership."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Served as the primary point of contact for a portfolio of reseller partners, resolving routine matters independently and escalating complex issues as needed.",
+        "Advised partners on retention strategy and customer health metrics, equipping them to communicate brand value to their own customers.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (roughly 94% retention) during tenure.",
+        "Collaborated with Product and Engineering to share structured, high-priority partner feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Built and refined internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Brand & Content Operations",
+      "items": ["Content Strategy", "Editorial Voice Consistency", "Deliverable Tracking", "Status Reporting", "Vendor Coordination"]
+    },
+    {
+      "category": "Stakeholder Relationship",
+      "items": ["Primary Point of Contact", "Triage & Escalation Judgment", "Partner Relationship Management", "Cross-Functional Coordination"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["Performance Dashboards", "KPI Storytelling", "ROI/CAC/LTV Analysis", "QBRs"]
+    },
+    {
+      "category": "Writing",
+      "items": ["Thought Leadership Content", "Brand Voice Adaptation", "Direct-Response Copy"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
