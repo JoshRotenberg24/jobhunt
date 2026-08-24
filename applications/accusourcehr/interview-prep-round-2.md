@@ -255,6 +255,33 @@ That last line is the strongest thing you can say in this interview. It is a rea
 it shows you already think like the owner of the function, and it hands the conversation back
 to him.
 
+### Story 3.4 — Why a home, and why here
+
+*Context: on the first call you already told him the recent role endings were layoffs, not
+performance, and that you are looking for a home rather than another short stop. He knows
+this. Do not re-explain it from scratch. Use it as a one-sentence callback, then land it on
+AccuSourceHR specifically.*
+
+**When to use it:** if he asks "why this role" or "why us," or if your work history comes up
+again. Do not volunteer it unprompted just to get ahead of it — that plays as defensive. It
+should land as a real answer to a real question, not as damage control.
+
+> Like I mentioned last time, the recent moves were layoffs, not performance, and that's part
+> of why I'm being deliberate about where I land next. I'm not looking for another short stop.
+> I'm looking for a place I can build something that outlasts a single engagement.
+>
+> You're twenty five years into this business, privately held, and still growing, the Frasco
+> acquisition tells me that. That's exactly the kind of company I'm looking for. Not because
+> it's safe, but because the work I'd be doing here, the reference engine, the vendor roster,
+> the cross-sell motion, is multi-year work. None of it pays off in a quarter. I want to be
+> somewhere I can see it all the way through.
+
+**Why this works:** it turns the one part of your history that could read as a weakness into
+the most honest answer you'll give all interview. It also ties directly back to Story 3.3,
+an established, mature company is the right place for someone who wants to build something
+durable, not chase the next round of funding. Say it once, plainly, and move on. Do not
+over-sell it or repeat "home" like a script.
+
 ---
 
 ## Questions to ask him
@@ -286,7 +313,7 @@ live. Ranges are fine. Anything you are unsure of, say so as an estimate.
 
 ## Landmines
 
-- **Level Agency was five months** (Sep 2024 to Feb 2025). He may ask. Have a short, non-defensive answer ready and move on. Do not over-explain.
+- **Level Agency was five months** (Sep 2024 to Feb 2025). This is already covered from the first call, layoffs, not performance. Do not re-litigate it if it does not come up. If it does, one sentence confirming what you already told him is enough, then move into Story 3.4 rather than re-explaining the layoff itself.
 - **Solenzo is your own company.** Expect "are you going to keep running that?" Answer it directly.
 - **Do not claim a case study engine you have not built.** Story 1.2 handles this. Trust it.
 - **Do not badmouth the agencies you worked for** while talking about vendor management. Insight, not grievance.
