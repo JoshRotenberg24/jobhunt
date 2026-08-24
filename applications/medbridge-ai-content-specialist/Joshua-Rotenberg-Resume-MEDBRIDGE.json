@@ -1,0 +1,101 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "AI Content Specialist",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Content and AI workflow specialist with 15+ years writing client-facing copy, technical guides, and thought-leadership content, plus hands-on experience building AI-assisted content and automation workflows, from translating loosely-defined requests into precise, structured prompts to designing evaluation frameworks that catch drift in AI-generated output before it reaches an audience. Real, current SEO experience (technical audits, keyword research, content optimization) across multiple roles. Comfortable translating complex technical concepts into accessible content for professional audiences and managing multiple concurrent projects against deadlines.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, bridging business intent and reliable AI output.",
+        "Design self-improving loops and evaluation frameworks to monitor AI-generated outputs, catching drift and quality issues before they reach an audience.",
+        "Break down manual content and marketing workflows into structured, repeatable AI-assisted processes, building reusable prompt logic and internal tooling.",
+        "Write and publish thought-leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Conduct technical SEO audits, keyword-gap analyses, and competitor research, implementing content optimizations directly inside client CMS platforms.",
+        "Draft clean, specific, direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets - landing pages, complex email sequences, conversion-focused copy - improving lead generation and pipeline.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of marketing-automation tools, translating platform capabilities into plain-language guidance.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Developed scalable communication workflows and automated training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Built and refined internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, translating technical requirements into plain-language recommendations."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & Content Workflows",
+      "items": ["AI-Assisted Content Development", "Prompt Engineering", "AI Output Quality Control", "Workflow Automation", "Agentic Systems"]
+    },
+    {
+      "category": "Writing & Editorial",
+      "items": ["Thought Leadership Content", "Technical-to-Accessible Translation", "Direct-Response Copy", "Editorial Voice Consistency"]
+    },
+    {
+      "category": "SEO",
+      "items": ["Keyword Research", "Technical SEO Audits", "Content Optimization", "Metadata & On-Page SEO"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["HubSpot", "GoHighLevel", "GA4", "Google Search Console", "Notion"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
