@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Solutions Engineer",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical pre-sales and customer-facing professional with 15+ years translating complex software capabilities into business value for prospects and clients. At Accelo, sold and scoped complex CRM/PSA software directly to agencies and professional-services firms, building implementation plans and API integrations while advising C-suite executives as a trusted technical partner throughout the sales cycle. At Birdeye, a reputation-management platform in the same space as Trustpilot, guided customers through complex technical setup and configuration, serving as the bridge between Sales, Product, and Engineering. Comfortable running technical discovery, translating requirements into solution design, and keeping deals moving with technical credibility.",
+  "experience": [
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, translating business needs into technical solution designs.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, then handed them to the implementation team to execute.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation-management and marketing-automation tools, serving as their primary technical point of contact.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (roughly 94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Configure and troubleshoot CRM and automation systems (GoHighLevel, HubSpot) for B2B clients, resolving setup issues directly inside client platforms.",
+        "Translate non-technical stakeholders' goals into precise system configurations and workflows, bridging business intent and technical execution.",
+        "Architect CRM systems with contact segmentation, lifecycle stages, and data-hygiene protocols, connecting technical setup to measurable business outcomes."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Guided client onboarding, workflow design, and technical setup, translating platform capabilities into plain-language guidance for non-technical users.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations for clients and internal teams.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Closed 6 new-client deals during tenure, averaging ~$22K each - roughly $130K+ in total bookings."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical Pre-Sales",
+      "items": ["Technical Discovery", "Solution Design", "Requirements Translation", "Implementation Planning"]
+    },
+    {
+      "category": "Cross-Functional Collaboration",
+      "items": ["Sales Partnership", "Product & Engineering Liaison", "C-Suite Advisory"]
+    },
+    {
+      "category": "Technical Systems",
+      "items": ["CRM/Platform Configuration", "API Integrations", "Workflow Automation", "SaaS Architecture"]
+    },
+    {
+      "category": "Communication",
+      "items": ["Technical-to-Business Translation", "Stakeholder Presentations", "Customer-Facing Documentation"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
