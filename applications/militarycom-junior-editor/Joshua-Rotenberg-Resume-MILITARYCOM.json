@@ -1,0 +1,73 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Content Writer & SEO Specialist",
+  "contact": {
+    "location": "Arvada, CO (Mountain Time)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Content and SEO professional with 15+ years writing client-facing copy, technical guides, and thought-leadership content, backed by hands-on SEO experience including technical audits, keyword research, and competitor research. Comfortable working independently against deadlines and volume, based in Mountain Time.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Write and publish thought-leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Draft clean, specific, direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Conduct technical SEO audits, keyword-gap analyses, and competitor research, implementing fixes directly inside client CMS platforms.",
+        "Own the full lifecycle of content strategy, production, and delivery as an independent operator, managing deadlines across concurrent clients."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets - landing pages, complex email sequences, conversion-focused copy - improving lead generation and pipeline.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Held delivery quality consistent across implementations, resolving feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.",
+        "Analyzed campaign performance data, translating results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Writing & Content",
+      "items": ["Direct-Response Copy", "Thought Leadership Content", "Technical Guides", "Editorial Voice Consistency"]
+    },
+    {
+      "category": "SEO",
+      "items": ["Technical SEO Audits", "Keyword Research", "Competitor Research", "Content Optimization"]
+    },
+    {
+      "category": "Delivery",
+      "items": ["Deadline Management", "Independent Work", "High-Volume Concurrent Projects"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
