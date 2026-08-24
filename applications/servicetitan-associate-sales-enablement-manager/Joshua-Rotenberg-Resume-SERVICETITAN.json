@@ -1,0 +1,105 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Sales Enablement & Systems Manager",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Sales and systems-building professional with roots as a Business Development Representative (Senior Directory) and 15+ years of full-cycle sales experience (Accelo, Fivestars, Wix), now combined with hands-on expertise architecting the automation systems, playbooks, and onboarding processes that sales teams run on. Built a complete GoHighLevel outbound system - 20+ workflows plus a cold-email prospect-scoring engine that enrolled 180+ contacts - and helped develop sales training for tenured account executives at Wix. Comfortable managing multiple onboarding cohorts and concurrent projects simultaneously, translating process and strategy into structured, actionable training.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel outbound and marketing-automation system - 20+ workflows spanning lead capture/tagging/routing, qualification, appointment booking with confirmation and reminders, and no-show recovery.",
+        "Built segmented cold-email outreach engines plus an automated prospect-audit workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized outreach.",
+        "Design self-improving loops and evaluation frameworks to monitor outreach performance, testing and optimizing conversion rates on an ongoing basis.",
+        "Translate non-technical stakeholders' goals into precise, structured workflows and playbooks, bridging strategy and day-to-day execution."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio, including hands-on training and coaching.",
+        "Helped develop sales training for tenured account executives and supported hiring and onboarding for a brand-new Wix vertical, taking it from proof of concept to a profitable business line."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled over the period.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, then handed them to the implementation team to execute."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners simultaneously, developing scalable communication workflows and automated training sequences that reduced onboarding friction.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K) - roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs, high-volume prospecting, lead qualification, and customer acquisition."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads as a Business Development Representative, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings.",
+        "Built the outreach, qualification, and pipeline fundamentals that carried into every later sales and account role."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales & Business Development",
+      "items": ["Full-Cycle Sales", "BDR/SDR Fundamentals", "Cold Outreach & Sequencing", "Pipeline Generation"]
+    },
+    {
+      "category": "Systems & Process Building",
+      "items": ["Workflow Automation Architecture", "Playbook Development", "Onboarding Program Design", "CRM Configuration"]
+    },
+    {
+      "category": "Enablement & Training",
+      "items": ["Sales Training Development", "Team Coaching", "Multi-Cohort Onboarding Management"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Salesforce", "GoHighLevel", "HubSpot", "Notion"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
