@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Digital Growth & Marketing Analytics Manager",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing and analytics professional with 15+ years driving website traffic, conversion, and SEO/AI-search performance for client accounts, backed by hands-on AI-tool usage for analysis, content, and workflow efficiency. At Wix, supported an e-commerce account segment that grew website traffic 30% and conversion rates 25%. Real, current technical SEO and AI-search-visibility experience (audits, keyword research, competitor research), plus a track record of leading teams and vendor/contractor relationships. Comfortable translating website and customer-behavior data into clear, prioritized recommendations for leadership.",
+  "experience": [
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword-gap analyses, and competitor research, implementing fixes directly inside client CMS platforms.",
+        "Use AI tools to accelerate analysis, content production, and workflow efficiency, translating non-technical stakeholders' goals into precise, structured prompts and outputs.",
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click-through quality, then diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Build performance dashboards tracking traffic, conversion, and campaign ROI, delivering insights and recommendations on a regular cadence."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that improved outcomes.",
+        "Set goals and held reseller partners accountable for results, similar to managing external vendor and agency performance."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data at a performance marketing agency, translating results into optimization recommendations across paid media and creative.",
+        "Built and refined internal reporting processes that improved accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex software to agencies and professional-services firms, translating capabilities into business value for prospective clients.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Growth & Optimization",
+      "items": ["Conversion Rate Optimization (Qualitative)", "Website Traffic Growth", "A/B Testing Concepts", "Data-Driven Recommendations"]
+    },
+    {
+      "category": "SEO & AI Discovery",
+      "items": ["Technical SEO Audits", "Keyword Research", "Competitor Research", "AI-Search Visibility Awareness"]
+    },
+    {
+      "category": "AI & Automation",
+      "items": ["AI-Assisted Analysis", "AI-Assisted Content Production", "Workflow Automation"]
+    },
+    {
+      "category": "Analytics & Leadership",
+      "items": ["GA4", "Performance Dashboards", "Team & Vendor Leadership", "Cross-Functional Collaboration"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
