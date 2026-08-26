@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
-render_resume.py — build a professional, ATS-safe, balanced 2-page resume.
+render_resume.py — build a professional, cleanly parsing resume.
 
 Outputs (same dir/basename as the input JSON):
-  - <base>.pdf   ReportLab, real selectable text (ATS-safe), EXACT pagination.
-  - <base>.docx  python-docx, native editable Word (ATS-preferred submission).
+  - <base>.pdf   ReportLab, real selectable text (never image-only), EXACT pagination.
+  - <base>.docx  python-docx, native editable Word, for portals that request Word.
 
-Prints a report the caller uses to enforce the "balanced 2 pages" rule:
+Prints a report the caller uses for readability QA — there is no page-count
+target; the numbers exist to catch an over-long resume or a near-empty
+trailing page:
   STYLE=<name>  PAGES=<n>  LAST_PAGE_FILL=<0..1>  -> <verdict>
 
 Two interchangeable looks (pick per role):
@@ -317,14 +319,14 @@ def main():
     try:
         pages, fill = build_pdf(data, pdf_path, theme)
         print("PDF:  %s" % pdf_path)
-        if pages == 2 and fill >= 0.6:
-            verdict = "OK — balanced 2 pages"
-        elif pages < 2:
-            verdict = "ONLY %d PAGE — add depth/bullets to reach a full, balanced 2 pages" % pages
-        elif pages == 2:
-            verdict = "PAGE 2 SPARSE (fill %.2f) — add depth, or trim to a tight 1 page" % fill
+        if pages > 2:
+            verdict = ("%d pages — long. Trim to the most relevant, substantiated "
+                       "content; do not keep length for its own sake." % pages)
+        elif pages > 1 and fill < 0.15:
+            verdict = ("near-empty trailing page (fill %.2f) — tighten to %d page(s) "
+                       "or let real content carry it. Never pad." % (fill, pages - 1))
         else:
-            verdict = "TOO LONG (%d pages) — trim least-relevant bullets to 2 pages" % pages
+            verdict = "OK — %d page(s), no near-empty trailing page" % pages
         print("STYLE=%s  PAGES=%d  LAST_PAGE_FILL=%.2f  -> %s" % (style_name, pages, fill, verdict))
     except Exception as e:
         print("PDF build failed: %s" % e)
