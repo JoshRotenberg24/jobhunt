@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-render_cover_letter.py — build a professional, ATS-safe one-page cover letter.
+render_cover_letter.py — build a professional, cleanly parsing one-page cover letter.
 
 Outputs <base>.pdf (ReportLab) and <base>.docx (python-docx), matching the
 resume letterhead. Warns if it exceeds one page. Supports the same two looks as

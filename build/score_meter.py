@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
-score_meter.py — render a Fit Score "meter" for the tool's UI.
+score_meter.py — render an Application Priority Score "meter" for the tool's UI.
+
+The score is an internal, evidence-based decision aid for the candidate. It is not a
+prediction of an employer's ATS score, match category, or interview decision.
 
 Produces:
   1) a PNG gauge (band-colored bar + marker, optional per-dimension breakdown bars), and
@@ -60,7 +63,8 @@ def text_meter(score, label):
              "Solid stretch": "🔵", "Strong fit": "🟢"}.get(label, "⚪")
     filled = round(score / 5.0)
     bar = "█" * filled + "░" * (20 - filled)
-    return "%s Fit Score: %d / 100 — %s\n[%s]  %d%%" % (emoji, score, label, bar, score)
+    return ("%s Application Priority Score: %d / 100 — %s\n[%s]  %d%%\nInternal decision aid — not a prediction of any employer's score or decision."
+            % (emoji, score, label, bar, score))
 
 
 def render_png(data, out):
@@ -83,7 +87,7 @@ def render_png(data, out):
     pg.draw_rect(fitz.Rect(0, 0, W, H), color=None, fill=(1, 1, 1))
 
     ink = (0.10, 0.10, 0.10); muted = (0.45, 0.45, 0.45)
-    pg.insert_text((pad, 40), "FIT SCORE", fontsize=12, fontname="hebo", color=muted)
+    pg.insert_text((pad, 40), "APPLICATION PRIORITY SCORE", fontsize=12, fontname="hebo", color=muted)
     if role:
         pg.insert_text((pad, 58), role, fontsize=10.5, fontname="helv", color=muted)
 
