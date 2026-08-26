@@ -70,8 +70,13 @@ years); **terminology** the employer uses; nice-to-haves.
 > constrains wording only; it never licenses a change to the facts.
 
 ## Step 3 — Application-Form and Eligibility Check (mandatory)
-Before writing any resume content, list every field, question, or stated criterion that
-can affect disposition. Cover these where applicable:
+First read `profile/master-profile.md`'s **Identity & Contact** table and the
+**Job-search knockouts** block beneath it. That block is Josh's own standing constraints
+(languages, location, work mode) and it answers several of these items directly — check
+the posting against it before asking him anything.
+
+Then list every field, question, or stated criterion that can affect disposition. Cover
+these where applicable:
 
 - Work authorization; visa sponsorship now or in the future.
 - Required work location; onsite/hybrid/remote expectation; relocation; travel
@@ -88,10 +93,11 @@ Classify each item as exactly one of:
 - **Application-form requirement** — must be answered accurately in the application
   itself; the resume cannot substitute for it (e.g., work authorization, salary
   expectation, willingness to travel).
-- **Needs candidate confirmation** — absent or ambiguous in `master-profile.md`. Do not
-  guess and do not answer on Josh's behalf. List it as an open question for him.
+- **Needs candidate confirmation** — absent or ambiguous in `master-profile.md`, or not
+  settled by the constraints block. Do not guess and do not answer on Josh's behalf. List
+  it as an open question for him.
 
-Write this table into the match report (Step 8) and surface it to the user before they
+Write this table into the match report (Step 10) and surface it to the user before they
 apply.
 
 > A well-written resume cannot repair an ineligible or inaccurate application response.
@@ -198,7 +204,9 @@ catch an over-long resume or a near-empty trailing page. Open the rendered PDF a
 
 - **Selectable, real text** — not a scanned or image-only resume. Confirm you can select
   and copy the text.
-- **Conventional, explicit section headings** ("Experience," "Skills," "Education").
+- **Conventional, explicit section headings.** The renderer emits "SUMMARY,"
+  "PROFESSIONAL EXPERIENCE," "CORE COMPETENCIES," "EDUCATION," "CERTIFICATIONS" — all
+  standard variants. Don't retitle them to anything inventive.
 - **Clear chronology** — dates, employer names, and titles all present, consistent, and
   in a conventional order.
 - **No important information carried only in images, charts, icons, or decorative

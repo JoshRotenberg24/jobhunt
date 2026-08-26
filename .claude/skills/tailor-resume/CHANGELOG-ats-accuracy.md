@@ -128,6 +128,56 @@ forbids.
 **`build/requirements.txt` — comments only.** "ATS-preferred submission format" →
 "for portals that request or favor Word"; "balance check" → "page/readability QA."
 
+## Debug pass (found by running the pipeline, not by reading it)
+
+**D1. `build/score_meter.py` printed the old name into the match report.** The text meter
+emitted `🔵 Fit Score: 64 / 100 — Solid stretch` and the PNG header read `FIT SCORE`.
+Step 5 instructs pasting that meter verbatim at the top of the match report, so every
+report would have contradicted the rename and the disclaimer. Fixed: text meter and PNG
+header now read "Application Priority Score," the text meter carries the one-line
+disclaimer so it travels with the paste, and the docstring states the score is an internal
+decision aid. Verified the longer PNG header (187px on a 720px canvas) does not clip.
+
+**D2. Broken cross-reference in Step 3.** It said to write the eligibility table into "the
+match report (Step 8)" — the match report is Step 10; Step 8 is file format. Renumbering
+artifact from inserting the new step. Fixed.
+
+**D3. Step 3 didn't read the candidate's own constraints.** `master-profile.md` carries a
+**Job-search knockouts** block (English only; remote-US or Denver/Colorado metro) directly
+under Identity & Contact. The eligibility check ignored it, so it would have asked Josh to
+confirm items already documented. Step 3 now reads that block first and only escalates
+what it doesn't settle.
+
+**D4. Heading guidance contradicted the renderer.** Both files named "Experience,"
+"Skills," "Education" as the conventional headings, but `render_resume.py` emits
+"PROFESSIONAL EXPERIENCE" and "CORE COMPETENCIES." A literal reading of the QA step would
+have flagged the tool's own correct output. Both files now accept standard variants and
+ban only inventive headings.
+
+**D5. `build/render_cover_letter.py` docstring** still said "ATS-safe one-page cover
+letter" → "cleanly parsing."
+
+### Verification performed
+
+Installed `build/requirements.txt` and ran all three renderers on real inputs from
+`applications/dropbox-senior-abm-manager/`.
+
+| Case | Result |
+| :--- | :--- |
+| Full resume (6 roles) | `PAGES=2 FILL=0.71 -> OK` |
+| Trimmed (2 roles, 2 bullets) | `PAGES=1 FILL=0.75 -> OK` — previously "ONLY 1 PAGE — add depth" |
+| Bloated (12 roles, 3× bullets) | `PAGES=7 FILL=0.41 -> long, trim` |
+| `classic` style 2nd-arg override | `STYLE=classic PAGES=2 FILL=0.62 -> OK` |
+| Cover letter | `PAGES=1 -> OK` |
+| Score meter | text + PNG render, no clipping |
+
+The near-empty-trailing-page threshold (`fill < 0.15`) was calibrated by bisecting bullet
+counts: `fill=0.03` is a single orphaned line (flagged, correctly), `fill=0.17` is seven
+lines of real competencies/education/certifications content (not flagged, correctly).
+
+PDF output confirmed to satisfy the Step 7 QA list: 2 pages, 3422 extractable characters
+on page 1, zero embedded images, all five standard headings present, single column.
+
 ## Explicitly preserved
 
 `profile/master-profile.md` as sole source of fact; the `Writing Standards` block and its

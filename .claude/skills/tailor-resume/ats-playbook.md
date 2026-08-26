@@ -43,9 +43,10 @@ content.
    are dropped or extracted as noise. If it matters, it must exist as text.
 4. **Nothing critical in headers/footers.** Some parsers skip them. Name and contact go
    in the body.
-5. **Conventional, explicit section headings** — "Experience," "Education," "Skills."
-   Clever headings ("Where I've Made an Impact") give the parser nothing to map onto and
-   slow a human reader down.
+5. **Conventional, explicit section headings** — "Experience" / "Professional
+   Experience," "Education," "Skills" / "Core Competencies," "Certifications." Standard
+   variants are fine; inventive ones ("Where I've Made an Impact") give the parser
+   nothing to map onto and slow a human reader down.
 6. **Standard, readable fonts.** No decorative typefaces.
 7. **Reverse-chronological structure**, with consistent, unambiguous date formats.
 8. **Real, selectable text.** The one true document-level failure mode is a scanned,
