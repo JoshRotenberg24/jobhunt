@@ -8,6 +8,27 @@ Every story below is built only from verified material in `profile/master-profil
 Nothing here is invented. Where there is a gap, it is labeled as a gap and paired with
 a plan instead of a fake story.
 
+**Debugged Aug 26.** Three real issues found and fixed:
+
+1. **Factual error.** Two spots said AccuSourceHR was "twenty five years" old. Founded 1999,
+   today is 2026, that is twenty seven. Fixed in Story 3.3 and Story 3.4. Do not say
+   "twenty five" out loud.
+2. **Pacing overrun.** Story 3.3's full answer ran about 90 seconds of unbroken talking for
+   one question, three stacked reasons plus a headline plus a closing question. Split into a
+   45-second lead answer and a "reasons in reserve" block that only comes out if he asks for
+   more. Same discipline applies everywhere: land the point in under a minute, let him pull
+   more out with a follow-up rather than volunteering a monologue.
+3. **Repeat-story risk.** The Solenzo Google Ads account is the source for both Story 1.1
+   (customer marketing) and Story 2.2 (vendor management). That is fine if the two areas come
+   up separately, but he said he wants to cover three things, not necessarily in that order.
+   If both areas come up in the same stretch of conversation, do not retell the same anecdote
+   twice as if it were two different stories. Either use it once and bridge from there, or say
+   plainly you are pulling the same account from a different angle.
+
+**Pacing budget:** 45 minutes across three areas is roughly 13 to 14 minutes each once his own
+talking and follow-ups are in there. Keep individual answers to 60 to 90 seconds. If a story
+runs longer than that out loud, it is a sign to cut it, not a sign to talk faster.
+
 ---
 
 ## The read on their business
@@ -227,33 +248,37 @@ do first. This is the cleanest evidence you have that you do.
 He explicitly asked how you would think about driving revenue growth at AccuSourceHR. Have
 this ready as a coherent answer, not an improvisation.
 
-> You are twenty five years into this business, PBSA accredited, and your own materials lean
-> hard on compliance rigor and US based client care. That is a business with real trust
-> equity and a mature client base. So if I am thinking about revenue growth, I am not
-> starting with net new logos. That is the expensive path and it is not where your advantage
-> is.
->
-> I would start inside the existing base, for three reasons.
->
-> One, your product line is a natural ladder. Criminal, drug and alcohol, I-9 and E-Verify,
-> education and employment verification, continuous monitoring, social media screening,
-> vendor screening, contingent labor. My guess is most of your clients are on one or two of
-> those. Every additional service line is revenue and stickiness at the same time.
->
-> Two, your differentiator does not survive a demo. Accreditation and compliance rigor are
-> hard to feel until something goes wrong. A peer at a similar company saying it out loud is
-> what makes it real, which is exactly why the reference engine is worth building.
->
-> Three, switching screening vendors is scary. That cuts both ways. It makes cold prospects
-> expensive and it makes your existing clients more winnable than a stranger.
->
-> The thing I would want to know in my first thirty days is what percentage of your base is
-> single service line, and whether that is because they do not need the rest or because
-> nobody ever asked.
+**Lead with this (about 45 seconds, this is the whole answer if he does not probe further):**
 
-That last line is the strongest thing you can say in this interview. It is a real question,
-it shows you already think like the owner of the function, and it hands the conversation back
-to him.
+> You're twenty seven years into this business, PBSA accredited, with a mature client base
+> and real trust. I wouldn't start with net new logos, that's the expensive path and it's not
+> where your advantage is. I'd start inside the existing base. Your product line is a ladder,
+> and my guess is most clients are only on one or two rungs of it. Every additional service
+> line is revenue and stickiness at once. And your real differentiator, the accreditation, the
+> rigor, doesn't survive a demo, a peer vouching for you is what makes it real. The thing I'd
+> want to know in my first thirty days: what percentage of your base is single service line,
+> and is that because they don't need the rest, or because nobody's ever asked?
+
+**If he wants more, you have three reasons in reserve. Do not lead with these, they only come
+out if he asks you to go deeper:**
+
+> One, the product ladder. Criminal, drug and alcohol, I-9 and E-Verify, education and
+> employment verification, continuous monitoring, social media screening, vendor screening,
+> contingent labor. Most clients are probably on one or two of those.
+>
+> Two, the differentiator problem. Accreditation and compliance rigor are hard to feel until
+> something goes wrong, which is exactly why the reference engine is worth building.
+>
+> Three, switching vendors is scary, and that cuts both ways. It makes cold prospects
+> expensive to win, and it makes your existing clients more winnable than a stranger.
+
+The closing question is the strongest thing you can say in this interview. It is a real
+question, it shows you already think like the owner of the function, and it hands the
+conversation back to him.
+
+**Why this got split:** the original version ran all four parts together, roughly 90 seconds
+of unbroken talking for one question. That is long enough in a live interview to tip from
+"answer" into "lecture." Lead with the headline, let him pull the detail out with a follow-up.
 
 ### Story 3.4 — Why a home, and why here
 
@@ -270,7 +295,7 @@ should land as a real answer to a real question, not as damage control.
 > of why I'm being deliberate about where I land next. I'm not looking for another short stop.
 > I'm looking for a place I can build something that outlasts a single engagement.
 >
-> You're twenty five years into this business, privately held, and still growing, the Frasco
+> You're twenty seven years into this business, privately held, and still growing, the Frasco
 > acquisition tells me that. That's exactly the kind of company I'm looking for. Not because
 > it's safe, but because the work I'd be doing here, the reference engine, the vendor roster,
 > the cross-sell motion, is multi-year work. None of it pays off in a quarter. I want to be
