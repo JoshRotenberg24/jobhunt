@@ -36,16 +36,6 @@
       ]
     },
     {
-      "title": "Account Executive / Sales Operations",
-      "company": "Fetch & Funnel",
-      "location": "Remote",
-      "dates": "Sep 2022 - Feb 2023",
-      "bullets": [
-        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
-        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication."
-      ]
-    },
-    {
       "title": "Channel Partnerships & Customer Onboarding",
       "company": "Birdeye",
       "location": "Remote",
@@ -54,6 +44,16 @@
         "Onboarded and managed 15-20 reseller partners using Salesforce, tracking every interaction and documenting account history for accurate reporting.",
         "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
         "Advised partners on retention strategy and customer health metrics, equipping them to communicate product value to their own accounts."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication."
       ]
     },
     {
@@ -81,11 +81,47 @@
     }
   ],
   "competencies": [
-    {"category": "Paid & Organic Digital", "items": ["Google Ads", "Keyword Research & SEM", "Technical SEO Audits", "Competitor Research"]},
-    {"category": "Analytics & Reporting", "items": ["GA4", "Campaign Performance Reporting", "Client Consultations", "ROI & Conversion Tracking"]},
-    {"category": "CRM & Documentation", "items": ["Salesforce", "HubSpot", "Account Interaction Tracking", "Data Hygiene"]},
-    {"category": "Client Relationships", "items": ["Portfolio Management", "Client Retention", "Cross-Team Communication", "Issue Troubleshooting"]}
+    {
+      "category": "Paid & Organic Digital",
+      "items": [
+        "Google Ads",
+        "Keyword Research & SEM",
+        "Technical SEO Audits",
+        "Competitor Research"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "GA4",
+        "Campaign Performance Reporting",
+        "Client Consultations",
+        "ROI & Conversion Tracking"
+      ]
+    },
+    {
+      "category": "CRM & Documentation",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Account Interaction Tracking",
+        "Data Hygiene"
+      ]
+    },
+    {
+      "category": "Client Relationships",
+      "items": [
+        "Portfolio Management",
+        "Client Retention",
+        "Cross-Team Communication",
+        "Issue Troubleshooting"
+      ]
+    }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
-  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"]
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
 }

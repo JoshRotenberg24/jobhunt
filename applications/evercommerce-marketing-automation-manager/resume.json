@@ -51,6 +51,16 @@
       ]
     },
     {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
       "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
       "company": "Wix.com",
       "location": "Remote",
@@ -71,24 +81,50 @@
         "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
         "Guided client onboarding, workflow design, and API integrations, troubleshooting technical challenges during setup."
       ]
-    },
-    {
-      "title": "Account Executive / Sales Operations",
-      "company": "Fetch & Funnel",
-      "location": "Remote",
-      "dates": "Sep 2022 - Feb 2023",
-      "bullets": [
-        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.",
-        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
-      ]
     }
   ],
   "competencies": [
-    {"category": "Marketing Automation", "items": ["Segmentation & Triggered Journeys", "Lifecycle Campaign Design", "Personalization", "QA & Delivery Accuracy"]},
-    {"category": "CRM Platforms", "items": ["GoHighLevel", "HubSpot", "Salesforce", "CRM-MAP Integration Concepts"]},
-    {"category": "Cross-Functional Collaboration", "items": ["Sales & RevOps Alignment", "Product Feedback Loops", "Stakeholder Reporting", "QBRs"]},
-    {"category": "Analytics & Optimization", "items": ["Campaign ROI Tracking", "Funnel & Pipeline Reporting", "Experimentation", "Data Hygiene"]}
+    {
+      "category": "Marketing Automation",
+      "items": [
+        "Segmentation & Triggered Journeys",
+        "Lifecycle Campaign Design",
+        "Personalization",
+        "QA & Delivery Accuracy"
+      ]
+    },
+    {
+      "category": "CRM Platforms",
+      "items": [
+        "GoHighLevel",
+        "HubSpot",
+        "Salesforce",
+        "CRM-MAP Integration Concepts"
+      ]
+    },
+    {
+      "category": "Cross-Functional Collaboration",
+      "items": [
+        "Sales & RevOps Alignment",
+        "Product Feedback Loops",
+        "Stakeholder Reporting",
+        "QBRs"
+      ]
+    },
+    {
+      "category": "Analytics & Optimization",
+      "items": [
+        "Campaign ROI Tracking",
+        "Funnel & Pipeline Reporting",
+        "Experimentation",
+        "Data Hygiene"
+      ]
+    }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
-  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"]
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
 }

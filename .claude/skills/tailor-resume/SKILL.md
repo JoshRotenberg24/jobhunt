@@ -163,6 +163,16 @@ Choose the best **summary variant** for the role type and an honest target **hea
 Write `applications/<company-slug>/resume.json` using the schema in
 `build/render_resume.py`:
 
+- **Work history goes in strict reverse-chronological order — no exceptions.** The
+  `experience` array must run most-recent-first: sort by end date descending (a role
+  still held, "Present," sorts first), and break ties on start date descending. Relevance
+  NEVER changes the order of jobs — relevance is expressed by which bullets you select
+  and how you order the bullets *inside* a role, never by promoting a job up the page. An
+  out-of-sequence timeline reads to a recruiter as careless or as hiding something, and
+  Josh has been called out for it in an interview. Read the dates back top-to-bottom and
+  confirm they descend before you render.
+- Which roles to *include* is still a judgment call (older, less relevant jobs can be
+  dropped) — but every role you do include sits in its correct chronological position.
 - Pull the most relevant 4–6 bullets for recent roles, fewer for older ones.
 - Front-load the bullets that evidence the role's must-haves **where Josh truly has the
   experience**.
@@ -193,7 +203,14 @@ Run: `python3 build/render_resume.py applications/<company-slug>/resume.json`
 (The renderer reads `"style"` from the JSON; or override with a 2nd arg:
 `… resume.json classic`.)
 
-It prints `STYLE=<name>  PAGES=<n>  LAST_PAGE_FILL=<0..1>  -> <verdict>`.
+It prints a `CHRONOLOGY:` line and `STYLE=<name>  PAGES=<n>  LAST_PAGE_FILL=<0..1>  ->
+<verdict>`.
+
+The renderer enforces reverse-chronological work history as a backstop: if the jobs are
+out of order it sorts them, rewrites `resume.json` to match, and prints
+`CHRONOLOGY: reordered …`. **That line means Step 6 was done wrong** — the safety net
+caught it, but re-read the affected bullets, since bullets written for a job you had
+mis-positioned may no longer sit where you intended.
 
 > **Render for readability and parse reliability. Use one or two pages based on the
 > quantity of relevant, substantiated experience. Never add weaker, irrelevant, or padded
@@ -207,8 +224,10 @@ catch an over-long resume or a near-empty trailing page. Open the rendered PDF a
 - **Conventional, explicit section headings.** The renderer emits "SUMMARY,"
   "PROFESSIONAL EXPERIENCE," "CORE COMPETENCIES," "EDUCATION," "CERTIFICATIONS" — all
   standard variants. Don't retitle them to anything inventive.
-- **Clear chronology** — dates, employer names, and titles all present, consistent, and
-  in a conventional order.
+- **Clear chronology** — dates, employer names, and titles all present and consistent,
+  and the jobs strictly reverse-chronological. Read the date column top-to-bottom in the
+  rendered PDF: every end date must be the same as or earlier than the one above it. If
+  it isn't, stop and fix `resume.json` before sending anything.
 - **No important information carried only in images, charts, icons, or decorative
   graphics.**
 - **Readable hierarchy, no clipping**, and no accidental blank or near-empty trailing

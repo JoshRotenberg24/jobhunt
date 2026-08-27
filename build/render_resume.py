@@ -31,7 +31,67 @@ JSON schema:
 
 Usage:  python3 build/render_resume.py <resume.json> [modern|classic]
 """
-import json, os, sys
+import json, os, re, sys
+
+# ---------- chronology enforcement -------------------------------------------
+# Recruiters and screeners read work history as a timeline. A resume whose jobs
+# are not in reverse-chronological order reads as sloppy or evasive and gets
+# called out in interviews. This is enforced here, in the renderer, so that no
+# resume can ever be produced out of order regardless of how the JSON was built.
+
+_MONTHS = {m: i for i, m in enumerate(
+    ["jan", "feb", "mar", "apr", "may", "jun",
+     "jul", "aug", "sep", "oct", "nov", "dec"], start=1)}
+
+# Anything meaning "still there" sorts above every real end date.
+_PRESENT = {"present", "current", "now", "today", "ongoing"}
+
+_DATE_SPLIT = re.compile(r"\s*(?:[-–—]|\bto\b)\s*", re.I)
+
+
+def _parse_point(s):
+    """Parse one end of a date range into a sortable (year, month) tuple."""
+    s = (s or "").strip().strip(".,")
+    if not s:
+        return (0, 0)
+    if s.lower() in _PRESENT:
+        return (9999, 12)
+    mon = 0
+    m = re.search(r"[A-Za-z]{3,}", s)
+    if m:
+        mon = _MONTHS.get(m.group(0)[:3].lower(), 0)
+    y = re.search(r"(19|20)\d{2}", s)
+    return (int(y.group(0)) if y else 0, mon)
+
+
+def _date_key(job):
+    """Sort key for one job: most recent end date first, then most recent start.
+
+    Jobs with unparseable dates keep (0, 0) and fall to the bottom rather than
+    scrambling the entries around them.
+    """
+    parts = _DATE_SPLIT.split(str(job.get("dates", "")).strip(), maxsplit=1)
+    start = _parse_point(parts[0] if parts else "")
+    end = _parse_point(parts[1]) if len(parts) > 1 else start
+    return (end, start)
+
+
+def enforce_chronology(data):
+    """Sort `experience` reverse-chronologically in place.
+
+    Returns a human-readable note when the order actually changed, so the caller
+    can report the correction, else None.
+    """
+    jobs = data.get("experience")
+    if not jobs or len(jobs) < 2:
+        return None
+    before = [id(j) for j in jobs]
+    ordered = sorted(jobs, key=_date_key, reverse=True)
+    if [id(j) for j in ordered] == before:
+        return None
+    data["experience"] = ordered
+    return " -> ".join("%s (%s)" % (j.get("company", j.get("title", "?")),
+                                    j.get("dates", "?")) for j in ordered)
 
 # ---------- shared style constants -------------------------------------------
 INK   = (0x1a, 0x1a, 0x1a)
@@ -309,6 +369,18 @@ def main():
     if len(sys.argv) < 2:
         sys.exit("usage: render_resume.py <resume.json> [modern|classic]")
     spec = sys.argv[1]; data = json.load(open(spec))
+
+    # Never ship an out-of-order work history. Fix the source JSON too, so the
+    # spec and the rendered documents can't disagree.
+    fixed = enforce_chronology(data)
+    if fixed:
+        with open(spec, "w") as fh:
+            json.dump(data, fh, indent=2, ensure_ascii=False)
+            fh.write("\n")
+        print("CHRONOLOGY: reordered work history to reverse-chronological: %s" % fixed)
+    else:
+        print("CHRONOLOGY: OK — reverse-chronological")
+
     style_arg = sys.argv[2] if len(sys.argv) > 2 else None
     style_name, theme = resolve_theme(data, style_arg)
     base = os.path.splitext(os.path.abspath(spec))[0]
