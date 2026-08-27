@@ -48,6 +48,16 @@
       ]
     },
     {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Built and refined internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
       "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
       "company": "Wix.com",
       "location": "Remote",
@@ -68,24 +78,50 @@
         "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled.",
         "Guided client onboarding, workflow design, and API integrations, troubleshooting technical issues during setup and staying with implementation teams until problems were actually resolved."
       ]
-    },
-    {
-      "title": "Account Executive / Sales Operations",
-      "company": "Fetch & Funnel",
-      "location": "Remote",
-      "dates": "Sep 2022 - Feb 2023",
-      "bullets": [
-        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
-        "Built and refined internal processes that improved reporting accuracy and reduced handoff errors."
-      ]
     }
   ],
   "competencies": [
-    {"category": "AI-Native Marketing", "items": ["Agentic AI Workflow Building", "Prompt & Agent-Logic Design", "AI-Assisted Personalization", "Rapid Prototyping"]},
-    {"category": "Lifecycle Marketing", "items": ["Segmentation & Triggered Journeys", "Onboarding, Nurture & Reactivation", "Transactional Messaging", "A/B Testing"]},
-    {"category": "Systems & Monitoring", "items": ["Automation QA & Error Catching", "GoHighLevel", "HubSpot", "CRM Data Hygiene"]},
-    {"category": "Copy & Analytics", "items": ["Direct-Response Copywriting", "GA4", "Conversion Rate Optimization", "Campaign Reporting"]}
+    {
+      "category": "AI-Native Marketing",
+      "items": [
+        "Agentic AI Workflow Building",
+        "Prompt & Agent-Logic Design",
+        "AI-Assisted Personalization",
+        "Rapid Prototyping"
+      ]
+    },
+    {
+      "category": "Lifecycle Marketing",
+      "items": [
+        "Segmentation & Triggered Journeys",
+        "Onboarding, Nurture & Reactivation",
+        "Transactional Messaging",
+        "A/B Testing"
+      ]
+    },
+    {
+      "category": "Systems & Monitoring",
+      "items": [
+        "Automation QA & Error Catching",
+        "GoHighLevel",
+        "HubSpot",
+        "CRM Data Hygiene"
+      ]
+    },
+    {
+      "category": "Copy & Analytics",
+      "items": [
+        "Direct-Response Copywriting",
+        "GA4",
+        "Conversion Rate Optimization",
+        "Campaign Reporting"
+      ]
+    }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
-  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"]
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
 }

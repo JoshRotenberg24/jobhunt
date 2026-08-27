@@ -48,15 +48,13 @@
       ]
     },
     {
-      "title": "Account Executive",
-      "company": "Accelo",
-      "location": "Denver, CO",
-      "dates": "Apr 2018 - Jul 2020",
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
       "bullets": [
-        "Sold and scoped complex CRM and project-management/PSA software to agencies and professional-services firms - the intake, workflow, and capacity-tracking systems this role is built around.",
-        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
-        "Guided client onboarding and workflow design, troubleshooting process gaps and resolving technical challenges during setup.",
-        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.",
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication."
       ]
     },
     {
@@ -71,22 +69,63 @@
       ]
     },
     {
-      "title": "Account Executive / Sales Operations",
-      "company": "Fetch & Funnel",
-      "location": "Remote",
-      "dates": "Sep 2022 - Feb 2023",
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
       "bullets": [
-        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.",
-        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication."
+        "Sold and scoped complex CRM and project-management/PSA software to agencies and professional-services firms - the intake, workflow, and capacity-tracking systems this role is built around.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided client onboarding and workflow design, troubleshooting process gaps and resolving technical challenges during setup.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
       ]
     }
   ],
   "competencies": [
-    {"category": "Program & Workflow Management", "items": ["Intake & Prioritization Systems", "SOP Development", "Process Mapping", "Capacity & Risk Tracking"]},
-    {"category": "Tools & Platforms", "items": ["Asana", "Notion", "HubSpot", "Salesforce", "GoHighLevel", "Slack", "Monday.com"]},
-    {"category": "Cross-Functional Coordination", "items": ["Stakeholder Reporting", "Requirements Translation", "QBRs", "Status Communication"]},
-    {"category": "Systems & Operations", "items": ["Workflow Automation", "Data Hygiene", "Change Management", "Technology Transformation Support"]}
+    {
+      "category": "Program & Workflow Management",
+      "items": [
+        "Intake & Prioritization Systems",
+        "SOP Development",
+        "Process Mapping",
+        "Capacity & Risk Tracking"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "Asana",
+        "Notion",
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel",
+        "Slack",
+        "Monday.com"
+      ]
+    },
+    {
+      "category": "Cross-Functional Coordination",
+      "items": [
+        "Stakeholder Reporting",
+        "Requirements Translation",
+        "QBRs",
+        "Status Communication"
+      ]
+    },
+    {
+      "category": "Systems & Operations",
+      "items": [
+        "Workflow Automation",
+        "Data Hygiene",
+        "Change Management",
+        "Technology Transformation Support"
+      ]
+    }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
-  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"]
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
 }

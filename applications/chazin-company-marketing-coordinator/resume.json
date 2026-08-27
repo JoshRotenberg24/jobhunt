@@ -39,6 +39,16 @@
       ]
     },
     {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Developed scalable communication workflows and automated product-training email sequences that reduced onboarding friction.",
+        "Onboarded and managed 15-20 reseller partners, retaining all but one (~94% retention) during tenure through consistent, value-driven communication."
+      ]
+    },
+    {
       "title": "Account Executive / Sales Operations",
       "company": "Fetch & Funnel",
       "location": "Remote",
@@ -47,16 +57,6 @@
         "Ran client accounts end to end on HubSpot at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
         "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
         "Built and refined internal processes that improved reporting accuracy and strengthened cross-team alignment."
-      ]
-    },
-    {
-      "title": "Channel Partnerships & Customer Onboarding",
-      "company": "Birdeye",
-      "location": "Remote",
-      "dates": "Feb 2023 - Apr 2024",
-      "bullets": [
-        "Developed scalable communication workflows and automated product-training email sequences that reduced onboarding friction.",
-        "Onboarded and managed 15-20 reseller partners, retaining all but one (~94% retention) during tenure through consistent, value-driven communication."
       ]
     },
     {
@@ -93,11 +93,47 @@
     }
   ],
   "competencies": [
-    {"category": "Email & Automation", "items": ["HubSpot", "Automated Lead-Nurturing Workflows", "Segmentation & Personalization", "A/B Testing"]},
-    {"category": "Content", "items": ["Email Copywriting", "Blog & Newsletter Content", "Direct-Response Copy", "Landing Pages"]},
-    {"category": "Analytics & Reporting", "items": ["Campaign KPI Tracking", "GA4", "ROI Reporting", "QBRs"]},
-    {"category": "B2B Marketing", "items": ["Lead Generation", "Pipeline Development", "Cross-Team Coordination", "CRM Data Hygiene"]}
+    {
+      "category": "Email & Automation",
+      "items": [
+        "HubSpot",
+        "Automated Lead-Nurturing Workflows",
+        "Segmentation & Personalization",
+        "A/B Testing"
+      ]
+    },
+    {
+      "category": "Content",
+      "items": [
+        "Email Copywriting",
+        "Blog & Newsletter Content",
+        "Direct-Response Copy",
+        "Landing Pages"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "Campaign KPI Tracking",
+        "GA4",
+        "ROI Reporting",
+        "QBRs"
+      ]
+    },
+    {
+      "category": "B2B Marketing",
+      "items": [
+        "Lead Generation",
+        "Pipeline Development",
+        "Cross-Team Coordination",
+        "CRM Data Hygiene"
+      ]
+    }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
-  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"]
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
 }
