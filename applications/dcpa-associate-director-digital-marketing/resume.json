@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Digital marketing strategist with 15+ years across agency, SaaS, and marketing operations, leading integrated campaigns spanning paid media, email, content, SEO, and analytics. Reads campaign performance as a business question rather than a platform one: what the data says, what is driving it, and what should change next. Led a team of onboarding specialists at Wix and developed sales training for tenured account executives, and has spent a decade advising executives and external partners where a recommendation has to be understood before it can be acted on. Denver metro based, currently building AI and automation systems that inform how search and discovery are shifting.",
+  "summary": "Digital marketing strategist with 15+ years across agency, SaaS, and marketing operations, leading integrated campaigns spanning paid media, email, content, SEO, and analytics. Reads campaign performance as a business question rather than a platform one: what the data says, what is driving it, and what should change next. Led a team of onboarding specialists at Wix for two years, a team of 20 and later a team of 8, and developed sales training for tenured account executives, and has spent a decade advising executives and external partners where a recommendation has to be understood before it can be acted on. Denver metro based, currently building AI and automation systems that inform how search and discovery are shifting.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -65,7 +65,7 @@
       "location": "Remote",
       "dates": "Aug 2020 - Aug 2022",
       "bullets": [
-        "Managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Managed and developed a team of onboarding specialists for two years - a team of 20, later a team of 8 - overseeing budgets, scope, and delivery for a high-value client portfolio.",
         "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives.",
         "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
         "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion."
@@ -89,11 +89,11 @@
         "Integrated Campaign Strategy",
         "Paid Media Strategy & Review",
         "Google Ads",
+        "Meta Ads",
         "Email & Lifecycle Marketing",
         "SEO & Technical Audits",
         "Content Strategy",
-        "Landing Pages & CRO",
-        "Campaign Phasing & Timing"
+        "Landing Pages & CRO"
       ]
     },
     {
@@ -140,6 +140,7 @@
     "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
   ],
   "certifications": [
+    "Meta Ads Certification - Meta",
     "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
   ]
 }

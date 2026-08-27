@@ -22,11 +22,24 @@
 > that requires a second language / bilingual (e.g. Spanish) fluency is a hard knockout.
 > Based in Arvada, CO — remote (US) or Denver/Colorado metro only; roles that exclude
 > Colorado or require relocation/onsite elsewhere are knockouts.
+>
+> **Personal-brand constraint (confirmed Aug 2026):** will not be on-camera talent or the
+> face of a creator/influencer program. Supporting, coordinating, or running an influencer
+> program is fine; being the personality is not. Not a knockout on its own — check whether
+> the role requires personal on-camera presence.
+>
+> **Known credential gaps (confirmed by Josh, do not re-ask):** no working knowledge of
+> Section 508 or WCAG accessibility guidelines. Where a posting lists it as required,
+> record it as a real gap rather than a confirmation item.
+>
+> **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
+> role (confirmed Aug 2026 re: DCPA).
 
 ## Education & Certifications
 
 - **B.A. Liberal Arts, Minor in Political Science** — Colorado State University, Fort Collins, CO
 - **Google Digital Marketing & E-Commerce Professional Certificate** — Google / Coursera (Issued Sept 2024)
+- **Meta Ads Certification** — Meta *(confirmed by Josh Aug 2026; exact credential title and issue date still to be captured)*
 
 ---
 
@@ -180,7 +193,7 @@ operator talking, not like a candidate performing.
 ### Wix.com — Account Manager, Onboarding Launch Specialist & Team Lead (Aug 2020 – Aug 2022)
 - Onboarded and launched **25+ clients per month**, holding **120% of sales targets and 110% of implementation targets**.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
-- Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.
+- Directly managed and developed a team of onboarding specialists for **2 years — a team of 20, later a team of 8** — overseeing budgets, scope, and delivery for a high-value client portfolio. *(Scale and duration confirmed by Josh, Aug 2026.)*
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
 - Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.
@@ -234,7 +247,7 @@ operator talking, not like a candidate performing.
 | Category | Competencies |
 | :--- | :--- |
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing |
-| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, SEO, Email Marketing, Landing Pages |
+| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Email Marketing, Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
@@ -258,6 +271,7 @@ operator talking, not like a candidate performing.
 - **Accelo deal sizes of $20K+** later in tenure, alongside a base of smaller wins
 - **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure (per-deal contract value, confirmed by Josh)
 - **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
+- **2 years as team lead at Wix, managing a team of 20 and later a team of 8** onboarding specialists (confirmed by Josh, Aug 2026)
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
 
 > If a job calls for a metric not in this list, do NOT manufacture one. Use a
@@ -279,8 +293,8 @@ with its scope and delete the line here.
   projects, so the remaining two are still worth capturing.
 - **Time-to-launch / time-to-value.** Typical onboarding duration at Wix and Birdeye,
   and whether it improved during his tenure (from what, to what).
-- **Team size at Wix.** He led a team of onboarding specialists; the count is unrecorded,
-  as is how many he hired or trained.
+- **Wix hiring/training counts.** Team size and duration are now captured (2 years, 20 then
+  8). Still unrecorded: how many people he personally hired and trained.
 
 **Role-specific:**
 - **Data volume.** Records or contacts in the largest migration or import he has run, and
