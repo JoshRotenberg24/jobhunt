@@ -1,0 +1,111 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "CRM & Lead Management | Marketing Operations, Automation & Lead Lifecycle",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "CRM and marketing operations practitioner with 5+ years architecting CRM systems and lead automation, inside 15+ years across B2B SaaS, agency, and revenue operations. Builds the full lead lifecycle: capture, routing, scoring, segmentation, nurture, and the reporting that shows whether any of it is converting. Hands-on across Salesforce, HubSpot, and GoHighLevel, with strict data-hygiene practice behind every build. Currently deploying AI agents inside CRM workflows for lead qualification, enrichment, and company research, the same direction this role is heading.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected a complete CRM automation system of 20+ workflows spanning lead capture, tagging and routing, qualification, appointment booking with confirmations and reminders, no-show recovery, post-sale onboarding nurture, long-term reactivation, and automated review generation.",
+        "Architect and implement CRM systems in GoHighLevel and HubSpot - contact segmentation, lifecycle stages, lead routing, and strict data-hygiene protocols.",
+        "Build AI agents and custom logic that score a business's digital footprint and generate personalized outreach, including an automated prospect audit workflow that enrolled 180+ contacts.",
+        "Design lead scoring, segmentation, automated nurture sequences, and follow-up cadences that activate and retain contacts across the lifecycle.",
+        "Build performance dashboards tracking lead volume, funnel progression, campaign ROI, and pipeline velocity, delivering the interpretation alongside the numbers.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping records auditable across concurrent engagements.",
+        "Translate non-technical stakeholders' requirements into precise, structured AI prompts and agent instructions, bridging business intent and reliable output."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations from the data.",
+        "Produced complex email sequences and conversion-focused landing pages that improved lead generation and pipeline.",
+        "Coordinated execution across internal departments as strategic lead, improving handoffs between marketing and delivery teams.",
+        "Translated performance data into recommendations for multi-stakeholder accounts in HubSpot."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners in Salesforce (deal sizes ~$10K-$45K), retaining all but one (~94% retention).",
+        "Analyzed partner utilization and performance data to identify adoption gaps and recommend interventions that reduced churn.",
+        "Built scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Guided customers through technical setup and configuration of reputation and marketing automation tools."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened alignment between sales and delivery teams.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Managed client accounts in HubSpot end to end, covering execution, performance reporting, and cross-team communication."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month in Salesforce, holding 120% of sales targets and 110% of implementation targets.",
+        "Managed and developed a team of onboarding specialists for two years - a team of 20, later a team of 8 - overseeing scope and delivery for a high-value client portfolio.",
+        "Led onboarding and launch operations as primary strategic contact, delivering on time and accelerating time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, advising C-suite stakeholders on operational system design.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.",
+        "Ranked top three in sales on a team of 8 to 15 reps for all but the final months of tenure, sustained while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "CRM & Lead Management",
+      "items": ["Lead Routing & Assignment", "Lead Scoring", "Lead Lifecycle Management", "Customer Segmentation", "Pipeline Management", "Data Hygiene & Deduplication", "Naming Conventions & Data Standards", "CRM Administration"]
+    },
+    {
+      "category": "Platforms",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Accelo", "Notion", "Slack", "Asana", "Jira", "Zendesk"]
+    },
+    {
+      "category": "Marketing Automation & Demand Gen",
+      "items": ["Workflow Automation", "Automated Nurture Campaigns", "Email Workflows & Follow-Up Sequences", "Lifecycle Marketing", "Demand Generation", "Landing Pages", "A/B Testing"]
+    },
+    {
+      "category": "Reporting & Analysis",
+      "items": ["CRM Reports & Dashboards", "Lead Volume & Conversion Metrics", "Campaign Performance Analysis", "Funnel & Pipeline Reporting", "GA4", "Campaign Attribution"]
+    },
+    {
+      "category": "AI & Process Improvement",
+      "items": ["CRM-Based AI Agents", "Agentic AI Workflows", "Prompt Design for Research & Outreach", "Workflow Decomposition", "SOP Development", "Business Process Optimization"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Meta Ads Certification - Meta", "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}

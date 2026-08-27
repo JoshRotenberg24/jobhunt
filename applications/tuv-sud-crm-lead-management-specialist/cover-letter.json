@@ -1,0 +1,22 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 27, 2026",
+  "company": "TUV SUD America Inc.",
+  "role": "CRM & Lead Management Specialist",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the CRM & Lead Management Specialist role (Requisition 6861). Your task list reads like a description of what I build. At Solenzo I architected a complete CRM automation system of 20+ workflows covering lead capture, tagging and routing, qualification, appointment booking, no-show recovery, onboarding nurture, and long-term reactivation, with segmentation, lifecycle stages, and data-hygiene rules underneath it. I built it, I maintain it, and I own the reporting that tells me whether it's working.",
+    "The last bullet in your task list is the one that made me apply. Using AI tools and CRM-based AI agents for lead management and company research is what I spend most of my week on. I build agents that score a business's digital footprint and generate personalized outreach, including an audit workflow that enrolled 180+ contacts, and I do the unglamorous part too: translating what a non-technical stakeholder actually wants into instructions an agent will follow reliably. Most organizations are still deciding whether to try this. Writing it into the job description means you're past that, and I'd rather join a team that's already moving.",
+    "On platforms, I've worked hands-on in Salesforce (Birdeye, Wix), HubSpot (Level Agency, Fetch & Funnel, client builds), and GoHighLevel as my primary system, and I sold and scoped CRM software to agencies and professional services firms at Accelo, which means I've seen a lot of other companies' lead processes from the inside. On lead handoffs specifically, I've spent years on the sales side of that handoff, so I know exactly how a routing rule fails in practice and what it costs.",
+    "One thing worth naming directly: I have more years behind me than the 1 to 3 this posting asks for. I'm not looking to manage a function, I'm looking to build and run one well, and this is the work I actually like doing. I'd welcome the conversation."
+  ],
+  "closing": "Sincerely,"
+}
