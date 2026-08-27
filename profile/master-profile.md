@@ -43,6 +43,22 @@
 
 ---
 
+## Early / Pre-Professional Background (true, usable as context — not resume work history)
+
+> Added Aug 2026, confirmed by Josh. Not a professional marketing role and not to be listed
+> in the work-history table, but genuine domain grounding worth using in cover letters,
+> application answers, and interviews for live entertainment, venue, arts, or ticketed-event
+> employers, where it converts the weakest dimension of those applications into a real one.
+
+- **Roadie work during college** (Colorado State University era, Fort Collins, CO). Exact
+  years and acts not yet captured.
+- **Worked at the Mishawaka Amphitheatre**, Bellvue, CO — an outdoor music venue in the
+  Poudre Canyon. Role, dates, and duration not yet captured.
+- **Long-standing personal interest in live entertainment**, stated by Josh as a genuine
+  draw rather than a positioning angle.
+
+---
+
 ## Work History (employers, titles, dates — fixed facts)
 
 > **Ordering rule (non-negotiable, added Aug 2026 after an interviewer flagged an

@@ -43,8 +43,8 @@ confirmed gap rather than an open question.**
 ## Application Priority Score
 
 ```
-🔵 Application Priority Score: 75 / 100 — Solid stretch
-[███████████████░░░░░]  75%
+🔵 Application Priority Score: 77 / 100 — Solid stretch
+[███████████████░░░░░]  77%
 ```
 
 *Internal decision aid based on evidence in the master profile. Not a prediction of the
@@ -54,12 +54,12 @@ DCPA's screening, ATS output, or hiring decision.* See `fit.png`.
 | :--- | :--- | :--- |
 | Must-have requirements met | 32 / 40 | Years, degree, mentorship (now with real scale), paid social via Meta certification, data interpretation, vendor work, and stakeholder communication all land. Accessibility guidelines, organic social channel ownership, GEO, and ticketing/revenue-pacing data do not. |
 | Seniority & scope alignment | 12 / 15 | The role is Associate Director in a 300+ person organization, providing coverage for leadership and mentoring channel specialists. Two years leading a 20-person team is genuine management scope, well past the stated minimum; the remaining distance is the absence of a prior director-level marketing title. |
-| Domain / industry alignment | 7 / 15 | The weakest dimension. No arts, nonprofit, live entertainment, ticketed events, or fundraising experience. His background is B2B SaaS and agency. Time-bound campaign work is adjacent but not the same as a show calendar. |
+| Domain / industry alignment | 9 / 15 | Still the weakest dimension, but no longer empty: roadie work in college and time working at the Mishawaka Amphitheatre are real live-entertainment grounding, and Josh names live entertainment as a genuine long-standing interest. That is background and motivation, not professional arts marketing experience — no nonprofit, fundraising, or ticketed-campaign work. |
 | Differentiators | 13 / 15 | GEO readiness is the standout: the posting explicitly wants someone to "guide the way into generative engine optimization," and Josh builds LLM and agent systems daily alongside technical SEO work. Denver-metro residency, founder-level breadth, and full-funnel range add to it. |
 | Evidence strength | 11 / 15 | Real numbers for team size and tenure, retention, traffic and conversion lift, onboarding volume, and quota. Still none for campaign budgets managed or media spend reviewed. |
 
-**Band: Solid stretch, upper end** (revised up from 69 after Josh confirmed the Wix team
-scale and the Meta Ads certification). The honest read: he's strong on the analytical
+**Band: Solid stretch, upper end** (revised 69 -> 75 -> 77 as Josh confirmed the Wix
+team scale, the Meta Ads certification, and his live-entertainment background). The honest read: he's strong on the analytical
 judgment, cross-functional coordination, management scope, and paid media interpretation
 the role centers on, and weak on the arts/ticketing domain and the accessibility line. The
 GEO angle is a genuine differentiator few local applicants will have. He also named this
@@ -101,18 +101,25 @@ influencer marketing ✗ (and note: Josh will support or run a creator program b
 2. **GEO readiness.** The posting wants someone ready to lead into generative engine
    optimization. Josh combines hands-on technical SEO with daily LLM and agent system
    building — an unusual pairing and the strongest differentiator in the application.
-3. **Vendor and partner accountability.** Managing 15–20 external partners and working
+3. **A real reason to want this one.** Roadie work in college and time at the Mishawaka
+   give the "why the DCPA" answer something behind it, which matters at an organization
+   that will get plenty of applicants who just want a Denver marketing job.
+4. **Vendor and partner accountability.** Managing 15–20 external partners and working
    agency-side means he knows what a real recommendation looks like versus a platform-driven
    activity summary.
-4. **Real management scope.** Two years leading a team of 20, then 8, clears the stated
+5. **Real management scope.** Two years leading a team of 20, then 8, clears the stated
    2-year minimum with headcount most applicants at this band won't match.
-5. **Denver metro, no relocation.** The posting states no relocation benefits, which makes
+6. **Denver metro, no relocation.** The posting states no relocation benefits, which makes
    local candidacy a practical advantage.
 
 ## Gaps (genuinely absent from the profile)
 
-- **Arts, live entertainment, ticketed events, nonprofit.** Preferred, not required, but it
-  shapes the whole role — show calendars, revenue pacing, touring campaign windows.
+- **Professional arts / ticketed-events marketing.** Preferred, not required, but it shapes
+  the whole role: show calendars, revenue pacing, touring campaign windows. Note that the
+  *domain* gap is now partly answered — roadie work and time at the Mishawaka are genuine
+  live-entertainment grounding, and they belong in the cover letter and interview rather
+  than the resume's work history. What's still absent is professional marketing experience
+  inside that world.
 - **Organic social channel ownership.** Listed inside a required qualification. Josh has a
   working understanding of how attention and hype build through organic social, and is Meta
   Ads certified on the paid side, but has not run brand social channels — so the resume
@@ -127,7 +134,11 @@ influencer marketing ✗ (and note: Josh will support or run a creator program b
 
 All prior items are resolved except one:
 
-1. **Meta Ads certification — exact credential title and issue date.** Recorded in the
+1. **Roadie / Mishawaka details** — rough years, and what the Mishawaka role actually was.
+   Recorded in the profile as unconfirmed. Not needed for the written application (it's
+   framed honestly as long-ago background), but an interviewer will ask, so it's worth
+   having the specifics ready.
+2. **Meta Ads certification — exact credential title and issue date.** Recorded in the
    profile and on the resume as "Meta Ads Certification - Meta" pending the precise name
    (Meta Certified Digital Marketing Associate, a Blueprint certification, or similar) and
    the date. Worth getting exactly right, since a certification is checkable.
@@ -154,4 +165,5 @@ These recur often enough to justify an `/excavate-profile` pass before the next 
 
 - `resume.pdf` / `resume.docx` — 2 pages, modern style, selectable text, reverse-chronological (verified)
 - `cover-letter.pdf` / `cover-letter.docx` — 1 page, matching letterhead
+- `application-answers.md` — free-text answer for "Do you want to tell us anything else about yourself?"
 - `fit.png` — score meter
