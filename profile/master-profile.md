@@ -35,7 +35,8 @@
 > **Ordering rule (non-negotiable, added Aug 2026 after an interviewer flagged an
 > out-of-sequence resume):** this table is already in reverse-chronological order, and
 > every resume must present the jobs in exactly this relative order — most recent first,
-> sorted by end date (a currently-held role first). Roles may be *omitted* when they are
+> sorted by end date — **a currently-held role always goes on top** (Solenzo above Level
+> Agency, confirmed by Josh, settled). Roles may be *omitted* when they are
 > not relevant; they may never be *reordered*. Relevance is expressed through bullet
 > selection inside a role, never by moving a job up the page.
 

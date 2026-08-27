@@ -171,6 +171,11 @@ Write `applications/<company-slug>/resume.json` using the schema in
   out-of-sequence timeline reads to a recruiter as careless or as hiding something, and
   Josh has been called out for it in an interview. Read the dates back top-to-bottom and
   confirm they descend before you render.
+- **Overlapping roles: the current role goes on top. Settled — do not re-litigate it.**
+  Solenzo (Feb 2024 – Present) sits above Level Agency (Sep 2024 – Feb 2025) even though
+  Level Agency started later. Sorting by end date already produces this; never "fix" the
+  apparent start-date jump by demoting the current role, and never raise it with Josh as
+  an open question.
 - Which roles to *include* is still a judgment call (older, less relevant jobs can be
   dropped) — but every role you do include sits in its correct chronological position.
 - Pull the most relevant 4–6 bullets for recent roles, fewer for older ones.
