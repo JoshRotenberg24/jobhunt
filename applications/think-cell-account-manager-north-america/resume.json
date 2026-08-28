@@ -1,0 +1,116 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SaaS Account Management | Full-Cycle Expansion, Retention & Enterprise Relationships",
+  "contact": {
+    "location": "Arvada, CO (Denver Region)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SaaS account manager and full-cycle seller with 15+ years growing mid-market and enterprise software accounts. Ranked top three of 8 to 15 reps at Accelo while quota roughly doubled, retained all but one of a 15-20 partner book at Birdeye, and held 120% of sales targets at Wix. Sells to and expands inside complex organizations, multi-threading from end users to procurement to the C-suite, and runs the whole cycle: prospecting, qualification, demo, negotiation, and close. Denver based, entrepreneurial by track record as the founder of a marketing operations practice, and fluent in the account data that shows where expansion and churn risk actually sit.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Identify expansion opportunities inside an existing client base, scoping and closing complementary services aligned to each client's objectives.",
+        "Own the primary strategic relationship for a portfolio of business clients, running discovery to surface goals, structure, and buying patterns.",
+        "Build account-level scoring logic that evaluates a company's digital footprint to prioritize outreach, including an audit workflow that enrolled 180+ contacts.",
+        "Run day-to-day delivery on complex SaaS platforms, driving adoption and measurable outcomes rather than handing off after the sale.",
+        "Build dashboards tracking pipeline velocity, funnel progression, and campaign ROI, and report results directly to business owners."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, acting as strategic lead and coordinating execution across internal departments.",
+        "Built performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering recommendations and quarterly business reviews.",
+        "Held delivery quality consistent across accounts, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners with deal sizes of ~$10K-$45K, retaining all but one (~94% retention) during tenure.",
+        "Analyzed partner utilization and performance data to identify adoption gaps and recommend interventions that reduced churn.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Drove rapid adoption of marketing automation and reputation management software across a diverse, high-volume partner network.",
+        "Routed structured, high-priority customer feedback to Product and Engineering, connecting field signals to roadmap decisions."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K each, several exceeding $25K, for roughly $130K+ in total bookings over a short tenure.",
+        "Ran client accounts end to end, covering execution, performance reporting, and cross-team communication.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Held 120% of sales targets and 110% of implementation targets while onboarding and launching 25+ clients per month.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Managed and developed a team of onboarding specialists for two years, a team of 20 and later a team of 8, overseeing scope and delivery.",
+        "Drove team initiatives for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, training, and sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, closing deals of $20K and larger later in tenure.",
+        "Averaged ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue, performing consistently into accelerator commission tiers.",
+        "Built C-suite relationships as a trusted advisor on operational system design, guiding onboarding, workflow design, and API integrations.",
+        "Escalated risk early and mitigated account-level exposure with direct strategic guidance."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing automation platform, covering high-volume prospecting, qualification, and customer acquisition."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Account Management & Expansion",
+      "items": ["Portfolio & Book Ownership", "Account Expansion & Upsell", "Strategic Account Planning", "Churn Analysis & Mitigation", "Renewal Strategy", "Customer Adoption & Enablement", "Account Health Monitoring"]
+    },
+    {
+      "category": "Full-Cycle Sales",
+      "items": ["Prospecting & Pipeline Generation", "Qualification", "Value Positioning", "Live Product Demonstrations", "Negotiation", "Deal Closing", "Multi-Threading", "C-Suite Relationship Building"]
+    },
+    {
+      "category": "Systems & Data",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Pipeline & Forecast Reporting", "Account Scoring & Prioritization", "Conversion & Funnel Analysis", "Sales Automation Workflows"]
+    },
+    {
+      "category": "Cross-Functional & Enablement",
+      "items": ["Solution Consulting Partnership", "Customer Training Delivery", "Sales Training Development", "Product & Engineering Feedback Loops", "Virtual Presentation", "Stakeholder Communication"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Meta Ads Certification - Meta", "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
