@@ -1,0 +1,141 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Go-to-Market & Marketing Strategist | Positioning, Narrative & Commercial Execution",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Go-to-market and marketing strategist with 15+ years in B2B SaaS, MarTech, and agency environments, working between market strategy and the hands-on build. I write the positioning, produce the campaign assets, equip the sales team, and read the performance data myself. At Wix I drove a brand-new vertical from proof of concept to a profitable business line and built the sales training behind it. At Solenzo I define messaging frameworks for service-business clients and translate complex technical and data systems into narratives non-technical buyers understand and act on.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Translate complex technical systems, automation logic, and performance data into clear narratives and structured recommendations that non-technical business owners act on.",
+        "Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, aligning marketing programs to revenue objectives directly with owners and sales teams.",
+        "Build reusable messaging frameworks and marketing assets, adapting a shared template base to each client's brand, buyer, and vertical rather than starting from scratch each time.",
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Conduct competitor research, keyword gap analyses, and technical audits to identify positioning opportunities and market gaps, then implement the resulting changes directly.",
+        "Draft the direct-response copy, outreach sequences, and landing pages myself, then track acquisition and retention in GA4 and CRM analytics and use the data to keep iterating.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations backed by tracking across sales enablement, marketing, and operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated multi-channel marketing strategies across inbound, paid media, and content, acting as strategic lead and orchestrating execution across internal departments.",
+        "Produced high-converting campaign assets - landing pages, multi-touch email sequences, conversion-focused copy - improving lead generation and pipeline.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs to client stakeholders.",
+        "Ran keyword and search-term research to shape campaign targeting, audience definition, and content direction.",
+        "Translated performance data into strategic recommendations for multi-stakeholder accounts spanning marketing and technology channels."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail verticals (deal sizes ~$10K-$45K), retaining all but one (~94% retention).",
+        "Equipped partners with positioning, value messaging, and customer health metrics they used to sell and defend the product inside their own markets.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback that informed the roadmap.",
+        "Analyzed partner utilization and performance data to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Closed 6 new-client deals averaging ~$22K each, roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring and onboarding and building the sales training that equipped tenured account executives to sell into it.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO to improve client traffic and conversion.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled.",
+        "Built relationships with C-Suite executives as a trusted advisor on operational system design, moving between executive strategy conversations and hands-on workflow configuration."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Go-to-Market & Positioning",
+      "items": [
+        "Messaging Frameworks",
+        "Value Proposition Development",
+        "Vertical & Segment Strategy",
+        "Sales Enablement"
+      ]
+    },
+    {
+      "category": "Research & Insight",
+      "items": [
+        "Competitive Research",
+        "Customer Discovery",
+        "Market & Keyword Analysis",
+        "Performance Analysis"
+      ]
+    },
+    {
+      "category": "Campaigns & Content",
+      "items": [
+        "Integrated Multi-Channel Campaigns",
+        "Landing Pages & Email",
+        "Thought Leadership & Long-Form Content",
+        "Direct-Response Copywriting"
+      ]
+    },
+    {
+      "category": "Systems & Analytics",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel",
+        "GA4 & Campaign Reporting"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "Agentic AI Workflows",
+        "Prompt & Agent-Logic Design",
+        "Requirements-to-Prompt Translation",
+        "Rapid Prototyping"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
