@@ -7,16 +7,14 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "date": "August 23, 2026",
+  "date": "August 28, 2026",
   "company": "LawnStarter",
   "role": "Senior Lifecycle Marketing Manager",
   "recipient": "Hiring Team",
   "body": [
-    "I am excited to apply for the Senior Lifecycle Marketing Manager role at LawnStarter because the way you describe the job aligns closely with how I work: no agency, no contractor pool, you write the message, build it, send it, and analyze the results yourself. That has been my daily reality at Solenzo, the company I founded and have led for the past two and a half years.",
-    "I have architected a comprehensive lifecycle automation system, over 20 workflows spanning lead capture, qualification, triggered booking with confirmations and reminders, no-show recovery, onboarding nurture, and long-term reactivation, and I built every piece of it myself: the agent logic, the copy, and the monitoring that detects and resolves issues before a customer even notices.",
-    "I break down manual marketing workflows into agent-driven architectures that score a business's digital footprint and generate personalized outreach at a level of detail impossible to achieve by hand, the same challenge you describe as the reason this role exists.",
-    "While I have not used Braze specifically, the discipline (segmentation, triggered logic, personalization, and the judgment to know what truly deserves automation) is the same skill regardless of platform. I quickly master new tools because every client relationship begins with learning their existing stack.",
-    "I would welcome the opportunity to discuss in detail what I have built and the impact it had. Thank you for considering my application."
+    "You are hiring someone to write the message, build it, send it, and read the result, with nobody in between. That is how I have worked for the past two and a half years at Solenzo, the marketing systems company I founded and run, and it is why this posting reads differently to me than most lifecycle roles do.",
+    "What I built there is a lifecycle program in miniature: 20+ workflows covering lead capture and routing, qualification, booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term reactivation, and review generation. I wrote every message in it. On top of that sits the layer your posting calls the single biggest reason the role exists, agent logic that scores a business's digital footprint and generates outreach personalized at a grain I could not produce by hand, running through an audit workflow that enrolled 180+ contacts. Around all of it I built evaluation loops that watch the agents' output and surface a broken or underperforming path before anyone downstream notices it.",
+    "I have not worked in Braze. The discipline underneath it, segmentation, trigger logic, personalization, and the judgment about what deserves automation at all, is what I do daily, and learning a client's existing stack has been the first step of every engagement I have run. I would like to walk you through what I built, where it fails, and what it returned."
   ],
   "closing": "Sincerely,"
 }
