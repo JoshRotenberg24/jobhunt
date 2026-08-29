@@ -29,27 +29,25 @@ rather than acquisition, so I'd call it adjacent rather than equivalent.
 
 ## Q2. "Please share your experience with and knowledge of the outdoor industry."
 
-**Status: BLOCKED — needs Josh's real answer. Do not submit without it.**
+**Status: ready to paste (~700 characters). Based on Josh's confirmed answer: camps and
+hikes, does not hunt or fish, no industry standing.**
 
-Nothing in the master profile covers hunting, fishing, outdoor recreation, land access, or
-the outdoor industry. This answer cannot be drafted from existing material and must not be
-invented: it is a screening question at a private-land hunting and fishing company, and a
-fabricated answer collapses in the first ten minutes of an interview.
+I'm a camper and a hiker, not a hunter or an angler, so I'll be straight that I don't have
+outdoor industry standing and I'm not going to claim it.
 
-**What to tell me, and I'll write it:**
-- Do you hunt or fish? What, where, how long, public or private land?
-- Any Colorado land access experience — leases, ranch permission, OTC tags, CPW draws?
-- Memberships or organizations: BHA, RMEF, TU, DU, CPW licenses?
-- Gear, guiding, outfitting, or any work adjacent to the industry?
-- If none of the above: do you have a genuine outdoor-recreation interest of another kind
-  (hiking, camping, skiing, climbing)? That's a weaker but honest answer.
+What I do have is the recreation side of the same problem. I've lived and worked in
+Colorado for most of my career and I use this state's outdoors, so access, and how much
+harder it keeps getting to find good ground, isn't abstract to me.
 
-**If the answer is genuinely nothing:** the right move is short, honest, and pivots fast.
-Something like — *"I'm not going to claim industry standing I don't have. I'm a Colorado
-resident who values access to this state's land, and I'd be learning the customer from
-your members and landowners rather than from my own experience. What I'd bring on day one
-is the acquisition system, not the domain."* Two sentences beats three paragraphs of
-padding, and it reads as self-aware rather than underqualified.
+Practically, that means I'd be learning your members from them rather than from my own
+experience, and I'd want to do that early rather than guess. It's also worth noting that
+half this role is landowner acquisition, and a landowner deciding whether to open their
+property is a business decision, not a recreation one. That side is squarely my
+background.
+
+> **Why it's built this way:** it opens by conceding the gap before a reader can hold it
+> against him, grounds the honest half in something real, then reframes the second audience
+> (landowners) as a B2B acquisition problem, which is exactly his lane. Do not lengthen it.
 
 ---
 

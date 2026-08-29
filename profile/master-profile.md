@@ -57,6 +57,14 @@
 - **Long-standing personal interest in live entertainment**, stated by Josh as a genuine
   draw rather than a positioning angle.
 
+## Outdoor recreation (confirmed Aug 2026)
+
+- **Camps and hikes.** Colorado-based, uses the state's outdoors recreationally.
+- **Does NOT hunt or fish**, and holds no outdoor-industry standing, memberships, guiding,
+  outfitting, or gear-industry experience. For hunting, fishing, or outdoor-industry
+  employers, answer from the recreation side only and say plainly that the hunting and
+  angling background isn't there. Do not re-ask; do not stretch this.
+
 ---
 
 ## Work History (employers, titles, dates — fixed facts)
