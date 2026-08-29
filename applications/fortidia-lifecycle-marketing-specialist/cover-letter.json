@@ -1,0 +1,22 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 27, 2026",
+  "company": "Fortidia US",
+  "role": "Lifecycle Marketing Specialist",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Lifecycle Marketing Specialist role. Lifecycle work is the part of marketing I've spent the most time inside. At Solenzo I built a 20+ workflow system covering the full arc: capture, tagging and routing, qualification, booking with confirmations and reminders, no-show recovery, post-sale onboarding nurture, long-term reactivation, and automated review generation. I designed the segmentation and lifecycle stages underneath it, and I built the reporting that showed which stages were actually converting and which ones were quietly leaking.",
+    "Before that, most of my career was on the other side of the same problem. At Wix I onboarded and launched 25+ clients a month and led onboarding operations for a high-value portfolio, so activation and time-to-value are things I've owned by hand, not just automated. At Birdeye I built the training sequences and communication workflows that got a 15 to 20 partner network productive, and watched engagement data to catch adoption gaps before they became churn. Retaining all but one of that book came from the intervening, not from the sending.",
+    "On platforms I'm hands-on in HubSpot, Salesforce, and GoHighLevel, with real data-hygiene discipline behind the builds, because segmentation is only as good as the records under it. I also spend my working days building AI and agent systems, which is increasingly where lifecycle personalization is heading.",
+    "I'm in Arvada, so the Lakewood hybrid schedule is a short drive. I'd welcome the conversation."
+  ],
+  "closing": "Sincerely,"
+}
