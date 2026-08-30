@@ -297,6 +297,7 @@ operator talking, not like a candidate performing.
 - **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
 - **2 years as team lead at Wix, managing a team of 20 and later a team of 8** onboarding specialists (confirmed by Josh, Aug 2026)
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
+- **Free digital-footprint audit offer (Solenzo), promoted via LinkedIn organic growth: 180+ businesses enrolled, 2 converted to paying clients** (~1.1% audit-to-client conversion) — confirmed by Josh, Aug 2026. This is Josh's own product-marketing / PLG-style motion: a free offer as top-of-funnel, distributed through his own LinkedIn growth, converting a share of free users to paid. Track record still early; do not overstate the conversion rate, state it plainly.
 
 > If a job calls for a metric not in this list, do NOT manufacture one. Use a
 > qualitative achievement instead, or flag it for Josh to supply a real number.
