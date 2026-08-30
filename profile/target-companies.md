@@ -15,6 +15,11 @@ confirm before an outreach message leans on a specific fact.
 
 Company already in `applications/` are excluded here to avoid duplication.
 
+**Priority tier: Colorado-headquartered companies (Category 9).** These carry zero
+work-location risk — no need to verify a remote policy, and a Denver/Boulder-metro HQ
+means a warm intro or an in-person coffee is realistic in a way it isn't with a
+remote-first company elsewhere. Worth working this category first.
+
 ---
 
 ## 1. GoHighLevel / CRM & marketing-automation platforms
@@ -142,19 +147,33 @@ motion Josh has sold and supported across his career.
 ## 9. Colorado-based SaaS & tech companies
 
 Location fit first (Arvada, CO / Denver metro or remote US only per the job-search
-knockouts) — functional overlap varies, called out per company.
+knockouts) — functional overlap varies, called out per company. Split into
+direct-overlap and location-only so outreach can be prioritized.
+
+**Colorado-based with direct functional overlap:**
 
 - **Pax8** — Denver-area cloud marketplace for MSPs; channel-partner-heavy model echoes the Birdeye reseller-management experience directly.
-- **Ping Identity** — Denver-based identity/security SaaS.
+- **Arrow Electronics** — Centennial, CO-based technology distributor built entirely around a reseller/channel-partner network, the same motion as Birdeye's 15–20 partner book.
+- **TTEC** — Englewood, CO-based customer-experience/BPO company; direct overlap with the onboarding, adoption, and customer-success track record from Wix and Birdeye.
+- **Vail Resorts** — Broomfield, CO-based; the Epic Pass program is a large-scale loyalty/CRM operation, same category as the Fivestars work.
+- **Red Robin** — Englewood, CO-based restaurant chain; Red Robin Royalty is a direct analog to the Punchh/Thanx-style loyalty platforms Josh sold at Fivestars.
+- **Noodles & Company** — Broomfield, CO-based restaurant chain with an active loyalty/rewards program, same category as Red Robin.
+- **Frontier Airlines** — Denver-based; the Discount Den loyalty program and CRM-driven marketing at scale overlap the lifecycle and retention work in the Bullet Bank.
+- **Convercent (part of OneTrust)** — Denver-founded compliance/GRC software; a direct line back to the compliance and customer-management systems built from scratch at Standing Akimbo.
 - **SendGrid (Twilio SendGrid)** — Denver-founded email infrastructure; direct overlap with the email-marketing and deliverability work in the Bullet Bank.
 - **Ibotta** — Denver-based consumer rewards/cash-back platform; overlaps the loyalty-platform experience from Fivestars.
-- **Guild** — Denver-based education-benefits platform.
-- **SonderMind** — Denver-based mental-health platform.
 - **FullContact** — Denver-based contact-data and identity platform; overlaps CRM data-hygiene work.
 - **Optiv** — Denver-based cybersecurity consulting/services firm; consulting-delivery model similar to agency account management.
+
+**Colorado-based, location fit only (function less aligned but worth a look):**
+
+- **Ping Identity** — Denver-based identity/security SaaS.
+- **Guild** — Denver-based education-benefits platform.
+- **SonderMind** — Denver-based mental-health platform.
 - **Quantive (formerly Gtmhub)** — Boulder-based strategy-execution/OKR software.
 - **Webroot (OpenText)** — Broomfield-based security SaaS.
 - **Craftsy** — Denver/Louisville, CO-based creative-education platform.
+- **DISH Network / EchoStar** — Englewood, CO-based satellite/wireless company with a large marketing organization.
 
 ## 10. Cannabis compliance & retail technology
 
