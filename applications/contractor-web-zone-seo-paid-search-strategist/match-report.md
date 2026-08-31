@@ -26,13 +26,13 @@ real decision, not a formality, and the application itself asks Josh to answer i
 | Keyword research, search intent, site structure, on-page SEO | Resume-evidenced | **Covered.** |
 | GA4 and Google Search Console | Resume-evidenced | **Covered.** |
 | Working knowledge of HTML/CSS | Resume-evidenced | **Covered.** On-page fixes and metadata work at Solenzo and Wix are hands-on in CMS platforms. Formal HTML/CSS depth beyond content-level edits is not separately documented — reasonable given the posting says "not a web developer" is required. |
+| **Google Tag Manager / conversion tracking** (preferred) | Resume-evidenced | **Confirmed covered.** Installs and configures GTM on every website built at Solenzo; guided clients through GTM setup at Wix. |
 | Semrush, Ahrefs, or similar | Resume-evidenced | **Covered.** |
 | Managing multiple client accounts | Resume-evidenced | **Covered, strongly** throughout career. |
 | Clear, fluent spoken/written English, client-facing calls | Resume-evidenced | **Covered, strongly.** Career-long pattern of running client calls directly. |
 | Roofing/construction/home-service experience (preferred) | Resume-evidenced | **Partial.** Solenzo's client base includes local service businesses; Birdeye's partner book included home-services specifically. Not roofing-specific. |
 | Agency experience (preferred) | Resume-evidenced | Covered — Level Agency, Fetch & Funnel. |
-| Yelp Ads / Microsoft Ads (preferred) | Resume-evidenced | **Gap.** Not documented. |
-| Google Tag Manager / conversion tracking (preferred) | Resume-evidenced | **Partial/confirm.** Conversion tracking validated in Google Ads directly documented; GTM specifically not named. |
+| Yelp Ads / Microsoft Ads (preferred) | Resume-evidenced | **Gap (hands-on), covered (competitive context).** No direct Yelp Ads or Microsoft Ads platform experience. Genuine competitive-landscape familiarity through two prior employers (Birdeye, Fivestars) that compete with Yelp in local business marketing — represented as competitive context, not platform experience. |
 | Strong GBP / local SEO (preferred) | Resume-evidenced | Covered via Birdeye. |
 | Basic CRO / landing-page optimization (preferred) | Resume-evidenced | Covered. |
 
@@ -41,8 +41,8 @@ real decision, not a formality, and the application itself asks Josh to answer i
 ## Application Priority Score
 
 ```
-🔵 Application Priority Score: 79 / 100 — Solid stretch
-[████████████████░░░░]  79%
+🔵 Application Priority Score: 81 / 100 — Solid stretch
+[████████████████░░░░]  81%
 ```
 
 *Internal decision aid based on evidence in the master profile. Not a prediction of
@@ -50,16 +50,17 @@ Contractor Web Zone's screening or hiring decision.* See `fit.png`.
 
 | Dimension | Score | Reasoning |
 | :--- | :--- | :--- |
-| Must-have requirements met | 32 / 40 | Nearly every required line lands, several strongly (Google Ads build/management, SEO, multi-account ownership, client communication). GTM and Yelp/Microsoft Ads are the only real gaps, both preferred rather than required. |
+| Must-have requirements met | 34 / 40 | Nearly every required line lands, several strongly (Google Ads build/management, SEO, multi-account ownership, client communication, GTM). Only remaining gap is hands-on Yelp/Microsoft Ads platform use, preferred rather than required. |
 | Seniority & scope alignment | 12 / 15 | A hands-on strategist-executor role, not a manage-a-team role, matches his actual day-to-day at Solenzo closely. |
 | Domain / industry alignment | 12 / 15 | Local service businesses are his current client base; home services specifically appeared in his Birdeye partner book. Roofing itself is new, but the client type and the underlying playbook (local lead-gen for a service business) are not. |
 | Differentiators | 12 / 15 | The lead-quality-over-clicks judgment the posting explicitly asks for ("look beyond cost per lead") is the actual Solenzo Google Ads story, not a stretch to fit the language. |
 | Evidence strength | 11 / 15 | Strong qualitative example with real mechanism (targeting rebuild, negative keywords, conversion-path diagnosis). No precise before/after CPL or lead-volume number on file — flagged honestly in the Q4 answer rather than invented. |
 
-**Band: Solid stretch, upper end.** This is the closest genuine match to actual daily
-Solenzo work of any application in the batch: home-service clients, Google Ads ownership
-end to end, and a philosophy (lead quality over surface metrics) that isn't adopted for
-the application, it's already how the work gets done.
+**Band: Solid stretch, upper end** (revised 79 -> 81 after Josh confirmed GTM). This is
+the closest genuine match to actual daily Solenzo work of any application in the batch:
+home-service clients, Google Ads ownership end to end, GTM installed on every site built,
+and a philosophy (lead quality over surface metrics) that isn't adopted for the
+application, it's already how the work gets done.
 
 ---
 
@@ -78,9 +79,9 @@ the application, it's already how the work gets done.
 ## Gaps
 
 - **Roofing-specific experience.** Home services generally, yes; roofing specifically, no.
-- **Yelp Ads, Microsoft Ads.** Named as a plus, not required.
-- **Google Tag Manager**, specifically as a named tool (conversion tracking itself is
-  documented).
+- **Hands-on Yelp Ads or Microsoft Ads.** Named as a plus, not required. Real competitive
+  familiarity exists via Birdeye and Fivestars, but that's landscape knowledge, not
+  platform usage — kept distinct in the cover letter.
 - **A precise before/after number** for the Q4 account story. Flagged honestly rather than
   invented — this is the same recurring gap (email/campaign performance metrics) noted
   across several other match reports.
@@ -91,8 +92,9 @@ the application, it's already how the work gets done.
    week does Solenzo currently need, is that flexible, and would this role replace, sit
    alongside, or require scaling back Solenzo? The draft in `application-answers.md` frames
    the decision but does not answer it for you.
-2. **Any GTM (Google Tag Manager) hands-on experience** not currently documented?
-3. **Any Yelp Ads or Microsoft Ads exposure**, even limited?
+
+*Resolved Aug 27: GTM confirmed and added to the resume; Yelp/Microsoft Ads clarified as
+competitive familiarity (Birdeye, Fivestars) rather than platform experience.*
 
 ## Metrics needed
 
