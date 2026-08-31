@@ -1,0 +1,107 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Experience & Google Ads Specialist | Technical Troubleshooting, Account Ownership & Cross-Functional Partnership",
+  "contact": {
+    "location": "Arvada, CO (Boulder Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer-facing operations professional with 15+ years owning end-to-end technical solutioning for advertisers, partners, and SaaS customers. Manages Google Ads accounts hands-on, diagnosing performance issues to their real root cause rather than stopping at a surface metric, and has built the dashboards and reporting that turn platform data into business recommendations. Onboarded and supported a 15-20 partner network at a customer-experience-driven SaaS platform with roughly 94% retention, working cross-functionally with Product and Engineering to route customer feedback into resolution. Google Digital Marketing & E-Commerce certified, Colorado-based.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own Google Ads accounts end to end for clients: diagnosed an account where click and impression metrics looked healthy but lead quality did not, rebuilt targeting and negative keywords to resolve the immediate issue, then traced the remaining root cause to the site's conversion path rather than closing the ticket on a surface-level fix.",
+        "Provide consultative, empathetic technical troubleshooting for clients across CRM, marketing automation, and ad platforms, owning issues from identification through resolution rather than handing off partway.",
+        "Build performance dashboards and business-analysis reporting - funnel progression, campaign ROI, conversion - translating platform data into recommendations for non-technical stakeholders.",
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research, applying the same root-cause diagnostic discipline used across every account."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, translating results into strategic recommendations for client leadership.",
+        "Coordinated execution across internal departments, keeping delivery and client communication consistent across concurrent accounts."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Served as the front-line point of contact for a 15-20 partner network, troubleshooting technical issues, guiding complex account setup and configuration, and coordinating resolution with Product and Engineering.",
+        "Routed structured, high-priority customer feedback into roadmap decisions, connecting field-level issues to product improvements.",
+        "Analyzed partner utilization and performance data to identify recurring issues and root causes, recommending interventions that reduced churn and retained all but one partner (~94% retention).",
+        "Built training sequences and documentation that reduced repeat support requests and onboarding friction across a high-volume partner network."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised C-suite stakeholders on operational system design as a trusted advisor, guiding onboarding, workflow design, and API integrations, and troubleshooting technical setup issues directly with clients.",
+        "Built sequenced implementation plans ranking which systems to change and in what order, coordinating with delivery teams to execute."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Experience & Troubleshooting",
+      "items": [
+        "Technical Issue Triage & Root-Cause Analysis",
+        "End-to-End Solutioning",
+        "Consultative Support",
+        "Account Configuration & Setup",
+        "Cross-Functional Escalation & Resolution"
+      ]
+    },
+    {
+      "category": "Google Ads & Digital Advertising",
+      "items": [
+        "Google Ads Campaign Management",
+        "Performance Diagnosis",
+        "Conversion Tracking",
+        "Google Tag Manager",
+        "Keyword & Targeting Strategy"
+      ]
+    },
+    {
+      "category": "Business Analysis & Reporting",
+      "items": [
+        "Performance Dashboards",
+        "GA4",
+        "Google Search Console",
+        "ROI / Conversion Analysis",
+        "Data-Driven Recommendations"
+      ]
+    },
+    {
+      "category": "Stakeholder & Partner Management",
+      "items": [
+        "Cross-Functional Stakeholder Management",
+        "Partner & Account Retention",
+        "Voice-of-Customer to Product",
+        "C-Suite Advisory",
+        "Documentation & Process Improvement"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
