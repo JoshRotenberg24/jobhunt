@@ -39,6 +39,14 @@
 >
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
+>
+> **Political alignment (confirmed Aug 2026, stated by Josh directly):** personal politics
+> lean further left (DSA-adjacent), but he identifies as a "vote blue no matter who" voter —
+> pragmatic support for the Democratic Party over ideological purity. Relevant context (not a
+> resume claim) for Democratic-aligned political, advocacy, or government communications
+> roles that ask about willingness to set aside personal politics for a collective/caucus
+> goal. Use in cover letters or application answers for that kind of role, never on the
+> resume itself.
 
 ## Education & Certifications
 

@@ -1,0 +1,97 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Communications & Content Strategist",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Communications strategist with 15+ years writing and managing content and messaging for B2B and consumer audiences, including long-form thought leadership, short-form campaign copy, and organic social content that has driven measurable audience growth. Builds messaging frameworks that adapt a consistent voice across different audiences, and is comfortable working directly in CMS and web platforms to keep content current. Holds a B.A. with a minor in Political Science and brings genuine, long-standing engagement with Colorado and national politics to this work.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Design and promote a free digital-footprint audit offer through organic LinkedIn content and outreach, enrolling 180+ businesses to date.",
+        "Draft clean, specific direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Build reusable messaging frameworks and templates, adapting a consistent voice and structure to each client's brand and audience rather than starting from scratch.",
+        "Install and configure Google Tag Manager on every website built at Solenzo, and guide clients through their own CMS platforms to keep content current."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets and conversion-focused copy on deadline across concurrent client accounts.",
+        "Managed integrated marketing strategies across inbound, paid media, and content, coordinating execution across internal departments."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Advised a network of 15-20 partners on retention strategy and customer health metrics, equipping them to communicate product value clearly to their own customers."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates.",
+        "Managed and developed a 20-person, later 8-person, onboarding team, training new hires and building staff enablement materials."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Content & Messaging",
+      "items": [
+        "Long-Form & Short-Form Writing",
+        "Thought Leadership",
+        "Messaging Frameworks",
+        "Editorial Management"
+      ]
+    },
+    {
+      "category": "Digital & Social Content",
+      "items": [
+        "Organic Social Content Strategy",
+        "Content Distribution",
+        "Audience Growth"
+      ]
+    },
+    {
+      "category": "Website & Technical",
+      "items": [
+        "CMS Management",
+        "Google Tag Manager",
+        "Website Content Updates"
+      ]
+    },
+    {
+      "category": "Delivery & Coordination",
+      "items": [
+        "Cross-Functional Coordination",
+        "Deadline-Driven Delivery",
+        "Stakeholder Communication"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
