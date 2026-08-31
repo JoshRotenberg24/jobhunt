@@ -78,6 +78,82 @@
   employers, answer from the recreation side only and say plainly that the hunting and
   angling background isn't there. Do not re-ask; do not stretch this.
 
+## Career Change Positioning: MarTech/SaaS Marketing → Political & Government Communications
+
+> Added Aug 2026, following the Colorado Senate Democrats Deputy Communications Director
+> application. Reusable positioning for political, government, advocacy, or public-sector
+> communications roles — not a resume section on its own, but the source material for a
+> tailored summary, cover letter, or interview answer on this specific pivot. Every claim
+> below traces to real content elsewhere in this file; nothing here is new fact, only the
+> narrative that connects it.
+
+**Objective.** Move from B2B/SaaS marketing and communications into political and
+government communications — applying 15+ years of writing, messaging, content strategy,
+and audience-building experience to work that advances Democratic priorities and serves
+the public directly, rather than a corporate client roster.
+
+**The career change, plainly stated.** Josh's professional background is entirely
+corporate: 15+ years across SaaS account management, MarTech/CRM implementation, and,
+most recently, running his own marketing operations practice (Solenzo). None of it is
+government, campaign, advocacy, or journalism work. What is real and long-standing is the
+personal thread underneath it: a B.A. minor in Political Science he's never had a job
+that used directly, and a genuine, confirmed personal engagement with Colorado and
+national politics (see the Political alignment note above). The pivot isn't "communications
+person becomes different kind of communications person" as a resume trick — it's a
+deliberate redirection of a real, practiced skill set toward subject matter he's actually
+invested in. That's the honest frame for a cover letter or interview: not manufactured
+passion, a genuine one that hasn't had a professional outlet yet.
+
+**What's different, named honestly.** Political and government communications trades in
+press releases, media advisories, op-eds, and speeches, not marketing copy and landing
+pages. It runs on rapid response to breaking news and legislative cycles, not planned
+campaign calendars. It requires fluency in identity, equity, and intersectionality as
+they show up in public policy and messaging, an area with no direct evidence in the
+profile. These are real gaps, not phrasing problems, and should be named as such rather
+than talked around.
+
+**The throughline — what actually transfers:**
+
+- **Long-form and short-form writing under deadline.** Thought leadership, newsletters,
+  and educational guides (long-form) alongside direct-response copy, outreach sequences,
+  and landing pages (short-form), produced on an ongoing cadence at Solenzo, plus
+  campaign assets produced across concurrent accounts at Level Agency. The range the role
+  asks for — long-form and short-form both — is the same range already in daily use, just
+  aimed at a different subject.
+- **Messaging strategy adapted to different audiences.** Building reusable messaging
+  frameworks and templates that keep a consistent voice while adapting to each client's
+  brand and audience (Solenzo) is the same underlying skill "messaging strategy for
+  diverse audiences" asks for — evidenced for B2B brand audiences, not yet for the
+  political/demographic audiences this role means by "diverse."
+- **Organic audience growth through content, not paid placement.** The free
+  digital-footprint audit offer promoted through organic LinkedIn content, enrolling
+  180+ businesses, is real evidence of building an audience with content rather than ad
+  spend — directly relevant to "developing social media strategy to promote specific
+  goals," even though the platform (LinkedIn, B2B) is narrower than a public political
+  presence would require.
+- **Translating complexity for a specific audience.** Acting as the bridge between
+  non-technical stakeholders' intent and precise, structured output (Solenzo) is the same
+  muscle as turning a policy brief into a clear talking point — evidenced in a technical
+  context, not yet a policy one.
+- **Working inside CMS and web platforms.** Installing Google Tag Manager and working
+  directly in client CMS platforms (Solenzo, Wix) covers the actual day-to-day ask behind
+  "proficient in web design and development" as this role defines it: periodic content
+  updates on Squarespace, not building sites from scratch.
+- **Coordinating across stakeholders under deadline pressure.** Managing integrated
+  marketing strategies across departments (Level Agency) and collaborating with
+  Product/Engineering to surface customer feedback (Birdeye) is the same coordination
+  reflex the role needs to work with a policy team, legislative aides, and a
+  Communications Director on tight timelines.
+- **Training and enabling others.** Two years managing and developing an onboarding team
+  (Wix), including hiring, training new hires, and building enablement materials for
+  tenured staff, is direct evidence for "assist legislative aides in drafting" work —
+  the same pattern of bringing less-experienced people up to a standard, just in a
+  different building.
+- **Genuine subject-matter grounding, not manufactured interest.** The Political Science
+  minor and the confirmed personal political engagement aren't professional experience,
+  but they are real, and they are exactly what closes the gap between "a marketer who
+  needs a job" and "someone who actually wants this specific job."
+
 ---
 
 ## Work History (employers, titles, dates — fixed facts)
