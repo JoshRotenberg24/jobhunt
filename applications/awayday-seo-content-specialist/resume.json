@@ -17,7 +17,7 @@
       "dates": "Feb 2024 - Present",
       "bullets": [
         "Write and publish thought leadership content, newsletters, landing pages, and educational guides for B2B and local-service clients, building reusable templates adapted per brand and vertical rather than rebuilt from scratch each time.",
-        "Conduct technical SEO audits, keyword gap analyses, and competitor and SERP research, implementing on-page fixes - titles, meta descriptions, headers, internal linking, alt text - directly inside client CMS platforms.",
+        "Conduct technical SEO audits using Screaming Frog for site-wide data pulls, keyword gap analyses, and competitor and SERP research, implementing on-page fixes and schema/structured data directly inside client CMS platforms.",
         "Track GA4 and Google Search Console performance across concurrent client accounts, identifying underperforming pages and recommending refreshes or consolidation based on what the data shows.",
         "Use Claude and ChatGPT daily inside production content and SEO workflows, developing structured prompts and process documentation that keep output consistent rather than one-off.",
         "Build and document SOPs for client-facing marketing and operational processes, keeping work auditable and repeatable across concurrent engagements in Notion and CRM systems."
@@ -29,8 +29,16 @@
       "location": "Remote",
       "dates": "Feb 2023 - Apr 2024",
       "bullets": [
-        "Built content toolkits and training materials that equipped 15-20 partners to communicate product value consistently to their own customers.",
-        "Advised partners on Google Business Profile optimization and local search visibility as part of a broader reputation-management platform."
+        "Built content toolkits and training materials that equipped 15-20 partners to communicate product value consistently to their own customers."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, managing workflows and tasks in ClickUp across campaign execution and cross-team communication."
       ]
     },
     {
@@ -39,8 +47,7 @@
       "location": "Remote",
       "dates": "Aug 2020 - Aug 2022",
       "bullets": [
-        "Managed and developed a team of onboarding specialists for two years, a team of 20 and later a team of 8, including structured feedback and performance coaching to improve individual output quality.",
-        "Led digital growth consultations aligning site architecture, on-page SEO, and inbound content to improve client traffic and conversion."
+        "Managed and developed a team of onboarding specialists for two years, a team of 20 and later a team of 8, including structured feedback and performance coaching to improve individual output quality."
       ]
     }
   ],
@@ -48,9 +55,11 @@
     {
       "category": "SEO & On-Page",
       "items": [
+        "Screaming Frog",
         "Technical SEO Audits",
         "Keyword Research & Search Intent",
         "On-Page Optimization",
+        "Schema / Structured Data",
         "Internal Linking",
         "Google Business Profile"
       ]

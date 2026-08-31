@@ -175,7 +175,8 @@ operator talking, not like a candidate performing.
 - Design and deploy automated lifecycle sequences, onboarding workflows, and CRM architectures that activate, nurture, and retain high-value users at scale.
 - Architected and deployed a **complete GoHighLevel marketing-automation system — 20+ workflows** spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.
 - Built segmented cold-email outreach engines in GHL (website-visibility, missed-calls, and low-reviews campaigns) plus an automated **prospect "audit" workflow that enrolled 180+ contacts**, scoring a business's digital footprint to trigger personalized outreach.
-- Conduct technical SEO audits, keyword gap analyses, and competitor research, implementing fixes directly inside client CMS platforms.
+- Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.
+- Identify and implement schema/structured data as part of technical SEO audits, pulling full on-page schema implementation. *(Confirmed by Josh, Aug 2026.)*
 - Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
 - Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
@@ -215,7 +216,7 @@ operator talking, not like a candidate performing.
 - Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.
 
 ### Fetch & Funnel — Account Executive / Sales Operations (Sep 2022 – Feb 2023)
-- Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.
+- Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
 - Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
@@ -284,7 +285,7 @@ operator talking, not like a candidate performing.
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Google Apps, Procore |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
 
 ---
 
