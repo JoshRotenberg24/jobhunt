@@ -32,6 +32,11 @@
 > Section 508 or WCAG accessibility guidelines. Where a posting lists it as required,
 > record it as a real gap rather than a confirmation item.
 >
+> **Yelp Ads (confirmed Aug 2026):** no hands-on Yelp Ads platform experience. He does have
+> direct competitive-landscape familiarity from working at two companies that compete with
+> Yelp in local business marketing/reputation (Birdeye, Fivestars) — represent this as
+> competitive familiarity, never as Yelp Ads platform experience.
+>
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
 
@@ -177,6 +182,7 @@ operator talking, not like a candidate performing.
 - Build reusable, boilerplate marketing assets and messaging frameworks as needed for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.
 
 **Operations & Technical Setup**
+- Install and configure Google Tag Manager on every website built at Solenzo, and guided clients through GTM setup at Wix. *(Confirmed by Josh, Aug 2026.)*
 - Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and strict data-hygiene protocols.
 - Build reusable agent infrastructure and internal tooling integrating with client CRMs and CMS platforms for 24/7 automated growth engines.
 - Own post-sale value delivery for B2B clients, architecting onboarding and technical setup that drives product adoption at scale.
@@ -272,7 +278,7 @@ operator talking, not like a candidate performing.
 | :--- | :--- |
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Email Marketing, Landing Pages |
-| Analytics & Reporting | GA4, Google Search Console, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
+| Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
