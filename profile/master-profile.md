@@ -22,11 +22,53 @@
 > that requires a second language / bilingual (e.g. Spanish) fluency is a hard knockout.
 > Based in Arvada, CO — remote (US) or Denver/Colorado metro only; roles that exclude
 > Colorado or require relocation/onsite elsewhere are knockouts.
+>
+> **Personal-brand constraint (confirmed Aug 2026):** will not be on-camera talent or the
+> face of a creator/influencer program. Supporting, coordinating, or running an influencer
+> program is fine; being the personality is not. Not a knockout on its own — check whether
+> the role requires personal on-camera presence.
+>
+> **Known credential gaps (confirmed by Josh, do not re-ask):** no working knowledge of
+> Section 508 or WCAG accessibility guidelines. Where a posting lists it as required,
+> record it as a real gap rather than a confirmation item.
+>
+> **Yelp Ads (confirmed Aug 2026):** no hands-on Yelp Ads platform experience. He does have
+> direct competitive-landscape familiarity from working at two companies that compete with
+> Yelp in local business marketing/reputation (Birdeye, Fivestars) — represent this as
+> competitive familiarity, never as Yelp Ads platform experience.
+>
+> **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
+> role (confirmed Aug 2026 re: DCPA).
 
 ## Education & Certifications
 
 - **B.A. Liberal Arts, Minor in Political Science** — Colorado State University, Fort Collins, CO
 - **Google Digital Marketing & E-Commerce Professional Certificate** — Google / Coursera (Issued Sept 2024)
+- **Meta Ads Certification** — Meta *(confirmed by Josh Aug 2026; exact credential title and issue date still to be captured)*
+
+---
+
+## Early / Pre-Professional Background (true, usable as context — not resume work history)
+
+> Added Aug 2026, confirmed by Josh. Not a professional marketing role and not to be listed
+> in the work-history table, but genuine domain grounding worth using in cover letters,
+> application answers, and interviews for live entertainment, venue, arts, or ticketed-event
+> employers, where it converts the weakest dimension of those applications into a real one.
+
+- **Roadie work during college** (Colorado State University era, Fort Collins, CO). Exact
+  years and acts not yet captured.
+- **Worked at the Mishawaka Amphitheatre**, Bellvue, CO — an outdoor music venue in the
+  Poudre Canyon. Role, dates, and duration not yet captured.
+- **Long-standing personal interest in live entertainment**, stated by Josh as a genuine
+  draw rather than a positioning angle.
+
+## Outdoor recreation (confirmed Aug 2026)
+
+- **Camps and hikes.** Colorado-based, uses the state's outdoors recreationally.
+- **Does NOT hunt or fish**, and holds no outdoor-industry standing, memberships, guiding,
+  outfitting, or gear-industry experience. For hunting, fishing, or outdoor-industry
+  employers, answer from the recreation side only and say plainly that the hunting and
+  angling background isn't there. Do not re-ask; do not stretch this.
 
 ---
 
@@ -133,13 +175,15 @@ operator talking, not like a candidate performing.
 - Design and deploy automated lifecycle sequences, onboarding workflows, and CRM architectures that activate, nurture, and retain high-value users at scale.
 - Architected and deployed a **complete GoHighLevel marketing-automation system — 20+ workflows** spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.
 - Built segmented cold-email outreach engines in GHL (website-visibility, missed-calls, and low-reviews campaigns) plus an automated **prospect "audit" workflow that enrolled 180+ contacts**, scoring a business's digital footprint to trigger personalized outreach.
-- Conduct technical SEO audits, keyword gap analyses, and competitor research, implementing fixes directly inside client CMS platforms.
+- Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.
+- Identify and implement schema/structured data as part of technical SEO audits, pulling full on-page schema implementation. *(Confirmed by Josh, Aug 2026.)*
 - Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
 - Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
 - Build reusable, boilerplate marketing assets and messaging frameworks as needed for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.
 
 **Operations & Technical Setup**
+- Install and configure Google Tag Manager on every website built at Solenzo, and guided clients through GTM setup at Wix. *(Confirmed by Josh, Aug 2026.)*
 - Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and strict data-hygiene protocols.
 - Build reusable agent infrastructure and internal tooling integrating with client CRMs and CMS platforms for 24/7 automated growth engines.
 - Own post-sale value delivery for B2B clients, architecting onboarding and technical setup that drives product adoption at scale.
@@ -172,7 +216,7 @@ operator talking, not like a candidate performing.
 - Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.
 
 ### Fetch & Funnel — Account Executive / Sales Operations (Sep 2022 – Feb 2023)
-- Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.
+- Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
 - Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
@@ -180,7 +224,7 @@ operator talking, not like a candidate performing.
 ### Wix.com — Account Manager, Onboarding Launch Specialist & Team Lead (Aug 2020 – Aug 2022)
 - Onboarded and launched **25+ clients per month**, holding **120% of sales targets and 110% of implementation targets**.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
-- Directly managed and developed a team of onboarding specialists, overseeing budgets, scope, and delivery for a high-value client portfolio.
+- Directly managed and developed a team of onboarding specialists for **2 years — a team of 20, later a team of 8** — overseeing budgets, scope, and delivery for a high-value client portfolio. *(Scale and duration confirmed by Josh, Aug 2026.)*
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
 - Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.
@@ -234,14 +278,14 @@ operator talking, not like a candidate performing.
 | Category | Competencies |
 | :--- | :--- |
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing |
-| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, SEO, Email Marketing, Landing Pages |
-| Analytics & Reporting | GA4, Google Search Console, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
+| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Email Marketing, Landing Pages |
+| Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, Google Apps, Procore |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
 
 ---
 
@@ -253,12 +297,15 @@ operator talking, not like a candidate performing.
 - **120% of sales targets and 110% of implementation targets** (Wix, attainment against quota; role was primarily sales in year one, combined sales and implementation in year two)
 - **15+ years** total experience in MarTech / SaaS / agency
 - **5+ years** building CRM & marketing automation (GoHighLevel primary, HubSpot secondary)
+- **4 years** of SEO experience specifically, per Josh (self-reported, Aug 2026)
 - **~$17,750/month average implementation (services) bookings at Accelo (~$213K/yr annualized)**, plus new recurring revenue — consistently above commission floor into accelerator tiers (per Accelo commission records)
 - **Top three in sales on a team of 8 to 15 reps at Accelo**, for all but the final few months of tenure, sustained while **quota roughly doubled**
 - **Accelo deal sizes of $20K+** later in tenure, alongside a base of smaller wins
 - **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure (per-deal contract value, confirmed by Josh)
 - **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
+- **2 years as team lead at Wix, managing a team of 20 and later a team of 8** onboarding specialists (confirmed by Josh, Aug 2026)
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
+- **Free digital-footprint audit offer (Solenzo), promoted via LinkedIn organic growth: 180+ businesses enrolled, 2 converted to paying clients** (~1.1% audit-to-client conversion) — confirmed by Josh, Aug 2026. This is Josh's own product-marketing / PLG-style motion: a free offer as top-of-funnel, distributed through his own LinkedIn growth, converting a share of free users to paid. Track record still early; do not overstate the conversion rate, state it plainly.
 
 > If a job calls for a metric not in this list, do NOT manufacture one. Use a
 > qualitative achievement instead, or flag it for Josh to supply a real number.
@@ -279,8 +326,8 @@ with its scope and delete the line here.
   projects, so the remaining two are still worth capturing.
 - **Time-to-launch / time-to-value.** Typical onboarding duration at Wix and Birdeye,
   and whether it improved during his tenure (from what, to what).
-- **Team size at Wix.** He led a team of onboarding specialists; the count is unrecorded,
-  as is how many he hired or trained.
+- **Wix hiring/training counts.** Team size and duration are now captured (2 years, 20 then
+  8). Still unrecorded: how many people he personally hired and trained.
 
 **Role-specific:**
 - **Data volume.** Records or contacts in the largest migration or import he has run, and

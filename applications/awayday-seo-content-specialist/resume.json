@@ -1,0 +1,87 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SEO Content Specialist | On-Page SEO, Content Systems & AI-Assisted Workflows",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SEO and content practitioner with 15+ years in agency and marketing-operations work, owning on-page SEO, technical audits, and content production directly for B2B and local service clients. Writes thought leadership, guides, and landing pages personally, builds reusable templates and messaging frameworks instead of starting from scratch each time, and runs GA4/Search Console monitoring to catch underperforming content before it becomes a bigger problem. Uses Claude and ChatGPT daily inside real production workflows, and has built and documented SOPs for marketing and operational processes across concurrent client engagements.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Write and publish thought leadership content, newsletters, landing pages, and educational guides for B2B and local-service clients, building reusable templates adapted per brand and vertical rather than rebuilt from scratch each time.",
+        "Conduct technical SEO audits using Screaming Frog for site-wide data pulls, keyword gap analyses, and competitor and SERP research, implementing on-page fixes and schema/structured data directly inside client CMS platforms.",
+        "Track GA4 and Google Search Console performance across concurrent client accounts, identifying underperforming pages and recommending refreshes or consolidation based on what the data shows.",
+        "Use Claude and ChatGPT daily inside production content and SEO workflows, developing structured prompts and process documentation that keep output consistent rather than one-off.",
+        "Build and document SOPs for client-facing marketing and operational processes, keeping work auditable and repeatable across concurrent engagements in Notion and CRM systems."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built content toolkits and training materials that equipped 15-20 partners to communicate product value consistently to their own customers."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, managing workflows and tasks in ClickUp across campaign execution and cross-team communication."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed and developed a team of onboarding specialists for two years, a team of 20 and later a team of 8, including structured feedback and performance coaching to improve individual output quality."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "SEO & On-Page",
+      "items": [
+        "Screaming Frog",
+        "Technical SEO Audits",
+        "Keyword Research & Search Intent",
+        "On-Page Optimization",
+        "Schema / Structured Data",
+        "Internal Linking",
+        "Google Business Profile"
+      ]
+    },
+    {
+      "category": "Content, Analytics & AI",
+      "items": [
+        "Content Production & Templates",
+        "SOP Development",
+        "GA4",
+        "Google Search Console",
+        "Semrush",
+        "Ahrefs",
+        "Claude",
+        "ChatGPT"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}

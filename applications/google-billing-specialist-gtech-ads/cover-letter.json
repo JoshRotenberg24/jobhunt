@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Boulder Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 27, 2026",
+  "company": "Google",
+  "role": "Billing Specialist, gTech Ads Customer Experience",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Billing Specialist role on gTech Ads Customer Experience. Owning a technical issue end to end, rather than resolving the visible symptom and moving on, is the habit your posting describes and the one I already work by. At Solenzo I manage Google Ads accounts directly: on one account, the click and impression numbers looked fine but lead quality did not. I rebuilt targeting and negative keywords to fix the immediate problem, then traced the remaining issue to the site's conversion path instead of closing it out on a surface-level win. That is the same discipline your posting asks for: solving the ticket and the root cause behind it.",
+    "At Birdeye I was the front-line contact for a network of 15 to 20 partners, troubleshooting technical setup and configuration issues, coordinating resolution with Product and Engineering, and routing structured feedback into roadmap decisions - the same cross-functional loop this role runs between advertisers, Sales, and internal teams. I retained all but one partner, roughly 94%, by watching utilization data closely enough to catch problems before they became churn. Earlier, at Accelo, I advised C-suite stakeholders directly on technical system design and troubleshooting, which built the habit of explaining a technical problem in language a business decision-maker can act on immediately.",
+    "I hold Google's own Digital Marketing & E-Commerce certificate and build the performance dashboards and reporting I'd need to bring the business-analysis half of this role, tying platform data to a recommendation rather than a raw number. I'm based in Arvada, a short drive from Boulder. I'd welcome the conversation."
+  ],
+  "closing": "Sincerely,"
+}

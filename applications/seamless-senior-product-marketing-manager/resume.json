@@ -1,0 +1,153 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Product Marketing & GTM | Positioning, Sales Enablement & AI-Accelerated Workflows",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing and revenue professional with 15+ years in B2B SaaS translating technical products into language buyers act on. Spent a decade selling sales and marketing software to the exact personas this role targets, then moved to building the systems behind it, so messaging gets tested against real objections rather than assumed. Developed sales training used by tenured account executives at Wix and built partner enablement toolkits at Birdeye. Now builds AI-driven prospecting and lead-generation systems at Solenzo, including contact enrichment, digital-footprint scoring, and automated outreach, which is the category Seamless competes in.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build AI-driven prospecting and lead-generation systems, including contact enrichment, digital-footprint scoring, and automated personalized outreach, with an audit workflow that enrolled 180+ contacts.",
+        "Use Claude and ChatGPT daily to accelerate go-to-market work, translating loosely-formed business intent into precise prompts, agent instructions, and reliable production output.",
+        "Write and publish thought leadership, newsletters, and educational guides that make systems architecture legible to business readers, and build reusable messaging frameworks adapted per brand and vertical.",
+        "Run discovery with business owners and sales teams to surface goals, objections, and market conditions, then align positioning and program design to what surfaces.",
+        "Conduct competitor research and keyword gap analyses that shape content direction and market positioning.",
+        "Build dashboards tracking funnel progression, conversion, and campaign ROI, and report findings with recommendations to owner-level stakeholders."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated marketing strategy across paid media, inbound, and content, coordinating messaging and execution across internal departments.",
+        "Produced conversion-focused campaign assets including landing pages, multi-touch email sequences, and copy tested against performance data.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, and translated results into strategic recommendations for client leadership."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Collaborated with Product and Engineering to route structured, high-priority customer feedback into roadmap decisions.",
+        "Built partner enablement materials, content toolkits, and automated product-training sequences that equipped 15-20 partners to communicate product value to their own customers.",
+        "Guided customers through complex technical setup and configuration, translating product capability into operational outcomes.",
+        "Analyzed partner utilization and adoption data to identify where the product story and the product experience diverged."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Developed sales training used by tenured account executives, and contributed to hiring and onboarding for a brand-new Wix vertical that went from proof of concept to a profitable business line.",
+        "Managed and developed a team of onboarding specialists for two years, a team of 20 and later a team of 8.",
+        "Led digital growth consultations translating platform capability into site architecture, inbound, and SEO recommendations clients could act on.",
+        "Managed an e-commerce and multi-vertical portfolio contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, positioning technical capability against each buyer's operational problem.",
+        "Ranked top three in sales on a team of 8 to 15 reps for all but the final months of tenure, sustained while quota roughly doubled.",
+        "Advised C-suite stakeholders on operational system design, guiding onboarding, workflow design, and API integrations.",
+        "Handled objections and competitive comparisons live, thousands of times, building the feel for which claims survive a buyer conversation and which do not."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing automation platform, testing product messaging against SMB buyer objections at high volume."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Messaging & Positioning",
+      "items": [
+        "Value Proposition Development",
+        "Messaging Frameworks",
+        "Brand Voice",
+        "Technical Translation",
+        "Direct-Response Copy",
+        "Thought Leadership",
+        "Content Strategy"
+      ]
+    },
+    {
+      "category": "Sales Enablement",
+      "items": [
+        "Sales Training Development",
+        "Enablement Content & Toolkits",
+        "Partner Enablement",
+        "Objection Handling",
+        "Buyer Discovery",
+        "SDR & AE Persona Fluency",
+        "C-Suite Communication"
+      ]
+    },
+    {
+      "category": "Market & Customer Insight",
+      "items": [
+        "Competitor Research",
+        "Competitive Positioning",
+        "Customer Discovery",
+        "Adoption & Utilization Analysis",
+        "Voice-of-Customer to Roadmap",
+        "Keyword & Search Demand Analysis"
+      ]
+    },
+    {
+      "category": "Cross-Functional & GTM",
+      "items": [
+        "Product & Engineering Partnership",
+        "Cross-Departmental Coordination",
+        "Campaign Measurement",
+        "Funnel & Conversion Analysis",
+        "Stakeholder Alignment"
+      ]
+    },
+    {
+      "category": "Systems & AI",
+      "items": [
+        "Claude",
+        "ChatGPT",
+        "Agentic AI Workflows",
+        "Prompt Design",
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "GA4",
+        "Semrush",
+        "Ahrefs"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}

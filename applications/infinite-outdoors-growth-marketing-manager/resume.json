@@ -1,0 +1,104 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Growth Marketing | Acquisition Systems, Funnel Analytics & Lifecycle Automation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Growth marketer and systems builder with 15+ years across agency, SaaS, and marketing operations, building repeatable acquisition engines rather than one-off campaigns. Owns paid and organic channels end to end, tracks CAC, conversion, and ROI through the full funnel, and builds the dashboards that turn those numbers into budget decisions. Founder of Solenzo, where a 20+ workflow acquisition and lifecycle system was designed, built, and shipped solo. Works the seam between marketing, product, and engineering, because most conversion problems turn out to live past the click.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected a repeatable acquisition and lifecycle system of 20+ workflows spanning lead capture, tagging and routing, qualification, booking with confirmations and reminders, no-show recovery, onboarding nurture, long-term reactivation, and automated review generation.",
+        "Built segmented cold-email and outreach engines, plus an automated audit workflow that scored a company's digital footprint and enrolled 180+ contacts into personalized sequences.",
+        "Optimized a client's Google Ads account by cutting spam and low-quality leads and improving click quality, then traced the remaining conversion gap to the on-site experience rather than stopping at platform metrics.",
+        "Build executive-facing dashboards tracking acquisition, funnel progression, campaign ROI, and pipeline velocity, and recommend where spend should move based on what they show.",
+        "Track acquisition and retention across accounts in GA4 and CRM analytics, running tests and iterating on conversion rates rather than shipping and moving on.",
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research, implementing organic fixes directly in client CMS platforms."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations off the results.",
+        "Led integrated strategy across paid media, inbound, and content, coordinating execution across internal departments.",
+        "Produced conversion-focused landing pages and multi-touch email sequences that improved lead generation and pipeline.",
+        "Ran Google keyword research and search-term analysis to shape paid targeting and organic content direction."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed a 15-20 partner referral and reseller network (deal sizes ~$10K-$45K), retaining all but one (~94% retention).",
+        "Built partner communication workflows and automated product-training sequences that accelerated partner activation.",
+        "Analyzed partner utilization and performance data to identify adoption gaps and recommend interventions that reduced churn.",
+        "Routed structured, high-priority customer feedback to Product and Engineering, connecting field signals to roadmap decisions."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance at a performance marketing agency and translated results into optimization recommendations across paid media and creative.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed an e-commerce and multi-vertical account portfolio contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve traffic and conversion.",
+        "Managed and developed a team of onboarding specialists for two years, a team of 20 and later a team of 8, overseeing budgets, scope, and delivery.",
+        "Held 120% of sales targets and 110% of implementation targets while onboarding and launching 25+ clients per month."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for all but the final months of tenure, sustained while quota roughly doubled.",
+        "Advised C-suite stakeholders on operational system design, guiding onboarding, workflow design, and API integrations."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Acquisition & Growth",
+      "items": ["Paid Media (Google Ads, Meta Ads)", "SEO & Organic Growth", "Email Marketing", "Referral & Partner Programs", "Landing Pages & CRO", "A/B Testing", "Repeatable Acquisition Systems"]
+    },
+    {
+      "category": "Analytics & Attribution",
+      "items": ["CAC & Funnel Conversion Analysis", "Campaign Attribution", "ROI / CAC / LTV Reporting", "GA4", "Google Search Console", "Executive KPI Dashboards", "Budget Allocation Recommendations"]
+    },
+    {
+      "category": "Lifecycle & Automation",
+      "items": ["Lifecycle & Nurture Automation", "Segmentation", "Lead Scoring & Routing", "Activation & Onboarding Journeys", "Reactivation Campaigns", "Marketing Automation Architecture"]
+    },
+    {
+      "category": "Systems & Collaboration",
+      "items": ["HubSpot", "Salesforce", "GoHighLevel", "Product & Engineering Partnership", "Agentic AI Workflows", "Prompt Design", "Semrush", "Ahrefs"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Meta Ads Certification - Meta", "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}

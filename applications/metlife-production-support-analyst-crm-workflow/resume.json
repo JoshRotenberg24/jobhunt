@@ -1,0 +1,105 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "CRM & Workflow Production Support | Salesforce Administration, Troubleshooting & User Enablement",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "CRM and business-systems professional with 15+ years supporting and administering enterprise platforms, including 5+ years building CRM architecture and workflow automation. Hands-on across Salesforce, HubSpot, and GoHighLevel: configuring access, roles, routing rules, and lifecycle stages, and troubleshooting issues at the intersection of business process and system configuration. Serves as the bridge between business stakeholders and technical teams, translating operational problems into structured requirements and clear, non-technical explanations. Currently applies AI directly to production workflows - lead scoring, routing, and case-style triage - rather than as a theoretical add-on.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and administer CRM systems in GoHighLevel and HubSpot: contact segmentation, lifecycle stages, lead routing, and data-hygiene protocols across concurrent client instances.",
+        "Built and maintain a production automation system of 20+ workflows spanning intake, tagging and routing, qualification, case-style booking and confirmation, no-show recovery, onboarding, and long-term follow-up.",
+        "Apply AI directly inside operational workflows - scoring, routing, and outreach personalization - to improve throughput and consistency in high-value scenarios.",
+        "Troubleshoot workflow and configuration issues end to end: identify root cause, distinguish a system defect from a process gap, and implement the fix or the workaround.",
+        "Translate non-technical stakeholders' requirements into precise, structured configuration changes and technical instructions.",
+        "Document every client interaction, timeline, and configuration change in GoHighLevel, HubSpot, and Notion, keeping records auditable across concurrent engagements.",
+        "Build reporting dashboards on lead volume, funnel progression, and system performance, and communicate findings in business terms to non-technical stakeholders."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts inside HubSpot, translating performance and configuration issues into recommendations for both technical and business audiences.",
+        "Coordinated execution across internal departments, keeping delivery and reporting consistent across concurrent client engagements."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 partners in Salesforce, guiding them through complex technical setup, access configuration, and platform administration for a reputation-management and workflow-automation SaaS product.",
+        "Served as the front-line point of contact for partner-reported issues, triaging problems, coordinating resolution with Product and Engineering, and routing high-priority feedback into roadmap decisions.",
+        "Analyzed partner utilization and adoption data to identify recurring issues and root causes, then recommended configuration and process changes that reduced churn.",
+        "Built training sequences and documentation that reduced onboarding friction and repeat support requests across a high-volume partner network.",
+        "Retained all but one of 15-20 managed partners (~94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment between sales and delivery.",
+        "Ran client accounts end to end, covering execution, issue resolution, and cross-team communication."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month in Salesforce, guiding technical setup, configuration, and platform training.",
+        "Managed and developed a team of onboarding specialists for two years, a team of 20 and later a team of 8, overseeing scope and delivery for a high-value client portfolio.",
+        "Led onboarding and launch operations as primary point of contact, resolving configuration and access issues and coordinating with internal technical teams to keep timelines on track."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped CRM and project-management software (Accelo's own platform) to agencies and professional-services firms, with deep fluency in configuration, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, troubleshooting technical setup issues directly with clients.",
+        "Built sequenced implementation plans ranking which system changes to make and in what order, handing them to delivery teams to execute.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct, business-friendly communication."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "CRM Administration & Support",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "User & Access Administration", "Roles, Queues & Routing Rules", "Configuration Management", "Data Hygiene & Deduplication"]
+    },
+    {
+      "category": "Production Support & Troubleshooting",
+      "items": ["Issue Triage", "Root-Cause Analysis", "Log & Data Validation", "Workflow & Case Routing", "Release Readiness", "User Acceptance Testing", "Documentation & Training"]
+    },
+    {
+      "category": "Workflow & Automation",
+      "items": ["Workflow Automation Design", "Lead Scoring & Segmentation", "Marketing & Sales Automation Architecture", "Process Improvement", "AI-Enabled Workflow Design"]
+    },
+    {
+      "category": "Cross-Functional Coordination",
+      "items": ["Business-to-Technical Translation", "Stakeholder Communication", "Cross-Team Coordination", "Voice-of-Customer to Roadmap", "Multi-Priority Management"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}

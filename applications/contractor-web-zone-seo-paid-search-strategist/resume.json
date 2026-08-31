@@ -1,0 +1,78 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SEO & Paid Search Strategist | Home Services, Google Ads & Local Lead Generation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Growth marketer with 15+ years in agency and marketing-operations work, currently running full-funnel SEO and paid-search strategy for local service businesses through my own practice. Own Google Ads accounts end to end - from build to daily optimization - for home-service and B2B clients, and run technical SEO audits, keyword and competitor research, and on-page fixes directly inside client CMS platforms. Comfortable leading client calls myself and translating strategy into plain language for a business owner who wants leads, not a ranking report. Judge performance by lead quality and conversion, not clicks or traffic in isolation.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own Google Ads accounts end to end for local service-based businesses: built campaigns from the ground up, then rebuilt targeting and negative keywords on an underperforming account to cut spam and low-quality leads and improve click-through quality.",
+        "Diagnosed a stalled-conversion account by tracing the remaining gap past the ad platform to the website's conversion path, rather than declaring the campaign fixed on click metrics alone - the same lead-quality-over-clicks judgment this role calls for.",
+        "Conduct technical SEO audits, keyword gap analyses, and competitor and SERP research, implementing on-page fixes - titles, meta descriptions, headers, internal linking - directly inside client CMS platforms.",
+        "Install and configure Google Tag Manager and conversion tracking on every client website built, validating tags before launch.",
+        "Track acquisition, conversion, and lead quality in GA4 and Google Search Console across multiple concurrent client accounts, adjusting strategy based on what the data shows rather than producing a report and moving on."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners, including home-services businesses, on reputation-management and local-visibility tools (Google Business Profile optimization, review generation).",
+        "Advised partners on local search visibility and customer-health metrics, retaining all but one (~94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, on-page SEO, and inbound marketing to improve client traffic and conversion, working directly in client site content and metadata.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Paid Search & SEO",
+      "items": [
+        "Google Ads Campaign Build & Management",
+        "Geo-Targeting & Negative Keywords",
+        "Conversion Tracking",
+        "Google Tag Manager",
+        "Technical SEO Audits",
+        "Google Business Profile",
+        "NAP Consistency & Citations"
+      ]
+    },
+    {
+      "category": "Analytics & Client Work",
+      "items": [
+        "GA4",
+        "Google Search Console",
+        "Semrush",
+        "Ahrefs",
+        "Basic HTML/CSS Edits",
+        "Client-Facing Calls"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}

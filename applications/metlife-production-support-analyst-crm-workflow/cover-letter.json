@@ -1,0 +1,22 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 27, 2026",
+  "company": "MetLife",
+  "role": "Production Support Analyst - CRM & Workflow",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Production Support Analyst - CRM & Workflow role. At Solenzo I built and now maintain a production automation system of 20+ workflows covering intake, routing, qualification, booking, no-show recovery, onboarding, and follow-up, and I am the one who troubleshoots it when something breaks: distinguishing a configuration defect from a process gap, tracing root cause, and implementing the fix. That is the daily discipline this role asks for, just applied to my own systems rather than an enterprise platform.",
+    "I have direct, hands-on Salesforce experience from the seller and administrator sides. At Accelo I sold and scoped the company's own CRM and project-management platform to agencies and professional-services firms, which meant configuring it, integrating it, and troubleshooting it with clients directly. At Wix and Birdeye I administered Salesforce for onboarding and partner management, guiding technical setup and access configuration for new users at volume - 25+ launches a month at Wix, and 15 to 20 partners at Birdeye, where I was also the front-line contact for partner-reported issues, triaging problems and routing structured feedback to Product and Engineering.",
+    "The part of this role I'd point to specifically is the bridge function: translating a technical issue into something a business stakeholder can act on, and translating a business requirement into something a technical team can build. That has been the actual shape of my work across CRM administration, partner support, and client onboarding for most of my career. I also apply AI directly inside production workflows now - scoring, routing, and outreach personalization - rather than treating it as a separate initiative, which matches how your posting frames it.",
+    "I'd welcome the conversation."
+  ],
+  "closing": "Sincerely,"
+}
