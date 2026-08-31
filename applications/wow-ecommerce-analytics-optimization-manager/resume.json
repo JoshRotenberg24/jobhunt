@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Ecommerce Analytics & Conversion Optimization Professional",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Digital analytics and conversion optimization professional with 15+ years in MarTech, SaaS, and e-commerce, including hands-on GA4 tracking, Google Tag Manager implementation, and CRO diagnosis. At Wix, contributed to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment. Builds executive dashboards and KPI reporting that turn funnel data into clear, actionable recommendations for stakeholders.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive stakeholders.",
+        "Track acquisition and retention across multiple accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth.",
+        "Install and configure Google Tag Manager on every website built at Solenzo, and guide clients through GTM setup, establishing the tagging and data-layer foundation for accurate measurement."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Led a 20-person, later 8-person, onboarding team for 2 years, owning budgets, scope, and delivery."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Digital & Web Analytics",
+      "items": [
+        "Google Analytics 4 (GA4)",
+        "Google Tag Manager",
+        "Tagging & Data Layer Setup",
+        "KPI Tracking"
+      ]
+    },
+    {
+      "category": "Conversion & Funnel Optimization",
+      "items": [
+        "Conversion Rate Optimization (CRO)",
+        "A/B Testing",
+        "Funnel & Behavior Analysis",
+        "SEO"
+      ]
+    },
+    {
+      "category": "Reporting & Business Intelligence",
+      "items": [
+        "Executive Dashboards",
+        "ROI Reporting",
+        "QBRs"
+      ]
+    },
+    {
+      "category": "Cross-Functional Leadership",
+      "items": [
+        "Stakeholder Management",
+        "Executive Communication",
+        "Team Leadership"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
