@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Digital Marketing Strategist & Multi-Account Portfolio Manager",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing strategist with 15+ years managing digital marketing, lead generation, and performance reporting for a portfolio of client accounts, most recently as founder of Solenzo. Builds and executes SEO, paid media, and conversion-optimization strategy, and translates performance data into budget and investment recommendations for stakeholders. Prior tenure at Birdeye included guiding customers through reputation-management platform setup, direct experience with the online reputation management this role calls for.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.",
+        "Optimize a client's Google Ads account and diagnose on-site CRO as the remaining conversion bottleneck.",
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog, implementing fixes directly inside client CMS platforms.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive stakeholders."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through setup and configuration of reputation-management and marketing-automation tools.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led a 20-person, later 8-person, onboarding team for 2 years, owning budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Digital Marketing",
+      "items": [
+        "SEO",
+        "Paid Media (Google Ads)",
+        "Paid Social (Meta Ads Certified)",
+        "Online Reputation Management"
+      ]
+    },
+    {
+      "category": "Marketing Analytics & Reporting",
+      "items": [
+        "GA4",
+        "KPI & ROI Reporting",
+        "Campaign Performance Analysis"
+      ]
+    },
+    {
+      "category": "Portfolio & Project Management",
+      "items": [
+        "Multi-Account Portfolio Management",
+        "Asana",
+        "Budget & ROI Management"
+      ]
+    },
+    {
+      "category": "Stakeholder & Vendor Relations",
+      "items": [
+        "Client & Stakeholder Management",
+        "Vendor Relations",
+        "Creative Content Development"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
