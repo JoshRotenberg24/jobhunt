@@ -297,6 +297,7 @@ operator talking, not like a candidate performing.
 - **120% of sales targets and 110% of implementation targets** (Wix, attainment against quota; role was primarily sales in year one, combined sales and implementation in year two)
 - **15+ years** total experience in MarTech / SaaS / agency
 - **5+ years** building CRM & marketing automation (GoHighLevel primary, HubSpot secondary)
+- **4 years** of SEO experience specifically, per Josh (self-reported, Aug 2026)
 - **~$17,750/month average implementation (services) bookings at Accelo (~$213K/yr annualized)**, plus new recurring revenue — consistently above commission floor into accelerator tiers (per Accelo commission records)
 - **Top three in sales on a team of 8 to 15 reps at Accelo**, for all but the final few months of tenure, sustained while **quota roughly doubled**
 - **Accelo deal sizes of $20K+** later in tenure, alongside a base of smaller wins
