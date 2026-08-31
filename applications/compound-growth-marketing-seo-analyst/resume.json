@@ -1,0 +1,92 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Growth Marketer & SEO Strategist | Technical SEO, Analytics & B2B Conversion",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Growth marketer with 15+ years across agency, SaaS, and marketing operations, treating SEO as one lever inside a full-funnel conversion strategy rather than an isolated discipline. Runs technical SEO audits, keyword gap analysis, and competitor research in GA4, Search Console, Semrush, and Ahrefs, tracing performance shifts to their real cause. Comfortable owning client relationships directly and moving quickly across new industries.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research for B2B service clients, implementing fixes directly inside client CMS platforms.",
+        "Optimized a client's Google Ads account by cutting spam and low-quality leads, then diagnosed on-site conversion as the real bottleneck rather than treating a traffic or click improvement as the finish line - the same audit discipline a KPI-driven SEO engagement requires.",
+        "Track acquisition and performance in GA4 and Google Search Console across multiple concurrent accounts, using the data to drive experimentation rather than to produce a report.",
+        "Run discovery with business owners across varied verticals, quickly learning a new industry, its customers, and its competitive landscape before making recommendations.",
+        "Report findings and recommendations directly to business-owner stakeholders on a regular cadence, translating technical SEO and analytics findings into plain-language business action."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and organic content direction.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, and translated results into strategic recommendations for client leadership."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "SEO & Technical Analysis",
+      "items": [
+        "Technical SEO Audits",
+        "Keyword Gap Analysis",
+        "Competitor Research",
+        "On-Page & Site Architecture Review"
+      ]
+    },
+    {
+      "category": "Analytics & Diagnostic Tools",
+      "items": [
+        "GA4",
+        "Google Search Console",
+        "Semrush",
+        "Ahrefs",
+        "Conversion & Funnel Analysis"
+      ]
+    },
+    {
+      "category": "Growth & Client Work",
+      "items": [
+        "B2B Demand Generation",
+        "Full-Funnel Strategy",
+        "Paid Media",
+        "Landing Pages & CRO",
+        "Client-Facing Reporting"
+      ]
+    },
+    {
+      "category": "Systems",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}
