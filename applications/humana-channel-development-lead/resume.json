@@ -1,0 +1,93 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Channel Development & Sales Operations Leader | CRM Strategy, KPI Reporting & Cross-Functional Execution",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Sales and marketing operations leader with 15+ years building CRM systems, channel strategy, and go-to-market execution across SaaS, agency, and B2B environments. Builds KPI reporting and dashboards that drive sales performance, translates strategy into executable roadmaps and timelines, and advises business owners and C-suite stakeholders on channel and CRM strategy. Comfortable owning multiple concurrent strategic initiatives under minimal supervision.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot, including contact segmentation, lifecycle stages, and data-hygiene protocols that support channel and sales strategy.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights and recommendations to executive-level stakeholders on a regular cadence.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery to surface goals, market challenges, and business opportunities, then translating strategy into executable roadmaps.",
+        "Identify strategic opportunities to expand engagement scope, recommending and scoping complementary services aligned with business objectives.",
+        "Develop full-lifecycle customer strategies spanning demand generation, CRM architecture, and customer success, demonstrating clear ROI and revenue growth."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated marketing strategy across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments and stakeholders.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs to leadership.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value to their own end customers.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Collaborated with Product and Engineering to route structured, high-priority partner feedback into roadmap decisions."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20 and later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, then translated those plans into executable roadmaps for the implementation team.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "CRM & Channel Strategy",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "CRM Architecture & Implementation", "Channel/Partner Management", "Pipeline Automation"]
+    },
+    {
+      "category": "Sales Operations & KPI Reporting",
+      "items": ["KPI Development", "Performance Dashboards", "Trend & Utilization Analysis", "ROI/Conversion Reporting", "QBRs"]
+    },
+    {
+      "category": "Strategic & Cross-Functional Leadership",
+      "items": ["Go-to-Market Strategy", "Strategic Roadmap Development", "Executive/C-Suite Communication", "Cross-Functional Stakeholder Management", "Project Leadership"]
+    },
+    {
+      "category": "Team Development",
+      "items": ["Training & Coaching", "Team Leadership", "Process Improvement"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)", "Meta Ads Certification - Meta"]
+}
