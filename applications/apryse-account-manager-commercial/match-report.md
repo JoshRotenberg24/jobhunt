@@ -19,7 +19,7 @@ No eligibility cap applies. This is a strong match — the posting's own core as
 | 1-2 years commercial software sales experience | **Resume-evidenced, strong** | Substantially exceeded — multiple AE roles spanning years. |
 | Negotiation skills | **Resume-evidenced** | Real, repeated deal-closing experience. |
 | Communication/presentation skills | **Resume-evidenced** | Strong throughout the career. |
-| Prospecting with Outreach, Dooly, Sales Navigator, ZoomInfo | **Gap** | Not documented by name; general prospecting experience is real (BDR and AE roles), but not with these specific tools. Named directly in the cover letter. |
+| Prospecting with Outreach, Dooly, Sales Navigator, ZoomInfo | **Resume-evidenced (Outreach, ZoomInfo)** | Josh confirmed direct, hands-on experience with Outreach and ZoomInfo — corrected after an earlier draft of this report incorrectly listed all four tools as a gap. Dooly and Sales Navigator remain unconfirmed and are not claimed. |
 | Consultative selling to technical CXOs/VPs | **Resume-evidenced, strong** | Accelo's C-suite advisory work on "operational system design" is a direct, close match. |
 | Multi-year quota overachievement | **Resume-evidenced, strong** | Accelo: top 3 of 8–15 reps sustained while quota roughly doubled. |
 | Degree, technical discipline preferred | **Covered (adjacent)** | B.A. Liberal Arts — meets the degree requirement; not a technical field, which is explicitly "preferred" rather than required. |
@@ -31,14 +31,14 @@ No eligibility cap applies. This is a strong match — the posting's own core as
 ## Application Priority Score
 
 ```
-🔵 Application Priority Score: 66 / 100 — Solid stretch
-[█████████████░░░░░░░]  66%
+🔵 Application Priority Score: 70 / 100 — Solid stretch
+[██████████████░░░░░░]  70%
 ```
 *Internal decision aid — not a prediction of any employer's ATS score, match category, or interview decision.*
 
 | Dimension | Score | Max |
 | :--- | :--- | :--- |
-| Must-have requirements met | 30 | 40 |
+| Must-have requirements met | 34 | 40 |
 | Seniority & scope alignment | 11 | 15 |
 | Domain / industry alignment | 8 | 15 |
 | Differentiators / nice-to-haves | 7 | 15 |
@@ -46,7 +46,7 @@ No eligibility cap applies. This is a strong match — the posting's own core as
 
 **Band: 60–79, Solid stretch — apply with a sharp tailored resume.**
 
-Why it lands here: this is one of the best-matched sales roles reviewed this session. The years-experience bar (1-2 years) is well below what Josh brings, and the posting's real substance, consultative selling to technical executives and sustained multi-year quota overachievement, maps almost exactly onto the Accelo tenure. The gap is narrow: the specific named prospecting tools (Outreach, Dooly, Sales Navigator, ZoomInfo) aren't documented, and the document-SDK/developer-tools domain is a new vertical, though still B2B software.
+Why it lands here: this is one of the best-matched sales roles reviewed this session. The years-experience bar (1-2 years) is well below what Josh brings, and the posting's real substance, consultative selling to technical executives and sustained multi-year quota overachievement, maps almost exactly onto the Accelo tenure. Must-have requirements met was revised up after Josh confirmed real, direct experience with two of the four named prospecting tools (Outreach and ZoomInfo). Dooly and Sales Navigator remain unconfirmed, and the document-SDK/developer-tools domain is a new vertical, though still B2B software.
 
 See `fit.png` for the rendered gauge.
 
@@ -54,12 +54,12 @@ See `fit.png` for the rendered gauge.
 
 - Sustained, quantified multi-year quota overachievement (top 3 of 8–15 reps at Accelo while quota roughly doubled).
 - Direct consultative-selling experience with C-suite and technical executives on system design decisions.
-- Full-cycle Salesforce experience across multiple roles.
+- Full-cycle Salesforce experience across multiple roles, plus confirmed direct experience with Outreach and ZoomInfo, two of the four named prospecting tools.
 - Complete, unbroken employment timeline through the present.
 
 ## Gaps
 
-- No documented experience with the specific named prospecting tools (Outreach, Dooly, Sales Navigator, ZoomInfo).
+- Dooly and Sales Navigator are not confirmed (Outreach and ZoomInfo are — see above).
 - Document SDK / developer-tools domain is new, though the underlying B2B software sales motion is familiar.
 - Degree is not in a technical discipline (explicitly preferred, not required).
 
@@ -73,6 +73,6 @@ No known connection at Apryse — omitted.
 
 ## Output Files
 
-- `resume.pdf` / `resume.docx` — tailored resume, 1 page, modern style, complete timeline through the present role
-- `cover-letter.pdf` / `cover-letter.docx` — 1 page, modern style, names the prospecting-tool gap directly
+- `resume.pdf` / `resume.docx` — tailored resume, 1 page, modern style, complete timeline through the present role, includes Outreach and ZoomInfo
+- `cover-letter.json` — text source only, no PDF/DOCX rendered per Josh's preference; delivered as copy-paste text in the chat thread instead
 - `fit.json` / `fit.png` — Application Priority Score breakdown and gauge

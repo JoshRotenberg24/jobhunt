@@ -79,9 +79,11 @@
       ]
     },
     {
-      "category": "CRM & Tools",
+      "category": "CRM & Prospecting Tools",
       "items": [
         "Salesforce",
+        "Outreach",
+        "ZoomInfo",
         "HubSpot",
         "Pipeline Automation"
       ]

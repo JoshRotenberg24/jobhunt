@@ -48,6 +48,11 @@
 > roles that ask about willingness to set aside personal politics for a collective/caucus
 > goal. Use in cover letters or application answers for that kind of role, never on the
 > resume itself.
+>
+> **Cover letter delivery preference (confirmed Aug 2026):** do not render a cover letter as
+> PDF/DOCX by default. Write `cover-letter.json` as the text source, then deliver the letter as
+> plain copy-paste text directly in the chat thread. Only render a PDF/DOCX if the posting
+> specifically requires an uploaded cover letter file, or Josh explicitly asks for one.
 
 ## Education & Certifications
 
@@ -361,7 +366,13 @@ operator talking, not like a candidate performing.
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore, Outreach, ZoomInfo |
+
+> **Outreach and ZoomInfo (confirmed Aug 2026):** real, hands-on tool experience, not previously
+> captured. A tool's absence from this table means it hasn't been documented yet, not that Josh
+> lacks it — when a posting names a specific tool that isn't listed here, flag it as a candidate
+> confirmation question and ask before asserting a gap in a cover letter or resume. Never state
+> "I don't have experience with X" without confirming it first.
 
 ---
 
