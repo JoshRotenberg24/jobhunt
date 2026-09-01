@@ -150,6 +150,15 @@ Then render the **score meter**: write `applications/<company-slug>/fit.json`
 (a band-colored gauge with breakdown bars) and prints an inline text meter. Show the user
 the text meter immediately, and surface `fit.png` to them.
 
+**Gate on the score before building anything (confirmed by Josh, Aug 2026):** if the
+score lands under 40 — capped or not — stop after Steps 3–5 and ask Josh whether he wants
+the resume and cover letter built at all, rather than producing them automatically. Give
+him the eligibility table, the score/band, and the top 1–2 gaps so he can decide with
+enough context, then wait for his answer before touching Step 6. This applies whenever
+the score is under 40, not only when the formal eligibility cap fired — a long shot that
+lands there on ordinary dimensional scoring (no cap) still needs the same check-in. At
+40 and above, proceed through Steps 6–10 as normal without asking first.
+
 ## Step 6 — Build the resume JSON
 **Pick the visual style** and set `"style"` in the JSON (default `modern`). Style is a
 human-readability choice only — it does not affect parsing or any employer scoring:
