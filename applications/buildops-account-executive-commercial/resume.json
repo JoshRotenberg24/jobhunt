@@ -1,0 +1,101 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "B2B SaaS Account Executive | New Logo Acquisition & Quota Attainment",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "B2B SaaS Account Executive with a track record of exceeding quota and closing complex, multi-threaded deals across CRM and business software sales. Ranked top three in sales on a team of 8 to 15 reps at Accelo while quota roughly doubled, and closed six new-logo deals worth $130K+ in bookings at Fetch & Funnel. Comfortable running a full sales cycle from prospecting through close, demoing technical products, and forecasting accurately. New to the construction and trades vertical specifically, but experienced selling technical, workflow-heavy software to skeptical, non-technical buyers.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery to surface client goals, objectives, and market challenges.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K), roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled over the period.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Closed deals of $20K and larger later in tenure, mixed with a base of smaller wins.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-suite executives as a trusted advisor on operational system design."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales & Revenue",
+      "items": [
+        "Quota Attainment",
+        "New-Logo Acquisition",
+        "Complex Deal Closing",
+        "Full-Cycle Sales"
+      ]
+    },
+    {
+      "category": "Technical Selling",
+      "items": [
+        "Product Demos",
+        "Technical Advisory",
+        "C-Suite Relationship Building"
+      ]
+    },
+    {
+      "category": "CRM & Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Pipeline Automation"
+      ]
+    },
+    {
+      "category": "Execution",
+      "items": [
+        "Territory Ownership",
+        "Accurate Forecasting",
+        "Cross-Functional Collaboration"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ]
+}
