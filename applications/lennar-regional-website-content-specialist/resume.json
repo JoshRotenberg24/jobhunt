@@ -1,0 +1,75 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Digital Content & Marketing Operations Specialist | Website Content, SEO & Digital Asset Management",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations professional with 15+ years managing website content, technical SEO, and digital assets across SaaS, agency, and small-business environments. Runs site-wide SEO and schema audits, builds landing pages and content libraries, and coordinates with sales, product, and outside partners to keep web presence accurate and performing.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide data pulls, implementing fixes directly inside client CMS platforms.",
+        "Identify and implement schema/structured data as part of technical SEO audits, pulling full on-page schema implementation.",
+        "Install and configure Google Tag Manager on every website built at Solenzo, and guide clients through GTM setup.",
+        "Build reusable marketing assets and content templates for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.",
+        "Draft direct-response copy and landing pages, and document every deliverable and timeline in GoHighLevel, HubSpot, and Notion for auditability across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets, including landing pages and conversion-focused copy, to improve lead generation and pipeline.",
+        "Ran keyword research and search-term analysis to shape content direction and targeting across accounts.",
+        "Built campaign performance reporting frameworks tracking conversion KPIs, delivering optimization recommendations to stakeholders."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Coordinated content, training, and onboarding for a network of 15-20 reseller partners (deal sizes ~$10K-$45K) spanning health, home services, and retail verticals, retaining all but one (~94% retention).",
+        "Developed scalable communication workflows and automated training sequences that reduced onboarding friction and kept partner-facing material current, analyzing utilization data to identify content and engagement gaps."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, content, and SEO best practices to improve client traffic and conversion.",
+        "Onboarded and launched 25+ client websites per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Website & Content Management",
+      "items": ["CMS Content Management", "Technical SEO Audits", "Schema/Structured Data", "Google Tag Manager", "Landing Page Development", "Digital Asset & Content Library Management"]
+    },
+    {
+      "category": "SEO & Analytics",
+      "items": ["GA4", "Google Search Console", "Screaming Frog", "Ahrefs", "Semrush", "Performance Reporting & QA"]
+    },
+    {
+      "category": "Content & Cross-Functional Coordination",
+      "items": ["Content Governance & Brand Standards", "Content Audits & Gap Analysis", "Cross-Team Stakeholder Coordination", "Multi-Account Workload Management", "Third-Party Partner Coordination", "HubSpot, Salesforce, GoHighLevel, Notion, Google Apps"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)", "Meta Ads Certification - Meta"]
+}
