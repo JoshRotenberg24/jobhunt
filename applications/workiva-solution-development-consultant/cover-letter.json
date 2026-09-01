@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 31, 2026",
+  "company": "Workiva",
+  "role": "Solution Development Consultant",
+  "recipient": "Hiring Team",
+  "body": [
+    "I'm applying for the Solution Development Consultant role. The posting is clear that this isn't a traditional implementation job, it's agent-based workflows, prompt engineering, and solution architecture applied to real customer problems, and that combination is what I actually do day to day, not something I'd be learning on the job.",
+    "At Solenzo, I break manual workflows down into agent architectures with custom logic, translate what a non-technical stakeholder wants into precise, structured prompts and agent instructions, and build the evaluation frameworks that monitor whether those agents are actually working so I can improve them instead of guessing. That system runs in production for a portfolio of clients today, twenty-plus workflows deep. Before that, at Accelo, I sold and scoped complex CRM and project-management software for agencies and professional-services firms, built sequenced implementation plans, and worked directly with C-suite stakeholders as a trusted advisor on operational system design, the same kind of ownership from requirements through deployment this role asks for.",
+    "What I don't have is direct experience in financial reporting, audit, or regulatory compliance domains. I'd rather say that plainly than let it come up later. What I do have is real, current fluency in the frontier techniques this role is built around, and a track record of getting fast enough on a new domain to become the person a client trusts with it. I'd welcome the chance to talk through whether that trade makes sense for this team."
+  ],
+  "closing": "Sincerely,"
+}

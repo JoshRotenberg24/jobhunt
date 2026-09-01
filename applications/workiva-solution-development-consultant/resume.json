@@ -1,0 +1,86 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "AI Solutions Builder | Agent Architecture, Prompt Engineering & Enterprise Delivery",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "AI solutions builder with 15+ years delivering software implementations to business customers, and hands-on experience designing agent-based architectures, prompt engineering, and evaluation frameworks that run in production. As founder of Solenzo, I build the autonomous AI systems that drive real client outcomes, then own delivery end-to-end for a portfolio of accounts. New to regulated reporting and compliance domains specifically, but comfortable working at the frontier of what AI can reliably do and turning it into something repeatable.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Break down manual workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable LLM output.",
+        "Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize performance.",
+        "Architected and deployed a complete AI-driven automation system, 20+ workflows spanning lead capture, qualification, booking, and post-sale nurture, running in production for a portfolio of clients."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of software platforms, translating platform capability into clear guidance for non-technical stakeholders.",
+        "Onboarded and managed 15-20 reseller partners, retaining all but one (~94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & Agent Engineering",
+      "items": [
+        "Agent-Based Architectures",
+        "Prompt Engineering",
+        "Evaluation Frameworks",
+        "Claude, ChatGPT"
+      ]
+    },
+    {
+      "category": "Enterprise Software Delivery",
+      "items": [
+        "Complex Implementation Ownership",
+        "Requirements to Deployment",
+        "Solution Architecture",
+        "API & System Integration"
+      ]
+    },
+    {
+      "category": "Stakeholder Engagement",
+      "items": [
+        "C-Suite Advisory",
+        "Technical Workshops",
+        "Cross-Functional Coordination"
+      ]
+    },
+    {
+      "category": "Platforms",
+      "items": [
+        "Salesforce",
+        "GoHighLevel",
+        "HubSpot"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ]
+}
