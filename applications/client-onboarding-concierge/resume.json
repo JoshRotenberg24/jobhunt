@@ -1,0 +1,94 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Onboarding & Customer Success Specialist",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro, Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer-facing professional with a strong track record in high-volume onboarding, appointment setting, and persistent client follow-up across CRM-driven sales and support environments. Comfortable on the phone, organized across many customers at once, and skilled at keeping people moving through a structured process to completion. Experienced across multiple CRM platforms and quick to learn new systems.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary client relationship for a portfolio of service-based businesses, running discovery and onboarding to surface goals, objectives, and challenges.",
+        "Document every client interaction, timeline, and deliverable in CRM systems, keeping records accurate and current across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 business customers, retaining all but one (~94% retention) during tenure.",
+        "Developed scalable communication workflows and automated follow-up sequences that reduced onboarding friction.",
+        "Guided customers through technical setup and platform configuration by phone and email, resolving issues directly."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ customers per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Served as primary point of contact through onboarding and launch, delivering on time and accelerating time-to-value."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads by phone, booking appointments for sales representatives and maintaining a steady flow of confirmed meetings.",
+        "Followed up persistently on unconfirmed prospects to keep the appointment pipeline full and on schedule."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Communication",
+      "items": [
+        "Phone-Based Outreach",
+        "Appointment Setting",
+        "Persistent Follow-Up",
+        "Customer Support"
+      ]
+    },
+    {
+      "category": "Onboarding & Success",
+      "items": [
+        "Client Onboarding",
+        "Platform Setup & Activation",
+        "Time-to-Value",
+        "Retention"
+      ]
+    },
+    {
+      "category": "CRM & Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel"
+      ]
+    },
+    {
+      "category": "Operations",
+      "items": [
+        "Multi-Account Management",
+        "Accurate Record-Keeping",
+        "Performance Target Attainment"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ]
+}
