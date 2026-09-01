@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Account Manager & AI-Driven Customer Success Leader",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SaaS account management and customer success professional with 15+ years owning client portfolios through renewal, retention, and expansion, evidenced by ~94% partner retention at Birdeye and 120%/110% attainment at Wix. Builds AI-driven systems daily, from autonomous agent workflows to structured LLM prompting, that treat account and lead management as a systems problem, the same AI-first approach this role calls for. Comfortable translating complex technical concepts for non-technical stakeholders and executives.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and deploy autonomous, AI-driven marketing systems for a portfolio of clients, automating lead enrichment, outreach, and appointment booking.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable LLM output.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, identifying opportunities to expand retainer scope and scoping complementary services aligned with client objectives."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy and customer health metrics, equipping them to communicate product value.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-suite executives as a trusted advisor on operational system design."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & Systems",
+      "items": [
+        "Agentic AI",
+        "Claude, ChatGPT",
+        "LLM Workflows & Prompt Design",
+        "Multi-Agent Orchestration"
+      ]
+    },
+    {
+      "category": "Customer Success & Account Management",
+      "items": [
+        "Portfolio Management",
+        "Renewal & Retention Strategy",
+        "Expansion & Upsell",
+        "QBRs",
+        "Customer Health Monitoring"
+      ]
+    },
+    {
+      "category": "CRM & Platforms",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "API & Integration Familiarity"
+      ]
+    },
+    {
+      "category": "Technical Advisory",
+      "items": [
+        "C-Suite Advisory",
+        "Technical Translation",
+        "Onboarding & Implementation"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
