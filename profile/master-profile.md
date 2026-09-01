@@ -16,6 +16,7 @@
 | Phone | 303-726-5037 |
 | LinkedIn | linkedin.com/in/joshua-rotenberg |
 | Company | Solenzo LLC (Founder) |
+| Website / Portfolio | getsolenzo.com (confirmed Aug 2026 — use for "Portfolio/Work Samples" application fields) |
 | Languages | English only (not bilingual) |
 
 > **Job-search knockouts (constraints, not resume content):** English only — any role
