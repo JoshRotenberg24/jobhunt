@@ -1,0 +1,90 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Digital Marketing Strategist | SEO, Paid Media & AI-Driven Search",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Digital marketing operator with 15+ years in B2B SaaS and MarTech, running SEO, paid media, and conversion optimization hands-on as founder of Solenzo. Builds the AI-agent systems and automation that are reshaping how buyers and search engines find and evaluate information, giving me a practical, ground-level view of the shift toward AI-driven search rather than a theoretical one. Comfortable moving fast without a large team, translating platform performance into clear recommendations for stakeholders and executives.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword gap analyses, and schema/structured data implementation using Screaming Frog for site-wide data pulls, implementing fixes directly inside client CMS platforms.",
+        "Optimize client Google Ads accounts, cutting spam and low-quality leads and improving click-through quality, then diagnose on-site CRO as the remaining conversion bottleneck.",
+        "Architect and deploy autonomous, AI-driven marketing systems, translating stakeholders' generalized ideas into precise, structured AI prompts and agent instructions.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive stakeholders.",
+        "Install and configure Google Tag Manager on every website built at Solenzo, maintaining the technical foundation for accurate measurement."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, coordinating execution across internal departments."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices, contributing to a 30% increase in website traffic and 25% improvement in conversion rates.",
+        "Managed a high-value account portfolio across diverse verticals as team lead, overseeing budgets, scope, and delivery."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "SEO & AI-Driven Search",
+      "items": [
+        "Technical SEO Audits",
+        "Schema & Structured Data",
+        "Keyword Gap Analysis",
+        "AI-Driven Search (Practitioner-Level)"
+      ]
+    },
+    {
+      "category": "Paid Media & CRO",
+      "items": [
+        "Google Ads",
+        "Conversion Rate Optimization",
+        "Performance & ROI Reporting"
+      ]
+    },
+    {
+      "category": "Web & Analytics",
+      "items": [
+        "GA4",
+        "Google Tag Manager",
+        "CMS Platforms",
+        "Executive Dashboards"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "Agentic AI",
+        "LLM Workflows",
+        "Claude, ChatGPT",
+        "Prompt Design"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
