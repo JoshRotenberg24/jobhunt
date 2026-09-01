@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "August 31, 2026",
+  "company": "Mercury",
+  "role": "Organic Search Marketer (SEO/AEO)",
+  "recipient": "Hiring Team",
+  "body": [
+    "I'm applying for the Organic Search Marketer role. I want to be upfront on the numbers: I've got 4 years of hands-on SEO experience, just under the 5 you're asking for, and I haven't had a role with the title AEO in it. What I do have is something the posting itself is really asking for underneath those numbers, real, current fluency in how LLMs actually process and weight content, because I build the agent systems and prompting architecture on the other side of that exchange, not just the content meant to be found by it.",
+    "At Solenzo, I run technical SEO audits, implement schema and structured data as a standard part of every audit, and close keyword gaps against competitors, all hands-on, all shipped myself. I also architect the AI-driven systems that automate outreach and content work, translating a stakeholder's loosely formed idea into precise agent instructions, and I build the evaluation loops that tell me whether an agent's output is actually working so I can fix it instead of guessing. That combination, technical SEO plus a builder's grip on how AI systems actually interpret content, is closer to what AEO requires in practice than a couple years with the term in a job title. Earlier, at Wix, I led SEO-informed site architecture work that contributed to a 30% increase in traffic and 25% improvement in conversion, so the track record of shipping and measuring real outcomes isn't new either.",
+    "I run everything at Solenzo myself, strategy through execution, without a team to hand pieces off to, which is close to the autonomous ownership this role is built around. I'd welcome the chance to talk through how that combination applies to Mercury's search strategy."
+  ],
+  "closing": "Sincerely,"
+}

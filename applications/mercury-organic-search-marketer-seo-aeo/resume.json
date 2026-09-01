@@ -1,0 +1,87 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SEO & AEO Strategist | AI-Native Search & Content Systems",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SEO practitioner with 4+ years of hands-on technical SEO work, schema and structured data implementation, and keyword strategy, paired with genuine, daily fluency building the AI agent systems and LLM workflows that are reshaping how content gets found and interpreted. As founder of Solenzo, I own strategy and execution myself, end to end, then ship it, test it, and iterate. Comfortable working at the technical edge of how bots and LLMs actually consume content, not just theorizing about it.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.",
+        "Identify and implement schema and structured data as part of technical SEO audits, pulling full on-page schema implementation.",
+        "Architect and deploy autonomous, AI-driven marketing systems, translating stakeholders' generalized ideas into precise, structured AI prompts and agent instructions.",
+        "Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize performance."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices, contributing to a 30% increase in website traffic and 25% improvement in conversion rates."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical SEO",
+      "items": [
+        "Technical SEO Audits",
+        "Schema & Structured Data",
+        "Keyword Strategy",
+        "Site Architecture"
+      ]
+    },
+    {
+      "category": "AI & LLM Systems",
+      "items": [
+        "Agentic AI",
+        "LLM Workflows",
+        "Prompt Design",
+        "Evaluation Frameworks",
+        "Claude, ChatGPT"
+      ]
+    },
+    {
+      "category": "Content & Growth",
+      "items": [
+        "Content Strategy",
+        "Organic Growth",
+        "Conversion Optimization"
+      ]
+    },
+    {
+      "category": "Execution",
+      "items": [
+        "Autonomous Ownership",
+        "Experimentation",
+        "Cross-Functional Coordination"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
