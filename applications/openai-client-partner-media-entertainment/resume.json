@@ -1,0 +1,83 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Sales & Partnerships Leader | Consultative Selling & AI-Native Systems",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Sales and partnerships leader with 15+ years exceeding revenue targets and closing complex commercial deals in B2B SaaS and local-business markets, most recently as founder of Solenzo, building an AI-driven business from the ground up. Comfortable navigating ambiguity, building new go-to-market motions, and engaging executive stakeholders as a trusted advisor. New to the Media & Entertainment advertising landscape specifically, but genuinely fluent in the AI systems reshaping how advertising and content discovery work, having built agent-based automation running in production.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, identifying opportunities to expand retainer scope and scoping complementary services aligned with client objectives.",
+        "Architect and deploy autonomous, AI-driven marketing systems, translating stakeholders' generalized ideas into precise, structured AI prompts and agent instructions."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K), roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled over the period.",
+        "Closed deals of $20K and larger later in tenure, mixed with a base of smaller wins.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-suite executives as a trusted advisor on operational system design.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales & Revenue",
+      "items": [
+        "Quota Attainment",
+        "Complex Deal Closing",
+        "Consultative Selling",
+        "Executive Relationship Building"
+      ]
+    },
+    {
+      "category": "Strategic Partnerships",
+      "items": [
+        "Account Expansion",
+        "Strategic Account Planning",
+        "Cross-Functional Coordination"
+      ]
+    },
+    {
+      "category": "AI & Emerging Tech",
+      "items": [
+        "Agentic AI",
+        "LLM Workflows",
+        "Claude, ChatGPT",
+        "AI-Native Systems"
+      ]
+    },
+    {
+      "category": "Operating Style",
+      "items": [
+        "Ambiguity & Zero-to-One Building",
+        "Founder Experience"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ]
+}
