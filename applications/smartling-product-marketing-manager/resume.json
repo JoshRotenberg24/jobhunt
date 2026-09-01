@@ -1,0 +1,85 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Content Strategist & Storyteller | B2B SaaS Messaging",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Content strategist and messaging specialist with 15+ years in B2B marketing, writing the thought leadership, campaign copy, and messaging frameworks that turn what a business does into a story customers actually care about. As founder of Solenzo, I built the narrative and positioning for my own product from scratch, and I bring that same instinct for finding the human angle to every piece of content I write. Comfortable talking directly to customers and translating what I hear into sharper messaging.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Build reusable messaging frameworks, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.",
+        "Draft clean, specific direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery to surface client goals, objectives, and market challenges."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets, landing pages, email sequences, and conversion-focused copy, improving lead generation and pipeline.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, coordinating execution across internal departments."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and messaging, contributing to a 30% increase in website traffic and 25% improvement in conversion rates."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Storytelling & Content",
+      "items": [
+        "Product & Brand Narrative",
+        "Thought Leadership",
+        "Educational & Narrative Content",
+        "Web & Campaign Content"
+      ]
+    },
+    {
+      "category": "Messaging & Positioning",
+      "items": [
+        "Messaging Frameworks",
+        "Brand Voice",
+        "Direct-Response Copy"
+      ]
+    },
+    {
+      "category": "Customer Insight",
+      "items": [
+        "Customer Discovery",
+        "Market & Competitor Research",
+        "Data-Driven Messaging"
+      ]
+    },
+    {
+      "category": "Cross-Functional",
+      "items": [
+        "Cross-Functional Coordination",
+        "Stakeholder Communication"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
