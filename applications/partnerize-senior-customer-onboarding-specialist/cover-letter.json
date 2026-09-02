@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 2, 2026",
+  "company": "Partnerize",
+  "role": "Senior Customer Onboarding Specialist",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Senior Customer Onboarding Specialist role. Partnerize automates partnership programs, and the closest parallel on my resume is Birdeye, where I onboarded and managed 15 to 20 reseller partners across health, home services, and retail. I ran the non-technical side of getting each partner live end to end: kickoff calls, workflow and communication setup, training, and the handoffs to Product and Engineering when something needed their attention.",
+    "That Birdeye book retained all but one partner, roughly 94%, which came from tracking partner health closely enough to flag adoption gaps before they turned into churn, the same discipline behind a regular Salesforce reporting cadence and surfacing risk early. At Wix I ran onboarding and launch for 25+ clients a month as team lead, carrying 120% of sales targets and 110% of implementation targets while directly managing and training a team of onboarding specialists (20, then 8) over two years. I've also built the training and documentation side of onboarding directly: communication workflows and automated product-training sequences at Birdeye, and sales training material for tenured reps at Wix.",
+    "Translating platform capability into plain terms for non-technical stakeholders is most of what I do now running my own marketing operations practice: taking a client's loosely formed goals and turning them into a working system, then teaching them how to run it. I'd welcome the conversation about bringing that to Partnerize's onboarding team."
+  ],
+  "closing": "Sincerely,"
+}
