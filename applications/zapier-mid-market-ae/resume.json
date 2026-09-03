@@ -1,0 +1,107 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Mid-Market Account Executive",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Mid-market SaaS Account Executive with a full-cycle sales background (top three of 8-15 reps at Accelo, quota roughly doubling over tenure) and hands-on AI systems experience most sellers only talk about. Builds and runs the AI-driven outreach, lead-scoring, and automation workflows that generate pipeline, has sold and configured API-driven, integration-heavy software into technical, multi-stakeholder organizations, and is comfortable building the playbook rather than inheriting one.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and deploy autonomous, AI-driven marketing systems for service-based businesses - largely on GoHighLevel - automating lead enrichment, outreach, and appointment booking.",
+        "Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.",
+        "Built segmented cold-email outreach engines in GHL (website-visibility, missed-calls, and low-reviews campaigns) plus an automated prospect audit workflow that enrolled 180+ contacts, scoring a business's digital footprint to trigger personalized outreach.",
+        "Ran a free digital-footprint audit offer promoted through organic LinkedIn growth: 180+ businesses enrolled, 2 converted to paying clients - self-sourced pipeline built and run end to end.",
+        "Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize conversion rates.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K) - roughly $130K+ in total bookings.",
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled.",
+        "Consistently performed above commission floor into accelerator tiers, averaging ~$17,750/month in implementation/services bookings (~$213K annualized) plus new recurring revenue.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs - high-volume prospecting, lead qualification, and customer acquisition.",
+        "Built the consultative approach to customer retention and technology adoption that carried into later SaaS roles."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales & Pipeline",
+      "items": ["Full-Cycle Sales", "Self-Sourced Pipeline Generation", "Cold Outreach", "Quota Attainment", "C-Suite Relationship Building", "Multi-Stakeholder Selling"]
+    },
+    {
+      "category": "AI & Automation",
+      "items": ["Agentic AI Workflow Design", "AI-Driven Lead Scoring & Outreach", "Prompt Design", "Workflow Automation (GoHighLevel)", "Rapid Prototyping"]
+    },
+    {
+      "category": "Technical & Product Fluency",
+      "items": ["API Integrations", "CRM Architecture (Salesforce, HubSpot, GoHighLevel)", "Workflow Design", "Technical Onboarding"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Google Apps", "Notion"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google/Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
