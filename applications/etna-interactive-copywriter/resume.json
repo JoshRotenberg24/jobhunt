@@ -1,0 +1,92 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Copywriter & Content Strategist",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Copywriter and content strategist with 4+ years of hands-on SEO experience, writing persuasive web copy, email campaigns, and brand content for B2B and service-based clients. Works from creative briefs to adapt voice and format across a diverse client base, pairing the writing with technical SEO audits, keyword research, and on-page structure so content performs for readers and search alike.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog, including full on-page schema and structured data implementation, applying fixes directly inside client CMS platforms.",
+        "Optimized a client's Google Ads account - cut spam/low-quality leads and improved click-through quality - and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.",
+        "Build reusable marketing assets and messaging frameworks, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets - landing pages, complex email sequences, and conversion-focused copy - improving lead generation and pipeline.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, coordinating execution across internal departments as strategic lead."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Content & Copywriting",
+      "items": ["Web Copywriting", "Direct-Response Copy", "Email Campaigns", "Landing Pages", "Blog & Thought Leadership Content", "Brand Voice Adaptation"]
+    },
+    {
+      "category": "SEO & Search Visibility",
+      "items": ["Technical SEO Audits", "Keyword Research & Gap Analysis", "On-Page Schema & Structured Data", "Screaming Frog", "Content Optimization"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["CMS Platforms", "Google Ads", "Google Search Console", "Notion", "HubSpot"]
+    },
+    {
+      "category": "Collaboration & Delivery",
+      "items": ["Creative Brief Execution", "Cross-Functional Collaboration", "Client Voice & Messaging", "Multi-Client Adaptation"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google/Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
