@@ -164,6 +164,7 @@ operator talking, not like a candidate performing.
 - Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.
 - Run day-to-day delivery for B2B clients, managing operational needs and driving them to their goals on complex SaaS platforms.
 - Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.
+- Grew client Meke Marketing's retainer from ~$12K/year to ~$24K/year (100% increase) within the first year of the engagement, by identifying and scoping expansion opportunities after the initial sign-on. *(Confirmed by Josh, Sep 2026.)*
 - Align marketing programs to revenue objectives directly with business owners and sales teams, producing consistent messaging and qualified lead flow.
 - Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.
 
@@ -306,6 +307,7 @@ operator talking, not like a candidate performing.
 - **2 years as team lead at Wix, managing a team of 20 and later a team of 8** onboarding specialists (confirmed by Josh, Aug 2026)
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
 - **Free digital-footprint audit offer (Solenzo), promoted via LinkedIn organic growth: 180+ businesses enrolled, 2 converted to paying clients** (~1.1% audit-to-client conversion) — confirmed by Josh, Aug 2026. This is Josh's own product-marketing / PLG-style motion: a free offer as top-of-funnel, distributed through his own LinkedIn growth, converting a share of free users to paid. Track record still early; do not overstate the conversion rate, state it plainly.
+- **Meke Marketing (Solenzo client): signed at ~$12K/year, expanded to ~$24K/year (100% increase / doubled) by the end of the first year of the engagement** — confirmed by Josh, Sep 2026. Named, concrete example of retainer expansion at Solenzo; use for renewal/expansion/upsell questions where a specific account story is wanted rather than a portfolio-wide total (Solenzo's overall portfolio size and typical retainer range are still unrecorded — see Numbers Worth Capturing below).
 
 > If a job calls for a metric not in this list, do NOT manufacture one. Use a
 > qualitative achievement instead, or flag it for Josh to supply a real number.
