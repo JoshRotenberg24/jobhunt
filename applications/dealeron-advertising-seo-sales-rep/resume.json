@@ -1,0 +1,95 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Advertising/SEO Sales Representative",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "B2B sales professional with a track record of full-cycle selling (top three of 8-15 reps at Accelo, quota roughly doubling) combined with hands-on SEO and digital advertising expertise: technical SEO audits, Google Ads optimization, and Meta Ads management, run personally rather than outsourced. Comfortable presenting to prospects, negotiating and closing, and serving as the technical bridge between sales, service, and implementation teams.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.",
+        "Optimized a client's Google Ads account - cut spam/low-quality leads and improved click-through quality - and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.",
+        "Run ad creative and copy split testing in Meta Ads Manager to identify top-performing variants before scaling spend.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K) - roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Consistently performed above commission floor into accelerator tiers, averaging ~$17,750/month in implementation/services bookings (~$213K annualized) plus new recurring revenue.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales & Business Development",
+      "items": ["Full-Cycle B2B Sales", "Quota Attainment", "Prospecting", "Negotiation & Closing", "C-Suite Relationship Building"]
+    },
+    {
+      "category": "SEO & Digital Advertising",
+      "items": ["Technical SEO Audits", "Google Ads Management", "Meta Ads Management & A/B Testing", "Keyword Research"]
+    },
+    {
+      "category": "Technical Delivery & Support",
+      "items": ["Technical Onboarding", "API Integrations", "Cross-Functional Escalation Coordination", "CRM Systems (Salesforce, HubSpot, GoHighLevel)"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Salesforce", "Google Ads", "Meta Ads Manager", "GA4", "Google Search Console"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google/Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
