@@ -1,0 +1,84 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Web Developer",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Full-stack web developer with hands-on, AI-assisted development experience building and shipping Next.js, React, and TypeScript applications end-to-end: REST API integrations, relational database schema design, and a real Git/PR-based workflow. Comes from a 15-year client-facing delivery background, translating business requirements into technical specs and explaining tradeoffs to non-technical stakeholders.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build and ship full-stack web applications personally using Next.js, React, and TypeScript, deployed on Vercel, including a production site with 70+ merged pull requests.",
+        "Build REST API integrations end-to-end - routes, authentication, error handling - connecting applications to third-party services including Stripe, transactional email, and LLM APIs.",
+        "Design relational database schemas and migrations (Prisma/SQLite) for a lead-management application, including a service-layer architecture and CSV data validation.",
+        "Work in a real Git/PR-based workflow - branches, pull requests, merges - across 20+ personal repositories.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured technical requirements.",
+        "Own post-sale value delivery for B2B clients, architecting onboarding and technical setup that drives product adoption at scale."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Development",
+      "items": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Git/PR Workflow", "REST API Integration"]
+    },
+    {
+      "category": "Data & Backend",
+      "items": ["Prisma ORM", "Relational Database Schema Design", "SQLite", "NextAuth", "Python Scripting"]
+    },
+    {
+      "category": "AI-Assisted Development",
+      "items": ["Claude Code", "AI-Assisted Development Workflow", "Anthropic SDK Integration", "Prompt-to-Code Iteration"]
+    },
+    {
+      "category": "Client-Facing Delivery",
+      "items": ["Technical Requirements Translation", "Stakeholder Communication", "Scoping & Estimation", "Cross-Functional Coordination"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google/Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
