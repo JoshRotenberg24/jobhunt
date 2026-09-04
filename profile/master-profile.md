@@ -193,6 +193,13 @@ operator talking, not like a candidate performing.
 - Design, implement, and optimize marketing automation and CRM systems for B2B service clients as a fractional success/implementation manager.
 - Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and providing hands-on training.
 
+**Hands-On Development (self-taught, AI-assisted, verified via GitHub)**
+- Build and ship full-stack web applications personally using Next.js, React, and TypeScript, deployed on Vercel — including a marketing/audit site with 70+ merged pull requests, Stripe checkout integration, transactional email (Resend), and Anthropic SDK-based features. *(Confirmed by Josh, Sep 2026; verified directly against JoshRotenberg24/solenzoaudit on GitHub.)*
+- Design relational database schemas and migrations using Prisma (SQLite) for a lead-management application, including a service-layer architecture (lead, email, and automation services), CSV import/validation, and NextAuth-based authentication. *(Verified against JoshRotenberg24/lead_import-.)*
+- Build REST API integrations end-to-end (routes, auth, error handling) connecting these applications to third-party services (Stripe, Resend, Anthropic). *(Verified via GitHub.)*
+- Work in a real Git/PR-based workflow — branches, pull requests, merges — across 20+ personal repositories built since starting Solenzo. *(Verified via GitHub; note this is React/TypeScript-framework-based development, not vanilla JS or PHP — be precise about the actual stack when a JD asks specifically.)*
+- Write Python scripts for internal reporting/dashboard tooling. *(Verified against JoshRotenberg24/shop.)*
+
 **Analytics & Reporting**
 - Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations.
 - Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize conversion rates.
