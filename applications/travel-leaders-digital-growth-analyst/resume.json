@@ -1,0 +1,94 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Digital Growth Analyst",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Data-driven digital marketing professional with 15+ years spanning SEO, paid media, and hands-on web design, translating website and campaign performance into clear, actionable recommendations for cross-functional stakeholders. Runs technical SEO audits, Google Ads optimization, and Meta Ads split testing personally, designs and builds the landing pages and websites those campaigns point to, and is actively building AI-driven workflows to keep pace with emerging search behavior like AEO, GEO, and AI Overviews.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.",
+        "Identify and implement schema and structured data as part of technical SEO audits, pulling full on-page schema implementation.",
+        "Design and build full websites for Solenzo clients directly, from page layout and structure through launch.",
+        "Optimized a client's Google Ads account - cut spam/low-quality leads and improved click-through quality - and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.",
+        "Run ad creative and copy split testing in Meta Ads Manager to identify top-performing variants before scaling spend.",
+        "Track acquisition and retention across multiple accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets - landing pages, complex email sequences, conversion-focused copy - improving lead generation and pipeline, designing the page layout and structure, not just the copy on them.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Guided clients on site design and page layout using Wix's own builder as part of onboarding, translating brand and conversion goals into page structure.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Web Analytics & Reporting",
+      "items": ["GA4", "Google Search Console", "Campaign Attribution", "KPI Tracking", "Data-Driven Troubleshooting"]
+    },
+    {
+      "category": "SEO / AEO / GEO",
+      "items": ["Technical SEO Audits", "Keyword Research & Gap Analysis", "Schema & Structured Data", "Content Optimization"]
+    },
+    {
+      "category": "Paid Media & Testing",
+      "items": ["Google Ads Management", "Meta Ads Management & A/B Split Testing", "CRO"]
+    },
+    {
+      "category": "Web/UX Design & Cross-Functional Collaboration",
+      "items": ["Website & Landing Page Design", "Site Architecture Consulting", "Product & Engineering Partnership"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google/Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
