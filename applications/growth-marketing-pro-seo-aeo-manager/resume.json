@@ -1,0 +1,93 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SEO & AEO Manager",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SEO and growth marketing manager with 4+ years of hands-on SEO experience and a decade-plus in B2B marketing and account management. Runs technical SEO audits, keyword strategy, and on-page schema implementation personally, ties performance to GA4 and CRM data, and reports results with a clear point of view on what to do next. Builds and uses AI tooling daily, including hands-on agent-building work with Claude, to run growth systems more efficiently, not just to keep up with client conversations about AI visibility and search.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.",
+        "Identify and implement schema and structured data as part of technical SEO audits, pulling full on-page schema implementation.",
+        "Optimized a client's Google Ads account - cut spam/low-quality leads and improved click-through quality - and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.",
+        "Architect and deploy autonomous, AI-driven marketing systems using tools including Claude and ChatGPT, translating stakeholders' business intent into structured AI agent workflows for lead scoring and outreach.",
+        "Grew client Meke Marketing's retainer from ~$12K/year to ~$24K/year (100% increase) within the first year of the engagement, by identifying and scoping expansion opportunities.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "SEO & Search Visibility",
+      "items": ["Technical SEO Audits", "Keyword Research & Gap Analysis", "On-Page Schema & Structured Data", "Content Optimization", "Screaming Frog"]
+    },
+    {
+      "category": "AI & Automation",
+      "items": ["Agentic AI Workflow Design (Claude, ChatGPT)", "Prompt Design", "AI-Driven Process Automation", "Rapid Prototyping"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["Google Search Console", "GA4", "Ahrefs", "Semrush", "Campaign Attribution", "KPI Tracking", "QBRs"]
+    },
+    {
+      "category": "Account & Growth Management",
+      "items": ["Client Portfolio Ownership", "Retainer Expansion & Upsell", "Cross-Functional Coordination", "CRO"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google/Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
