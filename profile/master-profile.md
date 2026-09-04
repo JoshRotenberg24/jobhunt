@@ -179,6 +179,8 @@ operator talking, not like a candidate performing.
 - Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.
 - Identify and implement schema/structured data as part of technical SEO audits, pulling full on-page schema implementation. *(Confirmed by Josh, Aug 2026.)*
 - Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
+- Design and build full websites for Solenzo clients directly, from page layout and structure through launch, in addition to the CMS-level SEO fixes and schema implementation. *(Confirmed by Josh, Sep 2026.)*
+- Run ad creative and copy split testing in Meta Ads Manager to identify top-performing variants before scaling spend. *(Confirmed by Josh, Sep 2026.)*
 - Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
 - Build reusable, boilerplate marketing assets and messaging frameworks as needed for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.
@@ -201,7 +203,7 @@ operator talking, not like a candidate performing.
 ### Level Agency — Account Executive / Client Strategist (Sep 2024 – Feb 2025)
 - Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
-- Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
+- Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline. Designed the page layout and structure, not just the copy on them. *(Confirmed by Josh, Sep 2026.)*
 - Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.
 - Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.
 - Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.
@@ -227,6 +229,7 @@ operator talking, not like a candidate performing.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
 - Directly managed and developed a team of onboarding specialists for **2 years — a team of 20, later a team of 8** — overseeing budgets, scope, and delivery for a high-value client portfolio. *(Scale and duration confirmed by Josh, Aug 2026.)*
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.
+- Guided clients on site design and page layout using Wix's own builder as part of onboarding, translating brand and conversion goals into page structure. *(Confirmed by Josh, Sep 2026.)*
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
 - Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.
 - Drove a **25% improvement in conversion rates across supported accounts** through proactive communication on client goals and initiatives.
@@ -279,7 +282,7 @@ operator talking, not like a candidate performing.
 | Category | Competencies |
 | :--- | :--- |
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing |
-| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Email Marketing, Landing Pages |
+| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing (Meta Ads Manager ad creative/copy split testing), Paid Media, Paid Social (Meta Ads certified), SEO, Email Marketing, Landing Page & Web Design |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
