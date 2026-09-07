@@ -161,6 +161,11 @@ banned-openings list above is about bullets. Prose has its own failure modes:
 parentheses instead of em dashes. Short paragraphs. It should read like a competent
 operator talking, not like a candidate performing.
 
+**Application-question answers about a gap (confirmed by Josh, Sep 2026):** never open
+with "No." Lead with the closest true, relevant experience first, then state the gap
+plainly without a negative opener. ("My experience is in X... I haven't managed Y
+specifically" rather than "No, I haven't...").
+
 **Cover letter salutation (confirmed by Josh, Sep 2026):** never use "Dear ___,". Use a
 modern, direct greeting instead, e.g. "Hi [Company] Hiring Team," or "Hi [Recipient],".
 Set this explicitly via the `salutation` key in `cover-letter.json`; the renderer
