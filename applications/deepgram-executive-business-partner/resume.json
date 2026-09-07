@@ -1,0 +1,115 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Business Operations Leader | Analytics, Process & AI-Driven Efficiency",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Business operations and analytics leader with full operational accountability as a solo founder for the past two and a half years, building the operating cadence, reporting, and cross-functional systems a growing team typically relies on a business partner to hold together. Brings 15+ years of SaaS account and program management experience translating operational detail into clear priorities and decisions, plus daily hands-on use of AI tools to move faster, the same operating rhythm Deepgram is built around.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Break down manual operating workflows into agent architectures with custom logic that scores engagement signals and generates targeted, personalized outreach, applying AI and automation to improve day-to-day operational workflows.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable system output.",
+        "Design self-improving loops and evaluation frameworks to monitor automation outputs, catching inconsistencies and continuously optimizing performance.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records and commitments auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Business Operations & Analytics",
+      "items": [
+        "Business Operations Leadership",
+        "Cross-Functional Program Management",
+        "Data-Driven Decision Making",
+        "Process Design & Improvement"
+      ]
+    },
+    {
+      "category": "Executive & Stakeholder Communication",
+      "items": [
+        "Executive Reporting & Insights",
+        "C-Suite Relationship Building",
+        "Stakeholder Alignment",
+        "QBRs & Business Reviews"
+      ]
+    },
+    {
+      "category": "Customer Success Metrics",
+      "items": [
+        "Retention & Customer Health",
+        "Churn & Risk Analysis",
+        "Adoption & Utilization Tracking",
+        "CRM (Salesforce, HubSpot, GoHighLevel)"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "AI-Driven Workflow Design",
+        "Agentic Systems & Prompt Engineering",
+        "Automation for Operational Efficiency",
+        "Rapid Tool Adoption"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
