@@ -1,0 +1,106 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Growth Marketing Manager | Lifecycle & Engagement Marketing Operations",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Growth marketing and marketing-operations leader with 15+ years building automated, multichannel engagement campaigns that move people from first contact to completed action. Architects the CRM and marketing-automation infrastructure (GoHighLevel, HubSpot) behind those campaigns, partners directly with product and engineering to build that infrastructure, and uses data to continuously refine targeting, creative, and conversion at every stage of the funnel.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel marketing-automation system (20+ workflows) spanning lead capture, tagging, and routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture and reactivation, and automated review-generation sequences, covering the full journey from first contact through completed engagement.",
+        "Built segmented, triggered outreach campaigns (website-visibility, missed-calls, and low-reviews) plus an automated audit workflow that enrolled 180+ contacts based on scored engagement signals.",
+        "Break down manual marketing workflows into agent architectures with custom logic that scores a business's engagement signals and generates targeted, personalized outreach.",
+        "Design self-improving loops and evaluation frameworks to monitor automation outputs and continuously optimize conversion rates.",
+        "Track acquisition and retention across multiple accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth.",
+        "Translate non-technical stakeholders' ideas and feedback into precise, structured automation logic and AI agent instructions, acting as the bridge between business intent and reliable system output."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Produced high-converting campaign assets (landing pages, complex email sequences, conversion-focused copy) that improved lead generation and pipeline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Growth & Engagement Marketing",
+      "items": [
+        "Multichannel Campaign Design",
+        "Lifecycle & Engagement Marketing",
+        "Consumer-Facing Campaigns",
+        "Conversion Rate Optimization"
+      ]
+    },
+    {
+      "category": "Marketing Automation & CRM",
+      "items": [
+        "GoHighLevel CRM & Automation Architecture",
+        "HubSpot",
+        "Marketing Technology Infrastructure",
+        "Workflow Design"
+      ]
+    },
+    {
+      "category": "Data & Analytics",
+      "items": [
+        "Google Analytics (GA4)",
+        "Campaign Reporting & KPI Tracking",
+        "A/B Testing & Experimentation",
+        "Data-Driven Targeting"
+      ]
+    },
+    {
+      "category": "Leadership & Cross-Functional Collaboration",
+      "items": [
+        "Team Leadership & Development",
+        "Cross-Functional Partnership (Product & Engineering)",
+        "AI & Automation Workflow Design",
+        "Stakeholder Communication"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
