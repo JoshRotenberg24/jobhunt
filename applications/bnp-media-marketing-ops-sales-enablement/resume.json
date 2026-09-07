@@ -1,0 +1,117 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations & Sales Enablement Leader",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations leader with 15+ years in marketing and revenue operations, including 5+ years architecting CRM and marketing-automation systems (primarily GoHighLevel, with hands-on HubSpot experience). Builds the workflows, SOPs, and reporting that keep campaign production, lead generation, and sales enablement materials running on schedule and on brand, backed by a decade in client-facing roles where reliable execution drove retention and adoption.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel marketing-automation system (20+ workflows) spanning lead capture, tagging, and routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture and reactivation, and automated review-generation sequences.",
+        "Built segmented, triggered outreach campaigns (website-visibility, missed-calls, and low-reviews) plus an automated audit workflow that enrolled 180+ contacts based on scored engagement signals.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.",
+        "Build reusable, boilerplate marketing assets and messaging frameworks as needed for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Produced high-converting campaign assets (landing pages, complex email sequences, conversion-focused copy) that improved lead generation and pipeline.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Operations & Automation",
+      "items": [
+        "GoHighLevel CRM & Automation Architecture",
+        "HubSpot",
+        "Workflow Design & SOP Documentation",
+        "Nurture & Lifecycle Campaigns"
+      ]
+    },
+    {
+      "category": "Sales Enablement & Asset Management",
+      "items": [
+        "Sales Enablement Content Support",
+        "Template & Asset Library Management",
+        "Cross-Team Training & Communication",
+        "Asana (Project Coordination)"
+      ]
+    },
+    {
+      "category": "Campaign Production & Lead Generation",
+      "items": [
+        "Full-Funnel Lead Generation",
+        "Email Campaign Build & Deployment",
+        "Segmentation & Targeting",
+        "Campaign Launch Coordination"
+      ]
+    },
+    {
+      "category": "Reporting & Cross-Functional Collaboration",
+      "items": [
+        "Campaign ROI Dashboards",
+        "KPI & Performance Reporting",
+        "Stakeholder Communication",
+        "AI & Automation Workflow Design"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
