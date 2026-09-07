@@ -39,6 +39,11 @@
 >
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
+>
+> **High-volume ticket/call/lead-queue work (confirmed Sep 2026):** not a concern. Josh has
+> run high-volume outbound calling and warm-lead workflows across BDR/AE roles; a queue-based
+> support role (e.g., ~40 tickets/day) is comparable, not a step down. Don't flag routine
+> ticket/call volume as a seniority or comfort concern in match reports.
 
 ## Education & Certifications
 
@@ -93,6 +98,8 @@
 | Fivestars | Account Executive | Denver, CO | 2017 – 2018 | Salesforce |
 | Senior Directory | Business Development Representative | Denver, CO | 2012 – 2016 | HubSpot |
 | Standing Akimbo | Co-Owner / Operations Lead | Denver, CO | Jun 2010 – Sep 2012 | — (pre-dates role's CRM use) |
+
+> **Senior Directory industry (confirmed by Josh, Sep 2026):** Senior Directory is an online healthcare business directory. This is genuine prior healthcare-industry exposure, useful for postings that ask for healthcare/health-tech background, though it's dated (2012-2016) BDR/prospecting work, not clinical, insurance-operations, or health-data experience. Represent it as prior healthcare-industry exposure, not as healthcare data, clinical, or insurance-operations expertise.
 
 > **CRM breadth (added Aug 2026, confirmed by Josh):** hands-on pipeline experience spans HubSpot (Level Agency, Fetch & Funnel, Senior Directory), Salesforce (Birdeye, Wix, Fivestars), GoHighLevel (Solenzo, primary), and Accelo's own proprietary CRM/PSA product (sold and implemented, not just used). This was missing from earlier versions of this profile, which underrepresented HubSpot/Salesforce depth in favor of the GoHighLevel-primary framing from Solenzo. Use the specific platform per role when tailoring to a JD that names a CRM.
 
@@ -252,7 +259,8 @@ defaults to "Dear ___," when that key is omitted, so it must be set every time.
 - Built the consultative approach to customer retention and technology adoption that carried into later SaaS roles.
 
 ### Senior Directory — Business Development Representative (2012 – 2016)
-- Prospected and qualified leads as a Business Development Representative, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings.
+> Senior Directory is an online healthcare business directory (confirmed by Josh, Sep 2026) — genuine prior healthcare-industry exposure, though dated BDR/prospecting work, not clinical or health-data experience.
+- Prospected and qualified leads for an online healthcare business directory as a Business Development Representative, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings.
 - Built the outreach, qualification, and pipeline fundamentals that carried into later SaaS Account Executive roles.
 
 ### Standing Akimbo — Co-Owner / Operations Lead (Jun 2010 – Sep 2012)
@@ -342,6 +350,12 @@ with its scope and delete the line here.
 - **Solenzo portfolio size.** How many clients, and typical retainer range.
 - **Level Agency accounts.** Portfolio size and spend under management.
 - **Accelo implementation scope.** Typical implementation size in seats or hours.
+
+**Newly flagged (Sep 2026):**
+- **Daily call/lead volume comparison** (self-reported, role/timeframe unconfirmed): ~100
+  calls/day or 15-20 warm leads/day, used by Josh as a comparison point for ticket/queue
+  volume comfort. Needs role attribution (which job, what period) before it can be used as
+  a resume metric rather than background color.
 
 **Rules for filling these:** the number comes from Josh, never from inference. Ranges are
 acceptable and should be recorded as ranges. Anything he is unsure of gets tagged

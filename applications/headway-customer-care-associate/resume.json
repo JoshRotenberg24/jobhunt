@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Customer support professional with over a decade resolving technical and operational issues for SaaS and service-based customers across email, chat, and phone, guiding non-technical users through setup, troubleshooting, and problem resolution with patience and clear communication. Runs my own client-facing business today, which means I already operate with an owner's sense of accountability for every customer interaction.",
+  "summary": "Customer support professional with over a decade resolving technical and operational issues for SaaS and service-based customers across email, chat, and phone, guiding non-technical users through setup, troubleshooting, and problem resolution with patience and clear communication. Background includes prior healthcare-industry experience and high-volume daily outreach, plus running my own client-facing business today, which means I already operate with an owner's sense of accountability for every customer interaction.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -27,7 +27,6 @@
       "dates": "Feb 2023 - Apr 2024",
       "bullets": [
         "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
-        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
         "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
       ]
     },
@@ -48,6 +47,15 @@
       "bullets": [
         "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.",
         "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads for an online healthcare business directory, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings through high-volume daily outreach."
       ]
     }
   ],
@@ -71,20 +79,11 @@
       ]
     },
     {
-      "category": "Tools & Platforms",
+      "category": "Tools & Ownership",
       "items": [
-        "Zendesk",
-        "Salesforce",
-        "HubSpot",
-        "GoHighLevel"
-      ]
-    },
-    {
-      "category": "Ownership & Adaptability",
-      "items": [
+        "Zendesk, Salesforce, HubSpot",
         "Self-Directed Ownership (Founder)",
         "Fast-Paced Environment Adaptability",
-        "Cross-Functional Collaboration",
         "Continuous Learning"
       ]
     }
@@ -93,7 +92,6 @@
     "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
   ],
   "certifications": [
-    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
-    "Meta Ads Certification - Meta"
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
   ]
 }
