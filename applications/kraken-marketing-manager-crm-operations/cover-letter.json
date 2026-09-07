@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 7, 2026",
+  "company": "Kraken",
+  "role": "Marketing Manager, CRM Operations",
+  "recipient": "Hiring Team",
+  "salutation": "Hi Kraken Hiring Team,",
+  "body": [
+    "I'm applying for the Marketing Manager, CRM Operations role because full-lifecycle CRM ownership, from segmentation through experimentation to retention, is the exact work I do every day at Solenzo, the company I founded.",
+    "My platform experience is in GoHighLevel and HubSpot rather than Braze, and I want to say that plainly. What I've built there goes past standard campaign building: a complete automation system of 20+ workflows spanning lead capture, qualification, triggered booking, no-show recovery, onboarding nurture, and long-term reactivation, plus custom agent logic that scores engagement signals and generates personalized outreach without manual intervention, the kind of pushing-the-platform-past-its-defaults this role is asking for. I also architect contact segmentation and lifecycle stages directly in the CRM, and I design the evaluation loops that catch broken campaign logic before it reaches a customer, the experimentation discipline behind good lifecycle marketing, whatever tool is running it.",
+    "My analytics work today is in GA4 and CRM reporting rather than Tableau, Looker, or BigQuery, and I don't have crypto industry experience, both real gaps I'd rather name than talk around. What I do have is a fast track record of learning a client's existing stack from scratch every time I take one on. I'd welcome the chance to talk through how quickly that applies here."
+  ],
+  "closing": "Sincerely,"
+}

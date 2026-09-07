@@ -1,0 +1,103 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "CRM & Lifecycle Marketing Manager | Marketing Automation Architecture",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "CRM and lifecycle marketing leader with 5+ years architecting marketing-automation systems that go beyond standard workflows, building custom segmentation, personalization, and self-optimizing campaign logic on GoHighLevel and HubSpot. Runs the full lifecycle loop end to end (segmentation, multi-channel campaign execution, experimentation, and data-driven optimization), the same discipline this role asks for using Braze and BI tooling.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel marketing-automation system (20+ workflows) spanning lead capture, tagging, and routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture and reactivation, and automated review-generation sequences.",
+        "Built segmented, triggered outreach campaigns (website-visibility, missed-calls, and low-reviews) plus an automated audit workflow that enrolled 180+ contacts based on scored engagement signals.",
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.",
+        "Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize conversion rates.",
+        "Track acquisition and retention across multiple accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Lifecycle & CRM Marketing",
+      "items": [
+        "Full-Funnel Lifecycle Campaigns",
+        "Customer Segmentation & Subscriber Management",
+        "Omni-Channel Campaign Execution",
+        "Nurture & Retention Sequences"
+      ]
+    },
+    {
+      "category": "Marketing Automation & Platform Architecture",
+      "items": [
+        "GoHighLevel & HubSpot Architecture",
+        "Custom Workflow & Agent Logic",
+        "Personalization at Scale",
+        "Data Hygiene & CRM Configuration"
+      ]
+    },
+    {
+      "category": "Experimentation & Optimization",
+      "items": [
+        "A/B Testing & Experimentation",
+        "Self-Improving Automation Loops",
+        "Conversion Rate Optimization",
+        "Campaign Performance Reporting"
+      ]
+    },
+    {
+      "category": "Analytics & Stakeholder Communication",
+      "items": [
+        "Google Analytics (GA4)",
+        "ROI/KPI Reporting (CAC, LTV)",
+        "Cross-Functional Stakeholder Management",
+        "Executive Reporting"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
