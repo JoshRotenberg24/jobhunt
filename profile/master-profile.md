@@ -154,6 +154,11 @@ banned-openings list above is about bullets. Prose has its own failure modes:
 parentheses instead of em dashes. Short paragraphs. It should read like a competent
 operator talking, not like a candidate performing.
 
+**Cover letter salutation (confirmed by Josh, Sep 2026):** never use "Dear ___,". Use a
+modern, direct greeting instead, e.g. "Hi [Company] Hiring Team," or "Hi [Recipient],".
+Set this explicitly via the `salutation` key in `cover-letter.json`; the renderer
+defaults to "Dear ___," when that key is omitted, so it must be set every time.
+
 ---
 
 ## Bullet Bank (true, reusable — select & rephrase per job)
