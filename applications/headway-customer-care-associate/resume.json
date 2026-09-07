@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Care Associate | Technical Support & Problem Resolution",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer support professional with over a decade resolving technical and operational issues for SaaS and service-based customers across email, chat, and phone, guiding non-technical users through setup, troubleshooting, and problem resolution with patience and clear communication. Runs my own client-facing business today, which means I already operate with an owner's sense of accountability for every customer interaction.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and providing hands-on training.",
+        "Own post-sale value delivery for B2B clients, architecting onboarding and technical setup that drives product adoption at scale."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Support & Communication",
+      "items": [
+        "Email, Chat & Phone Support",
+        "De-escalation & Conflict Resolution",
+        "Empathetic Communication",
+        "Technical Troubleshooting"
+      ]
+    },
+    {
+      "category": "Problem-Solving & Process Improvement",
+      "items": [
+        "Root-Cause Problem Solving",
+        "Customer Experience Advocacy",
+        "Process & Workflow Improvement",
+        "Goal-Oriented Performance"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "Zendesk",
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel"
+      ]
+    },
+    {
+      "category": "Ownership & Adaptability",
+      "items": [
+        "Self-Directed Ownership (Founder)",
+        "Fast-Paced Environment Adaptability",
+        "Cross-Functional Collaboration",
+        "Continuous Learning"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
