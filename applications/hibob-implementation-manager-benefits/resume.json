@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Manager | SaaS Customer Onboarding & Configuration",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation and onboarding professional with over a decade guiding SaaS customers through system setup, configuration, integrations, and training, managing multiple accounts and go-live deadlines simultaneously. Background spans CRM, marketing automation, and business-software implementations, with the same discipline (in-depth training, technical troubleshooting, and trusted-advisor guidance) this role calls for in payroll and benefits administration.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and providing hands-on training.",
+        "Own post-sale value delivery for B2B clients, architecting onboarding and technical setup that drives product adoption at scale."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation & Onboarding",
+      "items": [
+        "Multi-Customer Implementation Management",
+        "System Configuration",
+        "Go-Live Deadline Management",
+        "Technical Training"
+      ]
+    },
+    {
+      "category": "Systems & Integrations",
+      "items": [
+        "API & Integration Guidance",
+        "CRM Configuration (Salesforce, HubSpot, GoHighLevel)",
+        "Data Accuracy & Hygiene",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "category": "Customer Relationship & Advisory",
+      "items": [
+        "Trusted Advisor Relationships",
+        "Client Communication",
+        "Issue Resolution",
+        "Cross-Functional Collaboration (Product & Engineering)"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "Zendesk",
+        "Slack",
+        "Asana",
+        "Salesforce"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
