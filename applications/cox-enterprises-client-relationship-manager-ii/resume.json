@@ -1,0 +1,116 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Relationship Manager | Strategic Account Growth & Retention",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client relationship manager with over a decade managing complex, multi-stakeholder B2B accounts, driving retention, resolving escalations, and turning operational data into clear recommendations for internal and external stakeholders. Background spans SaaS, agency, and founder-led operations, with the same core discipline this role calls for: track the numbers, get ahead of risk, and keep every client relationship on a consistent operating cadence.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.",
+        "Track acquisition and retention across multiple accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Relationship Management",
+      "items": [
+        "Strategic Account Management",
+        "Escalation Ownership",
+        "Business Reviews (QBRs)",
+        "Client Retention"
+      ]
+    },
+    {
+      "category": "Operational & Process Excellence",
+      "items": [
+        "Process Improvement & SOPs",
+        "Documentation & Procedural Controls",
+        "Cross-Functional Coordination",
+        "Budget & Scope Oversight"
+      ]
+    },
+    {
+      "category": "Data & Performance Reporting",
+      "items": [
+        "KPI Tracking & Reporting",
+        "Google Analytics (GA4)",
+        "CRM (Salesforce, HubSpot, GoHighLevel)",
+        "Data-Driven Recommendations"
+      ]
+    },
+    {
+      "category": "Customer Experience & Communication",
+      "items": [
+        "Proactive Client Communication",
+        "Issue Resolution",
+        "Customer Satisfaction",
+        "Technical Onboarding"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
