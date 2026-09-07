@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 7, 2026",
+  "company": "Certinia",
+  "role": "Digital Experience Manager",
+  "recipient": "Hiring Team",
+  "salutation": "Hi Certinia Hiring Team,",
+  "body": [
+    "I'm applying for the Digital Experience Manager role because the AI use-case discovery and roadmap-prioritization work at the center of it, finding friction points, evaluating opportunities, and turning them into a sequenced plan, is what I already do daily at Solenzo, just without the Optimizely suite behind it.",
+    "I want to be direct about that: I haven't worked in Optimizely. What I have done is architect a complete AI-driven marketing-automation system from scratch (20+ workflows spanning capture, qualification, booking, and personalized outreach generated from scored engagement signals), design the evaluation loops that catch broken logic before it reaches a customer, and translate non-technical stakeholders' ideas into structured AI agent instructions, the same bridge this role asks for between business goals and technical execution. I've built that fluency across GoHighLevel, HubSpot, and Salesforce, and earlier sold and implemented Accelo's own proprietary CRM/PSA platform, so picking up a new platform's architecture isn't new work for me, it's most of my career.",
+    "I also run GA4 and Google Tag Manager hands-on today, and I track ROI and conversion performance as a matter of course, so the technical and reporting side of this role is familiar ground. I'd welcome the chance to talk through how fast I could get productive inside Optimizely specifically."
+  ],
+  "closing": "Sincerely,"
+}
