@@ -74,6 +74,6 @@ Internal decision aid, not a prediction of Apryse's own screening or scoring pro
 
 ## Output Files
 
-- `resume.pdf`, `resume.docx` — tailored resume (2 pages, modern style)
+- `Joshua_Rotenberg_Apryse_SEO_Specialist.pdf`, `.docx` — tailored resume (2 pages, modern style)
 - `fit.json`, `fit.png` — Application Priority Score
 - `match-report.md` — this file
