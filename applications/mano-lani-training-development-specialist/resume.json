@@ -1,0 +1,127 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Training & Development Specialist | Software Onboarding, Documentation & User Enablement",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical training and onboarding professional with 15+ years turning complex business software into training programs, documentation, and hands-on instruction that end users of varying technical experience can act on. Has developed sales and onboarding training curricula, led live and virtual technical onboarding for individual clients and high-volume partner networks, and built the user guides, workflow documentation, and reference materials that support them. Comfortable translating subject-matter expertise into structured training content and providing follow-up technical support after delivery.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and providing hands-on training.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured specifications, acting as the bridge between business intent and reliable technical execution.",
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational workflows for B2B audiences.",
+        "Document every client interaction, timeline, and deliverable across GoHighLevel, HubSpot, and Notion, keeping project and process records auditable across concurrent engagements.",
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations for audiences with varying technical fluency.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools, then provided ongoing technical assistance.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions, incorporating findings back into training and onboarding."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives.",
+        "Directly managed and developed a team of onboarding specialists for 2 years - a team of 20, later a team of 8 - overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices, translating technical concepts for clients across a range of experience levels."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and coordinated with the implementation team on delivery.",
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical Training & Development",
+      "items": [
+        "Instructor-Led & Hands-On Training",
+        "Technical Onboarding",
+        "Sales & New-Hire Training Development",
+        "Training Program Design"
+      ]
+    },
+    {
+      "category": "Training Materials & Documentation",
+      "items": [
+        "User Guides & Reference Materials",
+        "Process Documentation",
+        "Educational Content",
+        "Workflow Documentation"
+      ]
+    },
+    {
+      "category": "Technical Communication",
+      "items": [
+        "Translating Technical Concepts for Non-Technical Audiences",
+        "Cross-Functional Stakeholder Training",
+        "Post-Training Technical Support"
+      ]
+    },
+    {
+      "category": "Systems & Data Management",
+      "items": [
+        "CRM Architecture (HubSpot, Salesforce, GoHighLevel)",
+        "Data Hygiene & Segmentation",
+        "Workflow & Systems Configuration",
+        "Software Implementation"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
