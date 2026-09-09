@@ -1,0 +1,111 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Account Manager | Client-Facing Technical Support, AI Systems & Communication Translation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Account and support professional with 15+ years translating technical systems for both technical and non-technical audiences, most recently building and troubleshooting AI agent workflows and API-integrated CRM systems at Solenzo. Comfortable owning a small, high-touch book of accounts and being the technical point of contact customers trust. Deep API/SSO-level debugging (HAR files, network traces, SAML) isn't yet part of the toolkit, worth saying plainly, but the pattern of quickly building technical fluency on a new platform is consistent across the last 15 years.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable technical output.",
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Build reusable agent infrastructure and internal tooling integrating with client CRMs and CMS platforms for 24/7 automated growth engines.",
+        "Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize performance.",
+        "Document every client interaction, timeline, and deliverable across GoHighLevel, HubSpot, and Notion, keeping project and process records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations for audiences with varying technical fluency."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical Account Management",
+      "items": [
+        "Escalation Triage & Resolution",
+        "API Integrations",
+        "Technical Onboarding",
+        "Cross-Functional Product Feedback"
+      ]
+    },
+    {
+      "category": "Technical-to-Business Translation",
+      "items": [
+        "Complex System Explanation",
+        "Non-Technical Stakeholder Communication",
+        "Structured Issue Documentation"
+      ]
+    },
+    {
+      "category": "AI & Systems Building",
+      "items": [
+        "AI Agent Architecture",
+        "Prompt Engineering",
+        "Automated Workflow Design",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "Jira",
+        "GoHighLevel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
