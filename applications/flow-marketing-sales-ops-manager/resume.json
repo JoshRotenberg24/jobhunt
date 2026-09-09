@@ -1,0 +1,119 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing & Sales Operations Manager | AI-First Automation & Trade Channel Experience",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Channel experience two ways: built AI-driven marketing automation specifically for home-services trade businesses (electrical, plumbing, HVAC-type) as a GoHighLevel affiliate at Solenzo, and managed a network of independent reseller partners at Birdeye, channel-model sales, not direct, spanning health, home services, and retail verticals. Not manufacturers'-rep or distributor experience specifically, worth saying plainly, but real fluency in how trade businesses operate and how partner-channel relationships work. On the AI side: builds and runs AI agent workflows daily as the operating model, not a tool bolted onto old habits, 20+ automated workflows spanning lead capture, qualification, appointment booking, and re-engagement, all self-built and continuously improved.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel marketing-automation system, 20+ workflows spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.",
+        "Built segmented cold-email outreach engines (website-visibility, missed-calls, and low-reviews campaigns) plus an automated prospect 'audit' workflow that enrolled 180+ contacts, scoring a business's digital footprint to trigger personalized outreach.",
+        "Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable output.",
+        "Design self-improving evaluation frameworks to monitor agent outputs and continuously optimize performance.",
+        "Document every client interaction, timeline, and deliverable across GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts, including home-services businesses, end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & Automation",
+      "items": [
+        "AI Agent Workflow Design",
+        "Prompt Engineering",
+        "Continuous Process Automation",
+        "Data-Driven Targeting & Segmentation"
+      ]
+    },
+    {
+      "category": "Trade & Channel Experience",
+      "items": [
+        "Home-Services Vertical Marketing (Electrical, Plumbing, HVAC-Type)",
+        "Channel / Reseller Partner Management",
+        "Partner Network Retention"
+      ]
+    },
+    {
+      "category": "Marketing Execution",
+      "items": [
+        "Email & SMS Campaigns",
+        "Direct-Response Copywriting",
+        "CRM Data Hygiene",
+        "Campaign Reporting (ROI, CAC, LTV)"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "GoHighLevel",
+        "HubSpot",
+        "ClickUp",
+        "Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

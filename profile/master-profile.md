@@ -171,6 +171,16 @@ operator talking, not like a candidate performing.
 
 ### Solenzo LLC — Founder & Strategic / Marketing Operations Lead (Feb 2024 – Present)
 
+> **Home-services vertical focus (confirmed by Josh, Sep 2026):** Josh is a GoHighLevel
+> affiliate and has specifically built marketing-automation workflows designed for
+> home-services clients (electrical, plumbing, HVAC-type trade businesses), not just
+> "service-based businesses" generically. This is real, hands-on demand-side fluency in
+> the home-services/trades world: how these businesses operate, what their marketing and
+> lead-flow problems look like, and what they need from automation. It is not the same as
+> having worked at a manufacturers' rep agency, manufacturer, or industrial distributor
+> (the supply side of that channel) — keep that distinction honest when a posting asks
+> specifically for rep/distributor-side experience versus trade-business-side experience.
+
 **Strategic & Client Leadership**
 - Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.
 - Run day-to-day delivery for B2B clients, managing operational needs and driving them to their goals on complex SaaS platforms.
@@ -221,6 +231,8 @@ operator talking, not like a candidate performing.
 > **Partner vertical breadth (added Aug 2026, confirmed by Josh):** the 15-20 reseller partners spanned a variety of verticals, including health, home services, and retail — not a single-industry book. Useful evidence of cross-vertical partner-network management, but not a dedicated multi-year home-services/trade-contractor tenure; represent it as "including home services" rather than as home-services specialization.
 >
 > **Healthcare-vertical channel sales (confirmed by Josh, Sep 2026):** a meaningful share of that partner book was channel sales specifically to agencies focused on healthcare clients — B2B channel/reseller sales into the healthcare vertical, not direct patient-facing or clinical healthcare work (no claims, EMR, or payer-side experience). Genuine healthcare-adjacent industry exposure, honestly scoped as B2B marketing-technology sales to healthcare-focused agencies, not healthcare operations.
+>
+> **Channel rep framing (confirmed by Josh, Sep 2026):** the role title itself is "Channel Partnerships," and the underlying work, managing a network of independent reseller partners rather than selling direct, is genuine channel-rep-model experience. Usable for postings that specifically ask about channel/reseller/partner-network experience, distinct from direct account management. Still a SaaS reseller channel, not an industrial/manufacturers'-rep channel — don't blur the two when a posting is industry-specific.
 - Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.
 - Onboarded and managed **15–20 reseller partners** (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), **retaining all but one (~94% retention)** during tenure.
 - Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.
@@ -230,6 +242,7 @@ operator talking, not like a candidate performing.
 - Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.
 
 ### Fetch & Funnel — Account Executive / Sales Operations (Sep 2022 – Feb 2023)
+> **Home-services clients (confirmed by Josh, Sep 2026):** the agency's client roster included home-services businesses among its accounts, additional (if less specified) demand-side exposure to the trades, consistent with the pattern at Solenzo.
 - Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
