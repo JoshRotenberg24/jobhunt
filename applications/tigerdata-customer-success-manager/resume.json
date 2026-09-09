@@ -1,0 +1,118 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success Manager | B2B SaaS Onboarding, Retention & Cross-Functional Advocacy",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success and account management professional with 15+ years owning the full post-sale journey in B2B SaaS and MarTech, onboarding, adoption, retention, and expansion, for both direct-customer and partner-network portfolios. Track record includes ~94% partner retention, QBR and reporting frameworks tracking ROI and adoption, and a direct feedback channel into Product and Engineering. Builds and deploys AI-driven workflows daily as the founder of an automation practice, with a working, hands-on opinion on where AI actually changes CS motions. New ground: no direct hands-on experience with Postgres, SQL, or cloud infrastructure specifically, the technical fluency below comes from CRM architecture, API integrations, and AI agent building rather than database administration, worth saying directly.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of B2B service clients, running discovery and onboarding to surface goals, objectives, and success criteria.",
+        "Run day-to-day delivery and success planning for clients on complex SaaS platforms, identifying expansion opportunities and scoping complementary services aligned with client objectives.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable technical output.",
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across the client portfolio.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive stakeholders."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive communication on client goals and initiatives.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": [
+        "Onboarding & Adoption",
+        "Churn Reduction",
+        "Retention & Expansion",
+        "QBRs & Success Planning"
+      ]
+    },
+    {
+      "category": "Cross-Functional & Technical Translation",
+      "items": [
+        "API Integrations",
+        "CRM Architecture (GoHighLevel, HubSpot, Salesforce)",
+        "Business-to-Technical Translation",
+        "C-Suite Advisory"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "Agentic AI Workflows",
+        "ChatGPT / Claude",
+        "Prompt Design",
+        "AI-Driven CS Tooling"
+      ]
+    },
+    {
+      "category": "Reporting & Analytics",
+      "items": [
+        "ROI / CAC / LTV Dashboards",
+        "KPI Tracking",
+        "GA4"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
