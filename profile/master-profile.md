@@ -70,6 +70,17 @@
   employers, answer from the recreation side only and say plainly that the hunting and
   angling background isn't there. Do not re-ask; do not stretch this.
 
+## Personal healthcare-system experience (confirmed Sep 2026)
+
+- **Has been a patient inside the healthcare system himself**, and wants to help patients
+  navigate it, per Josh's own words: "would love to be there to help patients." Genuine
+  personal motivation, not a positioning angle. No further specifics given (condition,
+  timeframe, etc.) — keep it at this level of generality in cover letters and interview
+  answers unless Josh volunteers more. Usable for healthcare, patient-advocacy, or
+  healthcare-affordability employers (e.g., TailorMed) as a personal "why this role"
+  note, distinct from his professional healthcare-vertical experience (see Birdeye note
+  above).
+
 ---
 
 ## Work History (employers, titles, dates — fixed facts)
