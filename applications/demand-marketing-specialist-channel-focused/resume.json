@@ -1,0 +1,121 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Demand Marketing Specialist | Channel Ownership, Pipeline Generation & Funnel Optimization",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Demand generation practitioner who has owned an outbound and email channel end-to-end, from targeting and segmentation through appointment booking, at Solenzo, where 20+ automated workflows and a free-audit funnel enrolled 180+ businesses and generated qualified conversations. Builds and optimizes the full funnel personally: campaign targeting, sequencing, conversion tracking, and reporting, using GoHighLevel and HubSpot as the operating systems. Comfortable translating channel performance into the language sales teams act on, from a career spent split between building demand and closing it.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built segmented cold-email and outbound outreach engines in GoHighLevel (website-visibility, missed-calls, and low-reviews campaigns) plus an automated prospect 'audit' workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized outreach.",
+        "Architected a complete marketing-automation system, 20+ workflows spanning lead capture/tagging/routing, lead qualification, and appointment booking with confirmation, reminders, and no-show recovery.",
+        "Ran a free digital-footprint audit offer promoted through organic channel growth, enrolling 180+ businesses and converting a share to paying clients, tracked and reported end to end.",
+        "Design self-improving loops and evaluation frameworks to monitor channel and agent performance and continuously optimize results.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K), roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and coordinated with the implementation team on delivery."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Demand Generation & Channel Ownership",
+      "items": [
+        "Outbound & Email Channel Ownership",
+        "Lead Capture, Tagging & Routing",
+        "Automated Nurture Sequences",
+        "Appointment/Meeting Generation"
+      ]
+    },
+    {
+      "category": "Funnel & Pipeline Analytics",
+      "items": [
+        "Funnel Conversion Tracking",
+        "ROI / CAC / LTV Reporting",
+        "Pipeline Reporting & Dashboards",
+        "Testing & Iteration"
+      ]
+    },
+    {
+      "category": "ICP & Targeting",
+      "items": [
+        "Segmentation",
+        "Digital Footprint Scoring",
+        "List Building",
+        "Campaign Targeting"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "GoHighLevel (Automation & Sequencing)",
+        "HubSpot",
+        "Salesforce",
+        "GA4"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
