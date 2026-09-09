@@ -193,6 +193,7 @@ operator talking, not like a candidate performing.
 **Analytics & Reporting**
 - Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations.
 - Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize conversion rates.
+- Configure and evaluate AI-generated response output for client automation systems, and built rubric-based grading criteria for the SEO audit process, scoring outputs against defined standards. Perform the underlying data labeling personally as part of running these systems. *(Confirmed by Josh, Sep 2026.)*
 - Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership.
 - Track acquisition and retention across multiple accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth.
 - Analyze complex marketing and operational datasets, extracting actionable insights and structured recommendations that improve campaign performance.
@@ -225,6 +226,7 @@ operator talking, not like a candidate performing.
 - Onboarded and launched **25+ clients per month**, holding **120% of sales targets and 110% of implementation targets**.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
 - Directly managed and developed a team of onboarding specialists for **2 years — a team of 20, later a team of 8** — overseeing budgets, scope, and delivery for a high-value client portfolio. *(Scale and duration confirmed by Josh, Aug 2026.)*
+- Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team. *(Confirmed by Josh, Sep 2026.)*
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
 - Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.
