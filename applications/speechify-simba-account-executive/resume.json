@@ -1,0 +1,128 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Account Executive / Go-to-Market | Technical B2B Sales, AI Agent Demos & GTM Strategy",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical B2B sales professional who also builds the product he'd be demoing. At Solenzo, personally architects AI agent workflows on no-code/low-code platforms, hands-on with APIs and automation logic, not just a sales pitch about AI but real, working systems built from scratch. 15+ years running full sales cycles for technical buyers and business stakeholders alike, building GTM playbooks and outbound strategy from zero, and feeding structured customer feedback back into product roadmaps. Deep AI/agentic fluency; voice-specific experience is new ground, worth saying directly.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.",
+        "Architected and deployed a complete GoHighLevel marketing-automation system, 20+ workflows spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, and automated review-generation sequences.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable output.",
+        "Design self-improving evaluation frameworks to monitor agent outputs and continuously optimize performance.",
+        "Own the primary strategic relationship for a portfolio of service-based business clients, running discovery and onboarding to surface client goals, objectives, and challenges.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K), roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and coordinated with the implementation team on delivery.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs, high-volume prospecting, lead qualification, and customer acquisition."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical B2B Sales",
+      "items": [
+        "Full Sales-Cycle Ownership",
+        "Technical Discovery",
+        "C-Suite & Technical Buyer Relationships",
+        "Quota Attainment"
+      ]
+    },
+    {
+      "category": "AI Agent Building & Demos",
+      "items": [
+        "Hands-On API / No-Code Agent Architecture",
+        "Rapid Prototyping",
+        "Prompt Engineering",
+        "Agent Output Evaluation"
+      ]
+    },
+    {
+      "category": "GTM Strategy",
+      "items": [
+        "Outbound Playbook Development",
+        "Messaging & Positioning",
+        "New-Vertical Go-to-Market"
+      ]
+    },
+    {
+      "category": "Customer & Product Feedback",
+      "items": [
+        "Voice-of-Customer to Product",
+        "CRM Pipeline Discipline",
+        "Revenue Forecasting"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
