@@ -1,0 +1,123 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Operations Coordinator | Systems Building, Process Documentation & Client Support",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operations professional with 15+ years building and maintaining the internal systems, documentation, and client-facing processes that keep a growing business running. Works independently for a CEO or founder, builds process from scratch rather than inheriting it, and handles sensitive client information with discretion. Financial-operations and HR-administration experience specifically (bookkeeping software, payroll systems) isn't part of the background, worth stating plainly, but the underlying systems-building and process discipline is the same skill this role calls for.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.",
+        "Design, implement, and optimize marketing automation and CRM systems for B2B service clients as a fractional success/implementation manager.",
+        "Own the primary strategic relationship for a portfolio of service-based business clients, running discovery and onboarding to surface client goals, objectives, and challenges.",
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance and customer-management systems from scratch in a highly regulated startup environment.",
+        "Developed early operational infrastructure, including intake processes and reporting systems, scaling the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Operations & Systems Building",
+      "items": [
+        "Process Documentation",
+        "Internal Systems Design",
+        "Client & CRM Data Management",
+        "Fractional / Behind-the-Scenes Support"
+      ]
+    },
+    {
+      "category": "Client Engagement & Coordination",
+      "items": [
+        "Scheduling & Communication",
+        "Client Records Management",
+        "Meeting Preparation"
+      ]
+    },
+    {
+      "category": "Discretion & Reliability",
+      "items": [
+        "Sensitive Information Handling",
+        "Independent Execution",
+        "Self-Directed Problem-Solving"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "Notion",
+        "Google Workspace",
+        "Asana",
+        "HubSpot, ClickUp"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
