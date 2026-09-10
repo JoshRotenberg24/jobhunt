@@ -17,6 +17,7 @@
 | LinkedIn | linkedin.com/in/joshua-rotenberg |
 | Company | Solenzo LLC (Founder) |
 | Languages | English only (not bilingual) |
+| Citizenship | U.S. citizen (confirmed by Josh, Sep 2026) |
 
 > **Job-search knockouts (constraints, not resume content):** English only — any role
 > that requires a second language / bilingual (e.g. Spanish) fluency is a hard knockout.
