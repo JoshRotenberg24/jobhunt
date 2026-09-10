@@ -71,6 +71,6 @@ Band: **Solid stretch** — apply with a sharp tailored resume (done).
 
 ## Output Files
 
-- `resume.pdf` / `resume.docx` — 2 pages, reverse-chronological, QA passed (`CHRONOLOGY: OK`, `LAST_PAGE_FILL=0.66`).
-- `cover-letter.pdf` / `cover-letter.docx` — 1 page. Recommended for this one: the off-title path (AE/AM titles vs. "Technical Account Manager") and the fintech gap both benefit from a short, direct narrative that the resume bullets alone can't carry.
+- `Atomic-TAM-Resume.pdf` / `.docx` — 2 pages, reverse-chronological, QA passed (`CHRONOLOGY: OK`, `LAST_PAGE_FILL=0.66`).
+- `Atomic-TAM-CoverLetter.pdf` / `.docx` — 1 page. Recommended for this one: the off-title path (AE/AM titles vs. "Technical Account Manager") and the fintech gap both benefit from a short, direct narrative that the resume bullets alone can't carry.
 - `fit.json` / score meter (text; PNG render unavailable in this environment — `fitz` module missing).
