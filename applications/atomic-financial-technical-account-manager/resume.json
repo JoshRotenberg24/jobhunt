@@ -1,0 +1,103 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Technical Account Manager | Implementation & Partner Success",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical account management professional with 15+ years owning the post-sale technical relationship across MarTech, SaaS, and agency environments. Track record managing reseller and partner portfolios, translating customer requirements into scoped technical work, and coordinating across Product, Engineering, and internal teams to keep integrations, onboarding, and account health on track.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable technical output.",
+        "Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot, covering contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Build reusable, boilerplate marketing assets and messaging frameworks for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch.",
+        "Configure and evaluate AI-generated response output for client automation systems, and built rubric-based grading criteria for the SEO audit process, scoring outputs against defined standards.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20 and later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive communication on client goals and initiatives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical Account & Implementation Management",
+      "items": ["Portfolio Ownership", "Implementation Planning", "Onboarding Strategy", "Time-to-Value Reduction", "API Integrations", "Workflow Design"]
+    },
+    {
+      "category": "Partner & Customer Success",
+      "items": ["Channel/Partner Management", "Retention Strategy", "Customer Health Metrics", "Escalation Management", "C-Suite Relationship Building"]
+    },
+    {
+      "category": "Cross-Functional & Systems",
+      "items": ["Cross-Functional Coordination (Product, Engineering, Sales)", "CRM Architecture (GoHighLevel, HubSpot, Salesforce)", "Data Hygiene & Systems of Record", "Process Documentation", "QBRs & Status Reporting"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Notion", "Slack", "Asana", "Monday.com", "Jira", "ClickUp"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google/Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
