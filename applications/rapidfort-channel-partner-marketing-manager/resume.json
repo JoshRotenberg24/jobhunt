@@ -1,0 +1,108 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Channel & Partner Marketing Manager | Reseller Partnerships, GTM Enablement & B2B Technical Sales",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing and account leader with direct reseller-partner management experience (15-20 partners, ~94% retention at Birdeye) plus 15+ years of B2B technical sales and GTM/campaign-building across SaaS and agency environments. Comfortable translating complex product capabilities into partner- and customer-facing messaging, and building the ROI reporting that shows which programs actually produce pipeline. Direct gaps worth naming: that partner-management tenure was 14 months, not 5+ years dedicated, and it was not the current role. No cybersecurity, DevSecOps, or Federal/Public Sector partner-ecosystem experience, and no MDF/co-marketing budget management specifically.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Align marketing programs to revenue objectives directly with business owners and sales teams, producing consistent messaging and qualified lead flow.",
+        "Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured technical requirements, acting as the bridge between business intent and reliable output.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Partner & Channel Management",
+      "items": [
+        "Reseller Partner Management",
+        "Partner Onboarding & Retention",
+        "Partner Health & Utilization Analysis"
+      ]
+    },
+    {
+      "category": "GTM & Campaign Strategy",
+      "items": [
+        "Demand Generation",
+        "Campaign ROI Reporting",
+        "Joint Messaging & Positioning"
+      ]
+    },
+    {
+      "category": "CRM & Sales Enablement",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Pipeline Automation"
+      ]
+    },
+    {
+      "category": "Technical-to-Business Translation",
+      "items": [
+        "C-Suite Advisory",
+        "Complex Product Messaging"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
