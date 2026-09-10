@@ -243,6 +243,8 @@ operator talking, not like a candidate performing.
 
 ### Fetch & Funnel — Account Executive / Sales Operations (Sep 2022 – Feb 2023)
 > **Home-services clients (confirmed by Josh, Sep 2026):** the agency's client roster included home-services businesses among its accounts, additional (if less specified) demand-side exposure to the trades, consistent with the pattern at Solenzo.
+>
+> **Sales team lead (confirmed by Josh, Sep 2026):** Josh took on team lead for the sales team at Fetch & Funnel, in addition to his individual account work. Team size and exact scope not yet captured — ask Josh if a posting needs the specifics. Usable as evidence of people-leadership experience earlier than the Wix team-lead tenure suggested; the two roles sit back-to-back (Wix team lead through Aug 2022, Fetch & Funnel team lead Sep 2022–Feb 2023), showing continuous leadership responsibility across that period rather than an isolated instance.
 - Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
