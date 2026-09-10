@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 9, 2026",
+  "company": "Yoodli",
+  "role": "Technical Account Manager",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I want to open with the honest version of my fit for this role. I don't have hands-on experience reading HAR files, network traces, or configuring SSO/SAML, and I'd rather tell you that directly than have it surface in a screen. What I do have is fifteen years of being the person who translates a technical system for whoever's in front of me, and real, current experience building the kind of technical product Yoodli is: AI systems that have to work reliably and be explainable to people who didn't build them.",
+    "At Solenzo, I build and troubleshoot AI agent architectures, translating loosely-formed business intent into precise, structured instructions, then own the CRM and integration infrastructure that keeps client data flowing correctly across systems. At Accelo, I owned client onboarding and API integrations directly, and escalated technical risk to leadership before it became an account problem, not after. At Birdeye, I was the bridge between customers and our Product and Engineering teams, translating what customers actually needed into feedback engineering could use.",
+    "What draws me to this role specifically is the AI angle. I'm not asking to be excited about AI coaching, I already am, it's the product category I build in every day. I'd come into the SSO/API debugging depth as a real gap to close, not a box already checked, but I close technical gaps quickly, that pattern is the one constant across every role in my career. I'd welcome the conversation."
+  ],
+  "closing": "Best,"
+}

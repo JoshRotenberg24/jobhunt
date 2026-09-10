@@ -17,6 +17,7 @@
 | LinkedIn | linkedin.com/in/joshua-rotenberg |
 | Company | Solenzo LLC (Founder) |
 | Languages | English only (not bilingual) |
+| Citizenship | U.S. citizen (confirmed by Josh, Sep 2026) |
 
 > **Job-search knockouts (constraints, not resume content):** English only — any role
 > that requires a second language / bilingual (e.g. Spanish) fluency is a hard knockout.
@@ -69,6 +70,17 @@
   outfitting, or gear-industry experience. For hunting, fishing, or outdoor-industry
   employers, answer from the recreation side only and say plainly that the hunting and
   angling background isn't there. Do not re-ask; do not stretch this.
+
+## Personal healthcare-system experience (confirmed Sep 2026)
+
+- **Has been a patient inside the healthcare system himself**, and wants to help patients
+  navigate it, per Josh's own words: "would love to be there to help patients." Genuine
+  personal motivation, not a positioning angle. No further specifics given (condition,
+  timeframe, etc.) — keep it at this level of generality in cover letters and interview
+  answers unless Josh volunteers more. Usable for healthcare, patient-advocacy, or
+  healthcare-affordability employers (e.g., TailorMed) as a personal "why this role"
+  note, distinct from his professional healthcare-vertical experience (see Birdeye note
+  above).
 
 ---
 
@@ -160,6 +172,16 @@ operator talking, not like a candidate performing.
 
 ### Solenzo LLC — Founder & Strategic / Marketing Operations Lead (Feb 2024 – Present)
 
+> **Home-services vertical focus (confirmed by Josh, Sep 2026):** Josh is a GoHighLevel
+> affiliate and has specifically built marketing-automation workflows designed for
+> home-services clients (electrical, plumbing, HVAC-type trade businesses), not just
+> "service-based businesses" generically. This is real, hands-on demand-side fluency in
+> the home-services/trades world: how these businesses operate, what their marketing and
+> lead-flow problems look like, and what they need from automation. It is not the same as
+> having worked at a manufacturers' rep agency, manufacturer, or industrial distributor
+> (the supply side of that channel) — keep that distinction honest when a posting asks
+> specifically for rep/distributor-side experience versus trade-business-side experience.
+
 **Strategic & Client Leadership**
 - Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.
 - Run day-to-day delivery for B2B clients, managing operational needs and driving them to their goals on complex SaaS platforms.
@@ -193,6 +215,7 @@ operator talking, not like a candidate performing.
 **Analytics & Reporting**
 - Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations.
 - Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize conversion rates.
+- Configure and evaluate AI-generated response output for client automation systems, and built rubric-based grading criteria for the SEO audit process, scoring outputs against defined standards. Perform the underlying data labeling personally as part of running these systems. *(Confirmed by Josh, Sep 2026.)*
 - Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership.
 - Track acquisition and retention across multiple accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth.
 - Analyze complex marketing and operational datasets, extracting actionable insights and structured recommendations that improve campaign performance.
@@ -207,6 +230,10 @@ operator talking, not like a candidate performing.
 
 ### Birdeye — Channel Partnerships & Customer Onboarding (Feb 2023 – Apr 2024)
 > **Partner vertical breadth (added Aug 2026, confirmed by Josh):** the 15-20 reseller partners spanned a variety of verticals, including health, home services, and retail — not a single-industry book. Useful evidence of cross-vertical partner-network management, but not a dedicated multi-year home-services/trade-contractor tenure; represent it as "including home services" rather than as home-services specialization.
+>
+> **Healthcare-vertical channel sales (confirmed by Josh, Sep 2026):** a meaningful share of that partner book was channel sales specifically to agencies focused on healthcare clients — B2B channel/reseller sales into the healthcare vertical, not direct patient-facing or clinical healthcare work (no claims, EMR, or payer-side experience). Genuine healthcare-adjacent industry exposure, honestly scoped as B2B marketing-technology sales to healthcare-focused agencies, not healthcare operations.
+>
+> **Channel rep framing (confirmed by Josh, Sep 2026):** the role title itself is "Channel Partnerships," and the underlying work, managing a network of independent reseller partners rather than selling direct, is genuine channel-rep-model experience. Usable for postings that specifically ask about channel/reseller/partner-network experience, distinct from direct account management. Still a SaaS reseller channel, not an industrial/manufacturers'-rep channel — don't blur the two when a posting is industry-specific.
 - Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.
 - Onboarded and managed **15–20 reseller partners** (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), **retaining all but one (~94% retention)** during tenure.
 - Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.
@@ -216,6 +243,9 @@ operator talking, not like a candidate performing.
 - Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.
 
 ### Fetch & Funnel — Account Executive / Sales Operations (Sep 2022 – Feb 2023)
+> **Home-services clients (confirmed by Josh, Sep 2026):** the agency's client roster included home-services businesses among its accounts, additional (if less specified) demand-side exposure to the trades, consistent with the pattern at Solenzo.
+>
+> **Sales team lead (confirmed by Josh, Sep 2026):** Josh took on team lead for the sales team at Fetch & Funnel, in addition to his individual account work. Team size and exact scope not yet captured — ask Josh if a posting needs the specifics. Usable as evidence of people-leadership experience earlier than the Wix team-lead tenure suggested; the two roles sit back-to-back (Wix team lead through Aug 2022, Fetch & Funnel team lead Sep 2022–Feb 2023), showing continuous leadership responsibility across that period rather than an isolated instance.
 - Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
@@ -225,6 +255,7 @@ operator talking, not like a candidate performing.
 - Onboarded and launched **25+ clients per month**, holding **120% of sales targets and 110% of implementation targets**.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
 - Directly managed and developed a team of onboarding specialists for **2 years — a team of 20, later a team of 8** — overseeing budgets, scope, and delivery for a high-value client portfolio. *(Scale and duration confirmed by Josh, Aug 2026.)*
+- Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team. *(Confirmed by Josh, Sep 2026.)*
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
 - Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.

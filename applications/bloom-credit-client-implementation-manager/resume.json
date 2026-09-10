@@ -1,0 +1,129 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Implementation Manager | Project Delivery & Cross-Functional Coordination",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client implementation and onboarding professional with 15+ years owning the post-sale journey for B2B SaaS clients, from signed contract through go-live. Builds structured project plans, tracks risk and blockers proactively, and runs a consistent communication cadence as the client's single point of contact. Comfortable coordinating technical and non-technical stakeholders and holding both internal teams and clients accountable to dates, without owning the underlying technical decisions.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based business clients, running discovery and onboarding to surface goals, objectives, and challenges.",
+        "Document every client interaction, timeline, and deliverable across GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.",
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and providing hands-on training.",
+        "Bridge non-technical stakeholders and technical execution, translating business requirements into precise, structured specifications for reliable delivery.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, coordinating execution across internal departments and translating performance data into strategic recommendations.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.",
+        "Directly managed and developed a team of onboarding specialists for 2 years - a team of 20, later a team of 8 - overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive communication on client goals and initiatives.",
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance.",
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation & Project Management",
+      "items": [
+        "Project Planning & Milestone Tracking",
+        "Risk & Blocker Escalation",
+        "Cross-Functional Coordination",
+        "Process & Playbook Improvement"
+      ]
+    },
+    {
+      "category": "Client Communication",
+      "items": [
+        "Single Point of Contact",
+        "Expectation Management",
+        "Status Reporting & Cadence",
+        "Document & Approval Tracking"
+      ]
+    },
+    {
+      "category": "Stakeholder Coordination",
+      "items": [
+        "Technical & Non-Technical Translation",
+        "Internal Team Alignment",
+        "Vendor/Partner Onboarding"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "Notion",
+        "ClickUp",
+        "Google Workspace"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

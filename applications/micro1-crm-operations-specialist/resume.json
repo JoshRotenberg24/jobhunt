@@ -1,0 +1,124 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "CRM Operations Specialist | CRM Ownership, Data Labeling & Rubric-Based Evaluation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "CRM and sales operations professional with 15+ years owning CRM systems end to end across HubSpot, Salesforce, GoHighLevel, and Accelo's own CRM/PSA platform. Personally builds and applies the rubric-based grading behind an AI-driven marketing system, including AI response configuration and the underlying data labeling, work that sits inside model-output evaluation rather than incidental AI tool use. Combines that with 15 years of CRM data integrity, sales-process optimization, and terminology fluency gained from configuring CRM, project-management, and ticketing systems for a wide range of businesses.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Configure and evaluate AI-generated response output for client automation systems, and build rubric-based grading criteria for the SEO audit process, scoring outputs against defined standards and performing the underlying data labeling personally.",
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.",
+        "Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize performance.",
+        "Document every client interaction, timeline, and deliverable across GoHighLevel, HubSpot, and Notion, keeping project and process records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Directly managed and developed a team of onboarding specialists for 2 years - a team of 20, later a team of 8 - overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and coordinated with the implementation team on delivery.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "CRM & Sales Operations",
+      "items": [
+        "HubSpot, Salesforce, GoHighLevel, Accelo (CRM/PSA)",
+        "Sales Process Optimization",
+        "Data Integrity & Hygiene",
+        "Automation & Workflow Design"
+      ]
+    },
+    {
+      "category": "Data Labeling & Model Evaluation",
+      "items": [
+        "Rubric-Based Grading",
+        "AI Response Evaluation",
+        "Data Labeling & Annotation",
+        "Agent Output Monitoring"
+      ]
+    },
+    {
+      "category": "CRM Data & Records",
+      "items": [
+        "Field Definition & Standardization",
+        "Record Documentation",
+        "Process Mapping"
+      ]
+    },
+    {
+      "category": "Communication",
+      "items": [
+        "Written & Verbal English",
+        "Stakeholder Documentation",
+        "Cross-Functional Feedback"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

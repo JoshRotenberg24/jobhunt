@@ -1,0 +1,88 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "CRM Coordinator | Email Campaign Execution, Automation & Marketing Operations",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations and CRM professional with 15+ years building and executing email campaigns, automation flows, segmentation, and A/B testing, most recently architecting 20+ live automation workflows on GoHighLevel and building email sequences and campaign assets at Level Agency. Comfortable managing multiple concurrent campaigns against deadlines with a technical, detail-first QA habit carried over from running SEO and structured-data audits. New ground, worth saying directly: no hands-on Klaviyo or Attentive experience specifically, no SMS-campaign execution, and no e-commerce/DTC brand experience, the platform and campaign-building fluency below transfers from GoHighLevel and HubSpot rather than the named tools.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel marketing-automation system, 20+ workflows spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, and automated review-generation sequences.",
+        "Built segmented cold-email outreach engines in GHL (website-visibility, missed-calls, and low-reviews campaigns) plus an automated prospect audit workflow that enrolled 180+ contacts.",
+        "Draft clean, specific direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Track acquisition and retention across multiple accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets, landing pages, complex email sequences, and conversion-focused copy, improving lead generation and pipeline.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Email & Campaign Execution",
+      "items": [
+        "Email Marketing",
+        "A/B Testing",
+        "Personalization & Dynamic Content",
+        "Landing Pages"
+      ]
+    },
+    {
+      "category": "Marketing Automation & CRM",
+      "items": [
+        "GoHighLevel",
+        "HubSpot",
+        "Workflow & Flow Building",
+        "Audience Segmentation"
+      ]
+    },
+    {
+      "category": "Project & QA Discipline",
+      "items": [
+        "Multi-Campaign Coordination",
+        "Technical QA (SEO / Structured Data Audits)",
+        "Deadline Management"
+      ]
+    },
+    {
+      "category": "Reporting & Analytics",
+      "items": [
+        "GA4",
+        "ROI / CAC / LTV Reporting",
+        "Campaign Performance Monitoring"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

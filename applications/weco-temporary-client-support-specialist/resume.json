@@ -1,0 +1,116 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Support Specialist | CRM Management, Proposals & Client Documentation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "CRM and client-support professional with 15+ years managing Salesforce and other CRM systems, generating client-ready proposals and documentation, and maintaining the kind of same-day responsiveness a growing client base depends on. Has built the templates, checklists, and process documentation that keep a team's client work moving without dropped threads, and brings direct competitor and market research experience from technical and business-development work. Comfortable stepping into an existing team's systems and keeping them running accurately during a transition.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.",
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide data pulls, implementing fixes directly inside client CMS platforms.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets, landing pages, complex email sequences, and conversion-focused copy, improving lead generation and pipeline.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and coordinated with the implementation team on delivery."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "CRM Management",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Data Accuracy & Hygiene"
+      ]
+    },
+    {
+      "category": "Client Documentation",
+      "items": [
+        "Proposals & Scopes of Work",
+        "Contract & Process Documentation",
+        "Templates & Checklists"
+      ]
+    },
+    {
+      "category": "Client Support & Responsiveness",
+      "items": [
+        "Same-Day Response",
+        "Client Relationship Management",
+        "Retention & Follow-Up"
+      ]
+    },
+    {
+      "category": "Research & Reporting",
+      "items": [
+        "Competitor & Market Research",
+        "CRM Reporting & Forecasting Support"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

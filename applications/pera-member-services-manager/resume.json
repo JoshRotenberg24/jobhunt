@@ -1,0 +1,120 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Member Services Manager | Team Leadership, Escalated Issue Resolution & Process Improvement",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operations and client-service leader with 15+ years managing teams and resolving escalated issues for clients who depend on getting accurate answers. Directly managed and developed a team of up to 20 people, built the coaching, performance-review, and process-improvement discipline that comes with it, and has a consistent record of translating complex systems into clear guidance for both employees and clients. No direct benefits-administration or financial-services background specifically, worth stating plainly, but the underlying skill, leading a team through complex, judgment-heavy casework and improving the process as it goes, is the same one built across a 15-year career.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.",
+        "Analyze complex marketing and operational datasets, extracting actionable insights and structured recommendations that improve campaign performance.",
+        "Design self-improving evaluation frameworks to monitor output quality and continuously optimize processes."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Team Leadership & Development",
+      "items": [
+        "Team Management & Coaching",
+        "Performance Reviews & Corrective Action",
+        "Hiring & Training",
+        "Standard-Setting & Accountability"
+      ]
+    },
+    {
+      "category": "Escalated Issue Resolution",
+      "items": [
+        "Complex Case Investigation",
+        "Cross-Functional Resolution",
+        "Judgment & Discretion",
+        "Risk Mitigation"
+      ]
+    },
+    {
+      "category": "Process Improvement & Analysis",
+      "items": [
+        "Service-Quality Evaluation",
+        "Data-Driven Recommendations",
+        "Policy & Procedure Documentation"
+      ]
+    },
+    {
+      "category": "Systems & Communication",
+      "items": [
+        "CRM & Database Proficiency",
+        "Complex Information Translation",
+        "Written & Verbal Communication"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

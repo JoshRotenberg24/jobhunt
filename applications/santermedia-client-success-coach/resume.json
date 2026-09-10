@@ -1,0 +1,110 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Success Coach | Accountability, Retention & Data-Driven Coaching for Service Businesses",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client success and account management professional with 15+ years coaching independent, service-based business owners to better results, not just managing accounts. Has built the exact systems this role runs on, lead capture, appointment booking with no-show recovery, review generation, for a portfolio of local service businesses, and holds clients accountable to the actions that move their numbers, evidenced by ~94% partner retention and quota rankings sustained while targets roughly doubled. New ground: no fitness-industry vertical experience specifically, though the underlying work, building lead-gen, appointment, and sales systems for local business owners, is the same function this role runs on.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based business owners, running discovery and onboarding to surface goals, objectives, and challenges.",
+        "Architected and deployed a complete GoHighLevel marketing-automation system, 20+ workflows spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, and automated review-generation sequences.",
+        "Align marketing programs to revenue objectives directly with business owners, producing consistent messaging and qualified lead flow.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive communication on client goals and initiatives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Coaching & Accountability",
+      "items": [
+        "Performance Coaching",
+        "Accountability Conversations",
+        "Churn Risk Diagnosis",
+        "Retention Strategy"
+      ]
+    },
+    {
+      "category": "Client Portfolio Management",
+      "items": [
+        "Multi-Client Ownership",
+        "Onboarding Through Retention",
+        "Referral & Testimonial Generation"
+      ]
+    },
+    {
+      "category": "Data-Driven Diagnosis",
+      "items": [
+        "KPI Reporting",
+        "ROI / CAC / LTV Analysis",
+        "Performance Dashboards"
+      ]
+    },
+    {
+      "category": "Marketing & Sales Systems",
+      "items": [
+        "Lead-Gen & Appointment-Booking Automation",
+        "No-Show Recovery",
+        "Full-Cycle Sales"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

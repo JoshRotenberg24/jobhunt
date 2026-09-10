@@ -1,0 +1,135 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Revenue Operations Specialist | CRM Data Model Ownership & Compliance-Constrained Workflow Design",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Revenue operations professional with 15+ years of hands-on CRM ownership, HubSpot, Salesforce, GoHighLevel, and Accelo's own CRM/PSA platform, personally configuring data models, lifecycle stages, and segmentation rather than overseeing configuration at a distance. Built compliance and customer-management systems from scratch in a highly regulated environment early in his career, and has since applied the same judgment to prioritizing what to change versus what to leave stable across complex, multi-system SaaS environments. Communicates the reasoning behind operational decisions clearly to both technical and non-technical stakeholders.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Design, implement, and optimize marketing automation and CRM systems for B2B service clients as a fractional success/implementation manager, owning configuration personally rather than overseeing a delivery team.",
+        "Document every client interaction, timeline, and deliverable across GoHighLevel, HubSpot, and Notion, keeping project and process records auditable across concurrent engagements.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured specifications, acting as the bridge between business intent and reliable technical execution.",
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and providing hands-on training."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools, working hands-on inside each account.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets, working hands-on in each account's configuration.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.",
+        "Directly managed and developed a team of onboarding specialists for 2 years - a team of 20, later a team of 8 - overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and coordinated with the implementation team on delivery.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance and customer-management systems from scratch in a highly regulated startup environment.",
+        "Developed early operational infrastructure, including intake processes and reporting systems, scaling the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Operations & CRM Data Model",
+      "items": [
+        "CRM Ownership (HubSpot, Salesforce, GoHighLevel, Accelo)",
+        "Data Model Configuration & Segmentation",
+        "Lifecycle Stage Design",
+        "Data Hygiene"
+      ]
+    },
+    {
+      "category": "Revenue Tools Beyond the CRM",
+      "items": [
+        "Project Tracking (ClickUp, Notion)",
+        "Billing / PSA & Implementation Workflows (Accelo)",
+        "Cross-System Process Documentation"
+      ]
+    },
+    {
+      "category": "Compliance & Operational Judgment",
+      "items": [
+        "Compliance-Constrained Systems Design",
+        "Change Prioritization & Rationale",
+        "Risk Escalation",
+        "Cross-Functional Stakeholder Communication"
+      ]
+    },
+    {
+      "category": "Revenue Data Integrity & Reporting",
+      "items": [
+        "Data Accuracy & Auditing",
+        "Performance Dashboards",
+        "QBRs",
+        "ROI / CAC / LTV Reporting"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

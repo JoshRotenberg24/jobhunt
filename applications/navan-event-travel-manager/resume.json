@@ -1,0 +1,116 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Support Specialist | Customer Service, Coordination & Detail-Oriented Operations",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client-facing operations professional with 15+ years of customer service, account coordination, and cross-team communication across SaaS and agency environments. Comfortable managing multiple concurrent priorities, resolving issues over video calls and internal tools (Slack, CRM systems), and maintaining accurate documentation under a fast-moving, detail-heavy workload. New to the travel industry and GDS platforms specifically, but built a career on exactly the reliability, multitasking, and client-first judgment this role calls for.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Document every client interaction, timeline, and deliverable across GoHighLevel, HubSpot, and Notion, keeping project and process records auditable across concurrent engagements.",
+        "Own the primary strategic relationship for a portfolio of service-based business clients, running discovery and onboarding to surface client goals, objectives, and challenges."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led onboarding and launch operations as primary strategic contact, delivering launches on time and accelerating time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Support & Coordination",
+      "items": [
+        "Client Relationship Management",
+        "Cross-Team Coordination",
+        "Video-Call Client Support",
+        "Issue Resolution"
+      ]
+    },
+    {
+      "category": "Documentation & Reporting",
+      "items": [
+        "Process Documentation",
+        "Recurring Reporting",
+        "Service-Agreement Compliance",
+        "Data Accuracy"
+      ]
+    },
+    {
+      "category": "Tools & Systems",
+      "items": [
+        "CRM Systems (HubSpot, Salesforce, GoHighLevel)",
+        "Slack",
+        "Google Suite",
+        "Project Tools (ClickUp, Notion)"
+      ]
+    },
+    {
+      "category": "Reliability & Flexibility",
+      "items": [
+        "Multitasking Under Deadline",
+        "Non-Traditional Schedule Availability",
+        "Remote Collaboration"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

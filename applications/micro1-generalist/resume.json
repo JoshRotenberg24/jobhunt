@@ -1,0 +1,123 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Generalist | Critical Thinking, Written Communication & Cross-Domain Analysis",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Business generalist with 15+ years of remote, client-facing work spanning marketing, sales, CRM operations, SEO, and technical systems, bringing critical thinking and close attention to detail to problems across a wide range of domains. Writes clearly and analyzes data as a matter of course: technical audits, structured reporting, and client-facing documentation are part of the regular workload. Currently builds and evaluates AI agent workflows directly, including reviewing and refining model outputs against defined criteria, work that maps directly onto training and evaluating AI systems.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize performance.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable output.",
+        "Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.",
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide data pulls, implementing fixes directly inside client CMS platforms.",
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations for audiences with varying technical fluency."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and coordinated with the implementation team on delivery.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Critical Thinking & Analysis",
+      "items": [
+        "Technical Audits & Diagnostics",
+        "Data-Driven Decision Making",
+        "Root-Cause Analysis",
+        "Structured Problem-Solving"
+      ]
+    },
+    {
+      "category": "Written & Verbal Communication",
+      "items": [
+        "Technical Writing & Documentation",
+        "Thought Leadership Content",
+        "Stakeholder Communication",
+        "Structured Feedback"
+      ]
+    },
+    {
+      "category": "Attention to Detail & QA",
+      "items": [
+        "Data Hygiene & Accuracy",
+        "Process Documentation",
+        "Quality Assurance Discipline"
+      ]
+    },
+    {
+      "category": "AI Systems & Evaluation",
+      "items": [
+        "AI Agent Workflow Design",
+        "Prompt Engineering",
+        "Model Output Review & Refinement",
+        "LLM-Assisted Automation"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 9, 2026",
+  "company": "Tiger Data",
+  "role": "Customer Success Manager",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'll name the gap up front rather than let it surface in a screening call: I don't have hands-on Postgres, SQL, or cloud infrastructure experience. What I do have is 15+ years owning the full post-sale relationship in B2B SaaS, onboarding, adoption, retention, and expansion, and a daily habit of translating technical complexity for both sides of a conversation. At Solenzo, I turn non-technical stakeholders' loosely-formed feedback into precise, structured AI agent logic. That's the same muscle this role needs between a DevOps engineer and a VP of Engineering, just pointed at a different stack.",
+    "The retention and playbook-building side is proven, not theoretical. At Birdeye, I managed 15-20 reseller partners across health, home services, and retail, retaining all but one, about 94%, while feeding structured customer feedback directly to Product and Engineering to inform the roadmap. At Level Agency, I built the QBR and ROI/CAC/LTV reporting frameworks that made account health visible before it became a renewal conversation. And at Accelo, I built the sequenced implementation plans that carried technical software deployments from sold to live, working directly with C-Suite stakeholders on system design.",
+    "I use AI daily to build and run real automation systems, not as a talking point, which is directly relevant to how you're asking this role to evolve. If a genuine CS track record plus a real appetite to learn Postgres and the infrastructure side is worth a conversation, I'd welcome it."
+  ],
+  "closing": "Best,"
+}

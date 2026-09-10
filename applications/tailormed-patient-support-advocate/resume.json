@@ -1,0 +1,130 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client & Patient Support Specialist | Outbound Communication, Customer Service & Data Accuracy",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client-facing professional with a foundation in heavy-outbound-call environments (4 years as a business development representative, building a steady flow of qualified conversations by phone) and 15+ years of customer service and account support since. Includes B2B channel sales to agencies focused on healthcare clients at Birdeye, real exposure to the healthcare vertical, from the marketing-technology side rather than direct clinical or payer-facing work. Comfortable with high-volume outbound calling, careful data entry across CRM systems, and maintaining accuracy under a documentation-heavy workload.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Document every client interaction, timeline, and deliverable across GoHighLevel, HubSpot, and Notion, keeping project and process records auditable across concurrent engagements.",
+        "Own the primary strategic relationship for a portfolio of service-based business clients, running discovery and onboarding to surface client goals, objectives, and challenges."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals, including channel sales to agencies focused on healthcare clients), retaining all but one (~94% retention) during tenure.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs, high-volume prospecting, lead qualification, and customer acquisition."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads by phone as a Business Development Representative, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings across a 4-year, heavy-outbound-call tenure.",
+        "Built the outreach, qualification, and pipeline fundamentals that carried into later account management and customer support roles."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Outbound & Customer Communication",
+      "items": [
+        "Heavy-Volume Outbound Calling",
+        "Inbound Call Handling",
+        "Customer Service & Etiquette",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "category": "Data & Documentation Accuracy",
+      "items": [
+        "CRM Data Entry & Hygiene",
+        "Process Documentation",
+        "Multi-System Data Tracking"
+      ]
+    },
+    {
+      "category": "Healthcare-Adjacent Experience",
+      "items": [
+        "B2B Channel Sales to Healthcare-Focused Agencies",
+        "Cross-Industry Client Support"
+      ]
+    },
+    {
+      "category": "Remote Collaboration",
+      "items": [
+        "Fully Remote Work History",
+        "Cross-Team Coordination",
+        "Written & Verbal Communication"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
