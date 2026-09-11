@@ -97,6 +97,23 @@
   employers, answer from the recreation side only and say plainly that the hunting and
   angling background isn't there. Do not re-ask; do not stretch this.
 
+## Fashion & personal styling interest (confirmed Sep 2026)
+
+> Genuine personal interest, not a professional credential or resume work history. Usable
+> in cover letters, application answers, and interviews for fashion, apparel, boutique
+> retail, or styling-adjacent employers, where it's real brand affinity rather than a
+> constructed angle.
+
+- **Genuine love of fashion and personal styling.** Has been actively selecting and
+  buying clothes to style his wife since they've been together, an ongoing, hands-on
+  personal interest, not a one-off.
+- **Real customer of Three Bird Nest** specifically, has purchased clothing for his wife
+  from them. Authentic brand familiarity as a consumer, not researched-for-the-application
+  knowledge, usable directly in a "why this company" note for Three Bird Nest or
+  comparable boho/boutique apparel brands.
+- Not a professional styling credential or fashion-industry work history, keep it framed
+  as genuine personal interest and real customer experience, not fabricated expertise.
+
 ## Personal healthcare-system experience (confirmed Sep 2026)
 
 - **Has been a patient inside the healthcare system himself**, and wants to help patients
