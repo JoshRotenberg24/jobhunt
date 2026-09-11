@@ -1,0 +1,95 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "AI Solutions Consultant | Consultative Discovery & AI-to-Value Translation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Consultative sales and solutions professional with 15+ years translating complex technical capabilities, including AI-driven systems he builds and evaluates himself, into clear business value for enterprise and SMB buyers. Runs discovery-led engagements from qualification through proposal, backed by direct hands-on AI architecture experience rather than borrowed talking points, and partners naturally with account owners and CS teams rather than needing to own the close.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable technical output.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.",
+        "Architect and deploy autonomous, AI-driven marketing systems for service-based businesses, automating lead enrichment, outreach, and appointment booking.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Consultative Discovery & AI Value Translation",
+      "items": ["Consultative Discovery", "AI-to-Business-Value Translation", "ROI-Backed Proposals", "Solution Fit Diagnosis", "Executive & Technical Communication"]
+    },
+    {
+      "category": "AI & Automation",
+      "items": ["Agentic AI", "Multi-Agent Orchestration", "LLM Workflows", "ChatGPT", "Claude", "Prompt Design"]
+    },
+    {
+      "category": "Customer Success & Retention",
+      "items": ["Customer Health Metrics", "Retention Strategy", "Renewal & Expansion Advisory", "Voice-of-Customer to Product"]
+    },
+    {
+      "category": "CRM & Sales Tools",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Accelo (CRM/PSA)", "Pipeline Management"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google/Coursera (2024)"
+  ]
+}
