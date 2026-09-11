@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 11, 2026",
+  "company": "Wpromote",
+  "role": "Ad Operations Manager, B2B",
+  "recipient": "Hiring Team",
+  "body": [
+    "The Ad Operations Manager role caught my attention because it sits exactly where I've spent the last several years: making sure paid campaign data lands correctly in the systems the rest of the team depends on. At Solenzo, I own that chain end to end for every client, from tag implementation through CRM handoff, which is the same discipline this role asks for across programmatic, paid social, and paid search.",
+    "I install and configure Google Tag Manager on every site I build, set up GA4 event and conversion tracking, and troubleshoot it when it breaks. I manage Google Ads accounts directly, reporting against CTR, conversion rate, and cost-per-lead, and I hold a Meta Ads certification. On the CRM side, I architect GoHighLevel and HubSpot systems that capture, tag, and route lead data from paid campaigns, the same ad-click-to-CRM plumbing a B2B account depends on for clean measurement. Earlier, at Wix and Birdeye, I guided clients through their own tag and tracking setup and served as the technical point of contact when their tracking didn't match their reporting.",
+    "I haven't trafficked campaigns in Campaign Manager 360 specifically, and I want to be upfront about that rather than let it surface later. What I bring is the same QA discipline this role runs on: hands-on tag and tracking ownership, a CRM-side view of where lead data actually needs to arrive, and a track record of being the person teams call when tracking doesn't add up. I'd welcome a conversation about how that maps onto CM360 and the daisy-chained tracking your B2B accounts run on."
+  ],
+  "closing": "Best,"
+}

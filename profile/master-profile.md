@@ -378,6 +378,10 @@ with its scope and delete the line here.
   8). Still unrecorded: how many people he personally hired and trained.
 
 **Role-specific:**
+- **Google Ads campaign-level metrics at Solenzo.** CTR, CPL, or conversion-rate figures
+  for the account(s) where Josh "cut spam/low-quality leads and improved click-through
+  quality." Currently only qualitative. Directly requested by ad-ops/paid-media JDs that
+  ask for CTR/CPL evidence (e.g. Wpromote Ad Operations Manager, Sep 2026).
 - **Data volume.** Records or contacts in the largest migration or import he has run, and
   what tool he cleaned it in. Directly requested by implementation JDs (Excel is named
   explicitly in several) and currently unevidenced.

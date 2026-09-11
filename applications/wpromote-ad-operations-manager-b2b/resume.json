@@ -1,0 +1,109 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations Specialist · Tagging, Tracking & Campaign Analytics",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations professional with 15+ years across agency and B2B SaaS environments, including hands-on Google Tag Manager implementation, GA4 conversion tracking, and pixel setup across Meta and Google Ads. Builds and audits the tracking-to-CRM handoff directly, architecting GoHighLevel, HubSpot, and Salesforce systems that receive and route lead data from paid campaigns, the same measurement chain a B2B advertiser depends on from ad click to CRM. Manages Google Ads campaigns end to end, reports performance against CTR, conversion rate, and cost-per-lead, and has served as the technical point of contact between media, analytics, and client teams on tagging, tracking, and QA.",
+  "experience": [
+    {
+      "title": "Founder & Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Install and configure Google Tag Manager on every client website, implementing GA4 event and conversion tracking and troubleshooting tracking breaks as sites and campaigns change.",
+        "Manage Google Ads accounts end to end, cutting spam and low-quality leads and improving click-through quality, then diagnosing on-site conversion issues to close the loop from click to lead.",
+        "Architect CRM and marketing-automation systems in GoHighLevel and HubSpot that capture, tag, and route lead data from paid campaigns, including 20+ live automation workflows spanning lead capture through appointment booking and nurture.",
+        "Track acquisition and conversion performance in GA4 and CRM analytics, building KPI dashboards and ROI reporting delivered directly to business owners.",
+        "Conduct technical SEO audits using Screaming Frog for site-wide data pulls, implementing schema and structured-data fixes directly inside client CMS platforms.",
+        "Hold Meta Ads certification and manage paid social alongside Google Ads and CRM tracking as part of full-funnel client campaigns."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs across paid media, delivering optimization recommendations and QBRs to stakeholders.",
+        "Ran Google keyword research and search-term analysis to shape paid search targeting and content direction.",
+        "Coordinated execution across internal channel teams and client service to keep integrated paid campaigns on schedule and consistently tracked."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Guided partners through complex technical setup and configuration of marketing-automation and tracking tools, troubleshooting integration issues across CRM and reporting systems.",
+        "Onboarded and managed 15–20 reseller partners across health, home services, and retail, retaining all but one (~94%) during tenure.",
+        "Collaborated with Product and Engineering to relay structured, high-priority tracking and reporting feedback into the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Analyzed campaign performance data across paid media and creative, translating results into optimization recommendations.",
+        "Built and refined internal reporting processes that reduced handoff errors and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Guided clients through Google Tag Manager setup and site tracking configuration as part of onboarding and launch.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed a team of onboarding specialists (20, later 8) over 2 years, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Led digital growth consultations aligning site architecture and SEO, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in pipeline automation and data structure.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, sustained while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Tagging & Tracking",
+      "items": ["Google Tag Manager", "GA4 Event & Conversion Tracking", "UTM Governance", "Pixel Implementation (Meta, Google Ads)", "Technical SEO & Schema Markup"]
+    },
+    {
+      "category": "Paid Media & Analytics",
+      "items": ["Google Ads Management", "Paid Social (Meta Ads Certified)", "Campaign Performance Reporting", "KPI Dashboards (CTR, CPL, Conversion Rate)", "QBRs"]
+    },
+    {
+      "category": "CRM & Marketing Automation",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Lead Routing & CRM Data Flow", "Segmentation & Data Hygiene"]
+    },
+    {
+      "category": "Tools & Process",
+      "items": ["Screaming Frog", "Google Search Console", "Excel / Google Sheets", "Notion", "Asana / ClickUp / Monday.com", "Cross-Functional QA & Documentation"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)",
+    "Meta Ads Certification — Meta"
+  ]
+}
