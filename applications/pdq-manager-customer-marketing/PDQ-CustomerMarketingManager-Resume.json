@@ -1,0 +1,86 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Customer Marketing & Lifecycle Manager | Retention, Expansion & Advocacy",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer marketing and lifecycle leader with 15+ years in B2B SaaS, building the onboarding, retention, and expansion programs that turn product usage and customer health signal into measurable engagement and revenue growth. Owns CRM segmentation and lifecycle-stage architecture end to end, manages cross-functional work with product, customer success, and marketing ops, and has directly led teams of up to 20 through two years of sustained delivery.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.",
+        "Design and deploy automated lifecycle sequences, onboarding workflows, and CRM architectures that activate, nurture, and retain high-value users at scale.",
+        "Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20 and later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Marketing & Lifecycle",
+      "items": ["Lifecycle Campaign Strategy", "Onboarding Nurture", "Retention & Win-Back", "Customer Segmentation & Health Scoring", "NPS"]
+    },
+    {
+      "category": "Growth & Expansion",
+      "items": ["Cross-Sell & Upsell Strategy", "Expansion Pipeline", "Account Growth", "Churn Reduction"]
+    },
+    {
+      "category": "Leadership & Cross-Functional",
+      "items": ["Team Management & Mentorship", "Cross-Functional Collaboration (Marketing, Product, CS)", "Stakeholder Reporting & QBRs"]
+    },
+    {
+      "category": "Tools & Analytics",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "GA4", "CRM Analytics", "Performance Dashboards"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google/Coursera (2024)"
+  ]
+}
