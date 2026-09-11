@@ -50,13 +50,22 @@
 > re-ask; the badge is technically obtainable if Josh chooses to apply for one, but he
 > does not hold one today.
 
-> **Why looking for new opportunities (confirmed by Josh, Sep 2026):** running Solenzo has
-> been solo work, no team, no steady paycheck or benefits behind it. He's looking for a
-> role where he plugs back into a team and gets the stability (health insurance,
-> retirement match, steady pay) that consulting doesn't provide, while still doing the
-> client-facing, systems-building work his career is built on. Standing answer for any
-> "why are you job searching" / "why leaving your current role" application question —
-> reuse this framing rather than re-asking or inventing a generic one.
+> **Why looking for new opportunities (confirmed by Josh, Sep 2026):** standing prose
+> answer for any "why are you job searching" / "why leaving your current role"
+> application question — reuse verbatim or lightly adapted, don't re-ask or invent a
+> generic one:
+>
+> "For the last two and a half years I've run Solenzo on my own, building CRM systems and
+> AI-driven marketing automation for service-based businesses. Real client work, real
+> systems, but solo: no team behind me, no steady paycheck, no benefits. I built it
+> because I wanted to prove I could architect and run these systems end to end, and I
+> did, but consulting alone doesn't give you the stability of a team or the health
+> insurance and retirement match that come with being part of one. What I'm looking for
+> now is a role where I bring that hands-on, systems-building, client-facing experience
+> into a team environment, somewhere I'm collaborating with other people toward shared
+> goals again, not carrying every client relationship and every technical decision by
+> myself. The work itself is what I want to keep doing. The solo part is what I'm ready
+> to leave behind."
 
 ## Education & Certifications
 
