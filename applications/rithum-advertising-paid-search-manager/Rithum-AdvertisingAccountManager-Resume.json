@@ -1,0 +1,83 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Digital Advertising & Paid Media Account Manager | Google Ads, Meta Ads & AI-Driven Optimization",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Digital advertising and paid media professional with 15+ years in B2B and e-commerce marketing, managing Google Ads and Meta Ads campaigns for a portfolio of clients and translating business goals into media strategy, budget, and creative decisions. Brings hands-on AI fluency, building and evaluating AI-driven marketing systems, to a discipline increasingly built around applying AI to campaign efficiency, plus agency-side account management experience across multi-stakeholder client relationships.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click-through quality, then diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.",
+        "Architect and deploy autonomous, AI-driven marketing systems for service-based businesses, automating lead enrichment, outreach, and appointment booking.",
+        "Configure and evaluate AI-generated response output for client automation systems, and built rubric-based grading criteria for the SEO audit process, scoring outputs against defined standards.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Paid Media & Search",
+      "items": ["Google Ads", "Meta Ads (Certified)", "Paid Social", "Campaign Optimization", "Keyword & Search-Term Research", "Budget & Bid Management"]
+    },
+    {
+      "category": "AI & Campaign Efficiency",
+      "items": ["AI-Driven Campaign Automation", "AI Output Evaluation & Rubric Grading", "Prompt Design", "Workflow Automation"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["GA4", "Campaign Attribution", "ROI / CAC / LTV Reporting", "QBRs", "Performance Dashboards"]
+    },
+    {
+      "category": "Client & Agency Management",
+      "items": ["Multi-Stakeholder Account Management", "Cross-Functional Collaboration", "Agency Environment"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google/Coursera (2024)"
+  ]
+}
