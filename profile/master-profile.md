@@ -40,6 +40,15 @@
 >
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
+>
+> **Colorado MED Agent Badge (confirmed by Josh, Sep 2026):** does not currently hold a
+> Colorado Marijuana Enforcement Division occupational license ("Agent Badge"). This is
+> commonly a required, direct application question for cannabis retail/field roles that
+> need recurring access to licensed premises (budtender-facing sales, in-store
+> merchandising, retail training). Treat a posting that asks this question directly as a
+> likely knockout unless the posting states the badge can be obtained after hire. Do not
+> re-ask; the badge is technically obtainable if Josh chooses to apply for one, but he
+> does not hold one today.
 
 ## Education & Certifications
 
@@ -282,7 +291,15 @@ operator talking, not like a candidate performing.
 - Built the outreach, qualification, and pipeline fundamentals that carried into later SaaS Account Executive roles.
 
 ### Standing Akimbo — Co-Owner / Operations Lead (Jun 2010 – Sep 2012)
-- Built compliance and customer-management systems from scratch in a highly regulated startup environment.
+> **Industry confirmed (Josh, Sep 2026):** Standing Akimbo was a licensed cannabis
+> (marijuana) dispensary in Denver, CO, during Colorado's early medical marijuana era.
+> This is genuine, direct cannabis-industry ownership/operations experience, not just an
+> analogous "regulated startup." Usable as real evidence for cannabis-industry postings,
+> distinct from generic regulated-industry framing. Scope is compliance/operations/
+> customer-vendor-supplier systems, not retail merchandising, budtender training, or
+> field sales, keep that distinction honest against postings asking specifically for the
+> latter.
+- Built compliance and customer-management systems from scratch in a licensed cannabis dispensary.
 - Developed early operational infrastructure — intake processes and reporting systems — scaling the business to profitability.
 - Built customer service, vendor, and supplier workflows from the ground up.
 
