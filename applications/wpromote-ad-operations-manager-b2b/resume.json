@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Marketing operations professional with 15+ years across agency and B2B SaaS environments, including hands-on Google Tag Manager implementation, GA4 conversion tracking, and pixel setup across Meta and Google Ads. Builds and audits the tracking-to-CRM handoff directly, architecting GoHighLevel, HubSpot, and Salesforce systems that receive and route lead data from paid campaigns, the same measurement chain a B2B advertiser depends on from ad click to CRM. Manages Google Ads campaigns end to end, reports performance against CTR, conversion rate, and cost-per-lead, and has served as the technical point of contact between media, analytics, and client teams on tagging, tracking, and QA.",
+  "summary": "Marketing operations professional with 15+ years across agency and B2B SaaS environments, including hands-on Google Tag Manager implementation, GA4 conversion tracking, and pixel setup across LinkedIn, Meta, and Google Ads. Builds and audits the tracking-to-CRM handoff directly, architecting GoHighLevel, HubSpot, and Salesforce systems that receive and route lead data from paid campaigns, the same measurement chain a B2B advertiser depends on from ad click to CRM. Manages Google Ads campaigns end to end, reports performance against CTR, conversion rate, and cost-per-lead, and has served as the technical point of contact between media, analytics, and client teams on tagging, tracking, and QA.",
   "experience": [
     {
       "title": "Founder & Marketing Operations Lead",
@@ -30,6 +30,7 @@
       "location": "Remote",
       "dates": "Sep 2024 – Feb 2025",
       "bullets": [
+        "Installed the LinkedIn Insight Tag for conversion tracking and ran an A/B testing strategy across paid social that tested hook and offer variants, not just messaging, to identify what actually drove conversions.",
         "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs across paid media, delivering optimization recommendations and QBRs to stakeholders.",
         "Ran Google keyword research and search-term analysis to shape paid search targeting and content direction.",
         "Coordinated execution across internal channel teams and client service to keep integrated paid campaigns on schedule and consistently tracked."
@@ -84,7 +85,7 @@
   "competencies": [
     {
       "category": "Tagging & Tracking",
-      "items": ["Google Tag Manager", "GA4 Event & Conversion Tracking", "UTM Governance", "Pixel Implementation (Meta, Google Ads)", "Technical SEO & Schema Markup"]
+      "items": ["Google Tag Manager", "GA4 Event & Conversion Tracking", "UTM Governance", "Pixel Implementation (LinkedIn Insight Tag, Meta, Google Ads)", "Technical SEO & Schema Markup"]
     },
     {
       "category": "Paid Media & Analytics",

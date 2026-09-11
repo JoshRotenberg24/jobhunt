@@ -26,22 +26,27 @@ open items below are application-form answers or facts for him to confirm, not k
 
 ---
 
-## Application Priority Score: 46 / 100 — 🟡 Long shot
+## Application Priority Score: 48 / 100 — 🟡 Long shot
 
 *Internal decision aid — not a prediction of Wpromote's ATS score, match category, or
 interview decision.*
 
 ```
-[█████████░░░░░░░░░░░]  46%
+[██████████░░░░░░░░░░]  48%
 ```
 
 | Dimension | Score | Max |
 | :--- | :--- | :--- |
-| Must-have requirements met | 12 | 40 |
+| Must-have requirements met | 13 | 40 |
 | Seniority & scope alignment | 6 | 15 |
 | Domain / industry alignment | 11 | 15 |
 | Differentiators / nice-to-haves | 11 | 15 |
-| Evidence strength | 6 | 15 |
+| Evidence strength | 7 | 15 |
+
+*(Updated Sep 11, 2026: confirmed LinkedIn Insight Tag installation + an A/B-tested
+hook/offer paid-social testing program at Level Agency, closing part of the pixel-
+implementation gap. +2 points; still a long shot — CM360, DSP tag/macro setup, and
+verification vendors remain unconfirmed.)*
 
 See `fit.png` for the rendered gauge.
 
@@ -63,14 +68,16 @@ wrong").
 | Impression/click trackers, HTML5 creatives, daisy-chaining | **Gap** | Not in profile |
 | DSP tag setup, macros/custom variables | **Gap** | Not in profile |
 | GTM + GA4, data layer variables for triggers | Covered (strong) | Installs/configures GTM on every Solenzo site; guided GTM setup at Wix; GA4 event/conversion tracking |
-| Pixel implementation (LinkedIn, Meta, Google Ads) | Partial | Meta Ads certified, hands-on Google Ads/Meta pixel work implied by campaign management; LinkedIn Insight Tag specifically not documented |
+| Pixel implementation (LinkedIn, Meta, Google Ads) | Covered | Installed LinkedIn Insight Tag hands-on at Level Agency; Meta Ads certified; hands-on Google Ads pixel/conversion work at Solenzo |
 | Verification/viewability vendors (IAS, DoubleVerify) | **Gap** | Not in profile |
 | HTML/JS, browser debugging | **Gap** | Not documented in profile |
 | Excel/Sheets, pivot tables | Partial | Reporting/dashboard work implies proficiency; not explicitly documented |
 | Media planning/buying + KPIs (CTR, viewability, CPL) | Partial | Manages Google Ads with CTR/conversion/CPL-style reporting; not programmatic media buying |
 
 **4 of 10 technical must-haves are genuine gaps.** This resume does not claim any of
-them — it leads with the real adjacent strengths instead.
+them — it leads with the real adjacent strengths instead. (Pixel implementation moved
+from partial to covered on Sep 11, 2026 after Josh confirmed hands-on LinkedIn Insight
+Tag installation at Level Agency.)
 
 ## Top Strengths For This Role
 
@@ -88,6 +95,11 @@ them — it leads with the real adjacent strengths instead.
   tools.
 - **Technical SEO and schema/structured-data work** — shows comfort in the technical,
   detail-sensitive, "one setting breaks everything" mode the JD explicitly wants.
+- **Hands-on LinkedIn Insight Tag installation at Level Agency**, paired with an A/B
+  testing program on paid social that tested hook/offer variants (not just messaging) —
+  direct evidence against a named must-have pixel platform, and a data-driven testing
+  instinct that supports "Supporting Paid Social... on conversion tracking, pixel and tag
+  setup."
 
 ## Gaps (genuinely absent from the profile — not fabricated on the resume)
 
@@ -101,9 +113,6 @@ them — it leads with the real adjacent strengths instead.
 
 ## Candidate Confirmation Needed
 
-- **LinkedIn Insight Tag specifically.** Josh has Meta/Google Ads pixel and GTM work
-  documented; if he has also implemented the LinkedIn Insight Tag for a client, that
-  closes part of the pixel-implementation gap and should be added to the profile.
 - **HTML/JavaScript and browser dev-tools debugging.** Plausible given the technical SEO
   and CMS work, but not explicitly confirmed — worth asking Josh directly since it's a
   named must-have.

@@ -230,6 +230,13 @@ operator talking, not like a candidate performing.
 - Analyze complex marketing and operational datasets, extracting actionable insights and structured recommendations that improve campaign performance.
 
 ### Level Agency — Account Executive / Client Strategist (Sep 2024 – Feb 2025)
+> **LinkedIn Insight Tag + paid social testing strategy (confirmed by Josh, Sep 2026):**
+> installed the LinkedIn Insight Tag hands-on for conversion tracking (a quick,
+> straightforward setup per Josh, not extensive platform depth). Ran a paid social
+> testing program that A/B tested hook/offer variants, not just ad copy or messaging, to
+> find what actually drove conversions. Usable as real, hands-on LinkedIn pixel evidence
+> for paid-social/ad-ops postings that name the LinkedIn Insight Tag specifically.
+- Installed the LinkedIn Insight Tag for conversion tracking and ran an A/B testing strategy across paid social that tested hook/offer variants, not just messaging, to identify what drove conversions.
 - Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
