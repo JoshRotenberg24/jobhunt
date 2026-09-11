@@ -1,0 +1,112 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Specialist · Program Execution, Training & Cross-Functional Coordination",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Denver-based marketing professional with 15+ years executing measurable marketing programs across agency, SaaS, and founder-led environments, including KPI-driven campaign planning, cross-functional stakeholder coordination, and training and enablement program development. Built and delivered training materials and onboarding programs that brought new hires and partner networks up to a consistent standard, and has owned marketing initiatives end to end, from planning and content development through performance reporting. Comfortable presenting results and recommendations to both internal teams and outside stakeholders.",
+  "experience": [
+    {
+      "title": "Founder & Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Align marketing programs directly with business owners and sales teams, producing consistent messaging and qualified lead flow across concurrent client engagements.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across marketing and operations.",
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture and operational growth for B2B audiences.",
+        "Draft clean, specific direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Build reusable marketing assets and messaging frameworks, adapting a shared template base to each client's brand and vertical.",
+        "Identify strategic opportunities to expand program scope, recommending and scoping complementary services aligned with client objectives."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs to stakeholders.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, coordinating execution across internal departments.",
+        "Produced high-converting campaign assets, including landing pages and conversion-focused copy, improving lead generation and pipeline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Onboarded and managed 15–20 partner accounts, retaining all but one (~94%) during tenure.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Drove team initiatives and process improvements for a new business vertical, including hiring, onboarding, and training new hires and developing sales training for tenured account executives.",
+        "Directly managed a team of onboarding specialists (20, later 8) over 2 years, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Advised clients on software adoption, building scalable operational systems aligned to their growth stage and team structure.",
+        "Built relationships with C-Suite executives as a trusted advisor on operational system design, guiding onboarding alongside implementation teams."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Program Execution",
+      "items": ["Campaign Planning & Execution", "KPI Measurement & Reporting", "Program Development", "Budget & Scope Management"]
+    },
+    {
+      "category": "Training & Enablement",
+      "items": ["Training Program Development", "Facilitation", "Onboarding Materials", "Knowledge-Gap Identification"]
+    },
+    {
+      "category": "Content & Communication",
+      "items": ["Copywriting", "Thought Leadership", "Presentations & Business Reviews (QBRs)", "Stakeholder Communication"]
+    },
+    {
+      "category": "Cross-Functional Collaboration",
+      "items": ["Cross-Team Coordination", "Partner & Vendor Relationships", "Product & Engineering Feedback Loops"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["GA4", "GoHighLevel", "HubSpot", "Salesforce", "Notion", "Asana / ClickUp / Monday.com"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)",
+    "Meta Ads Certification — Meta"
+  ]
+}
