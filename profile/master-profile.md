@@ -50,6 +50,14 @@
 > re-ask; the badge is technically obtainable if Josh chooses to apply for one, but he
 > does not hold one today.
 
+> **Why looking for new opportunities (confirmed by Josh, Sep 2026):** running Solenzo has
+> been solo work, no team, no steady paycheck or benefits behind it. He's looking for a
+> role where he plugs back into a team and gets the stability (health insurance,
+> retirement match, steady pay) that consulting doesn't provide, while still doing the
+> client-facing, systems-building work his career is built on. Standing answer for any
+> "why are you job searching" / "why leaving your current role" application question —
+> reuse this framing rather than re-asking or inventing a generic one.
+
 ## Education & Certifications
 
 - **B.A. Liberal Arts, Minor in Political Science** — Colorado State University, Fort Collins, CO
