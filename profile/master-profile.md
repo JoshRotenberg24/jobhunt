@@ -344,6 +344,13 @@ operator talking, not like a candidate performing.
 - **25+ clients onboarded/launched per month** (Wix, personal monthly load across the two-year tenure)
 - **120% of sales targets and 110% of implementation targets** (Wix, attainment against quota; role was primarily sales in year one, combined sales and implementation in year two)
 - **15+ years** total experience in MarTech / SaaS / agency
+- **10+ years in sales specifically** (self-characterized, confirmed by Josh, Sep 2026) —
+  spans direct, quota-carrying sales titles (Senior Directory BDR, Fivestars AE, Accelo AE,
+  Fetch & Funnel AE, Level Agency AE) plus the primarily-sales year one at Wix. Use this
+  framing whenever a posting's qualifications list "Sales" as an accepted experience
+  category — lead the summary and headline with sales tenure rather than defaulting to a
+  marketing-ops framing, on postings scored primarily against a sales/renewals/account
+  qualification.
 - **5+ years** building CRM & marketing automation (GoHighLevel primary, HubSpot secondary)
 - **4 years** of SEO experience specifically, per Josh (self-reported, Aug 2026)
 - **~$17,750/month average implementation (services) bookings at Accelo (~$213K/yr annualized)**, plus new recurring revenue — consistently above commission floor into accelerator tiers (per Accelo commission records)

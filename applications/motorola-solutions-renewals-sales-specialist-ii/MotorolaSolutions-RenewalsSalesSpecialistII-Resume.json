@@ -1,0 +1,100 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Renewals & Account Management Specialist | 10+ Years in SaaS Sales & Retention",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Sales and account management professional with 10+ years in direct, quota-carrying sales roles, built on top of 15+ years overall in SaaS and subscription software. Manages the full renewal and expansion conversation, proactive outreach, negotiation, and close, backed by a consistent record of meeting and exceeding targets and genuine fluency in SaaS subscription models and CRM systems.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive communication on client goals and initiatives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Closed deals of $20K and larger later in tenure, mixed with a base of smaller wins.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs, high-volume prospecting, lead qualification, and customer acquisition."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads as a Business Development Representative, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Renewals & Retention",
+      "items": ["Contract Renewal Management", "Retention Strategy", "Churn & Risk Analysis", "Upsell & Expansion", "Portfolio Forecasting"]
+    },
+    {
+      "category": "Sales & Negotiation",
+      "items": ["Full-Cycle Sales", "Quota Attainment", "Negotiation & Closing", "Pipeline Management"]
+    },
+    {
+      "category": "SaaS & Subscription Fluency",
+      "items": ["SaaS Subscription Models", "CRM Systems (Salesforce, HubSpot, GoHighLevel, Accelo)", "Contract & Pricing Structuring"]
+    },
+    {
+      "category": "Client & Stakeholder Management",
+      "items": ["C-Suite Relationship Building", "Cross-Functional Collaboration (Sales, CS, Product)", "Reporting & Forecasting"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google/Coursera (2024)"
+  ]
+}
