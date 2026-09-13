@@ -72,9 +72,10 @@ content.
 - Use each relevant term naturally where it's warranted — headline, summary, an
   experience or project bullet, or the skills evidence.
 - Do not repeat a term solely to manipulate a presumed score.
-- Every material skill in a Core Competencies section must be supported by evidence
-  elsewhere in the master profile, or flagged as *candidate confirmation needed* and left
-  off.
+- Every material skill in a Core Competencies section must pass the two-minute
+  defensibility test in `SKILL.md` (evidenced in the master profile, or confirmed by Josh
+  in-session and added to it in the same pass), or be flagged as *candidate confirmation
+  needed* and left off.
 
 > Literal terms can help discoverability in recruiter searches and some matching
 > configurations. Other systems recognize related terms or apply employer-defined
@@ -89,8 +90,12 @@ text regardless of color, and a reviewer sees it with a select-all.
 > These tactics add no credible evidence and can impair parsing, undermine credibility,
 > violate employer rules, or trigger manual scrutiny.
 
-The same applies to fabricated titles, dates, credentials, and metrics — including
-"tailoring" a past title toward the target role.
+The same applies to fabricated employers, dates, credentials, and metrics, and to
+replacing an employer-issued title outright. A job title may carry an added, truthful
+descriptor alongside the real title (see `SKILL.md`'s composite-format policy) — the
+real title must always remain fully present and legible. Swapping it out entirely, or
+shrinking/obscuring it in favor of a made-up one, is fabrication regardless of how the
+request for it is framed.
 
 ## Content quality
 

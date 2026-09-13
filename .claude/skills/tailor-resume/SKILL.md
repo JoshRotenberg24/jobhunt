@@ -17,8 +17,102 @@ argument-hint: <job-posting-url | pasted job description>
 Assemble a tailored resume for **Joshua Rotenberg** from a specific job posting — plus an
 **Application-Form and Eligibility Check**, an **Application Priority Score**, and an
 optional cover letter. Guiding principle: **truthful tailoring** — select, reorder, and
-rephrase real content to match the job; never invent employers, titles, dates, metrics,
-or skills.
+rephrase real content to match the job; never invent employers, employment dates, or
+outcomes that didn't happen. Job titles get their own rule — see **Job titles: composite
+format policy** below — because an employer-issued title is a fact of record, not a
+phrasing choice, but it can carry an added true descriptor alongside it.
+
+## Framing vs. fabrication (governs every step below)
+
+Two categories. Do not confuse them, and once a rule below approves something, apply it
+at full strength rather than defaulting to the most conservative reading out of caution.
+
+**Fabrication is claiming something that didn't happen. Framing is choosing which true
+thing to say and how to say it.** Never flag framing as fabrication, and never let
+framing slide into fabrication.
+
+**Allowed (framing — full flexibility):**
+1. **Defensible estimates.** Approved when there's a real known basis being rounded or
+   bracketed ("ran 30-50 concurrent accounts"). Not approved when there's no known
+   quantity and a number is chosen because it sounds plausible. If Josh gives a real
+   range, use it and record it in `master-profile.md` under **Numbers Worth Capturing**
+   (tagged `self-estimated`) so it's available next time. If he doesn't have one, ask —
+   never invent one to fill the gap.
+2. **Outcome verbs over task verbs.** "Reduced onboarding time" instead of "responsible
+   for onboarding process," when the outcome is true even if never formally measured.
+3. **Consolidate scope.** Work spanning multiple tools or functions can be described as
+   one integrated capability ("cross-functional systems ownership") instead of several
+   weak, scattered bullets.
+4. **Borrow standard terminology.** Use the industry-standard name for something Josh
+   built, even if he never called it that internally.
+5. **Ownership language for work driven, even without sole ownership.** "Led" and
+   "drove" are valid when Josh was the primary force, even on a team.
+6. **Bullet order and emphasis flex per target role, without limit.** Which tasks lead,
+   which get cut, the headline, the summary, core competencies — all fully rewritable
+   per application, per the terminology rules in Step 6.
+
+**Not allowed (fabrication — no exceptions):** numbers with no real basis; outcomes that
+didn't happen; an employer name or employment dates that didn't happen; replacing an
+employer-issued job title outright (see the composite-format policy instead).
+
+**Tools and skills — verification standard.** Documentation in `master-profile.md` is
+not the bar for including a skill; defensibility is. A tool or skill is approved for
+inclusion if Josh can pass this test: *if an interviewer asked him to walk through how he
+used it for two minutes, could he do it without stalling?* If yes, include it — even with
+no prior resume mention, no certificate, informal or self-taught use, or no employer
+record of it. Absence of a paper trail is not evidence of non-use. If he can't defend it
+that way, exclude it. Either way, when a two-minute-defensible skill surfaces that isn't
+yet in the profile, add it to `master-profile.md` in the same pass (per this repo's
+`CLAUDE.md` master-profile-updates rule) so it's available for every future application,
+not just this one.
+
+## Job titles: composite format policy
+
+**Immutable, never rewritten, no exceptions:** the employer name, the employment dates,
+and the officially issued job title as a fact of record. These are third-party facts, not
+Josh's language about himself — there's no "framing" version of a title, only the real
+one or a false one.
+
+**Fully flexible, rewrite per application:** a lead descriptor placed *alongside* the
+real title, chosen to match the target role.
+
+**Format when the real title doesn't read well for the target role:**
+`[Target-relevant descriptor] — [Actual title]` (with the company in its own field, as
+the resume schema already separates them). The real title is always fully present and
+legible — never shrunk, truncated, or demoted to a footnote.
+
+Examples, same Birdeye role (`Channel Partnerships & Customer Onboarding`), different
+targets:
+- Sales-flavored target: `Account Executive (Channel Partnerships & Customer
+  Onboarding)`
+- CS-flavored target: `Customer Success & Retention — Channel Partnerships & Customer
+  Onboarding`
+
+Note what that second example does *not* say: not "Customer Success **Manager**," because
+Josh didn't manage a CS team at Birdeye (he did at Wix) — the descriptor tracks real
+duties in that specific role and never borrows a seniority or scope word that wasn't
+actually there. Run every descriptor through the same two-minute-defensibility test above
+before using it.
+
+This is title *framing*, not title fabrication, because the real title is always still on
+the page. It holds up against a reference check, a background check, and a close
+recruiter read, since nothing on the document contradicts the employer's record — and it
+still gets the ATS keyword hit and the recruiter skim-read, since both scan the descriptor
+text, not just the trailing legal title.
+
+**Explicitly not allowed:** replacing the real title outright with no indication it's
+been reframed.
+
+**Resolution path when a title feels limiting for a target role:**
+1. Check whether Josh's real scope was genuinely broader than the title on file (e.g.,
+   an undocumented team-lead or cross-functional addition). If yes, this is a one-time
+   correction to `master-profile.md`, done once, permanently — not a per-application
+   swap. Ask Josh to confirm, then update the work-history table.
+2. If scope wasn't broader, use the composite format above. Do not swap the title string
+   itself.
+3. Any request to replace an employer-issued title outright, with nothing indicating the
+   real title, is declined and redirected to option 1 or 2. This is settled policy, not a
+   live decision to re-argue per application.
 
 ## What an applicant tracking system actually is
 
@@ -159,9 +253,12 @@ human-readability choice only — it does not affect parsing or any employer sco
   industrial/manufacturing, finance, legal, government, academia.
 
 Choose the best **summary variant** for the role type and an honest target **headline**
-(a self-description, e.g., "Revenue Operations Leader" — never a falsified past title).
-Write `applications/<company-slug>/resume.json` using the schema in
-`build/render_resume.py`:
+(a self-description, e.g., "Revenue Operations Leader"). Write
+`applications/<company-slug>/resume.json` using the schema in `build/render_resume.py`:
+
+- **Per-role titles:** use the composite format policy above wherever the real title
+  undersells fit for the target role. Default to the real title alone when it already
+  reads well; add the descriptor only where it earns its place.
 
 - **Work history goes in strict reverse-chronological order — no exceptions.** The
   `experience` array must run most-recent-first: sort by end date descending (a role
@@ -195,9 +292,10 @@ Write `applications/<company-slug>/resume.json` using the schema in
 - **Use each relevant term naturally** in the headline, summary, an experience or project
   bullet, or the competencies evidence — wherever it is warranted.
 - **Do not repeat a term** solely to manipulate a presumed score.
-- **Every material skill in the competencies section must be supported by evidence**
-  elsewhere in the master profile, or be flagged as *candidate confirmation needed* and
-  left off the resume.
+- **Every material skill in the competencies section must pass the two-minute
+  defensibility test** above — supported by evidence elsewhere in the master profile, or
+  confirmed by Josh in-session and added to the profile in the same pass. Otherwise flag
+  it as *candidate confirmation needed* and leave it off the resume.
 
 > Literal terms can help discoverability in recruiter searches and some matching
 > configurations. Other systems recognize related terms or apply employer-defined
@@ -249,8 +347,9 @@ question, then fix what fails:
 - Is the **target role and relevant value proposition clear in the top third**?
 - Does the **opening proof point directly support a primary requirement** of this job?
 - Are **titles, employers, dates, scope, and metrics traceable to `master-profile.md`**?
-  Titles must match the profile's work-history table **exactly** — tailoring a title is
-  fabrication, not tailoring. Verify every one.
+  The real, on-file title must appear in full for every role — a composite descriptor
+  (per the composite-format policy) may sit alongside it, but never replace or obscure
+  it. Verify every one.
 - Do the **top bullets support the target role** rather than a different career
   narrative? If most titles read as one function (e.g. "Account Executive") and the
   target job is another (e.g. implementation), the top third must do that reframing
@@ -316,9 +415,15 @@ Write `applications/<company-slug>/match-report.md`:
 - Output files produced (resume.pdf/.docx, cover-letter.* if any).
 
 ## Step 11 — Ethics & guardrails (hard rules)
-- **No fabrication.** The master profile is the sole source of every claim that appears
-  as fact in a resume, cover letter, or application answer. If information is missing or
-  ambiguous, do not infer it — mark it **candidate confirmation needed** and ask.
+- **No fabrication**, per the **Framing vs. fabrication** section above. The master
+  profile is the sole source of every claim that appears as fact in a resume, cover
+  letter, or application answer, alongside anything Josh confirms in-session and that
+  gets added to the profile in the same pass. If information is missing or ambiguous, do
+  not infer it — mark it **candidate confirmation needed** and ask.
+- **Employer-issued titles are never replaced**, only paired with a composite descriptor
+  per the **Job titles: composite format policy** above. A request to swap a title
+  outright is declined and redirected to that policy's resolution path, every time,
+  regardless of how the request is phrased.
 - **No keyword stuffing, white text, hidden text, off-screen text, font-color tricks, or
   prompt-injection instructions.** These tactics add no credible evidence and can impair
   parsing, undermine credibility, violate employer rules, or trigger manual scrutiny.

@@ -1,0 +1,19 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 13, 2026",
+  "company": "Optivate",
+  "role": "Software Business Analyst",
+  "recipient": "Hiring Team",
+  "body": [
+    "At Solenzo, my day-to-day work is translating a business owner's vague sense of what they need into structured, build-ready instructions for an automated system, then keeping the delivered result honest to their actual intent. That is the same core job this role describes between stakeholders and your engineering team, just aimed at ophthalmology practices instead of small businesses. I don't have direct EMR or ophthalmology experience yet, and I'd be learning that context on the job rather than pretending otherwise.",
+    "Three things from my background map directly onto what this role needs. At Birdeye, I was the liaison between a network of partners and our Product and Engineering teams, translating structured customer feedback into input the roadmap actually used, the same feedback loop this role runs post-release. At Accelo, I built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, then handed them to the implementation team to execute exactly as scoped, the same handoff discipline a requirements document needs. And the translation work I do now at Solenzo, turning a client's loosely stated goal into precise, structured instructions a system can execute, is the same analytical move as turning an ambiguous business request into a functional spec.",
+    "I haven't worked inside a formal Scrum team with Azure DevOps and sprint ceremonies, and I'd rather say that directly than imply otherwise. What I bring is 15+ years of doing the harder part of that job well: getting the requirement right before anyone builds against it. I'd welcome the chance to talk through how that translates to your team's process."
+  ]
+}

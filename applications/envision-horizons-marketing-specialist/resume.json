@@ -1,0 +1,93 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Generalist - Email, Content & SEO",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing generalist with 15+ years across MarTech, SaaS, and agency environments, with hands-on experience building segmented email campaigns, writing content and newsletters, and running technical SEO and competitive research. Background spans agency execution (Level Agency, Fetch & Funnel) and e-commerce account management (Wix), with direct GA4/CRM reporting experience translating campaign data into next steps.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built segmented cold-email outreach engines in GoHighLevel (website-visibility, missed-calls, and low-reviews campaigns) plus an automated prospect audit workflow that enrolled 180+ contacts, scoring a business's digital footprint to trigger personalized outreach.",
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.",
+        "Track acquisition and retention across multiple accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and growth."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets - landing pages, complex email sequences, conversion-focused copy - improving lead generation and pipeline.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Email & Lifecycle Marketing",
+      "items": ["Email Marketing", "Lifecycle Sequences", "Segmentation", "HubSpot", "GoHighLevel"]
+    },
+    {
+      "category": "Content & Writing",
+      "items": ["Thought Leadership", "Newsletters", "Direct Response Copy", "Editorial Management"]
+    },
+    {
+      "category": "SEO & Research",
+      "items": ["Technical SEO", "Keyword Gap Analysis", "Competitor Research", "Screaming Frog"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["GA4", "Google Search Console", "CRM Analytics", "ROI/KPI Reporting"]
+    },
+    {
+      "category": "Social & Growth",
+      "items": ["Organic LinkedIn Growth", "Full-Funnel Campaign Execution"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google/Coursera (2024)", "Meta Ads Certification - Meta"]
+}
