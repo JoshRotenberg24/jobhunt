@@ -41,7 +41,7 @@
 
 See `fit.png` for the rendered gauge.
 
-**Plain read, not softened:** this job is explicitly written for someone 1-4 years into their career, "internships count." Your resume opens with "Founder" — that's not something tailoring can or should hide, since titles have to match the profile exactly. A recruiter's very first read is going to be "why is a founder with 15 years applying to an entry-level, $60-70K role," and no amount of bullet selection changes that math. Two of the role's named hands-on skills (design-tool asset creation, short-form video editing) also have zero evidence in your profile — real gaps, not phrasing problems.
+**Plain read, not softened:** this job is explicitly written for someone 1-4 years into their career, "internships count." The Solenzo entry now leads with a composite title — `Marketing & Content Specialist - Founder & Strategic / Marketing Operations Lead` — per the repo's title-framing policy, so the first thing a recruiter reads is the function, not the org-chart rank. The real title stays fully visible right after it, unmodified. That softens the first impression but doesn't erase it: "Founder" is still on the page, and a recruiter's next read is still going to be "why is a founder with 15 years applying to an entry-level, $60-70K role." No formatting choice removes that question, only reframes when it gets asked. Two of the role's named hands-on skills (design-tool asset creation, short-form video editing) also have zero evidence in your profile — real gaps, not phrasing problems.
 
 What kept this out of "not a fit": you genuinely exceed almost every substantive requirement (email automation, content writing, SEO, agency background, e-commerce experience, reporting), often by a wide margin. If you're excited about this specific company or want a lower-intensity individual-contributor role after founder-level work, that's a legitimate reason to apply anyway — but it's a reason only you can supply.
 
@@ -77,7 +77,7 @@ None new for this report.
 
 ## Output Files
 
-- `resume.pdf` / `resume.docx` — 2 pages, reverse-chronological, verified. Leads with hands-on email/content/SEO bullets rather than strategic/leadership framing where the role selection allows it, though the Solenzo founder title itself can't be reframed.
+- `resume.pdf` / `resume.docx` — 2 pages, reverse-chronological, verified. Leads with hands-on email/content/SEO bullets, and every role title now carries a composite marketing-function descriptor ahead of the real, unmodified title (Solenzo, Level Agency, Fetch & Funnel, Wix). Birdeye's title was left plain — its bullets are partner/CS work, not marketing execution, so a marketing descriptor there wouldn't hold up under the two-minute defensibility test.
 - `fit.json` / `fit.png` — score meter.
 - `match-report.md` — this file.
 
