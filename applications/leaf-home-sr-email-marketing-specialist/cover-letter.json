@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 14, 2026",
+  "company": "Leaf Home",
+  "role": "Sr Email Marketing Specialist",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "The Sr Email Marketing Specialist role is exactly the work I already do for clients: owning email and lifecycle strategy end to end, from creative brief through build, QA, deployment, and performance analysis. Leaf Home's scale across multiple product verticals is a natural fit for that kind of channel ownership.",
+    "At Solenzo, I've architected and deployed a complete GoHighLevel marketing-automation system spanning 20+ workflows: lead capture and qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, and long-term reactivation, plus segmented email campaigns and an automated audit workflow that enrolled 180+ contacts by scoring each prospect's digital footprint to trigger personalized messaging. I manage contact segmentation, lifecycle stages, and data-hygiene protocols daily to keep audience data accurate and deliverability healthy, and I use A/B testing and GA4 reporting to turn campaign results into concrete next steps. Several of my clients are home-services trade businesses, so I bring direct, hands-on familiarity with how residential-service companies market and convert customers, even though my platform experience is GoHighLevel and HubSpot rather than Braze, Iterable, or Customer.io specifically.",
+    "I'd welcome the chance to bring that hands-on automation and lifecycle experience to Leaf Home's email program. I'm available to talk whenever works for your team."
+  ],
+  "closing": "Sincerely,"
+}

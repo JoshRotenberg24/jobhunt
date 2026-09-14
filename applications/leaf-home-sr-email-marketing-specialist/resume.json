@@ -1,0 +1,82 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Email Marketing & Marketing Automation Specialist",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing automation specialist with 5+ years designing, building, and deploying full-lifecycle email campaigns and automated journeys — segmentation, A/B-tested optimization, and nurture sequences — primarily in GoHighLevel and HubSpot. Owns email and marketing-automation strategy end to end for a portfolio of clients, from creative brief through deployment, QA, and performance analysis, translating campaign and audience data into clear, actionable recommendations for stakeholders.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel marketing-automation system — 20+ workflows spanning lead capture/tagging/routing, qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.",
+        "Built segmented email outreach engines in GoHighLevel (website-visibility, missed-calls, and low-reviews campaigns) plus an automated prospect audit workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized messaging.",
+        "Architect and implement CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and data-hygiene protocols that keep audience data accurate and deliverability healthy.",
+        "Draft direct-response email copy, outreach sequences, and landing pages, partnering the messaging directly to campaign and business objectives.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, reporting on a regular cadence with actionable insights to clients and stakeholders.",
+        "Track acquisition and retention using GA4 and CRM analytics, delivering reporting that drives experimentation and iteration on campaign performance."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, coordinating execution across internal departments."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction across a high-volume partner network.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Built and refined internal processes that improved reporting accuracy and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Email & Lifecycle Marketing", "items": ["Email Campaign Strategy", "Marketing Automation (GoHighLevel, HubSpot)", "Automated Lifecycle Journeys", "Audience Segmentation", "A/B Testing", "Nurture & Reactivation Sequences"]},
+    {"category": "Campaign Execution", "items": ["Campaign Build, QA & Deployment", "Creative Briefs", "Direct-Response Copywriting", "Cross-Functional Collaboration (Design/Copy)"]},
+    {"category": "Analytics & Reporting", "items": ["Campaign Performance Analysis", "KPI Tracking", "GA4", "Google Tag Manager", "Dashboard Building", "Stakeholder Reporting"]},
+    {"category": "Data & Deliverability", "items": ["CRM Data Hygiene", "List Segmentation", "Lifecycle Stage Management"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO",
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ],
+  "certifications": [
+    "Meta Ads Certification — Meta"
+  ]
+}
