@@ -202,6 +202,14 @@ operator talking, not like a candidate performing.
 > having worked at a manufacturers' rep agency, manufacturer, or industrial distributor
 > (the supply side of that channel) — keep that distinction honest when a posting asks
 > specifically for rep/distributor-side experience versus trade-business-side experience.
+>
+> **Local SEO / Google Business Profile is a core, sold service line (confirmed by Josh,
+> Sep 2026) — correcting an earlier undersell:** GBP/local-listings setup and
+> optimization (claiming, verifying, categories, descriptions, services, photos, posts)
+> is the *first* component of Josh's service package for Solenzo clients, not an
+> incidental or occasional task. This is direct, professional, hands-on local SEO
+> experience, sold and delivered, and should be represented as a lead qualification for
+> any local SEO / GBP / local-listings-management posting, not as an "adjacent" skill.
 
 **Strategic & Client Leadership**
 - Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.
@@ -211,6 +219,7 @@ operator talking, not like a candidate performing.
 - Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.
 
 **Marketing & Growth Systems**
+- Claim, set up, and optimize Google Business Profile listings (categories, descriptions, services, photos, posts) as the first deliverable in every client engagement, the foundation the rest of each client's local SEO and lead-flow program builds on.
 - Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.
 - Architect and deploy autonomous, AI-driven marketing systems for service-based businesses — largely on GoHighLevel — automating lead enrichment, outreach, and appointment booking.
 - Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.
@@ -255,6 +264,19 @@ operator talking, not like a candidate performing.
 > **Healthcare-vertical channel sales (confirmed by Josh, Sep 2026):** a meaningful share of that partner book was channel sales specifically to agencies focused on healthcare clients — B2B channel/reseller sales into the healthcare vertical, not direct patient-facing or clinical healthcare work (no claims, EMR, or payer-side experience). Genuine healthcare-adjacent industry exposure, honestly scoped as B2B marketing-technology sales to healthcare-focused agencies, not healthcare operations.
 >
 > **Channel rep framing (confirmed by Josh, Sep 2026):** the role title itself is "Channel Partnerships," and the underlying work, managing a network of independent reseller partners rather than selling direct, is genuine channel-rep-model experience. Usable for postings that specifically ask about channel/reseller/partner-network experience, distinct from direct account management. Still a SaaS reseller channel, not an industrial/manufacturers'-rep channel — don't blur the two when a posting is industry-specific.
+>
+> **Local listings/data-aggregator solution was the backbone of the channel offer
+> (confirmed by Josh, Sep 2026) — correcting an earlier undersell:** Birdeye had its own
+> proprietary data-aggregator/listings-syndication solution, and making sure every
+> channel partner's end customer was set up with that listings solution was the backbone
+> of the offer Josh sold and onboarded partners on, full stop. This was Josh's actual
+> professional introduction to the SEO/local-search space. He also used Whitespark's
+> published whitepapers as sales-enablement material to sell that listings solution, real,
+> informed exposure to citation/data-aggregator concepts from a top industry source, even
+> though Whitespark itself wasn't the platform he operated. Represent this as direct,
+> professional local-listings/data-aggregator experience, not as generic "reputation
+> management" adjacency.
+- Sold and onboarded partners on Birdeye's proprietary data-aggregator/listings-syndication solution, the backbone of the channel offer, ensuring every partner's end customer had a properly configured local-listings presence.
 - Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.
 - Onboarded and managed **15–20 reseller partners** (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), **retaining all but one (~94% retention)** during tenure.
 - Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.
@@ -277,7 +299,7 @@ operator talking, not like a candidate performing.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
 - Directly managed and developed a team of onboarding specialists for **2 years — a team of 20, later a team of 8** — overseeing budgets, scope, and delivery for a high-value client portfolio. *(Scale and duration confirmed by Josh, Aug 2026.)*
 - Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team. *(Confirmed by Josh, Sep 2026.)*
-- Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.
+- Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion, including connecting and setting up clients' Google Business Profile alongside their site build. *(Confirmed by Josh, Sep 2026.)*
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
 - Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.
 - Drove a **25% improvement in conversion rates across supported accounts** through proactive communication on client goals and initiatives.
@@ -338,7 +360,7 @@ operator talking, not like a candidate performing.
 | Category | Competencies |
 | :--- | :--- |
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing |
-| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Email Marketing, Landing Pages |
+| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing, Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
