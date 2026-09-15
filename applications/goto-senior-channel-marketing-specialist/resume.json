@@ -1,0 +1,104 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Channel & Partner Marketing Specialist | B2B SaaS Growth, ROI Reporting & Partner Enablement",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operator with 15+ years in B2B SaaS and agency environments, including direct channel-partner experience managing a nationally distributed network of 15-20 reseller partners at ~94% retention and building the ROI/CAC/LTV reporting frameworks that turn campaign activity into a clear growth story. Comfortable translating a partner's or client's business objectives into a scalable marketing plan, then executing it hands-on, from demand-generation systems to cross-functional coordination with Sales and Product. Works daily in Slack, ClickUp, and Google Workspace across remote, distributed teams.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and deploy full-lifecycle demand-generation systems - lead capture, routing, qualification, nurture, and reactivation - for a portfolio of B2B service clients, translating each client's business goals into a scalable, measurable campaign plan.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights that drive experimentation and program adjustments.",
+        "Track acquisition and performance in GA4 and Google Search Console across multiple concurrent accounts, reporting findings to stakeholders on a regular cadence.",
+        "Draft direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline for client campaigns."
+      ]
+    },
+    {
+      "title": "Channel Marketing & Client Strategy — Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, translating results into optimization recommendations and QBRs for client leadership.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, coordinating execution across internal departments on multi-stakeholder accounts."
+      ]
+    },
+    {
+      "title": "Channel Partner Marketing — Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners nationally (deal sizes ~$10K-$45K, spanning health, home services, and retail), retaining all but one (~94% retention), driving adoption of marketing automation and reputation-management solutions across the network.",
+        "Sold and onboarded partners onto Birdeye's proprietary data-aggregator/listings-syndication solution, the backbone of the channel offer, and developed scalable communication workflows and automated training sequences that reduced onboarding friction.",
+        "Advised partners on retention strategy and customer-health metrics, equipping them to communicate product value directly to their own end customers.",
+        "Collaborated cross-functionally with Product and Engineering, translating structured partner feedback into roadmap input - the same cross-team coordination a partner marketing program requires with Sales and Product."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Channel & Partner Programs",
+      "items": [
+        "Reseller Partner Management",
+        "Partner Enablement & Training",
+        "Partner Retention Strategy",
+        "Cross-Functional Partner Liaison"
+      ]
+    },
+    {
+      "category": "Marketing Strategy & Execution",
+      "items": [
+        "Demand Generation",
+        "Campaign Planning & Execution",
+        "Full-Funnel Marketing",
+        "Lifecycle Campaigns"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "ROI / CAC / LTV Reporting",
+        "GA4",
+        "Campaign Performance Dashboards",
+        "QBRs"
+      ]
+    },
+    {
+      "category": "Tools & Collaboration",
+      "items": [
+        "Slack",
+        "ClickUp",
+        "Google Workspace",
+        "Zoom",
+        "Salesforce",
+        "HubSpot"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}
