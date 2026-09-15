@@ -1,0 +1,64 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Channel Marketing & Partner Programs Manager",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Channel and marketing professional with direct reseller-partner relationship management experience (15-20 partners, ~94% retention at Birdeye) and 15+ years building the ROI and pipeline reporting that proves marketing's contribution to revenue. Runs integrated campaigns end to end and partners directly with sales teams to turn programs into pipeline. Worth naming directly: that partner-management tenure was 14 months, not several years dedicated to channel marketing specifically, and I haven't personally planned or run field events like conferences, roadshows, or summits.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Align marketing programs to revenue objectives directly with business owners and sales teams, producing consistent messaging and qualified lead flow.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation-management solutions.",
+        "Advised partners on retention strategy and automated workflows, equipping them to communicate product value and strengthen their own go-to-market.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Channel & Partner Marketing", "items": ["Channel Partner Relationship Management", "Partner Enablement & Onboarding", "Partner Retention", "Reseller Network Management"]},
+    {"category": "Marketing Programs & ROI", "items": ["Integrated Campaign Management", "ROI & Pipeline Reporting", "Marketing-Sales Alignment", "Lead Generation"]},
+    {"category": "Operations", "items": ["Budget Oversight", "Cross-Functional Coordination", "Project Management"]},
+    {"category": "Tools", "items": ["Salesforce", "HubSpot", "GoHighLevel", "GA4", "Google Apps"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ]
+}
