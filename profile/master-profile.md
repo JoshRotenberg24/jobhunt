@@ -49,6 +49,15 @@
 > likely knockout unless the posting states the badge can be obtained after hire. Do not
 > re-ask; the badge is technically obtainable if Josh chooses to apply for one, but he
 > does not hold one today.
+>
+> **Certified Pharmacy Technician (CPhT) — does not hold (confirmed by Josh, Sep 2026):**
+> no CPhT certification or pharmacy technician state licensure. Several healthcare/pharmacy
+> employer postings (e.g., compounding pharmacies, PBMs, pharmacy-adjacent onboarding or
+> support roles) list an active CPhT in good standing with a State Board of Pharmacy as a
+> required, non-waivable credential. Treat any posting that states this as required
+> (not preferred) as a hard knockout — per this repo's rule, stop and ask before building
+> rather than deciding silently, but do not re-ask Josh whether he holds the credential;
+> the answer is no.
 
 ## Education & Certifications
 
