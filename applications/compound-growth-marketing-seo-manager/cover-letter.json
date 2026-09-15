@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 15, 2026",
+  "company": "Compound Growth Marketing",
+  "role": "SEO Manager",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the SEO Manager role. I run SEO end to end for a portfolio of B2B clients at Solenzo, the company I founded, technical audits and schema implementation in Screaming Frog, keyword and content direction, GA4 and Search Console tracking, then reporting straight to the business owner. Before that I directed SEO and content strategy for a book of national B2B clients at Level Agency. That combination, agency-side account ownership plus running my own multi-client practice, is the same shape as owning a portfolio of 6 to 12 accounts here.",
+    "The AI-search piece isn't new territory for me. I build and deploy AI agent systems for clients using Claude Code, ChatGPT Codex, and Google AI Studio daily, and I've built rubric-based grading criteria to score AI-generated output against a defined standard, which is close to the exact problem of defining what actually counts as AEO progress in a space without settled metrics yet. On the evidence side: one client's Google Ads account had a $250 lead-form conversion that looked like it was tracking fine and wasn't firing at all. I traced it to two stacked bugs, a form-relay redirect race condition and a sandboxed iframe isolating the GTM dataLayer, fixed both, and verified it via direct browser inspection rather than trusting the platform's own debug tool. That's the instinct I'd bring to AEO benchmarking: don't report a number until you've checked what's actually behind it.",
+    "I haven't led a dedicated SEO team yet, though I managed and developed a team of onboarding specialists at Wix for two years, twenty people then eight, including hiring and training, and I've been the SME behind the scenes briefing client-facing owners for most of my career. I'd welcome the chance to talk through how that translates to leading analysts here."
+  ],
+  "closing": "Sincerely,"
+}

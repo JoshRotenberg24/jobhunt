@@ -210,6 +210,37 @@ operator talking, not like a candidate performing.
 > incidental or occasional task. This is direct, professional, hands-on local SEO
 > experience, sold and delivered, and should be represented as a lead qualification for
 > any local SEO / GBP / local-listings-management posting, not as an "adjacent" skill.
+>
+> **AI tool stack (confirmed by Josh, Sep 2026):** hands-on with Claude Code (used to run
+> his own automation/build pipelines, including the application-tailoring system this
+> profile feeds), ChatGPT Codex, and Google AI Studio, in addition to ChatGPT/Claude
+> generally. Relevant wherever a posting names specific AI coding/agent tools rather than
+> generic "AI experience."
+>
+> **BTU Solar Google Ads audit & conversion-tracking fix (confirmed by Josh, Sep 2026):**
+> residential solar install/repair client, Dec 2025–present engagement covering a Google
+> Ads account audit, targeting cleanup, and a conversion-tracking fix. Small account in
+> absolute spend (~$1.89K spend / 779K impressions / 9.25K clicks / $0.20 avg. CPC across
+> the full engagement, not one good month) — cite the story for its technical depth, not
+> its media spend. Root-caused a stacked two-bug failure silently preventing the account's
+> $250 "Submit lead form" conversion (the one tied to real quote requests) from ever
+> firing: (1) the lead form posted to a third-party relay with a full-page redirect that
+> raced the conversion tag and usually won, fixed by rebuilding the form submission to
+> fire via AJAX; (2) that surfaced a second bug, the tracking code ran inside a sandboxed
+> iframe writing to an isolated dataLayer the site's own GTM container couldn't see, fixed
+> by pointing it at the parent page's dataLayer. Verified the fix end-to-end via direct
+> browser console/network inspection, not just platform debug tooling, and separately
+> caught and deleted a duplicate conversion tag that would have double-counted every
+> future lead. Account hygiene (tightened match types, dozens of negative keywords added,
+> call/sitelink extensions) also improved CTR even as the client cut daily budget
+> repeatedly (down to $3/day, "Limited by budget") — correctly noting two of those changes
+> were Google's own auto-apply automation, not manual work, and that no formal A/B test is
+> claimed here. This is a paid-media/conversion-tracking story, not organic SEO, but it's
+> the sharpest evidence on file of verifying a platform's own numbers rather than trusting
+> a clean-looking dashboard, and of running down a genuinely non-obvious technical root
+> cause (form-relay race condition, iframe-scoped dataLayer) rather than a surface fix.
+> Directly relevant to any posting that asks for hard, verified evidence behind a
+> performance claim rather than a reported metric taken at face value.
 
 **Strategic & Client Leadership**
 - Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.
@@ -229,7 +260,8 @@ operator talking, not like a candidate performing.
 - Built segmented cold-email outreach engines in GHL (website-visibility, missed-calls, and low-reviews campaigns) plus an automated **prospect "audit" workflow that enrolled 180+ contacts**, scoring a business's digital footprint to trigger personalized outreach.
 - Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.
 - Identify and implement schema/structured data as part of technical SEO audits, pulling full on-page schema implementation. *(Confirmed by Josh, Aug 2026.)*
-- Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
+- Root-caused a stacked two-bug conversion-tracking failure for a Google Ads client (a form-relay redirect race condition and a sandboxed iframe isolating the GTM dataLayer) that had silently prevented its highest-value lead conversion from ever firing; fixed both, verified end to end via direct browser inspection rather than platform debug tooling, and removed a duplicate conversion tag that would have double-counted every future lead.
+- Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality via match-type tightening, negative keywords, and extensions — while correctly distinguishing manually-driven gains from Google's own auto-apply automation.
 - Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
 - Build reusable, boilerplate marketing assets and messaging frameworks as needed for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.
@@ -251,6 +283,10 @@ operator talking, not like a candidate performing.
 - Analyze complex marketing and operational datasets, extracting actionable insights and structured recommendations that improve campaign performance.
 
 ### Level Agency — Account Executive / Client Strategist (Sep 2024 – Feb 2025)
+> **B2B client base (confirmed by Josh, Sep 2026):** the SEO and keyword-research work at
+> Level Agency, a national digital marketing agency, was for B2B clients specifically, not
+> a mixed B2B/B2C book. Direct evidence toward a "national B2B SEO experience"
+> requirement, distinct from the local-service/B2C SEO work at Solenzo.
 - Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
@@ -362,7 +398,7 @@ operator talking, not like a candidate performing.
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing, Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
-| AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
+| AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, Claude Code, ChatGPT Codex, Google AI Studio, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |

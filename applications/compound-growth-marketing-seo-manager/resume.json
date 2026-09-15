@@ -1,0 +1,111 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SEO Manager | Technical SEO, AEO/GEO Strategy & Team Leadership",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations leader with 4+ years of direct SEO work inside a 15+ year B2B career, spanning national agency SEO (Level Agency), technical SEO audits and schema implementation for a multi-client book (Solenzo), and 2 years managing a team of onboarding specialists (Wix, 20 then 8 people). Builds and runs AI agent systems daily, including hands-on use of Claude Code, ChatGPT Codex, and Google AI Studio, and treats AI-search visibility as a natural extension of the technical SEO work already underway rather than a separate discipline. Root-causes performance claims instead of trusting a dashboard number, and briefs client-facing owners on the strategy and evidence behind every recommendation.",
+  "experience": [
+    {
+      "title": "SEO Strategy Lead — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own SEO strategy and delivery for a portfolio of B2B service clients, running technical SEO audits, keyword gap analysis, and competitor research in Screaming Frog, then implementing fixes directly inside client CMS platforms.",
+        "Identify and implement schema and structured data as part of every technical SEO audit, pulling full on-page schema implementation ahead of remediation.",
+        "Root-caused a stacked two-bug conversion-tracking failure for a client (a form-relay redirect race condition and a sandboxed iframe isolating the GTM dataLayer) that had silently prevented its highest-value lead conversion from ever firing; verified the fix end to end via direct browser inspection rather than platform debug tooling.",
+        "Claim, set up, and optimize Google Business Profile listings as the first deliverable in every client engagement, the foundation the rest of each client's local-search and lead-flow program builds on.",
+        "Build and deploy AI agent systems for clients using Claude Code, ChatGPT Codex, and Google AI Studio, translating non-technical stakeholders' intent into structured prompts and reliable automation; built rubric-based grading criteria to score AI-generated output against defined standards.",
+        "Report SEO and marketing performance to business-owner stakeholders on a regular cadence, tracking GA4 and Google Search Console across concurrent accounts to turn findings into a prioritized action plan rather than a status update."
+      ]
+    },
+    {
+      "title": "SEO & Content Strategist — Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Directed SEO and content direction for a book of national B2B clients, running keyword research and search-term analysis to shape organic content strategy and campaign targeting.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and organic conversion KPIs, translating results into optimization recommendations and QBRs for client leadership.",
+        "Coordinated execution across internal departments as strategic lead on multi-stakeholder accounts, holding delivery quality consistent across implementations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail), retaining all but one (~94% retention), on Birdeye's proprietary local-listings/data-aggregator solution.",
+        "Advised partners on retention strategy and customer health metrics, equipping them to communicate product value and reduce onboarding friction."
+      ]
+    },
+    {
+      "title": "People Manager — Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, coaching individual performance and owning delivery quality across a high-value account portfolio.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices, including client Google Business Profile setup, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Contributed to hiring, onboarding, and training new hires and developed sales training for tenured account executives as a new Wix vertical scaled from proof of concept to a profitable business line."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical & On-Page SEO",
+      "items": [
+        "Technical SEO Audits",
+        "Crawlability & Site Architecture",
+        "Schema & Structured Data",
+        "Screaming Frog",
+        "Keyword Gap Analysis",
+        "Content Strategy"
+      ]
+    },
+    {
+      "category": "AI Search & Automation",
+      "items": [
+        "AEO/GEO Fundamentals",
+        "Claude Code",
+        "ChatGPT Codex",
+        "Google AI Studio",
+        "Agent Workflow Design",
+        "Prompt Design"
+      ]
+    },
+    {
+      "category": "Analytics & Diagnostics",
+      "items": [
+        "GA4",
+        "Google Search Console",
+        "Google Tag Manager",
+        "Ahrefs",
+        "Semrush",
+        "Conversion Tracking Diagnostics"
+      ]
+    },
+    {
+      "category": "Leadership & Client Management",
+      "items": [
+        "Team Coaching & Development",
+        "Hiring & Onboarding",
+        "Multi-Client Portfolio Ownership",
+        "Client & Account-Manager Briefing",
+        "QBRs"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}
