@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Operations and administrative professional with 15+ years managing client accounts, onboarding, hiring, and reporting systems in fast-paced service organizations. Directly managed and developed onboarding teams as large as 20, standardized data and reporting processes, and kept multi-account operations organized and accurate under deadline pressure.",
+  "summary": "Operations and administrative professional with 15+ years managing client accounts, onboarding, hiring, and reporting systems in fast-paced service organizations, with hands-on cash handling, till reconciliation, and bank-deposit experience in a cash-intensive retail environment. Directly managed and developed onboarding teams as large as 20, standardized data and reporting processes, and kept multi-account operations organized and accurate under deadline pressure.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -16,8 +16,7 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 – Present",
       "bullets": [
-        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals and objectives.",
-        "Document every client interaction, timeline, and deliverable across multiple systems, keeping project records auditable across concurrent engagements."
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals and objectives."
       ]
     },
     {
@@ -58,13 +57,14 @@
       "location": "Denver, CO",
       "dates": "Jun 2010 – Sep 2012",
       "bullets": [
+        "Personally and regularly handled cash counting, till reconciliation, and bank deposits in a cash-intensive retail environment.",
         "Built compliance and customer-management systems from scratch in a licensed cannabis dispensary.",
         "Developed early operational infrastructure — intake processes and reporting systems — scaling the business to profitability."
       ]
     }
   ],
   "competencies": [
-    {"category": "Administrative & Office Support", "items": ["Records Management", "Office Organization", "Process Documentation", "Data Accuracy & Standardization", "Scheduling & Time Management"]},
+    {"category": "Administrative & Office Support", "items": ["Cash Handling & Till Reconciliation", "Bank Deposits", "Records Management", "Office Organization", "Process Documentation", "Scheduling & Time Management"]},
     {"category": "Hiring & People Support", "items": ["Employee Onboarding", "New-Hire Training", "Team Leadership (up to 20 people)", "Conflict Resolution", "Cross-Functional Coordination"]},
     {"category": "Reporting & Systems", "items": ["Performance Reporting", "Dashboard Building", "Google Apps (Sheets, Docs)", "Multi-System Documentation"]},
     {"category": "Customer Service", "items": ["Client-Facing Communication", "Issue Resolution", "Product/Service Knowledge"]}

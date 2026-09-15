@@ -38,6 +38,12 @@
 > Yelp in local business marketing/reputation (Birdeye, Fivestars) — represent this as
 > competitive familiarity, never as Yelp Ads platform experience.
 >
+> **Microsoft Office / Excel (confirmed by Josh, Sep 2026, do not re-ask):** day-to-day
+> tool use is Google Apps (Sheets, Docs, Slides), not real hands-on Excel/Outlook/Word
+> depth. Do not claim Excel proficiency on a resume or in an application answer. Where a
+> posting lists MS Office as required or preferred, the honest framing is fast adoption of
+> new software across 15 years of roles (true and defensible), not existing Excel fluency.
+>
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
 >
@@ -346,6 +352,14 @@ operator talking, not like a candidate performing.
 > customer-vendor-supplier systems, not retail merchandising, budtender training, or
 > field sales, keep that distinction honest against postings asking specifically for the
 > latter.
+>
+> **Cash handling, till reconciliation, and bank deposits (confirmed by Josh, Sep 2026):**
+> Josh personally and regularly handled cash counting, till reconciliation, and bank
+> deposits at Standing Akimbo. Cannabis dispensaries in that era were typically cash-only
+> given limited banking access, so this was a real, recurring operational responsibility,
+> not incidental. Directly usable for any posting that asks for cash-handling, till/safe
+> reconciliation, or deposit-preparation experience.
+- Personally and regularly handled cash counting, till reconciliation, and bank deposits in a cash-intensive retail environment.
 - Built compliance and customer-management systems from scratch in a licensed cannabis dispensary.
 - Developed early operational infrastructure — intake processes and reporting systems — scaling the business to profitability.
 - Built customer service, vendor, and supplier workflows from the ground up.
