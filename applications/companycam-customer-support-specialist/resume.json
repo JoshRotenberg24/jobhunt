@@ -1,0 +1,64 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Customer Support & Technical Onboarding Specialist",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer support and technical onboarding professional with 15+ years resolving issues, troubleshooting technical setup, and building trust with users across SaaS and service businesses. Deep, hands-on familiarity with contractor and trade businesses (electrical, plumbing, HVAC) from running marketing and operations for them directly at Solenzo. Writes documentation and educational guides as a matter of course, and works daily in Zendesk and Salesforce.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Run day-to-day delivery and support for a portfolio of home-services and trade businesses (electrical, plumbing, HVAC), resolving technical issues and answering client questions directly.",
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and providing hands-on training.",
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth, the same skill knowledge-base and self-serve documentation demands."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing-automation tools, resolving issues directly with each account.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention).",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, including home-services businesses, covering execution, troubleshooting, and cross-team communication."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Customer Support", "items": ["Technical Troubleshooting", "Issue Resolution", "Customer Communication", "Documentation & Knowledge-Base Writing"]},
+    {"category": "Platforms & Tools", "items": ["Zendesk", "Salesforce", "HubSpot", "GoHighLevel", "Google Apps"]},
+    {"category": "Domain", "items": ["Home-Services & Contractor/Trade Businesses", "B2B SaaS Support"]},
+    {"category": "Working Style", "items": ["Critical Thinking", "Cross-Functional Coordination", "Adaptability"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ]
+}
