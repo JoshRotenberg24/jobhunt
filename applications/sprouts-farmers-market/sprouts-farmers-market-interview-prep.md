@@ -76,6 +76,7 @@ Do **not** claim Excel proficiency you don't have, if they test it or ask a spec
 - How does the AC role work day-to-day with the Core Managers, is it mostly one point of contact or several?
 - What's the biggest operational challenge the store is trying to solve right now that this role would help with?
 - What does success in the first 90 days look like?
+- Where do people typically go from this role, store leadership, HR, somewhere else? (The posting only lists "opportunities for career growth" with no specifics, worth asking directly, and it's a good way to frame the "why this role" answer as a deliberate step rather than a step down.)
 
 ---
 
