@@ -1,0 +1,64 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Business Operations & Process Systems Manager",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Business operations professional with 15+ years inside subscription SaaS businesses, building and running the cross-functional systems that keep growing teams organized. Architects automation and workflow infrastructure end to end (20+ production workflows deployed at Solenzo) and partners directly with Product and Engineering to route customer and market context into roadmap decisions. Comfortable owning budget oversight, team coordination, and process design in ambiguous, fast-moving environments.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel marketing-automation system spanning 20+ workflows, the kind of scalable operational infrastructure that keeps a growing team unblocked.",
+        "Build reusable agent infrastructure and internal tooling integrating with client CRMs and CMS platforms for 24/7 automated growth engines.",
+        "Document every client interaction, timeline, and deliverable across multiple systems, maintaining clear visibility into what's on track and what needs intervention across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Collaborated directly with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention).",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Program & Operations", "items": ["Workstream Management", "Cross-Functional Coordination", "Operational Process Improvement", "Reporting Cadence"]},
+    {"category": "Systems & Automation", "items": ["Workflow Automation & Systems Architecture", "Internal Tooling Infrastructure", "Process Documentation"]},
+    {"category": "Budget & Team Management", "items": ["Budget Oversight", "Team Coordination", "Resource Planning"]},
+    {"category": "Cross-Functional Partnership & Tools", "items": ["Product & Engineering Collaboration", "Executive Reporting", "Notion", "Slack", "Asana", "Monday.com", "Google Apps"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ]
+}
