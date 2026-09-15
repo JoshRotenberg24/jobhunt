@@ -84,12 +84,24 @@
 
 - **Has been a patient inside the healthcare system himself**, and wants to help patients
   navigate it, per Josh's own words: "would love to be there to help patients." Genuine
-  personal motivation, not a positioning angle. No further specifics given (condition,
-  timeframe, etc.) — keep it at this level of generality in cover letters and interview
-  answers unless Josh volunteers more. Usable for healthcare, patient-advocacy, or
-  healthcare-affordability employers (e.g., TailorMed) as a personal "why this role"
+  personal motivation, not a positioning angle. Usable for healthcare, patient-advocacy,
+  or healthcare-affordability employers (e.g., TailorMed) as a personal "why this role"
   note, distinct from his professional healthcare-vertical experience (see Birdeye note
   above).
+- **Eight years of firsthand insurance navigation (confirmed Sep 2026):** an ongoing
+  chronic condition (multiple injections and two procedures on his neck) has had him
+  dealing directly with private-payer insurance processes for roughly 8 years — more
+  contact with doctors lately than with friends, per Josh's own words. He has personally
+  fought insurers for approvals on physical therapy appointments and imaging (MRIs),
+  which means real, lived experience with prior authorization and the appeals process
+  from the patient/advocate side, not just general "has been a patient" exposure. This is
+  private-payer/commercial-insurance experience specifically — no confirmed exposure to
+  Medicare/Medicaid structure or formal medical billing/coding terminology, keep that
+  distinction honest. Strong, genuine differentiator for patient-services, case-management,
+  or reimbursement-adjacent roles (e.g., Alnylam Associate Case Manager) — usable in cover
+  letters and interviews at the general level (condition, procedure count, duration,
+  what he fought for) without naming the specific body part/diagnosis unless Josh wants
+  that level of detail in a given application; that's his call per document, not a default.
 
 ---
 
