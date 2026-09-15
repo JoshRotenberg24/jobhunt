@@ -1,0 +1,66 @@
+{
+  "style": "classic",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Account Management & Client Services Professional",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Account management and client services professional with 15+ years managing high-volume, detail-critical caseloads, entering and maintaining accurate records across CRM systems, and communicating clearly with stakeholders under time pressure. Managed 25+ client onboardings per month at peak volume while holding target attainment above 100%. Brings eight years of firsthand experience navigating insurance prior authorization and appeals as a patient managing a chronic condition, and a genuine interest in helping other patients through that same process.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and intake to surface goals, needs, and constraints.",
+        "Document every client interaction, timeline, and deliverable across multiple systems, keeping records auditable across concurrent engagements.",
+        "Architect and implement CRM systems in GoHighLevel and HubSpot — contact segmentation, lifecycle stages, and data-hygiene protocols that keep records accurate and current.",
+        "Run day-to-day delivery for B2B clients independently, managing operational needs and driving each to resolution without dropping detail across a full caseload."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Managed a partner network spanning health, home-services, and retail verticals — including a meaningful share of channel sales to agencies serving healthcare clients — onboarding 15-20 partners with ~94% retention.",
+        "Guided customers through complex technical setup and configuration, resolving issues directly with each account.",
+        "Analyzed partner utilization and performance metrics to identify gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering execution, reporting, and cross-team communication."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Labeled and defined the CRM fields required for outbound and onboarding workflows, standardizing data capture across the team.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Client & Case Coordination", "items": ["Account/Case Management", "High-Volume Client Intake", "Client Discovery", "Problem Solving Under Deadline"]},
+    {"category": "Data & Records Management", "items": ["CRM Data Entry & Accuracy (Salesforce, HubSpot, GoHighLevel)", "Contact & Record Segmentation", "Data Hygiene", "Confidential Records Handling"]},
+    {"category": "Communication", "items": ["Stakeholder Communication", "Cross-Functional Coordination", "Relationship Management"]},
+    {"category": "Adaptability", "items": ["Fast-Paced Environments", "Self-Directed", "Team Collaboration"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ]
+}

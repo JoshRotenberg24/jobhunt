@@ -1,0 +1,75 @@
+{
+  "style": "classic",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Administrative & Operations Coordinator",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operations and administrative professional with 15+ years managing client accounts, onboarding, hiring, and reporting systems in fast-paced service organizations. Directly managed and developed onboarding teams as large as 20, standardized data and reporting processes, and kept multi-account operations organized and accurate under deadline pressure.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals and objectives.",
+        "Document every client interaction, timeline, and deliverable across multiple systems, keeping project records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Onboarding & Training Coordinator — Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of new tools and processes.",
+        "Onboarded and managed 15–20 partner accounts, retaining all but one (~94% retention) during tenure.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions."
+      ]
+    },
+    {
+      "title": "Sales Team Lead — Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Took on team lead responsibilities for the sales team alongside individual account management.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years — a team of 20, later a team of 8 — overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Contributed to hiring, onboarding, and training of new hires, and developed training materials for tenured team members, as part of building a new business vertical from proof of concept to a profitable line (corroborated by direct manager's written recommendation).",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Built compliance and customer-management systems from scratch in a licensed cannabis dispensary.",
+        "Developed early operational infrastructure — intake processes and reporting systems — scaling the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "Administrative & Office Support", "items": ["Records Management", "Office Organization", "Process Documentation", "Data Accuracy & Standardization", "Scheduling & Time Management"]},
+    {"category": "Hiring & People Support", "items": ["Employee Onboarding", "New-Hire Training", "Team Leadership (up to 20 people)", "Conflict Resolution", "Cross-Functional Coordination"]},
+    {"category": "Reporting & Systems", "items": ["Performance Reporting", "Dashboard Building", "Google Apps (Sheets, Docs)", "Multi-System Documentation"]},
+    {"category": "Customer Service", "items": ["Client-Facing Communication", "Issue Resolution", "Product/Service Knowledge"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ]
+}
