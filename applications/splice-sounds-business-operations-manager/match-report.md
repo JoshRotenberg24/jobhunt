@@ -13,7 +13,7 @@
 | :--- | :--- | :--- |
 | US remote | Resume-evidenced / no issue | Consistent with your own constraint. |
 | 3-6 years program management / content ops / business ops | **Covered (adjacent)** | No literal "Program Manager" or "Business Operations Manager" title on record, but 15+ years of adjacent operational, process-building, and cross-functional work, comfortably exceeding the years requirement in substance if not title. Named honestly in the cover letter rather than implied as a direct title match. |
-| Ideally music, media, or subscription business | **Covered (strong, via subscription branch)** | No music/media-industry experience, but 15+ years entirely inside subscription SaaS businesses (Wix, HubSpot/Salesforce/GoHighLevel-based roles, Solenzo) — subscription business is one of the three explicitly named acceptable domains. |
+| Ideally music, media, or subscription business | **Covered (strong, via subscription branch; personal music connection also real)** | No professional music/media-industry employer, but 15+ years entirely inside subscription SaaS businesses (Wix, HubSpot/Salesforce/GoHighLevel-based roles, Solenzo) satisfies one of the three named acceptable domains. Separately, Josh has genuine personal music-industry exposure from college (roadie work for Head for the Hills, promo work with Mammoth Music Group) — informal, pre-professional, not resume work history, but real and used as an authentic hook in the cover letter. |
 | Program/project management skills, complex multi-team workstreams | **Covered (adjacent)** | Real experience managing multiple concurrent client engagements and cross-functional coordination, but as an account owner/founder, not as a dedicated program manager tracking workstreams across other people's teams. |
 | Meeting cadences, executive communications | **Covered (adjacent)** | Reporting cadences, dashboards, and QBRs are well evidenced; formal ownership of recurring team meeting rhythm (agendas, follow-ups, action-item tracking) is not explicitly documented. |
 | Budget and financial tracking | **Covered (adjacent, weak)** | Wix: "overseeing budgets, scope, and delivery" for a team of onboarding specialists. Real, but not deeply quantified or described as finance-partnership-level work — the JD's specific ask ($120K/month tracked and reported to Finance) is a step beyond what's evidenced. |
@@ -29,16 +29,22 @@ No eligibility cap — no work-authorization, location, or license blocker.
 ## Application Priority Score
 
 ```
-🔵 Application Priority Score: 62 / 100 — Solid stretch
-[████████████░░░░░░░░]  62%
+🔵 Application Priority Score: 63 / 100 — Solid stretch
+[█████████████░░░░░░░]  63%
 ```
 *Internal decision aid — not a prediction of Splice's own screening outcome.*
+
+**Updated Sep 2026:** originally scored 62/100 before Josh surfaced two genuine, if informal and
+pre-professional, personal music-industry connections (roadie work for a Fort Collins bluegrass band,
+promo work with a music group, both same college era). These don't change the professional-experience
+gap, but they're real and add authentic weight to the cover letter's hook, so domain alignment moved
+up slightly.
 
 | Dimension | Score | Max | Why |
 | :--- | :--- | :--- | :--- |
 | Must-have requirements met | 22 | 40 | Real transferable substance (process building, cross-functional coordination, reporting) but no literal program-management or budget-ownership title, and budget-tracking evidence specifically is thin. |
 | Seniority & scope alignment | 10 | 15 | This role sits between category teams and senior leadership; Josh's founder/team-lead background (managing a team of 20, budget oversight, executive reporting) is a reasonable scope match, unlike the more severe downward mismatches seen on lower-level postings. |
-| Domain / industry alignment | 8 | 15 | No music/creator-tech experience, but genuine, deep subscription-SaaS business fluency, one of the three domains the posting names as acceptable. |
+| Domain / industry alignment | 9 | 15 | No professional music/creator-tech employer, but genuine, deep subscription-SaaS business fluency (one of the three domains the posting names as acceptable), plus real personal music-industry exposure from college (roadie and promo work) used as an authentic hook. |
 | Differentiators / nice-to-haves | 13 | 15 | Automation/scalable-workflow-building track record is a named nice-to-have and a genuine, standout strength; process/systems architecture in ambiguous environments is equally strong. |
 | Evidence strength | 9 | 15 | Strong, quantified evidence for automation-building and cross-functional Product/Eng collaboration; thinner for the specific program-management and budget-tracking asks. |
 

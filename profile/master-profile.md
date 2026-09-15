@@ -74,8 +74,12 @@
 > application answers, and interviews for live entertainment, venue, arts, or ticketed-event
 > employers, where it converts the weakest dimension of those applications into a real one.
 
-- **Roadie work during college** (Colorado State University era, Fort Collins, CO). Exact
-  years and acts not yet captured.
+- **Roadie work during college** (Colorado State University era, Fort Collins, CO) for
+  **Head for the Hills**, a Fort Collins bluegrass band. *(Band name confirmed by Josh,
+  Sep 2026; exact years still not captured.)*
+- **Promo work with the team at Mammoth Music Group**, same college era, informal/
+  volunteer (not a paid professional role). *(Confirmed by Josh, Sep 2026; scope of the
+  promo work and exact years not yet captured.)*
 - **Worked at the Mishawaka Amphitheatre**, Bellvue, CO — an outdoor music venue in the
   Poudre Canyon. Role, dates, and duration not yet captured.
 - **Long-standing personal interest in live entertainment**, stated by Josh as a genuine
