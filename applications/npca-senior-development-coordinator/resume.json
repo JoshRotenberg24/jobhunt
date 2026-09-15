@@ -1,0 +1,115 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Operations & Project Coordinator | CRM Systems, Cross-Functional Support & Team Coordination",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operations and project coordinator with 15+ years keeping multi-stakeholder work on track across client accounts, teams, and cross-functional partners. Documents every interaction, timeline, and deliverable in shared systems (CRM, Notion, project trackers) so status and priorities stay visible to the whole team, and has directly managed staff onboarding, training, and team coordination for groups of up to 20. Builds structured AI-assisted documentation and evaluation workflows daily, a direct transfer to automating meeting notes and action-item tracking. Comfortable coordinating alongside senior stakeholders and translating complex, moving work into clear, prioritized next steps.",
+  "experience": [
+    {
+      "title": "Operations & Project Coordination Lead — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable and current across concurrent engagements.",
+        "Own the primary strategic relationship for a portfolio of clients, running discovery and coordinating execution across multiple concurrent projects to keep deadlines and priorities visible.",
+        "Build rubric-based grading criteria and structured evaluation frameworks to score AI-generated output against defined standards, and configure AI tools to turn loosely-defined stakeholder input into precise, actionable documentation.",
+        "Report progress and recommendations to business-owner stakeholders on a regular cadence, translating technical findings into clear, prioritized next steps rather than a status update.",
+        "Build reusable templates and messaging frameworks that get adapted per client rather than rebuilt from scratch, maintaining a shared, current base of operational resources."
+      ]
+    },
+    {
+      "title": "Client & Project Coordinator — Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated integrated marketing strategy execution across internal departments on multi-stakeholder accounts, holding delivery quality consistent across concurrent implementations.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, translating data into clear recommendations and QBR materials for client leadership."
+      ]
+    },
+    {
+      "title": "Partner Onboarding Coordinator — Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail), retaining all but one (~94% retention), coordinating training and adoption across a high-volume partner network.",
+        "Developed scalable communication workflows and automated onboarding sequences that reduced friction for new partners.",
+        "Served as a coordination point between partners and internal Product and Engineering teams, translating structured, high-priority feedback into roadmap input."
+      ]
+    },
+    {
+      "title": "Onboarding & Team Coordinator — Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, contributing to hiring, onboarding, and training of new hires.",
+        "Onboarded and launched 25+ clients per month while holding 120% of sales targets and 110% of implementation targets, coordinating high-volume, deadline-driven work simultaneously.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture and system organization across the team."
+      ]
+    },
+    {
+      "title": "Client Implementation Coordinator — Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided client onboarding, workflow design, and system integrations, building relationships with C-suite executives as a trusted advisor on operational system design."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Project & Program Coordination",
+      "items": [
+        "Multi-Project Coordination",
+        "Cross-Functional Liaison",
+        "Deadline & Priority Tracking",
+        "Process Documentation",
+        "Templates & SOPs"
+      ]
+    },
+    {
+      "category": "Systems & CRM",
+      "items": [
+        "Asana",
+        "Salesforce",
+        "HubSpot",
+        "Notion",
+        "CRM Data Hygiene & Tracking"
+      ]
+    },
+    {
+      "category": "AI-Enabled Documentation",
+      "items": [
+        "AI-Assisted Workflow Design",
+        "Structured Documentation & Rubrics",
+        "Prompt Design",
+        "Action-Item & Follow-Up Tracking"
+      ]
+    },
+    {
+      "category": "Team & Stakeholder Support",
+      "items": [
+        "Staff Onboarding & Training",
+        "Team Coordination",
+        "Senior Stakeholder Communication",
+        "Client & Partner Relationship Management"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}
