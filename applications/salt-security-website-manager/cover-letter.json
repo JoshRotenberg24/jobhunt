@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 15, 2026",
+  "company": "Salt Security",
+  "role": "Website Manager",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "Two things upfront: my CMS experience is Wix, not Webflow, and I don't have cybersecurity-industry experience. What I do have is real technical SEO and CRO work across SaaS clients, and a genuinely relevant angle on the AEO/GEO piece of this role that most web marketers won't bring.",
+    "At Solenzo, I run technical SEO audits with Screaming Frog, implement schema and structured data, and manage Google Tag Manager setups daily. I've also diagnosed CRO bottlenecks directly, cleaning up a client's paid-search quality and then tracing the remaining problem to on-site conversion. Beyond the SEO fundamentals, I build AI agent systems for a living, writing the structured prompts and instructions that determine whether an LLM produces accurate, useful output. That's the same underlying skill answer-engine and generative-engine optimization requires: understanding how an AI system decides what to surface and why. I'm not claiming formal AEO/GEO tool experience, but I understand the mechanism better than most candidates coming from a pure SEO background.",
+    "I'd welcome the chance to talk about how that combination, real technical SEO and CRO plus genuine LLM fluency, could work for Salt's website."
+  ],
+  "closing": "Sincerely,"
+}

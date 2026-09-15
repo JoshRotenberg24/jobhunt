@@ -1,0 +1,65 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Website & SEO Marketing Manager",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Web marketing and SEO professional with 4+ years of hands-on technical SEO (Screaming Frog audits, schema/structured data, keyword gap analysis) and conversion-rate optimization across SaaS clients, plus daily, practical fluency in how LLMs process and surface content from building AI agent systems, directly relevant to answer-engine and generative-engine discovery. Worth naming directly: my CMS experience is Wix, not Webflow, and I don't have cybersecurity-industry experience.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.",
+        "Identify and implement schema/structured data as part of technical SEO audits, pulling full on-page schema implementation.",
+        "Install and configure Google Tag Manager on every website built at Solenzo, and guided clients through GTM setup at Wix.",
+        "Optimized a client's Google Ads account, cutting spam/low-quality leads and improving click-through quality, and diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, the same translation work that determines whether an LLM surfaces content accurately."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Produced high-converting campaign assets, including landing pages and conversion-focused copy, improving lead generation and pipeline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Collaborated directly with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {"category": "SEO & Discovery", "items": ["Technical SEO Audits", "Schema/Structured Data", "Keyword Research & Gap Analysis (Ahrefs, Semrush, Screaming Frog)", "AI/LLM Content & Discovery Systems"]},
+    {"category": "CRO & Analytics", "items": ["Conversion Rate Optimization", "GA4", "Google Tag Manager", "A/B Testing"]},
+    {"category": "Web & Cross-Functional", "items": ["Site Architecture Consulting", "CMS (Wix)", "Cross-Functional Coordination (Product, Engineering, Sales)"]},
+    {"category": "Content", "items": ["Landing Pages", "Direct-Response Copy"]}
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ]
+}
