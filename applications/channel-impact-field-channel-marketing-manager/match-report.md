@@ -94,5 +94,5 @@ None on file — no known Channel Impact connection.
 ## Output Files
 
 - `resume.pdf` / `resume.docx` — one page, modern style, reverse-chronological, names the field-marketing-events gap directly in the summary rather than implying event experience that isn't there. Also saved as `Rotenberg Resume - Channel Impact - Field & Channel Marketing Manager.pdf/.docx`.
+- `cover-letter.pdf` / `cover-letter.docx` — one page, leads with the genuine Birdeye channel-partner hook, names the 14-month tenure and field-events gap directly. Also saved as `Rotenberg Cover Letter - Channel Impact - Field & Channel Marketing Manager.pdf/.docx`.
 - `fit.json` / `fit.png` — Application Priority Score meter.
-- No cover letter produced — the resume's summary already carries the honest gap disclosure the posting calls for; nothing here needs a longer narrative the resume can't.
