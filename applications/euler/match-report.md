@@ -77,10 +77,11 @@ See `fit.png` for the rendered gauge. This is an internal decision aid, not a pr
 
 ## Output Files
 
-- `applications/euler/resume.pdf` / `.docx`
+- `applications/euler/resume.pdf` / `.docx` (working copy)
+- `applications/euler/cover-letter.pdf` / `.docx` (working copy)
+- `applications/euler/Rotenberg Resume - EULER - Onboarding Manager.pdf` / `.docx` (labeled copy to upload)
+- `applications/euler/Rotenberg Cover Letter - EULER - Onboarding Manager.pdf` / `.docx` (labeled copy to upload)
 - `applications/euler/fit.json` / `fit.png`
 - `applications/euler/match-report.md`
-
-No cover letter built — the resume's Birdeye "Channel Partnerships" bullet already makes the partnerships-domain case directly; a cover letter would restate it rather than add new evidence.
 
 **Upload:** PDF (posting is silent on format; PDF preserves formatting, DOCX kept as backup).

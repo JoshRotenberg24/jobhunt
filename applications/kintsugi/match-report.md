@@ -79,10 +79,13 @@ Every must-have requirement is covered strong or adjacent. The gaps sit entirely
 
 ## Output Files
 
-- `applications/kintsugi/resume.pdf` / `.docx`
+- `applications/kintsugi/resume.pdf` / `.docx` (working copy)
+- `applications/kintsugi/cover-letter.pdf` / `.docx` (working copy)
+- `applications/kintsugi/Rotenberg Resume - Kintsugi - Onboarding Manager.pdf` / `.docx` (labeled copy to upload)
+- `applications/kintsugi/Rotenberg Cover Letter - Kintsugi - Onboarding Manager.pdf` / `.docx` (labeled copy to upload)
 - `applications/kintsugi/fit.json` / `fit.png`
 - `applications/kintsugi/match-report.md`
 
-No cover letter built — the vertical gap (sales tax/fintech) is real and a cover letter can't paper over it; the resume already leads with the process and escalation evidence the JD actually screens for.
+The cover letter doesn't try to paper over the sales-tax/fintech vertical gap noted above; it leads with the relationship-ownership and escalation evidence that's genuinely strong instead.
 
 **Upload:** PDF (posting is silent on format; PDF preserves formatting, DOCX kept as backup).

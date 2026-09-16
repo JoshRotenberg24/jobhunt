@@ -77,10 +77,11 @@ See `fit.png` for the rendered gauge. This is an internal decision aid, not a pr
 
 ## Output Files
 
-- `applications/connecteam/resume.pdf` / `.docx`
+- `applications/connecteam/resume.pdf` / `.docx` (working copy)
+- `applications/connecteam/cover-letter.pdf` / `.docx` (working copy)
+- `applications/connecteam/Rotenberg Resume - Connecteam - SMB Onboarding Manager.pdf` / `.docx` (labeled copy to upload)
+- `applications/connecteam/Rotenberg Cover Letter - Connecteam - SMB Onboarding Manager.pdf` / `.docx` (labeled copy to upload)
 - `applications/connecteam/fit.json` / `fit.png`
 - `applications/connecteam/match-report.md`
-
-No cover letter built — the posting doesn't request one, and the resume already carries direct, specific evidence for every stated requirement without needing a narrative bridge.
 
 **Upload:** PDF (posting is silent on format; PDF preserves formatting, DOCX kept as backup).
