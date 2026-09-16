@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Revenue operations professional with 15+ years building the pipeline, lead-routing, and reporting infrastructure that keeps B2B SaaS GTM engines running, spanning Salesforce, HubSpot, GoHighLevel, and Accelo's own CRM/PSA platform. Personally designs, builds, and deploys AI-driven workflows and automations at Solenzo, not just directs others to, including a full lead capture-to-close automation system and a digital-footprint scoring engine that enrolled 180+ contacts. Comfortable owning day-to-day operational fundamentals (lead routing, data hygiene, reporting) while designing scalable processes that hold up as an organization grows, evidenced by driving a brand-new Wix vertical from proof of concept to a profitable business line.",
+  "summary": "Revenue operations professional with 15+ years building the pipeline, lead-routing, and reporting infrastructure that keeps B2B SaaS GTM engines running, with hands-on experience across Salesforce, Salesloft, ZoomInfo, and Gong, plus Zapier, Make, and n8n automation-building dating back to Accelo in 2018. Personally designs, builds, and deploys AI-driven workflows at Solenzo, not just directs others to, including a full lead capture-to-close automation system and a digital-footprint scoring engine that enrolled 180+ contacts. Comfortable owning day-to-day operational fundamentals while designing scalable processes that hold up as an organization grows, evidenced by driving a brand-new Wix vertical from proof of concept to a profitable business line.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -21,7 +21,8 @@
         "Built segmented outreach engines plus an automated prospect \"audit\" workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized outreach.",
         "Design self-improving loops and evaluation frameworks to monitor AI agent outputs and continuously optimize conversion rates.",
         "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership.",
-        "Build reusable agent infrastructure and internal tooling integrating with client CRMs and CMS platforms for automated growth engines."
+        "Build reusable agent infrastructure and internal tooling in Make and n8n, integrating with client CRMs and CMS platforms for automated growth engines.",
+        "Run up to 3 concurrent client engagements at a time while personally building and operating the outbound automation system, from strategy through hands-on execution."
       ]
     },
     {
@@ -71,7 +72,8 @@
       "location": "Denver, CO",
       "dates": "Apr 2018 - Jul 2020",
       "bullets": [
-        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, pipeline automation, and forecast-stage tracking.",
+        "Built Zapier automations to reduce manual work across the sales process, hands-on automation-building experience that predates Solenzo by several years.",
         "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
         "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
         "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
@@ -92,15 +94,16 @@
       "category": "AI & Workflow Automation",
       "items": [
         "Hands-On AI Workflow Build & Deployment (Agentic AI / LLM)",
+        "Zapier, Make, n8n",
         "Digital-Footprint Scoring & Personalization Engines",
-        "Process Automation Design",
         "Rapid Prototyping & Testing"
       ]
     },
     {
       "category": "GTM Systems",
       "items": [
-        "Salesforce, HubSpot, GoHighLevel, Accelo (CRM/PSA)",
+        "Salesforce, Salesloft, ZoomInfo, Gong",
+        "HubSpot, GoHighLevel, Accelo (CRM/PSA)",
         "Contact Segmentation & Lifecycle Stages"
       ]
     },
