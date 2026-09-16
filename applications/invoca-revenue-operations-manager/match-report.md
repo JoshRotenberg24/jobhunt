@@ -93,7 +93,9 @@ None — no known contact at Invoca.
 
 - `resume.pdf` / `resume.docx` (source: `resume.json`, modern style)
 - `Rotenberg Resume - Invoca - Revenue Operations Manager.pdf` / `.docx` — labeled copies for submission
+- `cover-letter.pdf` / `cover-letter.docx` (source: `cover-letter.json`) — leads with the Solenzo/Invoca AI-agent product parallel
+- `Rotenberg Cover Letter - Invoca - Revenue Operations Manager.pdf` / `.docx` — labeled copies for submission
+- `application-answers.md` — drafted "Why Invoca?" answer for the application form
 - `fit.json` / `fit.png` — Application Priority Score meter
-- **No cover letter produced.** The fit is strong and direct on the resume alone, there's no pivot or narrative gap to bridge here the way there was for Distill or Cirrascale. Say the word if you want one anyway to lean further into the AI-fluency angle.
 
 **Submission recommendation:** upload the PDF unless the application portal specifies otherwise.
