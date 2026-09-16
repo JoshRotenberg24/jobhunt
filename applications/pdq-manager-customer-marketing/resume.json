@@ -1,0 +1,121 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Manager, Customer Marketing | Lifecycle Marketing, Retention & Customer Onboarding",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer marketing and lifecycle-retention professional with 15+ years in B2B SaaS, including 2 years directly managing and developing a team of onboarding specialists (team of 20, later 8) at Wix. Designs and deploys automated lifecycle programs personally at Solenzo, onboarding nurture, win-back, and reactivation sequences built on defined customer segmentation and lifecycle-stage frameworks, and drove a 94% partner retention rate managing a reseller book at Birdeye. Comfortable owning both the strategy and the hands-on execution of programs that move customers from onboarding through renewal and expansion.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Design and deploy automated lifecycle sequences, onboarding workflows, and CRM architectures that activate, nurture, and retain high-value users at scale.",
+        "Architected and deployed a complete marketing-automation system, 20+ workflows spanning lead capture, qualification, appointment booking, no-show recovery, post-sale onboarding nurture, long-term nurture and reactivation, and review-generation sequences.",
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across sales enablement, marketing, and operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy and customer health metrics, equipping them to communicate product value to their own end customers.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Took on team lead responsibilities for the sales team in addition to individual account management, continuing people-leadership responsibility carried over from Wix."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Marketing & Lifecycle",
+      "items": [
+        "Lifecycle Marketing (Onboarding, Nurture, Win-Back, Reactivation)",
+        "Customer Segmentation & Lifecycle-Stage Frameworks",
+        "Retention & Expansion Strategy",
+        "Customer Health Metrics"
+      ]
+    },
+    {
+      "category": "Team Leadership",
+      "items": [
+        "People Management (Teams of 8-20)",
+        "Hiring, Onboarding & Training",
+        "Mentorship & Coaching"
+      ]
+    },
+    {
+      "category": "Marketing Technology & Automation",
+      "items": [
+        "GoHighLevel, HubSpot, Salesforce, Accelo (CRM/PSA)",
+        "Marketo, Mailchimp",
+        "Marketing Automation Architecture"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "Campaign & Program Performance Reporting",
+        "ROI / KPI Dashboards",
+        "QBRs & Leadership Presentations",
+        "Data-Driven Recommendations"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
