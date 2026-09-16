@@ -16,6 +16,24 @@ health metrics and intervening on adoption gaps before they became churn. At Acc
 built trusted advisor relationships directly with C-suite executives, guiding onboarding
 and escalating risk early enough to resolve it before it threatened the relationship.
 
+## Customer portfolio overview and success metrics
+
+At Birdeye, I managed a portfolio of 15 to 20 reseller partner accounts at a time, with
+individual deal sizes ranging from roughly $10K to $45K. Over that tenure I retained all
+but one partner, a 94% retention rate, driven by staying close to partner health metrics
+and stepping in on adoption gaps before they became churn risks. I don't have a tracked
+NPS number from that role; retention rate and adoption-gap intervention are the metrics
+I can speak to directly.
+
+At Wix, I managed a broader account portfolio across e-commerce clients while
+personally onboarding 25+ new accounts a month, holding 120% of sales targets and 110%
+of implementation targets. That portfolio saw a 30% increase in website traffic and a
+25% improvement in conversion rates across supported accounts.
+
+Individual contract sizes in both portfolios ran smaller than the $100K+ range this
+role's ideal candidate profile describes, worth stating plainly rather than leaving
+implied.
+
 ---
 
 *Drafted Sep 16, 2026. Every claim here traces to `profile/master-profile.md` — no
