@@ -50,6 +50,24 @@
 > re-ask; the badge is technically obtainable if Josh chooses to apply for one, but he
 > does not hold one today.
 
+## Compensation Expectations (baseline, confirmed by Josh, Sep 2026)
+
+Standing anchor for application salary-expectation questions, so this doesn't get
+re-litigated from scratch every time. Scale it by role level and real market data per
+application; don't just restate the anchor blindly for a role well above or below this
+band.
+
+- **Associate / entry-to-mid IC support roles** (e.g., deal desk associate, coordinator-
+  level titles, 2-4 years' stated requirement): target **$72,000-$78,000 base**, anchor
+  point **$75,000**. Use the same figure for "OTE" unless the posting shows a genuine
+  commission/bonus/variable structure — most support/ops-titled roles don't carry one,
+  and the field is often reused boilerplate across sales and non-sales reqs.
+- Set during the Jama Software Associate Deal Desk Analyst application (Sep 2026),
+  anchored against comparable posted ranges (CerebriOS Sales Operations Coordinator,
+  $55K-$72K) rather than inflated national averages skewed by large enterprise data.
+- **Does not apply directly** to senior IC, team-lead, strategic, or founder-scope roles —
+  those need their own market-data pull and a real number from Josh, not this baseline.
+
 ## Education & Certifications
 
 - **B.A. Liberal Arts, Minor in Political Science** — Colorado State University, Fort Collins, CO

@@ -18,7 +18,7 @@
 | CRM software experience | Resume-evidenced — strong | Salesforce, HubSpot, GoHighLevel, Accelo (CRM/PSA product itself) |
 | Experience working with sales personnel | Resume-evidenced — met | 15+ years as an AE and channel/partner manager working alongside sales teams |
 | Salesforce CPQ (nice to have) | Gap | Salesforce experience is real; no confirmed hands-on CPQ tool use |
-| Compensation expectations | Needs candidate confirmation | Not addressed in master profile; posting doesn't list a range |
+| Compensation expectations | Application-form requirement — confirmed | **$75,000 base / $75,000 OTE** (posting shows no variable-comp structure; use the same figure for both fields). Anchored against comparable posted ranges (CerebriOS Sales Ops Coordinator, $55K-$72K), not inflated national averages. See standing baseline in `master-profile.md`. |
 
 No hard knockout found. No score cap applied.
 
@@ -86,7 +86,6 @@ Held back mainly by scope (an "Associate" support role against 15+ years includi
 ## Candidate Confirmation Needed
 
 - Which state Jama Software's remote-eligibility list covers, and whether Colorado is on it (posting doesn't say).
-- Compensation expectations, if the application asks.
 
 ## Metrics Needed
 
