@@ -78,9 +78,10 @@ See `fit.png` for the rendered gauge. This is an internal decision aid, not a pr
 ## Output Files
 
 - `applications/euler/resume.pdf` / `.docx` (working copy)
-- `applications/euler/cover-letter.pdf` / `.docx` (working copy)
+- `applications/euler/cover-letter.pdf` / `.docx` (working copy) — rewritten to directly answer EULER's four required cover-letter questions (onboarding owned contract-to-go-live, a playbook designed from scratch, an at-risk onboarding caught and saved, a Sales/Onboarding/CS handoff improved), one real engagement per answer, no composite stories
+- `applications/euler/application-answers.md` — the same four questions paired with their answers in plain text, for pasting into separate form fields if the portal doesn't take an uploaded cover letter
 - `applications/euler/Rotenberg Resume - EULER - Onboarding Manager.pdf` / `.docx` (labeled copy to upload)
-- `applications/euler/Rotenberg Cover Letter - EULER - Onboarding Manager.pdf` / `.docx` (labeled copy to upload)
+- `applications/euler/Rotenberg Cover Letter - EULER - Onboarding Manager.pdf` / `.docx` (labeled copy to upload, answers the four required questions)
 - `applications/euler/fit.json` / `fit.png`
 - `applications/euler/match-report.md`
 
