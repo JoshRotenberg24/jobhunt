@@ -14,8 +14,8 @@
 | :--- | :--- | :--- |
 | Remote - United States | Resume-evidenced — met | Josh is Colorado-based, remote |
 | Work authorization | Application-form requirement (needs Josh's input) | Not addressed in master profile; not raised as an issue |
-| Extensive experience with multiple enterprise ESPs (Salesforce Marketing Cloud, Braze, Iterable, Adobe Campaign, etc.) | Gap | Not in profile at all |
-| HTML, CSS, JavaScript, data architectures | Gap | No coding proficiency evidenced |
+| Extensive experience with multiple enterprise ESPs (Salesforce Marketing Cloud, Braze, Iterable, Adobe Campaign, etc.) | Resume-evidenced (partial) | Marketo (enterprise-tier) and Mailchimp (SMB-tier) confirmed hands-on; the specific big-name platforms listed (Salesforce Marketing Cloud, Braze, Iterable) are still not evidenced |
+| HTML, CSS, JavaScript, data architectures | Gap (partial) | HTML/CSS confirmed hands-on (own Solenzo site, client GA4 implementation); JavaScript and formal data-architecture experience still not evidenced |
 | 2+ years cloud data warehousing / data lakes / ETL | Gap | Not in profile |
 | 3+ years technical implementation/SA/TAM, preferably MarTech | Resume-evidenced (functional) | 15+ years; not literally titled "Solutions Architect" or "TAM" |
 | Compensation expectations | Needs candidate confirmation | Base $81K-$106K, OTE $97.3K-$127K; no target on file for this comp shape yet |
@@ -26,20 +26,22 @@ No hard knockout found. No score cap applied. The gaps below are real skill gaps
 
 ## Application Priority Score
 
-⚪ **62 / 100 — Solid stretch (apply with a sharp tailored resume)**
-`[████████████░░░░░░░░] 62%`
+⚪ **75 / 100 — Solid stretch (apply with a sharp tailored resume)**
+`[███████████████░░░░░] 75%`
 
 *Internal decision aid, not a prediction of Movable Ink's screening outcome.* See `fit.png`.
 
 | Dimension | Score | Max |
 | :--- | :---: | :---: |
-| Must-have requirements met | 27 | 40 |
-| Seniority & scope alignment | 8 | 15 |
-| Domain / industry alignment | 13 | 15 |
-| Differentiators / nice-to-haves | 6 | 15 |
-| Evidence strength | 8 | 15 |
+| Must-have requirements met | 32 | 40 |
+| Seniority & scope alignment | 9 | 15 |
+| Domain / industry alignment | 14 | 15 |
+| Differentiators / nice-to-haves | 10 | 15 |
+| Evidence strength | 10 | 15 |
 
-The honest shape of this one: domain alignment is genuinely strong, email/mobile marketing personalization and AI-driven decisioning is Josh's actual world. But the posting names three specific, checkable technical requirements he doesn't meet: enterprise ESP platform experience, HTML/CSS/JavaScript, and cloud data warehousing/ETL. Those pull Must-haves, Differentiators, and Evidence Strength down hard. This isn't a "framing" problem, it's a real skills gap, and the resume and cover letter name it directly rather than hope it goes unnoticed in a technical screen.
+**Rescored Sep 16, 2026 from 62 → 75** after Josh confirmed real HTML/CSS experience (his own Solenzo site is built directly in HTML/CSS, and he implements GA4 tracking in HTML/CSS on client sites) and hands-on ESP experience with Marketo and Mailchimp. This closes two of the three named technical gaps partially, HTML/CSS is now a genuine strength, and ESP experience is real though not in the specific flagship platforms (Salesforce Marketing Cloud, Braze, Iterable) this posting names most. JavaScript, formal data architectures, and cloud data warehousing/ETL remain true, unconfirmed gaps.
+
+Domain alignment stays the standout dimension: email/mobile marketing personalization and AI-driven decisioning is Josh's actual world, and Solenzo's digital-footprint scoring engine is close to a literal match for what Movable Ink sells.
 
 ---
 
@@ -49,10 +51,10 @@ The honest shape of this one: domain alignment is genuinely strong, email/mobile
 | :--- | :--- | :--- |
 | 3+ years technical implementation/SA/TAM, MarTech preferred | Strong (functional) | 15+ years across Accelo, Birdeye, Wix, Solenzo |
 | 3+ years consulting, influencing marketing strategy with technical solutions | Strong | Solenzo (fractional consulting), Accelo (CRM adoption advisory) |
-| Extensive experience with named enterprise ESPs | Gap | Not evidenced |
+| Extensive experience with named enterprise ESPs | Partial | Marketo and Mailchimp confirmed; Salesforce Marketing Cloud/Braze/Iterable specifically not evidenced |
 | API/tech-stack integration identification | Adjacent | Accelo: "workflow design and API integrations" |
 | Proven track record managing complex onboarding projects | Strong | Wix: 25+ clients/month, 120%/110% attainment; Accelo: sequenced implementation plans |
-| HTML, CSS, JavaScript, data architectures (Python a plus) | Gap | Not evidenced |
+| HTML, CSS, JavaScript, data architectures (Python a plus) | Partial | HTML/CSS confirmed (own site, client GA4 implementation); JavaScript and data architectures not evidenced |
 | 2+ years cloud data warehousing/data lakes/ETL | Gap | Not evidenced |
 | Problem-solving/troubleshooting | Strong | Accelo, Birdeye: direct technical troubleshooting bullets |
 | Digital marketing strategy understanding (email/mobile, personalization outcomes) | Strong | Entire career; Solenzo's personalization engine is a near-literal match |
@@ -65,13 +67,14 @@ The honest shape of this one: domain alignment is genuinely strong, email/mobile
 ## Top Strengths
 
 - Solenzo's digital-footprint scoring engine is close to a literal match for "data-activated content generation and AI decisioning," genuinely one of Josh's strongest single proof points across any application this session.
+- Real, hands-on HTML/CSS experience (own site, client GA4 implementation) closes what was the second-largest gap in the first draft of this application.
 - The JD's own language, "act as a universal translator" between business and technical, is close to verbatim to a real Solenzo bullet about translating stakeholder intent into structured technical output. Not forced, genuinely the same skill.
 - Wix's onboarding volume (25+/month, 120%/110% attainment) directly answers "proven track record of managing complex client onboarding projects."
 
 ## Gaps
 
-- No hands-on experience with any of the named enterprise ESPs (Salesforce Marketing Cloud, Oracle Responsys, Adobe Campaign/Journey Optimizer, Braze, Iterable, Bloomreach, etc.). This is the single largest gap in the posting, called out as "extensive experience with multiple."
-- No HTML, CSS, or JavaScript coding proficiency evidenced.
+- No hands-on experience with the specific flagship enterprise ESPs this posting names most (Salesforce Marketing Cloud, Braze, Iterable, Oracle Responsys, Adobe Campaign/Journey Optimizer, Bloomreach). Marketo and Mailchimp are real, confirmed ESP experience, but not a substitute for hands-on time in those specific platforms if a technical screen asks directly.
+- No JavaScript or formal data-architecture experience evidenced.
 - No cloud data warehousing, data lake, or ETL experience.
 - No production Python experience (listed as a plus, not a hard requirement).
 
@@ -79,7 +82,7 @@ The honest shape of this one: domain alignment is genuinely strong, email/mobile
 
 - Work authorization.
 - Compensation target against the posted base $81K-$106K / OTE $97.3K-$127K band.
-- Whether Josh has any informal or self-taught exposure to HTML/CSS, any of the named ESPs, or basic SQL/data-warehouse concepts not yet captured in the profile, if real, this would meaningfully change this match and is worth a direct ask before ruling it out.
+- Which employer(s) Marketo and Mailchimp were used at, useful for a sharper resume bullet and for interview prep.
 
 ## Metrics Needed
 

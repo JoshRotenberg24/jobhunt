@@ -256,6 +256,21 @@ operator talking, not like a candidate performing.
 > experience with all three. Exact employer/role attribution for each not yet captured,
 > ask Josh which role(s) before writing a role-specific bullet naming one of them; safe
 > to use in a role-agnostic competencies/tools list today.
+>
+> **Email service providers — Marketo and Mailchimp (confirmed by Josh, Sep 2026):** Josh
+> has hands-on ESP/marketing-automation-platform experience with Marketo (enterprise-tier,
+> comparable to Adobe Campaign/Journey Optimizer) and Mailchimp (SMB/mid-market tier).
+> Exact employer/role attribution not yet captured, ask before writing a role-specific
+> bullet. When a JD asks specifically for a different named enterprise ESP (Salesforce
+> Marketing Cloud, Braze, Iterable, Oracle Responsys, etc.), Marketo/Mailchimp are
+> genuine adjacent ESP-category experience, not a substitute for hands-on time in that
+> specific platform, keep that distinction honest.
+>
+> **HTML/CSS (confirmed by Josh, Sep 2026):** Josh's own Solenzo site is built directly
+> in HTML/CSS (not a no-code builder), and he works in HTML/CSS when implementing GA4
+> tracking on client sites. This is real, defensible hands-on HTML/CSS experience.
+> JavaScript and formal "data architectures" experience are NOT confirmed, do not claim
+> either without a separate confirmation.
 - Claim, set up, and optimize Google Business Profile listings (categories, descriptions, services, photos, posts) as the first deliverable in every client engagement, the foundation the rest of each client's local SEO and lead-flow program builds on.
 - Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.
 - Architect and deploy autonomous, AI-driven marketing systems for service-based businesses — largely on GoHighLevel — automating lead enrichment, outreach, and appointment booking.
@@ -408,8 +423,9 @@ operator talking, not like a candidate performing.
 | :--- | :--- |
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing, Zapier, Make, n8n |
 | Sales Engagement & Enrichment | Salesloft, ZoomInfo, Gong (confirmed hands-on, Sep 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
-| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing, Landing Pages |
+| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
+| Web Technical | HTML/CSS (hands-on, own Solenzo site + client GA4 implementation) |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |

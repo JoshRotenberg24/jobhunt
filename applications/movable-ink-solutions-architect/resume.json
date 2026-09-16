@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Technical implementation and marketing-technology consultant with 15+ years scoping, configuring, and launching complex SaaS solutions for B2B clients, including two years selling and scoping a CRM/PSA platform itself at Accelo and guiding API integrations as a trusted technical advisor. Personally designs, builds, and evaluates AI-driven personalization systems at Solenzo, architecting a digital-footprint scoring engine and a full lead-to-close automation stack. Comfortable translating marketing strategy into technical configuration and training clients through onboarding, evidenced by launching 25+ clients per month at Wix while holding 120% of sales and 110% of implementation targets.",
+  "summary": "Technical implementation and marketing-technology consultant with 15+ years scoping, configuring, and launching complex SaaS solutions for B2B clients, including two years selling and scoping a CRM/PSA platform itself at Accelo and guiding API integrations as a trusted technical advisor. Personally designs, builds, and evaluates AI-driven personalization systems at Solenzo, architecting a digital-footprint scoring engine and a full lead-to-close automation stack, on a site I built directly in HTML/CSS. Hands-on ESP experience spans Marketo and Mailchimp, and I implement GA4 tracking directly in HTML/CSS on client sites. Comfortable translating marketing strategy into technical configuration and training clients through onboarding, evidenced by launching 25+ clients per month at Wix while holding 120% of sales and 110% of implementation targets.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -20,7 +20,7 @@
         "Architected and deployed a complete marketing-automation system, 20+ workflows spanning lead capture, tagging, and routing, lead qualification, appointment booking, and review-generation sequences.",
         "Built segmented outreach engines plus an automated prospect \"audit\" workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized, data-driven outreach.",
         "Design self-improving loops and evaluation frameworks to monitor AI agent outputs and continuously optimize conversion rates.",
-        "Identify and implement schema/structured data as part of technical audits, and install and configure Google Tag Manager on every site built."
+        "Identify and implement schema/structured data as part of technical audits, working directly in HTML/CSS, and install and configure Google Tag Manager and GA4 tracking on every site built."
       ]
     },
     {
@@ -101,7 +101,8 @@
       "category": "Marketing Technology Stack",
       "items": [
         "Salesforce, HubSpot, GoHighLevel, Accelo (CRM/PSA)",
-        "Google Tag Manager, Schema & Structured Data"
+        "Email Service Providers: Marketo, Mailchimp",
+        "HTML/CSS, Google Tag Manager, GA4, Schema & Structured Data"
       ]
     },
     {
