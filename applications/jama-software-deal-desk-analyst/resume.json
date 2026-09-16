@@ -1,0 +1,128 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Associate Deal Desk Analyst | Sales Quoting, CRM Accuracy & Cross-Functional Deal Support",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Sales and CRM operations professional with 15+ years building, closing, and tracking B2B SaaS deals across Salesforce, HubSpot, GoHighLevel, and Accelo, a CRM/PSA platform itself. Built quoting and implementation plans as a quota-carrying account executive, tracked deal economics and commission tiers with precision, and now owns CRM data hygiene and cross-functional reporting running Solenzo. Comfortable coordinating across Sales, Customer Success, and Operations to move renewals, upsells, and new deals through to an accurate, on-time close.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Identify strategic opportunities to expand client retainer scope, gathering requirements directly from business owners and recommending complementary services aligned with their goals.",
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Document every client interaction, timeline, and deliverable across GoHighLevel, HubSpot, and Notion, keeping project and engagement records auditable across concurrent accounts.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface goals, objectives, and market challenges.",
+        "Report performance on a regular cadence with actionable insights and recommendations, backed by rigorous tracking across sales, marketing, and operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations for internal and client teams.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Analyzed partner utilization and performance history to identify adoption gaps and recommend renewal and expansion interventions that reduced churn.",
+        "Advised partners on retention strategy and customer health metrics, equipping them to communicate product value to their own end customers.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K), roughly $130K+ in total bookings.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture and improving database accuracy across the team.",
+        "Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one, balancing a high volume of concurrent priorities.",
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Consistently performed above commission floor into accelerator (doubling) tiers, averaging ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue, earning roughly $9,300 in monthly performance commission.",
+        "Closed deals of $20K and larger later in tenure, mixed with a base of smaller wins.",
+        "Ranked top three in sales on a team of 8 to 15 reps for effectively the full tenure, holding that ranking while quota roughly doubled over the period."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "CRM & Quoting",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel, Accelo (CRM/PSA)",
+        "Quote & Proposal Development",
+        "Pricing & Scope Validation",
+        "Pipeline & Contact Data Accuracy"
+      ]
+    },
+    {
+      "category": "Sales & Revenue Support",
+      "items": [
+        "Full-Cycle Sales & Deal Closing",
+        "Renewal, Expansion & Upsell Support",
+        "Deal Economics & Commission Tracking",
+        "Purchase & Renewal History Analysis"
+      ]
+    },
+    {
+      "category": "Cross-Functional Coordination",
+      "items": [
+        "Sales, Customer Success & Operations Liaison",
+        "Cross-Team Process Improvement",
+        "Stakeholder Communication",
+        "Reporting & QBR Support"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "Google Suite / Microsoft Office",
+        "Notion",
+        "ClickUp",
+        "Jira"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
