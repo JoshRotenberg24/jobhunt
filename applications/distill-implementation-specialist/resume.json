@@ -1,0 +1,124 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Specialist | SaaS Onboarding, AI Product Adoption & Customer Configuration",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer onboarding and implementation professional with 15+ years taking SaaS customers from kickoff to live, including launching 25+ clients per month at Wix while holding 120% of sales and 110% of implementation targets. Builds and ships AI-driven systems personally, architecting LLM-powered agent workflows and personalized outreach engines at Solenzo, the kind of product Distill builds for its own customers. Comfortable defining process from scratch in early-stage environments, having driven a new business vertical from proof of concept to a profitable line at Wix and founded and run Solenzo independently since 2024.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and configuration requirements.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable output.",
+        "Architected and deployed a complete marketing-automation system, 20+ workflows spanning lead capture/tagging/routing, lead qualification, appointment booking, onboarding nurture, and review generation.",
+        "Built segmented outreach engines plus an automated prospect \"audit\" workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized, research-driven outreach.",
+        "Design self-improving loops and evaluation frameworks to monitor AI agent outputs and continuously optimize conversion rates."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.",
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives.",
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation & Onboarding",
+      "items": [
+        "Kickoff-to-Launch Onboarding",
+        "Customer Workflow Configuration",
+        "Playbook & Template Development",
+        "Time-to-Value Acceleration"
+      ]
+    },
+    {
+      "category": "AI Product Fluency",
+      "items": [
+        "Agentic AI / LLM Workflows",
+        "AI Tool Adoption & Configuration",
+        "Personalized Outreach Engine Design",
+        "Rapid Prototyping"
+      ]
+    },
+    {
+      "category": "Customer & Cross-Functional Coordination",
+      "items": [
+        "Customer Discovery",
+        "Cross-Functional Partnership (Product, Engineering)",
+        "Training & Adoption Enablement"
+      ]
+    },
+    {
+      "category": "CRM & Systems",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel, Accelo (CRM/PSA)",
+        "Data Hygiene & Segmentation"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

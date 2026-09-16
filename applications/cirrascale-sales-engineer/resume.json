@@ -1,0 +1,121 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Sales Engineer (Technical Pre-Sales) | Solutions Consulting, CRM Architecture & Applied AI Systems",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical pre-sales and solutions professional with 15+ years translating complex software capabilities into business value for customers, including two years selling and scoping a CRM/PSA platform itself at Accelo and building sequenced implementation plans with cross-functional delivery teams. Hands-on with applied AI systems: designs, builds, and evaluates autonomous LLM-driven workflows and agent architectures for B2B clients at Solenzo, translating loosely-formed business requirements into working technical configurations. Comfortable running discovery, presenting solutions, and coordinating across Sales, Product, and Engineering to move opportunities forward.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable technical output.",
+        "Architect and deploy autonomous, AI-driven marketing systems for service-based businesses, automating lead enrichment, outreach, and appointment booking.",
+        "Break down manual workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface goals, objectives, and technical requirements.",
+        "Build reusable agent infrastructure and internal tooling integrating with client CRMs and CMS platforms for 24/7 automated systems."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations for internal and client teams."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Sold and onboarded partners on Birdeye's proprietary data-aggregator/listings-syndication solution, the backbone of the channel offer.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical Pre-Sales & Solutions Consulting",
+      "items": [
+        "Technical Discovery & Requirements Gathering",
+        "Solution Positioning & Presentations",
+        "Workflow & Systems Scoping",
+        "API Integration Guidance"
+      ]
+    },
+    {
+      "category": "Applied AI & Systems Building",
+      "items": [
+        "Agentic AI / LLM Workflows",
+        "Prompt & Agent Design",
+        "Requirements-to-Technical-Configuration Translation",
+        "Rapid Prototyping"
+      ]
+    },
+    {
+      "category": "CRM & Sales Tools",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel, Accelo (CRM/PSA)",
+        "Pipeline & Contact Data Management"
+      ]
+    },
+    {
+      "category": "Cross-Functional Coordination",
+      "items": [
+        "Sales, Product & Engineering Liaison",
+        "Customer Success Handoff",
+        "Stakeholder Communication"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 16, 2026",
+  "company": "Movable Ink",
+  "role": "Solutions Architect",
+  "recipient": "Hiring Team",
+  "body": [
+    "Movable Ink's pitch, content personalization and AI decisioning that makes email and mobile programs feel individually built, sits squarely in territory I already work in. At Solenzo, I built a digital-footprint scoring engine that personalizes outreach off real signal instead of a static list, on a site I built directly in HTML/CSS, and a full automation system spanning lead capture through close. I've spent 15 years on the technical-implementation side of marketing technology: selling and scoping a CRM/PSA platform itself at Accelo, guiding client onboarding and API integrations as a trusted technical advisor, and translating business intent into working technical configuration.",
+    "My ESP experience spans Marketo and Mailchimp, and I work directly in HTML/CSS implementing GA4 tracking on client sites, real, hands-on technical work, not just campaign strategy from the outside. I want to be direct about where my background doesn't line up cleanly: I haven't worked inside the specific enterprise ESPs this role names, like Salesforce Marketing Cloud, Braze, or Iterable, and I don't have JavaScript or cloud data warehousing experience. What I do bring is a track record of picking up complex SaaS platforms fast, at Wix I onboarded and launched 25+ clients a month while holding 120% of sales and 110% of implementation targets, and the same pattern of translating ambiguous business requirements into precise technical configuration that this role calls acting as a universal translator.",
+    "I'd welcome the chance to talk through where that maps to what Movable Ink needs and where I'd need to build depth. I'm available at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Sincerely,"
+}

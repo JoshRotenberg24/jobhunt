@@ -50,6 +50,24 @@
 > re-ask; the badge is technically obtainable if Josh chooses to apply for one, but he
 > does not hold one today.
 
+## Compensation Expectations (baseline, confirmed by Josh, Sep 2026)
+
+Standing anchor for application salary-expectation questions, so this doesn't get
+re-litigated from scratch every time. Scale it by role level and real market data per
+application; don't just restate the anchor blindly for a role well above or below this
+band.
+
+- **Associate / entry-to-mid IC support roles** (e.g., deal desk associate, coordinator-
+  level titles, 2-4 years' stated requirement): target **$72,000-$78,000 base**, anchor
+  point **$75,000**. Use the same figure for "OTE" unless the posting shows a genuine
+  commission/bonus/variable structure — most support/ops-titled roles don't carry one,
+  and the field is often reused boilerplate across sales and non-sales reqs.
+- Set during the Jama Software Associate Deal Desk Analyst application (Sep 2026),
+  anchored against comparable posted ranges (CerebriOS Sales Operations Coordinator,
+  $55K-$72K) rather than inflated national averages skewed by large enterprise data.
+- **Does not apply directly** to senior IC, team-lead, strategic, or founder-scope roles —
+  those need their own market-data pull and a real number from Josh, not this baseline.
+
 ## Education & Certifications
 
 - **B.A. Liberal Arts, Minor in Political Science** — Colorado State University, Fort Collins, CO
@@ -102,6 +120,13 @@
   letters and interviews at the general level (condition, procedure count, duration,
   what he fought for) without naming the specific body part/diagnosis unless Josh wants
   that level of detail in a given application; that's his call per document, not a default.
+- **Private internal note (confirmed by Josh, Sep 2026, NOT resume/cover-letter/application
+  content under any circumstances unless Josh explicitly opts in for a specific document):**
+  Josh has taken long periods off from Solenzo for surgery/recovery tied to the condition
+  above. This is why Solenzo monthly lead-volume and output metrics aren't reliably
+  capturable as a standing number, treat that as a real constraint on the data, not a gap
+  to keep re-asking about. Useful for Claude's own calibration when reading Solenzo's
+  scale; never volunteer it externally.
 
 ---
 
@@ -219,6 +244,33 @@ operator talking, not like a candidate performing.
 - Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.
 
 **Marketing & Growth Systems**
+> **Automation platform breadth beyond GoHighLevel (confirmed by Josh, Sep 2026):** Josh
+> builds automations in Zapier, Make, and n8n at Solenzo, in addition to native
+> GoHighLevel workflows, not siloed to one platform. He has built Zapier automations
+> specifically since Accelo (2018-2020), meaning hands-on automation-building predates
+> Solenzo by several years rather than being a recent skill. Use the specific platform
+> when a JD names one (e.g. "Zapier" or "Make" or "n8n" or "comparable AI workflow
+> automation tools").
+>
+> **Salesloft, ZoomInfo, and Gong (confirmed by Josh, Sep 2026):** Josh has hands-on
+> experience with all three. Exact employer/role attribution for each not yet captured,
+> ask Josh which role(s) before writing a role-specific bullet naming one of them; safe
+> to use in a role-agnostic competencies/tools list today.
+>
+> **Email service providers — Marketo and Mailchimp (confirmed by Josh, Sep 2026):** Josh
+> has hands-on ESP/marketing-automation-platform experience with Marketo (enterprise-tier,
+> comparable to Adobe Campaign/Journey Optimizer) and Mailchimp (SMB/mid-market tier).
+> Exact employer/role attribution not yet captured, ask before writing a role-specific
+> bullet. When a JD asks specifically for a different named enterprise ESP (Salesforce
+> Marketing Cloud, Braze, Iterable, Oracle Responsys, etc.), Marketo/Mailchimp are
+> genuine adjacent ESP-category experience, not a substitute for hands-on time in that
+> specific platform, keep that distinction honest.
+>
+> **HTML/CSS (confirmed by Josh, Sep 2026):** Josh's own Solenzo site is built directly
+> in HTML/CSS (not a no-code builder), and he works in HTML/CSS when implementing GA4
+> tracking on client sites. This is real, defensible hands-on HTML/CSS experience.
+> JavaScript and formal "data architectures" experience are NOT confirmed, do not claim
+> either without a separate confirmation.
 - Claim, set up, and optimize Google Business Profile listings (categories, descriptions, services, photos, posts) as the first deliverable in every client engagement, the foundation the rest of each client's local SEO and lead-flow program builds on.
 - Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.
 - Architect and deploy autonomous, AI-driven marketing systems for service-based businesses — largely on GoHighLevel — automating lead enrichment, outreach, and appointment booking.
@@ -306,6 +358,9 @@ operator talking, not like a candidate performing.
 - Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives. *(Corroborated by direct manager's written LinkedIn recommendation — see References.)*
 
 ### Accelo — Account Executive (Apr 2018 – Jul 2020)
+> **Zapier automation (confirmed by Josh, Sep 2026):** Josh built Zapier automations at
+> Accelo, making his hands-on automation-building history run from at least 2018-2020
+> through the present at Solenzo, not a skill that started recently.
 - Ranked **top three in sales on a team of 8 to 15 reps** for effectively the full tenure (all but the final few months), holding that ranking while **quota roughly doubled** over the period.
 - Closed deals of **$20K and larger** later in tenure, mixed with a base of smaller wins.
 - Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.
@@ -357,14 +412,23 @@ operator talking, not like a candidate performing.
 
 ## Core Competencies Bank (mix & match to the job)
 
+> **Forecasting / pipeline-stage awareness (confirmed by Josh, Sep 2026):** knowing where
+> an opportunity sits in the sales process has been part of every sales role Josh has
+> held, not a skill isolated to one job. Frame as career-long individual-contributor
+> pipeline visibility and forecast hygiene; he has not run a formal team forecast cadence
+> or owned a territory-planning process, keep that distinction honest against a JD asking
+> specifically for that broader scope.
+
 | Category | Competencies |
 | :--- | :--- |
-| CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing |
-| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing, Landing Pages |
+| CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing, Zapier, Make, n8n |
+| Sales Engagement & Enrichment | Salesloft, ZoomInfo, Gong (confirmed hands-on, Sep 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
+| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
+| Web Technical | HTML/CSS (hands-on, own Solenzo site + client GA4 implementation) |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
-| Sales & Account Management | Full-cycle Sales, Pipeline Management, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
+| Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
 | Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
@@ -388,6 +452,7 @@ operator talking, not like a candidate performing.
 - **2 years as team lead at Wix, managing a team of 20 and later a team of 8** onboarding specialists (confirmed by Josh, Aug 2026)
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
 - **Free digital-footprint audit offer (Solenzo), promoted via LinkedIn organic growth: 180+ businesses enrolled, 2 converted to paying clients** (~1.1% audit-to-client conversion) — confirmed by Josh, Aug 2026. This is Josh's own product-marketing / PLG-style motion: a free offer as top-of-funnel, distributed through his own LinkedIn growth, converting a share of free users to paid. Track record still early; do not overstate the conversion rate, state it plainly.
+- **Up to 3 concurrent clients at Solenzo** at peak, while personally building the outbound automation system and running outbound himself (confirmed by Josh, Sep 2026). This is a solo-founder scale number, real and specific, not a large book, state it plainly rather than rounding up. Monthly lead volume at Solenzo is not reliably capturable as a metric (see private note below) — do not estimate one.
 
 > If a job calls for a metric not in this list, do NOT manufacture one. Use a
 > qualitative achievement instead, or flag it for Josh to supply a real number.
@@ -402,10 +467,10 @@ isolation. When a number gets captured, move it up into **Verified Quantified Me
 with its scope and delete the line here.
 
 **Highest leverage (recurs across role types):**
-- **Concurrent workload.** How many accounts, clients, or implementations he ran at the
-  same time — at Solenzo and Birdeye. Wix is now covered (25+/month, see Verified
-  Metrics). Nearly every ops, CS, and implementation JD asks about managing multiple
-  projects, so the remaining two are still worth capturing.
+- **Concurrent workload at Birdeye.** How many partner accounts he actively managed at
+  once (distinct from the 15-20 total onboarded/managed over the full tenure). Wix is
+  covered (25+/month) and Solenzo is covered (up to 3 concurrent clients), see Verified
+  Metrics. Birdeye is the remaining gap.
 - **Time-to-launch / time-to-value.** Typical onboarding duration at Wix and Birdeye,
   and whether it improved during his tenure (from what, to what).
 - **Wix hiring/training counts.** Team size and duration are now captured (2 years, 20 then
@@ -416,7 +481,8 @@ with its scope and delete the line here.
   what tool he cleaned it in. Directly requested by implementation JDs (Excel is named
   explicitly in several) and currently unevidenced.
 - **Training delivery.** Number of sessions run and people trained, at Wix and Birdeye.
-- **Solenzo portfolio size.** How many clients, and typical retainer range.
+- **Solenzo retainer range.** Concurrent client count is now captured (up to 3, see Verified
+  Metrics); typical retainer/contract value per client is still unrecorded.
 - **Level Agency accounts.** Portfolio size and spend under management.
 - **Accelo implementation scope.** Typical implementation size in seats or hours.
 

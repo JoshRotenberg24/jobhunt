@@ -1,0 +1,124 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Solutions Architect | Technical Implementation, Marketing Automation & AI-Driven Personalization",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical implementation and marketing-technology consultant with 15+ years scoping, configuring, and launching complex SaaS solutions for B2B clients, including two years selling and scoping a CRM/PSA platform itself at Accelo and guiding API integrations as a trusted technical advisor. Personally designs, builds, and evaluates AI-driven personalization systems at Solenzo, architecting a digital-footprint scoring engine and a full lead-to-close automation stack, on a site I built directly in HTML/CSS. Hands-on ESP experience spans Marketo and Mailchimp, and I implement GA4 tracking directly in HTML/CSS on client sites. Comfortable translating marketing strategy into technical configuration and training clients through onboarding, evidenced by launching 25+ clients per month at Wix while holding 120% of sales and 110% of implementation targets.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable technical output.",
+        "Architected and deployed a complete marketing-automation system, 20+ workflows spanning lead capture, tagging, and routing, lead qualification, appointment booking, and review-generation sequences.",
+        "Built segmented outreach engines plus an automated prospect \"audit\" workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized, data-driven outreach.",
+        "Design self-improving loops and evaluation frameworks to monitor AI agent outputs and continuously optimize conversion rates.",
+        "Identify and implement schema/structured data as part of technical audits, working directly in HTML/CSS, and install and configure Google Tag Manager and GA4 tracking on every site built."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations for internal and client teams."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Sold and onboarded partners on Birdeye's proprietary data-aggregator/listings-syndication solution, the backbone of the channel offer.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.",
+        "Built Zapier automations to reduce manual work across the sales process, hands-on automation-building experience that predates Solenzo by several years."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical Implementation & Onboarding",
+      "items": [
+        "Client Onboarding & Migration",
+        "Solution Design & Customization",
+        "API & Workflow Integrations",
+        "Technical Troubleshooting"
+      ]
+    },
+    {
+      "category": "AI & Personalization Systems",
+      "items": [
+        "Hands-On AI Workflow Build & Deployment",
+        "Digital-Footprint Scoring & Personalization Engines",
+        "AI System Evaluation & Optimization",
+        "Zapier, Make, n8n"
+      ]
+    },
+    {
+      "category": "Marketing Technology Stack",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel, Accelo (CRM/PSA)",
+        "Email Service Providers: Marketo, Mailchimp",
+        "HTML/CSS, Google Tag Manager, GA4, Schema & Structured Data"
+      ]
+    },
+    {
+      "category": "Cross-Functional & Client Enablement",
+      "items": [
+        "Sales, Product & Engineering Liaison",
+        "Client Training & Workshops",
+        "Technical-to-Business Translation",
+        "Stakeholder Communication"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

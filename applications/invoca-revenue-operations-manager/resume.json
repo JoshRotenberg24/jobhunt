@@ -1,0 +1,126 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Revenue Operations Manager | AI-Driven GTM Automation, Salesforce & Pipeline Process Design",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Revenue operations professional with 15+ years building the pipeline, lead-routing, and reporting infrastructure that keeps B2B SaaS GTM engines running, with hands-on experience across Salesforce, Salesloft, ZoomInfo, and Gong, plus Zapier, Make, and n8n automation-building dating back to Accelo in 2018. Personally designs, builds, and deploys AI-driven workflows at Solenzo, not just directs others to, including a full lead capture-to-close automation system and a digital-footprint scoring engine that enrolled 180+ contacts. Comfortable owning day-to-day operational fundamentals while designing scalable processes that hold up as an organization grows, evidenced by driving a brand-new Wix vertical from proof of concept to a profitable business line.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel marketing-automation system, 20+ workflows spanning lead capture, tagging, and routing, lead qualification, appointment booking, no-show recovery, onboarding nurture, and review-generation sequences.",
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Built segmented outreach engines plus an automated prospect \"audit\" workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized outreach.",
+        "Design self-improving loops and evaluation frameworks to monitor AI agent outputs and continuously optimize conversion rates.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership.",
+        "Build reusable agent infrastructure and internal tooling in Make and n8n, integrating with client CRMs and CMS platforms for automated growth engines.",
+        "Run up to 3 concurrent client engagements at a time while personally building and operating the outbound automation system, from strategy through hands-on execution."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, pipeline automation, and forecast-stage tracking.",
+        "Built Zapier automations to reduce manual work across the sales process, hands-on automation-building experience that predates Solenzo by several years.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Revenue Operations & Pipeline",
+      "items": [
+        "Pipeline Management & Reporting",
+        "Lead Routing & Account Assignment",
+        "Data Hygiene & CRM Governance",
+        "KPI & QBR Reporting"
+      ]
+    },
+    {
+      "category": "AI & Workflow Automation",
+      "items": [
+        "Hands-On AI Workflow Build & Deployment (Agentic AI / LLM)",
+        "Zapier, Make, n8n",
+        "Digital-Footprint Scoring & Personalization Engines",
+        "Rapid Prototyping & Testing"
+      ]
+    },
+    {
+      "category": "GTM Systems",
+      "items": [
+        "Salesforce, Salesloft, ZoomInfo, Gong",
+        "HubSpot, GoHighLevel, Accelo (CRM/PSA)",
+        "Contact Segmentation & Lifecycle Stages"
+      ]
+    },
+    {
+      "category": "Cross-Functional Partnership",
+      "items": [
+        "Sales & Systems Team Collaboration",
+        "Process Governance",
+        "Scalable Process Design",
+        "Stakeholder Communication"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

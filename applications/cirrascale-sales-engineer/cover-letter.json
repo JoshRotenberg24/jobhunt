@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 16, 2026",
+  "company": "Cirrascale Cloud Services",
+  "role": "Sales Engineer",
+  "recipient": "Hiring Team",
+  "body": [
+    "Cirrascale's pitch is white-glove GPU infrastructure for teams who don't want to become infrastructure experts themselves, which means someone has to take what a research lab or AI startup actually needs and turn it into a workable, priced solution. That translation work, moving between technical reality and business language, is what I've spent 15 years doing, most directly at Accelo, where I sold and scoped the company's own CRM/PSA platform and guided clients through API integrations and workflow design as a technical trusted advisor to their C-suite.",
+    "I want to be upfront that I'm not coming in with a systems-administration or networking background. What I do bring is real, hands-on AI systems work: at Solenzo I design and build agent architectures and LLM-driven workflows myself, translating client requirements directly into working prompts and automation logic, the same business-to-technical bridge this role is built around, applied to a different layer of the stack. I've also spent a career running discovery calls, presenting technical solutions, and coordinating across Sales, Product, and Engineering (at Birdeye) to keep customer requirements accurate through handoff.",
+    "I'd welcome a conversation about where my technical pre-sales experience and applied AI background map to what Cirrascale needs, and where I'd need to ramp on the infrastructure side. I'm available at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Sincerely,"
+}
