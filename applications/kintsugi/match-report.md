@@ -5,6 +5,7 @@
 **Location:** Remote (United States)
 **Salary range posted:** $60,000–$90,000
 **Date:** 2026-09-16
+**Status:** Submitted (Josh confirmed, 2026-09-16)
 
 ## Application-Form and Eligibility Check
 

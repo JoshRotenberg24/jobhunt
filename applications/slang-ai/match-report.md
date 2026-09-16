@@ -5,6 +5,7 @@
 **Location:** Remote, mandatory West Coast hours
 **Compensation:** $86,000 base + equity (stated, location-benchmarked)
 **Date:** 2026-09-16
+**Status:** Submitted (Josh confirmed, 2026-09-16)
 
 ## Application-Form and Eligibility Check
 

@@ -5,6 +5,7 @@
 **Location:** Remote, must accommodate US East Coast working hours
 **Salary range posted:** Not stated
 **Date:** 2026-09-16
+**Status:** Submitted (Josh confirmed, 2026-09-16)
 
 ## Application-Form and Eligibility Check
 

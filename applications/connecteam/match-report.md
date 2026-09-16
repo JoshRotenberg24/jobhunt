@@ -5,6 +5,7 @@
 **Location:** Remote — accepting TX, NY, SC, NC, CO, FL, UT, GA
 **Salary range posted:** $70,000–$90,000
 **Date:** 2026-09-16
+**Status:** Submitted (Josh confirmed, 2026-09-16)
 
 ## Application-Form and Eligibility Check
 

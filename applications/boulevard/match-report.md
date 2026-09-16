@@ -5,6 +5,7 @@
 **Location:** USA, fully remote ("choose where you want to work," monthly WFH stipend)
 **Compensation:** Not stated in posting
 **Date:** 2026-09-16
+**Status:** Submitted (Josh confirmed, 2026-09-16)
 
 ## Application-Form and Eligibility Check
 
