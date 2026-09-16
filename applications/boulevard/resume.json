@@ -1,0 +1,103 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Onboarding Manager | Team Leadership & High-Volume SMB Onboarding at Scale",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Onboarding leader with 15+ years in B2B SaaS, including 2 years directly managing and developing a team of onboarding specialists at Wix (a team of 20, later 8), personally onboarding 25+ SMB clients per month while holding 120% of sales and 110% of implementation targets. Builds the CRM data-hygiene standards and reporting infrastructure a high-volume onboarding team runs on, at Solenzo today. Comfortable holding a team accountable to velocity and quality standards while coaching them to a consistent, well-executed onboarding experience.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, contact segmentation, lifecycle stages, and strict data-hygiene protocols, the operational backbone a high-volume onboarding team runs on.",
+        "Identify strategic opportunities to expand retainer scope, tracking usage and engagement data to flag at-risk accounts early and build a recovery plan.",
+        "Architected and deployed a complete GoHighLevel automation system, 20+ workflows spanning lead capture, qualification, booking, and post-sale onboarding nurture, eliminating manual backlog drag in the process.",
+        "Document every client interaction, timeline, and deliverable across GoHighLevel, HubSpot, and Notion, maintaining data hygiene and reporting integrity across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments as strategic lead, translating client goals into aligned delivery plans across teams."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K, spanning health, home services, and retail), retaining all but one (~94% retention) during tenure.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and root causes, recommending interventions that reduced churn.",
+        "Advised partners on retention strategy and customer health metrics, escalating at-risk accounts with a defined path back on track.",
+        "Collaborated with Product and Engineering to translate structured partner feedback into roadmap input."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Took on team lead responsibilities for the sales team alongside individual account work, building internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), running structured coaching and performance development across a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month personally, holding 120% of sales targets and 110% of implementation targets, while the team delivered at the same standard at scale.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture and reporting integrity across the team.",
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives.",
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps while quota roughly doubled, sustaining performance under rising targets.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, then handed off to the implementation team to execute."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Team Leadership",
+      "items": ["Team Management (8-20 Direct Reports)", "Coaching & Performance Development", "Hiring, Onboarding & Training", "1:1s & Performance Reviews"]
+    },
+    {
+      "category": "Onboarding & Implementation",
+      "items": ["High-Volume SMB Onboarding", "Activation Velocity", "Time-to-Value Acceleration", "Portfolio Management"]
+    },
+    {
+      "category": "Risk & Escalation",
+      "items": ["At-Risk Account Identification", "Root-Cause Analysis", "Executive Escalation"]
+    },
+    {
+      "category": "CRM & Data",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Data Hygiene & Reporting Integrity", "Workflow Automation"]
+    },
+    {
+      "category": "Cross-Functional Partnership",
+      "items": ["Sales-to-CS Handoffs", "Product/Engineering Feedback Loops", "RevOps Collaboration"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google/Coursera", "Meta Ads Certification — Meta"]
+}
