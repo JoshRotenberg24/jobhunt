@@ -60,11 +60,21 @@ No failed hard eligibility criteria found. No cap applied.
 
 ## Candidate Confirmation Needed
 
-Both prior open items are resolved: the Salesforce A/B-testing advisory work is now attributed to Wix and appears as a role-specific bullet, and Josh confirmed he's comfortable with the 3+ days/week in-office cadence. Nothing outstanding.
+Checkr's own applicant-side resume reviewer (their "Resume Review" tool) surfaced three items this session:
+
+1. **Level Agency / Solenzo overlap labeling.** Level Agency (Sep 2024 - Feb 2025) overlaps with the ongoing Solenzo founder role. The ordering (Solenzo on top) is settled policy and not being revisited, but whether to explicitly label Level Agency as a concurrent/contract engagement is a new, separate question — was it a contract or part-time arrangement alongside Solenzo, or a separate full-time role? Confirm before I add a "(Contract)" label or concurrent-engagement note, since that's a factual claim I can't assume.
+2. **Graduation year.** Not in `master-profile.md`. The reviewer flagged its absence as leaving career stage/gaps unclear to a recruiter. Send the year and I'll add it to the profile and every resume going forward.
+3. **A real outcome number behind the Solenzo dashboards bullet**, if one exists (e.g., how many client decisions the dashboards informed, or a known percentage change in CAC/cycle time). Left qualitative for now rather than inventing a figure — the reviewer's suggested placeholder numbers were not used.
+
+## Fixes Applied From Checkr's Resume Reviewer
+
+- **Accelo sales-rank bullet tightened** using facts already on file: rephrased to "ranked top three... on a team that scaled from 8 to 15 reps... across all but the final few months of a 27-month tenure" (27 months = Apr 2018 - Jul 2020, already a known date range) — removes the vague "effectively" hedge without inventing a new number. Also updated in `master-profile.md`'s Accelo bullet bank so this improvement carries into future resumes.
+- **Solenzo dashboards bullet** reframed to state the decision it enabled ("giving client stakeholders the data to decide which workflows to scale next") rather than adding a fabricated percentage, per the reviewer's flag that the original left business value invisible.
+- **Declined to invent metrics** for either bullet where the reviewer's suggested fix required a number not in the profile — see Candidate Confirmation above instead.
 
 ## Metrics Needed
 
-None new beyond what's already tracked in `master-profile.md`.
+- A real outcome metric for the Solenzo performance-dashboards bullet (see above).
 
 ## Referral
 

@@ -465,7 +465,7 @@ operator talking, not like a candidate performing.
 > **Zapier automation (confirmed by Josh, Sep 2026):** Josh built Zapier automations at
 > Accelo, making his hands-on automation-building history run from at least 2018-2020
 > through the present at Solenzo, not a skill that started recently.
-- Ranked **top three in sales on a team of 8 to 15 reps** for effectively the full tenure (all but the final few months), holding that ranking while **quota roughly doubled** over the period.
+- Ranked **top three in sales** on a team that scaled from **8 to 15 reps**, holding that rank across all but the final few months of a **27-month tenure** (Apr 2018 - Jul 2020), while **quota roughly doubled** over the period.
 - Closed deals of **$20K and larger** later in tenure, mixed with a base of smaller wins.
 - Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
