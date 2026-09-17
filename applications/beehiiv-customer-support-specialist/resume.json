@@ -1,0 +1,101 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Support Specialist | Technical Troubleshooting, AI-Built Workflows & Documentation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer-facing SaaS professional with 15+ years owning technical onboarding, troubleshooting, and support across CRM and marketing-automation platforms. Built and shipped AI-driven workflows that replaced manual, repetitive work, from a rubric-graded AI output pipeline to 20+ production automations, and personally writes and publishes newsletter content for a B2B audience. Comfortable owning escalations independently, documenting the fix so it doesn't recur, and building the reusable asset that saves the next person the same work.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel marketing-automation system, 20+ production workflows spanning lead capture, qualification, booking, no-show recovery, onboarding, and lifecycle nurture, reusable assets the whole engagement runs on, not one-off fixes.",
+        "Configure and evaluate AI-generated output for client automation systems, building rubric-based grading criteria and personally labeling data to hold quality to a defined standard before it reaches a live account.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, working diligently to unblock clients on complex SaaS platforms and resolve technical issues in GoHighLevel and HubSpot CRM configurations.",
+        "Write and publish newsletter and thought-leadership content on systems architecture, CRM optimization, and operational growth for a B2B audience.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping process records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing-automation tools, resolving issues directly rather than escalating them.",
+        "Onboarded and managed 15-20 reseller partners, retaining all but one (~94% retention) during tenure through proactive account health tracking.",
+        "Collaborated with Product and Engineering to escalate structured, high-priority customer feedback informing the roadmap, acting as the customer's advocate cross-functionally.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction and cut repeat support questions."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, each a minimum $25K ARR account, while holding 120% of sales targets and 110% of implementation targets.",
+        "Guided clients through Google Tag Manager setup and technical configuration as part of every launch.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, guiding onboarding, workflow design, and API integrations directly with the teams implementing them.",
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Support & Technical Troubleshooting",
+      "items": ["Technical Onboarding & Setup", "Escalation Ownership", "Zendesk", "API/Integration Troubleshooting", "Documentation & SOPs"]
+    },
+    {
+      "category": "AI & Automation (Built, Not Just Used)",
+      "items": ["Agentic AI Workflows", "Prompt Design & Rubric Grading", "ChatGPT", "Claude", "Gemini", "Manus", "Workflow Automation (Zapier, Make, n8n)"]
+    },
+    {
+      "category": "Customer Relationship Management",
+      "items": ["Account Health Tracking", "Retention", "Onboarding Strategy", "Cross-Functional Advocacy (Product/Engineering)"]
+    },
+    {
+      "category": "CRM & Systems",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Workflow Architecture", "Data Hygiene"]
+    },
+    {
+      "category": "Content",
+      "items": ["Newsletter Writing", "Thought Leadership", "Technical Translation for Non-Technical Stakeholders"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)",
+    "Meta Ads Certification — Meta"
+  ]
+}
