@@ -1,0 +1,102 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Success Manager | Account Retention, Expansion & AI-Driven Execution",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client Success and Account Management professional with 15+ years owning strategic B2B relationships from deployment through renewal and expansion. Built a reseller partner book to ~94% retention through disciplined account health tracking and proactive risk management, and carries direct financial-services exposure from managing a banking-industry client and pursuing a major banking prospect to finalist stage. Runs an AI-driven business today (Solenzo), using AI tools by default to move faster on account strategy, reporting, and client communication, the same instinct this role asks for.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals and challenges, then developing a tailored strategy against them.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with each client's growth goals.",
+        "Run day-to-day delivery for B2B clients end to end, from deployment through ongoing optimization, managing operational needs and driving them to their goals on complex SaaS platforms.",
+        "Architect and deploy autonomous, AI-driven marketing systems for clients, treating AI as the default way to move faster on strategy, reporting, and outreach rather than a separate initiative.",
+        "Build performance dashboards tracking funnel progression, campaign ROI, and pipeline velocity, delivering insights and market-informed recommendations to clients acting as executive leadership."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments for each account.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs that kept clients current on their own performance and market position.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention — Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy and customer-health metrics, equipping them to communicate product value and proactively resolve issues before they became churn risk.",
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation-management solutions.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and direct interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Served a banking-industry client and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage in that deal.",
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K), roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month while holding 120% of sales targets and 110% of implementation targets.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive communication on client goals and initiatives.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Success & Retention",
+      "items": ["Account Health Tracking", "Renewal & Expansion", "Churn Prevention", "Onboarding & Deployment", "QBRs"]
+    },
+    {
+      "category": "Financial Services Exposure",
+      "items": ["Banking-Client Account Management", "Financial-Sector Prospect Development", "Regulated-Industry Account Ownership"]
+    },
+    {
+      "category": "Revenue & Reporting",
+      "items": ["ROI/CAC/LTV Reporting", "Pipeline Velocity", "Performance Dashboards", "Cross-Functional Coordination (Product/Marketing)"]
+    },
+    {
+      "category": "CRM & Systems",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Data Hygiene"]
+    },
+    {
+      "category": "AI & Automation",
+      "items": ["Agentic AI Workflows", "ChatGPT", "Claude", "Prompt Design", "Rapid Prototyping"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)",
+    "Meta Ads Certification — Meta"
+  ]
+}
