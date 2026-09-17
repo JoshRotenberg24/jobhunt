@@ -1,0 +1,119 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Onboarding Manager | Complex SaaS Implementation, Consultative Discovery & AI-Powered Platforms",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Onboarding and implementation professional with 15+ years leading complex, multi-stakeholder SaaS deployments from discovery through go-live. Built sequenced implementation plans and API integrations at Accelo, advising C-suite stakeholders as a trusted advisor, and onboarded 15-20 partners at Birdeye with 94% retention through hands-on technical configuration. Direct financial-services experience: served a banking client and helped pursue a major banking prospect to finalist stage at Fetch & Funnel. Builds and deploys AI-powered agent systems daily at Solenzo, the same technology core to Eltropy's platform.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own onboarding and technical configuration for a portfolio of B2B clients, running discovery to translate business goals into a working CRM and automation setup.",
+        "Architect and deploy AI-powered agent systems, translating client business intent into structured prompts and automation logic, the same AI-driven approach behind Eltropy's Voice and Digital Agents.",
+        "Architected and deployed a complete GoHighLevel automation system, 20+ workflows spanning lead capture, booking, and post-sale onboarding nurture.",
+        "Deliver hands-on training and configuration support, troubleshooting issues directly with clients in real time."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94% retention), guiding each through complex technical setup and configuration.",
+        "Collaborated with Product and Engineering to resolve technical challenges and translate partner feedback into roadmap input."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Served a banking-industry client and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage in that deal.",
+        "Ran client accounts end to end, covering campaign execution, performance reporting, and cross-team communication.",
+        "Built and refined internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), running structured training across a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led hands-on training and digital growth consultations, guiding clients through setup and configuration."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Led post-sale discovery and built sequenced implementation plans for incoming clients, ranking which systems to change and in what order based on business priority.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-suite executives as a trusted advisor on operational system design.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Onboarding & Implementation",
+      "items": [
+        "Consultative Discovery",
+        "Solution Design",
+        "Multi-Stakeholder Deployment",
+        "Complex SaaS Implementation"
+      ]
+    },
+    {
+      "category": "Technical Configuration",
+      "items": [
+        "API Integrations",
+        "CRM/Automation Configuration",
+        "Real-Time Troubleshooting"
+      ]
+    },
+    {
+      "category": "AI & Platform Expertise",
+      "items": [
+        "Agentic AI",
+        "LLM Workflows",
+        "AI Agent Design",
+        "Prompt Design"
+      ]
+    },
+    {
+      "category": "Relationship & Advisory",
+      "items": [
+        "C-Suite Relationship Building",
+        "Strategic Advisory",
+        "Customer Training & Enablement"
+      ]
+    },
+    {
+      "category": "Industry Experience",
+      "items": [
+        "Financial Services (Banking Client & Major Prospect Pursuit)",
+        "SaaS/MarTech"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google/Coursera",
+    "Meta Ads Certification — Meta"
+  ]
+}
