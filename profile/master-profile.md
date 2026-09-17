@@ -50,6 +50,19 @@
 > re-ask; the badge is technically obtainable if Josh chooses to apply for one, but he
 > does not hold one today.
 
+> **Target role shape (confirmed by Josh, Sep 2026):** prefers onboarding, implementation,
+> and account-management roles where he inherits an already-existing client/partner
+> relationship and works to deepen, retain, or expand it, over roles centered on
+> initiating new relationships from scratch (net-new business development, cold
+> partner/customer recruitment, hunting-style sales). Not a knockout, no automatic skip
+> for a hunting-flavored title, but a real signal for the "apply only if excited" call on
+> a borderline or long-shot-band score, and worth naming explicitly in a cover letter or
+> interview when a role's actual day-to-day is warm account management even if the title
+> reads sales-flavored. When scoring, weight "inherits an existing relationship" roles
+> (CS, AM, onboarding, implementation, partner success over an established book) as a
+> genuine personal-fit differentiator, distinct from the Application Priority Score's
+> own dimensions.
+
 ## Compensation Expectations (baseline, confirmed by Josh, Sep 2026)
 
 Standing anchor for application salary-expectation questions, so this doesn't get
