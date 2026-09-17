@@ -110,6 +110,16 @@ band.
   employers, answer from the recreation side only and say plainly that the hunting and
   angling background isn't there. Do not re-ask; do not stretch this.
 
+## Personal interest in financial services / banking (confirmed Sep 2026)
+
+- Josh has confirmed a genuine personal interest in banking and financial services,
+  specifically the idea of helping individual people and businesses make ownership and
+  purchase processes easier, so they don't have to worry about the transactional details
+  to do what they need to do in their life. Real personal interest, not a positioning
+  angle. Usable as an honest "why this space" note for fintech/banking-adjacent postings
+  (e.g., Eltropy) alongside the Fetch & Funnel banking-client experience above, kept
+  explicitly distinct from it: this is personal motivation, that is professional evidence.
+
 ## Personal commitment to immigrant and refugee communities (confirmed Sep 2026)
 
 - Josh has confirmed a full, genuine personal commitment to helping immigrant and refugee
@@ -385,7 +395,17 @@ operator talking, not like a candidate performing.
 > **Home-services clients (confirmed by Josh, Sep 2026):** the agency's client roster included home-services businesses among its accounts, additional (if less specified) demand-side exposure to the trades, consistent with the pattern at Solenzo.
 >
 > **Sales team lead (confirmed by Josh, Sep 2026):** Josh took on team lead for the sales team at Fetch & Funnel, in addition to his individual account work. Team size and exact scope not yet captured — ask Josh if a posting needs the specifics. Usable as evidence of people-leadership experience earlier than the Wix team-lead tenure suggested; the two roles sit back-to-back (Wix team lead through Aug 2022, Fetch & Funnel team lead Sep 2022–Feb 2023), showing continuous leadership responsibility across that period rather than an isolated instance.
+>
+> **Banking-industry client and major banking prospect pursuit (confirmed Sep 2026):**
+> Fetch & Funnel had an active banking client on its roster, real, direct financial-services
+> industry client experience. Separately, Josh was part of the effort to recruit a major
+> banking client in the northeastern U.S. and the agency was a finalist at the table for
+> that deal (did not ultimately close). This is genuine, defensible financial-services
+> business-development experience, usable for fintech/banking-adjacent postings, honestly
+> framed as agency-side marketing/account work with a banking client and a near-miss on a
+> larger banking prospect, not as hands-on banking/core-systems experience itself.
 - Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.
+- Served a banking-industry client and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage in that deal.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
 - Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
