@@ -284,6 +284,15 @@ operator talking, not like a candidate performing.
 - Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.
 
 **Marketing & Growth Systems**
+> **BTU Solar — named client, Colorado solar installer (confirmed by Josh, Sep 2026):** a real,
+> named Solenzo client. GBP-first local SEO campaign following the standard Solenzo delivery
+> model (audit, GBP category/service/photo optimization, citation consistency across
+> directories, service/location page content). Separately, during the account takeover/audit,
+> Josh found the client had been running Google Ads with no GA4 installed on the site, meaning
+> ad spend was completely untracked. He installed GTM/GA4 to fix it. Exact campaign time period
+> and any quantified result (calls, leads, booked consultations) not yet supplied by Josh, do
+> not invent one, ask before a future application needs a hard number here.
+>
 > **Automation platform breadth beyond GoHighLevel (confirmed by Josh, Sep 2026):** Josh
 > builds automations in Zapier, Make, and n8n at Solenzo, in addition to native
 > GoHighLevel workflows, not siloed to one platform. He has built Zapier automations
@@ -560,6 +569,9 @@ with its scope and delete the line here.
   8). Still unrecorded: how many people he personally hired and trained.
 
 **Role-specific:**
+- **BTU Solar campaign duration and result.** How long the GBP/local SEO campaign has run and
+  any real change in calls, leads, or booked consultations since the GA4/GTM fix and GBP
+  rebuild. Used in the Rankings.io application (Sep 2026) without a hard number, flagged there.
 - **Data volume.** Records or contacts in the largest migration or import he has run, and
   what tool he cleaned it in. Directly requested by implementation JDs (Excel is named
   explicitly in several) and currently unevidenced.
