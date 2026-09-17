@@ -1,0 +1,102 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Partner Success & Customer Operations Leader",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Partner and account operations leader with 15+ years managing high-value B2B relationships across SaaS and agency environments, including onboarding and retaining a network of 15-20 reseller/channel partners at roughly 94% retention. Skilled at owning a partner or client portfolio end to end: prioritizing competing requests, resolving delivery blockers, and escalating real risk before it costs a relationship, backed by hands-on CRM and workflow-automation architecture (Salesforce, HubSpot, GoHighLevel, Accelo PSA).",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of B2B service clients, running discovery and onboarding to surface goals, priorities, and operational risk.",
+        "Run day-to-day delivery across concurrent client engagements, prioritizing competing requests and resolving delivery blockers directly with business owners and stakeholders.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.",
+        "Architect and deploy CRM and workflow-automation systems (GoHighLevel, Zapier, Make, n8n) that route, prioritize, and escalate tasks through a client's full lifecycle.",
+        "Report performance on a regular cadence with actionable insights and recommendations, backed by tracking across delivery, retention, and operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations and coordinating execution across internal departments.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.",
+        "Advised client businesses on budget planning and allocation across paid campaigns."
+      ]
+    },
+    {
+      "title": "Partner Success Manager - Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Served as primary point of contact for a network of 15-20 reseller/channel partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention) through proactive, transparent communication on project status and risk.",
+        "Sold and onboarded partners onto Birdeye's proprietary data-aggregator/listings-syndication platform, the backbone of the channel offer, ensuring every partner's end customer had a properly configured setup.",
+        "Advised partners on retention strategy and customer health metrics, evaluating partner fitness and escalating significant risk to leadership to protect renewal and utilization.",
+        "Led onboarding and training for a diverse, high-volume partner network spanning health, home services, and retail verticals, driving rapid adoption of automation and reputation-management tools.",
+        "Analyzed partner utilization and performance data to identify adoption gaps and recommend interventions that reduced churn.",
+        "Collaborated with Product and Engineering to surface structured, high-priority partner feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets against a continuous intake queue.",
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), overseeing scope and delivery timelines for a high-value client portfolio.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Implementation Strategy - Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped Accelo's own CRM/PSA (professional services automation) platform to agencies and professional-services firms, with deep fluency in pipeline, workflow, and resource-scheduling configuration.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-suite executives as a trusted advisor on operational system design.",
+        "Ranked top three in sales on a team of 8-15 reps for effectively the full tenure while quota roughly doubled over the period."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Partner & Account Operations",
+      "items": ["Partner/Channel Relationship Management", "Portfolio & Queue Prioritization", "Escalation Management", "Risk-Based Account Reviews", "Retention Strategy", "Cross-Functional Collaboration"]
+    },
+    {
+      "category": "Platforms",
+      "items": ["Accelo (CRM/PSA - sold & implemented)", "Salesforce", "HubSpot", "GoHighLevel", "Zapier", "Make", "n8n", "Notion"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["Excel", "Power BI (client report setup)", "QBR & Performance Reporting", "Utilization & Adoption Analysis", "Google Tag Manager", "GA4"]
+    },
+    {
+      "category": "Process & Delivery",
+      "items": ["Implementation Sequencing", "Onboarding Program Design", "SOP Development", "Workflow Decomposition", "Technical Troubleshooting"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
