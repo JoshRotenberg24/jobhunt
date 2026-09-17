@@ -11,9 +11,9 @@ No failed hard eligibility criteria found. No cap applied.
 
 | Item | Classification | Notes |
 | :--- | :--- | :--- |
-| Location / in-office cadence (3+ days/week) | Resume-evidenced | Arvada, CO is Denver metro — Denver is a listed hub, no relocation needed. This is more office time than most roles in this folder; confirm you're fine with 3+ days/week before applying. |
+| Location / in-office cadence (3+ days/week) | Resume-evidenced | Arvada, CO is Denver metro — Denver is a listed hub, no relocation needed. Josh confirmed he's fine with 3+ days/week in-office. |
 | 3+ years building/deploying automations or AI-powered workflows in production | Resume-evidenced | Automation-building runs from Accelo (2018) through Solenzo (2024-present) — 5+ years cumulative, though not under a dedicated "automation engineer" title until Solenzo. |
-| Salesforce + broader revenue tool stack | Resume-evidenced (partial) | Salesforce as CRM user (Birdeye, Wix, Fivestars) plus advisory input on A/B-testing strategy for a Salesforce workflow-automation effort (did not build it himself — confirmed by Josh, Sep 2026). Broader stack (HubSpot, GoHighLevel, Zapier/Make/n8n, Salesloft, ZoomInfo, Gong) is genuinely strong. Represented honestly on the resume as "CRM + workflow A/B-testing advisory," not hands-on Salesforce admin. |
+| Salesforce + broader revenue tool stack | Resume-evidenced (partial) | Salesforce as CRM user (Birdeye, Wix, Fivestars) plus advisory input on A/B-testing strategy for a Salesforce workflow-automation effort at Wix (confirmed by Josh, Sep 2026; did not build it himself — someone else implemented it). Broader stack (HubSpot, GoHighLevel, Zapier/Make/n8n, Salesloft, ZoomInfo, Gong) is genuinely strong. Now a role-specific bullet under Wix on the resume, represented honestly as advisory, not hands-on Salesforce admin. |
 | SQL / scripting language (Python or JavaScript) | Resume-evidenced | Upgraded this session: real production SQL in Power BI data modeling and BigQuery/GA4 queries, and Python/JavaScript written in Zapier/Make/n8n custom code steps. Master profile updated accordingly. |
 | Clay, Lean Data, Snowflake, Hightouch | Gap | Confirmed by Josh: no hands-on time with any of these. Not claimed anywhere on the resume or cover letter — the cover letter names this gap directly rather than hiding it. |
 | LLM/prompt engineering/agent design for revenue workflows | Resume-evidenced (strong) | This is close to a literal description of Josh's Solenzo work. |
@@ -60,8 +60,7 @@ No failed hard eligibility criteria found. No cap applied.
 
 ## Candidate Confirmation Needed
 
-- **Which employer** the Salesforce workflow A/B-testing advisory work happened at — not yet captured, so it couldn't be used as a role-specific bullet this round. If you can place it, I'll add it to the right role.
-- **Comfort with 3+ days/week in-office** — this is a firmer in-office requirement than most roles in this folder.
+Both prior open items are resolved: the Salesforce A/B-testing advisory work is now attributed to Wix and appears as a role-specific bullet, and Josh confirmed he's comfortable with the 3+ days/week in-office cadence. Nothing outstanding.
 
 ## Metrics Needed
 
@@ -75,7 +74,7 @@ No known Checkr connection on file — omitted.
 
 - Upgraded SQL from "beginner" to "working proficiency" based on confirmed real production use (Power BI data modeling, BigQuery/GA4 queries).
 - Confirmed Python and JavaScript via custom code steps in Zapier/Make/n8n — previously JavaScript was explicitly flagged "not confirmed."
-- Added a new note on Salesforce workflow A/B-testing advisory work (not hands-on building) — kept honestly distinct from Salesforce admin/development experience.
+- Added a new note on Salesforce workflow A/B-testing advisory work, attributed to Wix (Aug 2020 - Aug 2022) — kept honestly distinct from Salesforce admin/development experience, and added as a role-specific bullet under Wix in the bullet bank.
 
 ## Output Files
 

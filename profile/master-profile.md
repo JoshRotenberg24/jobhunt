@@ -334,14 +334,6 @@ operator talking, not like a candidate performing.
 > below on its own; represent it specifically as "custom code steps in automation
 > platforms" rather than implying general software-engineering-level Python/JS fluency.
 >
-> **Salesforce workflow A/B testing — advisory, not hands-on build (confirmed by Josh,
-> Sep 2026):** Josh has advised on A/B testing strategy for a Salesforce workflow-building
-> effort, but did not build the Salesforce automation himself — someone else implemented
-> it. Exact employer/role attribution not yet captured, ask before writing a role-specific
-> bullet. Represent this honestly as advisory/strategy input on Salesforce workflow
-> testing, never as hands-on Salesforce Flow/Process Builder development — that
-> distinction matters for any posting that specifically asks for Salesforce admin or
-> automation-building experience.
 - Claim, set up, and optimize Google Business Profile listings (categories, descriptions, services, photos, posts) as the first deliverable in every client engagement, the foundation the rest of each client's local SEO and lead-flow program builds on.
 - Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.
 - Architect and deploy autonomous, AI-driven marketing systems for service-based businesses — largely on GoHighLevel — automating lead enrichment, outreach, and appointment booking.
@@ -449,7 +441,16 @@ operator talking, not like a candidate performing.
 > experience, distinct from the general "diverse verticals" framing below, usable for
 > postings that specifically ask for retail-industry background. Not CPG (consumer
 > packaged goods) specifically, keep that distinction honest against a JD that names CPG.
+>
+> **Salesforce workflow A/B testing — advisory, not hands-on build (confirmed by Josh,
+> Sep 2026):** at Wix, Josh advised on A/B testing strategy for a Salesforce
+> workflow-building effort but did not build the Salesforce automation himself — someone
+> else implemented it. Genuine, attributable to this role specifically. Represent this
+> honestly as advisory/strategy input on Salesforce workflow testing, never as hands-on
+> Salesforce Flow/Process Builder development — that distinction matters for any posting
+> that specifically asks for Salesforce admin or automation-building experience.
 - Onboarded and launched **25+ clients per month**, holding **120% of sales targets and 110% of implementation targets**.
+- Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it.
 - Built and launched e-commerce websites for established retail businesses adding a bigger online storefront as a secondary revenue line alongside their physical retail locations.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
 - Directly managed and developed a team of onboarding specialists for **2 years — a team of 20, later a team of 8** — overseeing budgets, scope, and delivery for a high-value client portfolio. *(Scale and duration confirmed by Josh, Aug 2026.)*
