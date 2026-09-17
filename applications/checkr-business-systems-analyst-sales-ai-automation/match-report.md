@@ -60,11 +60,11 @@ No failed hard eligibility criteria found. No cap applied.
 
 ## Candidate Confirmation Needed
 
-Checkr's own applicant-side resume reviewer (their "Resume Review" tool) surfaced three items this session:
+Checkr's own applicant-side resume reviewer (their "Resume Review" tool) surfaced three items this session. Two are now resolved:
 
-1. **Level Agency / Solenzo overlap labeling.** Level Agency (Sep 2024 - Feb 2025) overlaps with the ongoing Solenzo founder role. The ordering (Solenzo on top) is settled policy and not being revisited, but whether to explicitly label Level Agency as a concurrent/contract engagement is a new, separate question — was it a contract or part-time arrangement alongside Solenzo, or a separate full-time role? Confirm before I add a "(Contract)" label or concurrent-engagement note, since that's a factual claim I can't assume.
-2. **Graduation year.** Not in `master-profile.md`. The reviewer flagged its absence as leaving career stage/gaps unclear to a recruiter. Send the year and I'll add it to the profile and every resume going forward.
-3. **A real outcome number behind the Solenzo dashboards bullet**, if one exists (e.g., how many client decisions the dashboards informed, or a known percentage change in CAC/cycle time). Left qualitative for now rather than inventing a figure — the reviewer's suggested placeholder numbers were not used.
+1. **Level Agency / Solenzo overlap labeling — resolved.** Josh confirmed Level Agency was a full-time role, not a contract. The reviewer's suggested "(Contract)" label would have been inaccurate, so it was not applied — the role stays labeled as a normal full-time position, which is what it was. (Separately, private context on the departure is recorded in `master-profile.md` for interview prep only — never for the resume, cover letter, or application.)
+2. **Graduation year — resolved.** 2009, confirmed by Josh. Added to `master-profile.md` and to every built resume (Xometry, Adventure Amore, Checkr, NetReputation).
+3. **A real outcome number behind the Solenzo dashboards bullet** — still open. Left qualitative for now rather than inventing a figure.
 
 ## Fixes Applied From Checkr's Resume Reviewer
 

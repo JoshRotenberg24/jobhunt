@@ -83,7 +83,7 @@ band.
 
 ## Education & Certifications
 
-- **B.A. Liberal Arts, Minor in Political Science** — Colorado State University, Fort Collins, CO
+- **B.A. Liberal Arts, Minor in Political Science** — Colorado State University, Fort Collins, CO (2009)
 - **Google Digital Marketing & E-Commerce Professional Certificate** — Google / Coursera (Issued Sept 2024)
 - **Meta Ads Certification** — Meta *(confirmed by Josh Aug 2026; exact credential title and issue date still to be captured)*
 
@@ -366,6 +366,18 @@ operator talking, not like a candidate performing.
 - Analyze complex marketing and operational datasets, extracting actionable insights and structured recommendations that improve campaign performance.
 
 ### Level Agency — Account Executive / Client Strategist (Sep 2024 – Feb 2025)
+> **Employment type and departure (confirmed by Josh, Sep 2026) — PRIVATE, NOT resume/
+> cover-letter/application content under any circumstances unless Josh explicitly opts in
+> for a specific document:** this was a full-time role, not a contract engagement — do
+> not label it "(Contract)" or as a concurrent/part-time arrangement alongside Solenzo;
+> that would be inaccurate. Josh was let go after reporting shady behavior he witnessed at
+> the company. This is real, sympathetic context for the short ~5-month tenure, useful for
+> Claude's own calibration and for interview prep if the short stint comes up, but never
+> stated externally by default. If an interview requires an answer, the safe, honest,
+> non-disparaging framing is something like "it ended after an internal disagreement over
+> business practices I wasn't comfortable with" — specifics are Josh's call per
+> conversation, never volunteered by default.
+>
 > **Ad-spend budget planning (confirmed Sep 2026):** Josh helped client businesses with
 > budget planning for paid ad campaigns at Level Agency. No specific dollar figure or range
 > captured yet — ask Josh for a real number (even a bracketed estimate) before claiming a
