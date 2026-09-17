@@ -1,0 +1,94 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Onboarding Project Manager | Hands-On Implementation, Training & Cross-Functional Coordination",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation and onboarding project manager with 15+ years running client-facing technical projects end to end in B2B SaaS. Built sequenced implementation plans and guided API integrations at Accelo, directly managed a team of onboarding specialists for 2 years at Wix while personally onboarding 25+ clients a month, and onboarded a network of 15-20 reseller partners at Birdeye (94% retention), coordinating cross-functionally with Product and Engineering the way this role expects. Configures CRM and automation systems hands-on for clients at Solenzo today, comfortable picking up a new, technical workflow quickly and training users directly on it.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own onboarding and technical configuration for a portfolio of B2B clients, running discovery and kickoff to translate each client's operations into a working CRM and automation setup.",
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, contact segmentation, lifecycle stages, and data-hygiene protocols, configuring builds directly rather than handing off to a separate technical team.",
+        "Architected and deployed a complete GoHighLevel automation system, 20+ workflows spanning lead capture, booking, and post-sale onboarding nurture.",
+        "Deliver hands-on training and troubleshoot configuration issues directly with clients in real time.",
+        "Document every client interaction, timeline, and deliverable, managing multiple concurrent implementation projects at once."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments as strategic lead, translating client requirements into aligned delivery plans."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94% retention), guiding each through complex technical setup and configuration of Birdeye's proprietary listings and reputation-management tools.",
+        "Collaborated with Product and Engineering to resolve technical challenges and translate partner feedback into roadmap input, coordinating technical resources to keep integrations working smoothly.",
+        "Developed scalable communication workflows and automated training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), running structured training and coaching across a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led hands-on training and digital growth consultations, guiding clients through setup and configuration directly.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, then handed off structured plans to the implementation team to execute.",
+        "Guided client onboarding, workflow design, and API integrations, troubleshooting technical challenges during setup and building relationships with C-suite executives as a trusted advisor.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation & Project Management",
+      "items": ["End-to-End Implementation Ownership", "Project Planning & Risk Assessment", "Multi-Project Management", "Timeline & Milestone Tracking"]
+    },
+    {
+      "category": "Hands-On Technical Configuration",
+      "items": ["CRM/Automation Build Configuration", "API Integrations", "Real-Time Troubleshooting"]
+    },
+    {
+      "category": "Training & Enablement",
+      "items": ["Live Client Training", "Documentation", "Change Management"]
+    },
+    {
+      "category": "Cross-Functional Coordination",
+      "items": ["Product/Engineering Collaboration", "Technical Resource Coordination", "Stakeholder Communication"]
+    },
+    {
+      "category": "CRM & Tools",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Notion"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google/Coursera", "Meta Ads Certification — Meta"]
+}
