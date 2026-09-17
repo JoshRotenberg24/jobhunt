@@ -1,0 +1,92 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Analytics Consultant | Marketing & Customer Analytics, AI-Driven Decision Support",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Business analytics professional with 15+ years translating ambiguous business problems into data-driven decisions across marketing, CRM, and operations. Diagnoses performance issues end to end, from a client's Google Ads account through to the on-site CRO fix that was actually holding back conversion, then reports findings in plain business language. Builds and deploys GenAI and agentic AI prototypes daily at Solenzo, translating loosely defined business intent into working automation. Direct retail-industry experience building e-commerce presence for established retail businesses at Wix and managing a retail-vertical partner book at Birdeye.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Break down manual marketing workflows into agent architectures, using GenAI and agentic AI tools to rapidly prototype and test new capabilities for clients.",
+        "Translate non-technical stakeholders' loosely defined ideas into precise, structured AI prompts and agent instructions, the bridge between ambiguous business intent and a working solution.",
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads, then diagnosed on-site CRO as the real conversion bottleneck, a business-question-to-hypothesis-to-fix cycle end to end.",
+        "Built rubric-based grading criteria to evaluate AI-generated output against defined standards, performing the underlying data labeling personally.",
+        "Build performance dashboards and reporting in GA4, Excel, and Power BI, translating data into concrete recommendations for clients."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs to business stakeholders.",
+        "Coordinated execution across internal departments as strategic lead, translating client goals into aligned delivery plans."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Analyzed partner utilization and performance metrics across a partner book spanning health, home services, and retail verticals to identify adoption gaps and recommend interventions.",
+        "Collaborated with Product and Engineering to translate structured partner feedback into roadmap input."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Built and launched e-commerce websites for established retail businesses adding a bigger online storefront as a secondary revenue line alongside their physical retail locations.",
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8)."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order based on a structured assessment of risk and dependency.",
+        "Advised C-suite executives on CRM adoption and operational system design as a trusted advisor."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Business Analytics & Decision Support",
+      "items": ["Hypothesis-Driven Analysis", "Root-Cause Diagnosis", "Business Translation", "Executive Reporting"]
+    },
+    {
+      "category": "Data & BI Tools",
+      "items": ["Excel (Experienced)", "Power BI (Hands-On Setup)", "SQL (Beginner)", "Python (Beginner)", "GA4"]
+    },
+    {
+      "category": "AI & Rapid Prototyping",
+      "items": ["GenAI", "Agentic AI", "Multi-Agent Orchestration", "LLM Workflows", "Prompt Design", "Rapid Prototyping"]
+    },
+    {
+      "category": "Industry Experience",
+      "items": ["Retail E-Commerce", "SaaS/MarTech", "Digital Marketing Agency", "Home Services"]
+    },
+    {
+      "category": "Cross-Functional Delivery",
+      "items": ["Stakeholder Management", "Cross-Functional Coordination", "Vendor/Specialist Orchestration"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google/Coursera", "Meta Ads Certification — Meta"]
+}
