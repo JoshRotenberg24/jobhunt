@@ -15,31 +15,33 @@
 | CLEAR identity verification | Application-form | Standard background/identity step in Array's process, not a resume item. |
 | Scored onboarding assessments (post-hire) | Informational | Part of Array's stated onboarding process, not a pre-application screen. No action needed now. |
 | Financial-industry knowledge | Resume-evidenced (adjacent) | Posting lists this as "a plus," not a hard requirement. |
-| "$5+ million in ARR" book scale | Needs candidate confirmation | See Gaps below — this is the one concrete number the posting names that the profile can't currently back up. |
+| "$5+ million in ARR" book scale | Resume-evidenced (partial) | Confirmed floor: each Wix account carried a minimum $25K ARR, 25+ onboarded/month. No total portfolio-value figure exists (see Gaps), but the per-account floor is now on the resume. |
 
 No eligibility knockout found. Nothing here should stop Josh from applying.
 
 ## Application Priority Score
 
 ```
-🔵 Application Priority Score: 73 / 100 — Solid stretch
-[███████████████░░░░░]  73%
+🔵 Application Priority Score: 77 / 100 — Solid stretch
+[███████████████░░░░░]  77%
 ```
 
 Internal decision aid only, not a prediction of Array's own screening outcome. See `fit.png`.
 
 | Dimension | Score | Max |
 | :--- | :--- | :--- |
-| Must-have requirements met | 30 | 40 |
+| Must-have requirements met | 32 | 40 |
 | Seniority & scope alignment | 12 | 15 |
 | Domain / industry alignment | 8 | 15 |
 | Differentiators / nice-to-haves | 13 | 15 |
-| Evidence strength | 10 | 15 |
+| Evidence strength | 12 | 15 |
+
+*(Updated 2026-09-17 after Josh confirmed the Wix $25K-minimum-ARR-per-account floor, up from an initial 73/100.)*
 
 ## Requirement coverage
 
 - **3+ years B2B Client Success, owning a book of strategic accounts** — Covered (strong). 15+ years across Wix, Birdeye, Fetch & Funnel, Level Agency, and Solenzo, all client-facing account ownership from onboarding through renewal.
-- **Client health, retention, and revenue growth "in the ballpark of $5+ million in ARR"** — Covered (adjacent) for the retention/health discipline; the specific ARR scale is a genuine gap (see below).
+- **Client health, retention, and revenue growth "in the ballpark of $5+ million in ARR"** — Covered (adjacent). Each Wix account carried a minimum $25K ARR, 25+ onboarded/month; no aggregate portfolio-value figure exists, but the per-account floor is real, confirmed evidence toward this ask.
 - **Managing and expanding high-impact strategic relationships, preferably financial sector** — Covered (adjacent). Birdeye's 15-20 partner book (~94% retention, $10K-$45K deals) evidences the expansion/retention discipline; Fetch & Funnel's banking client and finalist-stage banking prospect is the direct financial-sector data point.
 - **Exceptional interpersonal skills, growing/retaining accounts via service** — Covered (strong). Wix (120%/110% attainment), Birdeye (94% retention).
 - **Entrepreneurial mindset, ownership** — Covered (strong). Solenzo founder since 2024.
@@ -54,13 +56,12 @@ Internal decision aid only, not a prediction of Array's own screening outcome. S
 
 ## Gaps
 
-- **No verified number for total ARR or portfolio value managed.** The posting names "$5+ million in ARR" specifically; nothing in the master profile currently supports a book-value claim at that scale (Birdeye's numbers are per-deal contract sizes, not portfolio ARR). The resume does not claim an ARR figure, since none is verified.
+- **No total portfolio-value (aggregate ARR under management) figure.** Confirmed is a per-account floor ($25K ARR minimum per Wix client, 25+/month), not a total book value, since that would require knowing how many accounts stayed concurrently active, which isn't tracked. The resume states the confirmed floor only, not an inferred total.
 - **No dedicated fintech/financial-institution employer tenure.** The Fetch & Funnel banking client and prospect are real but modest; this isn't a multi-year fintech career.
 
 ## Candidate confirmation needed
 
-- **Portfolio ARR or annual book value**, at Birdeye or elsewhere. If Josh has even a rough range for what his managed book was worth annually (not just per-deal size), it would directly strengthen the strongest weakness in this application and should go into `master-profile.md` under Numbers Worth Capturing once he supplies it.
-- **Comp expectations for this level.** The profile's standing baseline is scoped to associate/entry-mid roles and explicitly doesn't apply here; Josh should have his own number ready before a recruiter call.
+- **Comp expectations for this level.** Josh has said he'll work with whatever Array offers; no further action needed unless a recruiter asks for a specific number.
 
 ## Referral
 

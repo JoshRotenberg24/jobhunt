@@ -570,12 +570,14 @@ operator talking, not like a candidate performing.
 - **30% increase in website traffic** (Wix, e-commerce segment)
 - **25% improvement in conversion rates** (Wix, supported accounts / e-commerce segment)
 - **25+ clients onboarded/launched per month** (Wix, personal monthly load across the two-year tenure)
+- **Each Wix account carried a minimum $25,000 ARR (annual contract value)** (confirmed by Josh, Sep 2026) — applies to the 25+ clients/month above, i.e. a floor of $25K ARR per account, not an average or a total portfolio value. Useful evidence toward any JD asking for a minimum deal-size or book-value threshold; do not multiply this out into an implied total portfolio ARR figure without a real basis for how many accounts stayed active concurrently.
 - **120% of sales targets and 110% of implementation targets** (Wix, attainment against quota; role was primarily sales in year one, combined sales and implementation in year two)
 - **15+ years** total experience in MarTech / SaaS / agency
 - **5+ years** building CRM & marketing automation (GoHighLevel primary, HubSpot secondary)
 - **4 years** of SEO experience specifically, per Josh (self-reported, Aug 2026)
 - **~$17,750/month average implementation (services) bookings at Accelo (~$213K/yr annualized)**, plus new recurring revenue — consistently above commission floor into accelerator tiers (per Accelo commission records)
 - **Top three in sales on a team of 8 to 15 reps at Accelo**, for all but the final few months of tenure, sustained while **quota roughly doubled**
+- **Accelo personal quota started at a minimum of ~$8,000/month MRR and increased over the 27-month tenure** (self-estimated bracket, confirmed by Josh, Sep 2026) — the starting-point anchor for the "quota roughly doubled" figure above; exact ending figure not captured, use "at least $8K/month starting, doubling over tenure" rather than inferring a precise end number.
 - **Accelo deal sizes of $20K+** later in tenure, alongside a base of smaller wins
 - **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure (per-deal contract value, confirmed by Josh)
 - **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
