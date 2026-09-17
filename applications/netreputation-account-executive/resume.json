@@ -1,0 +1,107 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Account Executive - Digital Marketing & Reputation Management Services",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Full-cycle Account Executive with direct experience selling SEO, digital marketing, and reputation/local-listings-management services, not SaaS, to SMB and enterprise buyers. Closed $130K+ in agency bookings at Fetch & Funnel, sold Birdeye's proprietary reputation-management and local-listings platform to 15-20 channel partners at roughly 94% retention, and now runs full-cycle sales for Solenzo's own SEO and marketing-automation service line. Comfortable presenting digital strategy to C-suite executives and negotiating retainer-based, SOW-driven contracts.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run full-cycle sales for Solenzo's own SEO, local-listings, and marketing-automation service line, from discovery through custom scoping and closing, selling services rather than software.",
+        "Claim, set up, and optimize Google Business Profile listings as the first deliverable in every client engagement, the foundation the rest of each client's local SEO and lead-flow program builds on.",
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog, translating findings into a scoped proposal and closing the engagement.",
+        "Identify strategic opportunities to expand retainer scope, consultatively recommending and scoping complementary services aligned with each client's objectives.",
+        "Own the primary strategic relationship for a portfolio of B2B service clients, running discovery to surface goals and market challenges before proposing a path forward."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Sold and managed integrated digital marketing engagements (inbound, paid media, content, SEO) as strategic lead, coordinating execution across internal departments.",
+        "Advised client businesses on ad-spend budget planning and allocation, guiding fee and scope conversations to a confident decision.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations through QBRs."
+      ]
+    },
+    {
+      "title": "Partner Success Manager - Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded partners onto Birdeye's proprietary reputation-management and local-listings/data-aggregator platform, the backbone of the channel offer.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K) as primary point of contact, retaining all but one (~94% retention) through proactive communication.",
+        "Advised partners on retention strategy and customer-health metrics, equipping them to communicate reputation-platform value to their own end customers.",
+        "Led onboarding and training for a diverse, high-volume partner network spanning health, home services, and retail verticals.",
+        "Collaborated with Product and Engineering to surface structured, high-priority partner feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals during tenure at a performance marketing agency, averaging ~$22K each (several exceeding $25K), roughly $130K+ in total bookings.",
+        "Ran client accounts end to end covering campaign execution, performance reporting, and cross-team communication.",
+        "Served a banking-industry client and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage in that deal."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion, including setting up clients' Google Business Profile.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8-15 reps for effectively the full tenure while quota roughly doubled over the period.",
+        "Sold and scoped complex software to agencies and professional-services firms, advising C-suite executives as a trusted advisor on operational system design."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "ORM & Digital Marketing Sales",
+      "items": ["Full-Cycle Sales", "Consultative Selling", "Retainer & SOW Negotiation", "Fee & Scope Negotiation", "C-Suite & Executive Presentations", "Account Growth & Upsell"]
+    },
+    {
+      "category": "SEO & Reputation Tools",
+      "items": ["Ahrefs", "Semrush", "Google Search Console", "Screaming Frog", "Google Business Profile Management", "Local SEO", "Reputation & Listings Management"]
+    },
+    {
+      "category": "CRM & Pipeline",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Pipeline Management", "Forecast Hygiene"]
+    },
+    {
+      "category": "Digital Marketing Services",
+      "items": ["SEO", "Local SEO", "Paid Media", "Paid Social", "Content Marketing", "Technical SEO Audits"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
