@@ -543,7 +543,7 @@ operator talking, not like a candidate performing.
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | Data & BI Tools | Excel (experienced), Power BI (hands-on setup for client businesses), SQL (working proficiency — Power BI data modeling, BigQuery/GA4 queries), Python & JavaScript (custom code steps in Zapier/Make/n8n automation workflows) *(confirmed by Josh, Sep 2026 — see note below)* |
 | Web Technical | HTML/CSS (hands-on, own Solenzo site + client GA4 implementation), JavaScript (automation-tool code steps) |
-| AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
+| AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Gemini, Manus, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
@@ -562,6 +562,13 @@ operator talking, not like a candidate performing.
 > these should be presented as senior data-engineering or full-stack-developer-level
 > proficiency, but all four now clear the two-minute-defensibility bar for a JD asking
 > for hands-on SQL, Python, or JavaScript in a revenue-operations/automation context.
+
+> **LLM/AI tool breadth (confirmed by Josh, Sep 2026):** regular, hands-on use of ChatGPT,
+> Claude, Gemini, and Manus — not a single-tool workflow. When an application asks which
+> AI tool/LLM he's "most familiar with," the honest answer is that he uses multiple
+> regularly (ChatGPT and Claude most, Gemini and Manus also in active use); pick the
+> framing that fits the field (single answer vs. list) rather than forcing one tool as
+> primary when the truth is genuine multi-tool fluency.
 
 ---
 
