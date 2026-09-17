@@ -285,13 +285,18 @@ operator talking, not like a candidate performing.
 
 **Marketing & Growth Systems**
 > **BTU Solar — named client, Colorado solar installer (confirmed by Josh, Sep 2026):** a real,
-> named Solenzo client. GBP-first local SEO campaign following the standard Solenzo delivery
+> named Solenzo client. The actual starting problem was not simply low call volume: the account
+> was getting junk phone calls and low-quality form submissions, which made it hard to see and
+> manage legitimate demand. GBP-first local SEO campaign following the standard Solenzo delivery
 > model (audit, GBP category/service/photo optimization, citation consistency across
 > directories, service/location page content). Separately, during the account takeover/audit,
 > Josh found the client had been running Google Ads with no GA4 installed on the site, meaning
-> ad spend was completely untracked. He installed GTM/GA4 to fix it. Exact campaign time period
-> and any quantified result (calls, leads, booked consultations) not yet supplied by Josh, do
-> not invent one, ask before a future application needs a hard number here.
+> ad spend was untracked and there was no way to separate real inquiries from junk activity. He
+> installed GTM/GA4, defined and tested conversion events, and built a reporting baseline that
+> compares GBP calls/clicks/direction requests against site conversion data. Outcome to date is
+> a working attribution baseline, not a claimed lift in leads/revenue, represent it that way
+> until Josh supplies a real before/after number. Exact campaign time period and any quantified
+> result (calls, leads, booked consultations) not yet supplied, do not invent one.
 >
 > **Automation platform breadth beyond GoHighLevel (confirmed by Josh, Sep 2026):** Josh
 > builds automations in Zapier, Make, and n8n at Solenzo, in addition to native
