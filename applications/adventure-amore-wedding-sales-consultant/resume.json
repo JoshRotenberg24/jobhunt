@@ -1,0 +1,120 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Consultative Sales Professional & Trusted Advisor",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Quota-carrying consultative sales professional with 15+ years closing high-stakes purchase decisions for individuals and businesses, from small-business owners investing in new systems to multi-stakeholder buying groups. Skilled at building trust fast on a single call, navigating budget-sensitive conversations with every decision-maker in the room, and converting warm, high-intent leads into signed commitments, evidenced by 120% of sales targets at Wix and a top-three sales ranking at Accelo while quota doubled.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of B2B service clients, running discovery calls to surface goals, budget, and priorities before recommending a path forward.",
+        "Identify strategic opportunities to expand retainer scope, consultatively recommending and scoping complementary services aligned with each client's real objectives.",
+        "Align marketing programs to revenue objectives directly with business owners, producing consistent messaging and closing new service engagements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Advised client businesses on ad-spend budget planning and allocation, guiding sensitive spend conversations to a confident decision.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into recommendations for varied audiences.",
+        "Held delivery quality consistent across implementations, resolving client concerns promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K), roughly $130K+ in total bookings.",
+        "Ran client accounts end to end at a performance marketing agency, from first conversation through signed commitment and delivery.",
+        "Built and refined internal processes that improved handoff accuracy and cross-team alignment on client commitments."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Closed and launched 25+ clients per month over video consultations, holding 120% of sales targets and 110% of implementation targets.",
+        "Led digital growth consultations aligning site strategy and goals with each client's vision, building trust quickly on a single call.",
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), coaching sales conversations and close technique.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive communication on client goals and concerns."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8-15 reps for effectively the full tenure, holding that ranking while quota roughly doubled over the period.",
+        "Closed deals of $20K and larger later in tenure, mixed with a base of smaller wins.",
+        "Sold and scoped complex software to agencies and professional-services firms, building trusted-advisor relationships with C-suite decision-makers.",
+        "Consistently performed above commission floor into accelerator tiers, averaging ~$17,750/month in bookings (~$213K annualized) plus new recurring revenue."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing automation platform targeting SMB owners, from first conversation to close.",
+        "Built the consultative approach to trust-building and technology adoption that carried into every later sales role."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Consultative Sales",
+      "items": [
+        "Full-Cycle Closing",
+        "Quota Attainment",
+        "Multi-Stakeholder Buying Groups",
+        "Budget & Objection Conversations",
+        "Trust-Building on First Call",
+        "Video/Virtual Selling (Zoom)"
+      ]
+    },
+    {
+      "category": "Client Experience",
+      "items": [
+        "Discovery & Needs Assessment",
+        "Consultative Advisory",
+        "Retention & Satisfaction",
+        "High-Conversion Onboarding"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Zoom",
+        "Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
