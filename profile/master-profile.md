@@ -322,8 +322,26 @@ operator talking, not like a candidate performing.
 > **HTML/CSS (confirmed by Josh, Sep 2026):** Josh's own Solenzo site is built directly
 > in HTML/CSS (not a no-code builder), and he works in HTML/CSS when implementing GA4
 > tracking on client sites. This is real, defensible hands-on HTML/CSS experience.
-> JavaScript and formal "data architectures" experience are NOT confirmed, do not claim
-> either without a separate confirmation.
+> Formal "data architectures" experience is NOT confirmed, do not claim it without a
+> separate confirmation. JavaScript is now confirmed (see the Zapier/Make/n8n code-step
+> note below) — do not use the old "not confirmed" framing for JS going forward.
+>
+> **Zapier/Make/n8n custom code steps — Python and JavaScript (confirmed by Josh, Sep
+> 2026):** beyond point-and-click workflow config, Josh has written Python and/or
+> JavaScript inside custom code steps in these automation tools as part of real production
+> workflows, not learning exercises. This is genuine, defensible hands-on scripting
+> experience, distinct from — and stronger than — the general "beginner Python" framing
+> below on its own; represent it specifically as "custom code steps in automation
+> platforms" rather than implying general software-engineering-level Python/JS fluency.
+>
+> **Salesforce workflow A/B testing — advisory, not hands-on build (confirmed by Josh,
+> Sep 2026):** Josh has advised on A/B testing strategy for a Salesforce workflow-building
+> effort, but did not build the Salesforce automation himself — someone else implemented
+> it. Exact employer/role attribution not yet captured, ask before writing a role-specific
+> bullet. Represent this honestly as advisory/strategy input on Salesforce workflow
+> testing, never as hands-on Salesforce Flow/Process Builder development — that
+> distinction matters for any posting that specifically asks for Salesforce admin or
+> automation-building experience.
 - Claim, set up, and optimize Google Business Profile listings (categories, descriptions, services, photos, posts) as the first deliverable in every client engagement, the foundation the rest of each client's local SEO and lead-flow program builds on.
 - Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.
 - Architect and deploy autonomous, AI-driven marketing systems for service-based businesses — largely on GoHighLevel — automating lead enrichment, outreach, and appointment booking.
@@ -510,8 +528,8 @@ operator talking, not like a candidate performing.
 | Sales Engagement & Enrichment | Salesloft, ZoomInfo, Gong (confirmed hands-on, Sep 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
-| Data & BI Tools | Excel (experienced), Power BI (hands-on setup for client businesses — beginner level), SQL (beginner), Python (beginner) *(confirmed by Josh, Sep 2026 — see note below)* |
-| Web Technical | HTML/CSS (hands-on, own Solenzo site + client GA4 implementation) |
+| Data & BI Tools | Excel (experienced), Power BI (hands-on setup for client businesses), SQL (working proficiency — Power BI data modeling, BigQuery/GA4 queries), Python & JavaScript (custom code steps in Zapier/Make/n8n automation workflows) *(confirmed by Josh, Sep 2026 — see note below)* |
+| Web Technical | HTML/CSS (hands-on, own Solenzo site + client GA4 implementation), JavaScript (automation-tool code steps) |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
@@ -519,15 +537,18 @@ operator talking, not like a candidate performing.
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
 | Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
 
-> **Excel, Power BI, SQL, Python (confirmed by Josh, Sep 2026):** Excel is a genuine,
-> experienced-level skill, not just baseline literacy. Power BI, SQL, and Python are real
-> but explicitly beginner-level per Josh's own characterization — he has set up Power BI
-> reporting for client businesses (real, hands-on deployment, not just viewing dashboards
-> someone else built) and has beginner working familiarity with SQL and Python. Represent
-> all three as "working familiarity" or "beginner" honestly; never imply advanced or
-> production-engineering-level fluency in SQL/Python. This is enough to satisfy a JD
-> asking for "familiarity with Excel, SQL, BI tools, and/or Python" (an any-of list), but
-> not enough to claim deep technical/analytics-engineering proficiency.
+> **Excel, Power BI, SQL, Python/JS (confirmed by Josh, Sep 2026, updated Sep 2026):**
+> Excel is a genuine, experienced-level skill, not just baseline literacy. Power BI is
+> real, hands-on deployment for client businesses (not just viewing dashboards someone
+> else built). SQL moved beyond "beginner" once Josh confirmed real production use
+> writing queries for Power BI data modeling and BigQuery/GA4 pulls — represent it as
+> "working proficiency," not advanced/analytics-engineering-level. Python and JavaScript
+> are confirmed via custom code steps inside Zapier/Make/n8n automation workflows (real
+> production use, not learning exercises) — represent this specifically as "scripting in
+> automation-platform code steps," not general software-engineering fluency. None of
+> these should be presented as senior data-engineering or full-stack-developer-level
+> proficiency, but all four now clear the two-minute-defensibility bar for a JD asking
+> for hands-on SQL, Python, or JavaScript in a revenue-operations/automation context.
 
 ---
 
