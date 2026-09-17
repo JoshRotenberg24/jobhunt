@@ -110,6 +110,24 @@ band.
   employers, answer from the recreation side only and say plainly that the hunting and
   angling background isn't there. Do not re-ask; do not stretch this.
 
+## Personal commitment to immigrant and refugee communities (confirmed Sep 2026)
+
+- Josh has confirmed a full, genuine personal commitment to helping immigrant and refugee
+  communities. This is a real personal value, not a positioning angle built for one
+  application. Usable for nonprofit, immigrant-services, refugee-services, and
+  community-integration employers (e.g., Rocky Mountain Welcome Center) as an honest "why
+  this mission" note in cover letters and interviews.
+- **Specific grounding not yet captured:** the particular basis for this commitment
+  (personal/family history, past volunteer work, a specific community connection) hasn't
+  been recorded. Ask Josh if a given application or interview would benefit from a more
+  concrete story beyond the general commitment stated here. Until then, represent this as
+  a genuine stated personal value on its own, not paired with an invented example, family
+  history, or volunteer record.
+- This does **not** substitute for professional nonprofit fundraising, grant-writing, or
+  donor-cultivation experience, none of which is in Josh's work history. Keep the personal
+  mission commitment and the professional development/fundraising skill gap honestly
+  distinct in any resume, cover letter, or match report.
+
 ## Personal healthcare-system experience (confirmed Sep 2026)
 
 - **Has been a patient inside the healthcare system himself**, and wants to help patients
