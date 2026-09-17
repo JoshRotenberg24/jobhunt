@@ -90,6 +90,18 @@ band.
 - **Long-standing personal interest in live entertainment**, stated by Josh as a genuine
   draw rather than a positioning angle.
 
+> **Cook, 15+ years, multiple restaurants (confirmed Sep 2026):** before Josh's professional
+> marketing/sales resume timeline begins (pre-dates the Standing Akimbo/Senior Directory era),
+> he worked as a cook for 15+ years across multiple types of restaurants. Specific employers,
+> exact dates, and restaurant types not yet captured — ask Josh if a specific application
+> needs more than "multiple types of restaurants" and "15+ years." This is genuine,
+> substantial, first-hand foodservice-industry grounding, usable for foodservice, restaurant,
+> hospitality, and food-tech/procurement employers (e.g., Buyers Edge Platform) as real
+> domain fluency with how restaurants operate and think, not just a positioning angle. Not a
+> marketing credential and not to be conflated with professional food-industry marketing
+> experience, but a real, defensible answer to "can this candidate speak the language of our
+> audience."
+
 ## Outdoor recreation (confirmed Aug 2026)
 
 - **Camps and hikes.** Colorado-based, uses the state's outdoors recreationally.
@@ -303,7 +315,21 @@ operator talking, not like a candidate performing.
 - Analyze complex marketing and operational datasets, extracting actionable insights and structured recommendations that improve campaign performance.
 
 ### Level Agency — Account Executive / Client Strategist (Sep 2024 – Feb 2025)
+> **Ad-spend budget planning (confirmed Sep 2026):** Josh helped client businesses with
+> budget planning for paid ad campaigns at Level Agency. No specific dollar figure or range
+> captured yet — ask Josh for a real number (even a bracketed estimate) before claiming a
+> specific ad-spend scale in a resume; until then, represent this qualitatively as budget
+> planning and allocation experience, not a dollar amount.
+>
+> **LinkedIn Ads — ABM-style targeting with A/B testing (confirmed Sep 2026):** Josh set up
+> LinkedIn ad campaigns at Level Agency using an account-based-marketing approach: small,
+> highly researched audiences (specific contacts/accounts) rather than broad targeting, with
+> A/B testing strategy behind the setup. This is real, defensible, hands-on LinkedIn paid
+> media experience, distinct from organic LinkedIn use, safe to claim directly against a JD
+> asking for LinkedIn Ads experience.
 - Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.
+- Advised client businesses on ad-spend budget planning and allocation across paid campaigns.
+- Designed and ran LinkedIn ad campaigns using an account-based-marketing approach, targeting small, highly researched audiences with A/B-tested setups rather than broad targeting.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
 - Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.
