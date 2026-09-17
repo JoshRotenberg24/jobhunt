@@ -1,0 +1,93 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Manager | 0-to-1 Launches, AI-Native Marketing Systems & Technical Messaging",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations leader and 0-to-1 builder with 15+ years in B2B SaaS and MarTech. Founded and built Solenzo from scratch, architecting AI-driven, agentic marketing systems for clients and translating loosely defined business intent into precise AI prompts and agent logic, hands-on daily fluency with ChatGPT and Claude as production tools, not just talking points. Took a brand-new Wix vertical from proof of concept to a profitable line, building the messaging, training, and enablement materials that got it there. Writes technical concepts into clear, compelling narratives for B2B audiences.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and deploy autonomous, AI-driven marketing systems for B2B clients, translating non-technical stakeholders' generalized ideas into precise, structured AI prompts and agent instructions, the bridge between business intent and reliable LLM output.",
+        "Break down manual marketing workflows into agent architectures with custom logic, building and launching new automated capabilities from a blank page (0 to 1) for each new client engagement.",
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Build reusable messaging frameworks and boilerplate marketing assets, adapting a shared template base to each client's brand and category rather than starting from scratch each time.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by tracking across sales enablement, marketing, and operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs to cross-functional stakeholders.",
+        "Produced high-converting campaign assets, landing pages, complex email sequences, and conversion-focused copy, improving lead generation and pipeline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded 15-20 reseller partners onto Birdeye's proprietary technology solution, translating technical product capability into a customer-facing value proposition partners could resell.",
+        "A meaningful share of that partner book sold specifically into agencies focused on healthcare clients, direct B2B marketing-technology experience in a healthcare-facing vertical.",
+        "Collaborated with Product and Engineering to translate structured partner feedback into roadmap input."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, a 0-to-1 launch built from the ground up.",
+        "Built sales training and enablement materials for tenured account executives and new hires as that vertical scaled, translating a new capability into a repeatable, sellable narrative.",
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, translating technical product capability into business value for C-suite buyers.",
+        "Built Zapier automations as part of client implementations, hands-on automation-building history running from 2018 through the present at Solenzo."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & Marketing Technology",
+      "items": ["ChatGPT & Claude (Production Use)", "Agentic AI Workflow Design", "Prompt Engineering", "Requirements-to-Prompt Translation", "Rapid Prototyping"]
+    },
+    {
+      "category": "Go-to-Market & Launch",
+      "items": ["0-to-1 Product/Vertical Launches", "Positioning & Messaging", "Sales Enablement Content", "Technical-to-Business Translation"]
+    },
+    {
+      "category": "Content & Writing",
+      "items": ["Thought Leadership", "Technical Translation", "Direct-Response Copy", "Brand Voice"]
+    },
+    {
+      "category": "Cross-Functional Collaboration",
+      "items": ["Product/Engineering Feedback Loops", "Sales Partnership", "Campaign Reporting & QBRs"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["HubSpot", "Salesforce", "GoHighLevel", "GA4", "Zapier", "Make", "n8n"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google/Coursera", "Meta Ads Certification — Meta"]
+}

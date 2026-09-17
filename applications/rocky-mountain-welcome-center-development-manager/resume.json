@@ -1,0 +1,66 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Development Manager | Relationship Cultivation, CRM Operations & Mission-Driven Communications",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Relationship-driven operator with 15+ years cultivating and stewarding a portfolio of accounts and partners, tracking performance in Salesforce, and translating outcomes into clear reporting for leadership. Directly supervised and developed teams of 8 to 20 people and writes content that turns operational work into a story a non-technical audience can act on. Brings a genuine, personal commitment to immigrant and refugee communities to Rocky Mountain Welcome Center's mission, alongside the operational discipline to build a development function that runs consistently.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary relationship for a portfolio of clients, running discovery to align delivery with each client's goals and communicating outcomes clearly to stakeholders.",
+        "Write and publish thought leadership content and newsletters, translating operational work into a narrative a non-technical audience can act on.",
+        "Track engagement and performance data across GoHighLevel, HubSpot, and Notion, building reporting that surfaces at-risk relationships early, and coordinate with outside vendors and specialists as needed to deliver client outcomes."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded, cultivated, and stewarded a portfolio of 15-20 reseller partners, retaining all but one (~94% retention) through proactive relationship management.",
+        "Tracked partner performance and health data in Salesforce, analyzing utilization to identify at-risk relationships and recommend interventions."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, cultivating and stewarding relationships that contributed to a 30% increase in website traffic and 25% improvement in conversion rates.",
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), including hiring and training.",
+        "Tracked account and CRM data in Salesforce, standardizing data capture and reporting across the team."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Relationship & Portfolio Management",
+      "items": ["Portfolio Cultivation & Stewardship", "Client/Partner Retention", "Relationship-Based Growth"]
+    },
+    {
+      "category": "CRM & Reporting",
+      "items": ["Salesforce", "HubSpot", "Performance Reporting & Dashboards", "Data Hygiene"]
+    },
+    {
+      "category": "Team Leadership & Supervision",
+      "items": ["Team Management (8-20 Direct Reports)", "Hiring & Training", "Vendor/Consultant Coordination"]
+    },
+    {
+      "category": "Content & Communications",
+      "items": ["Thought Leadership Writing", "Newsletter & Content Production", "Translating Outcomes into Narrative", "Cross-Functional Coordination"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google/Coursera; Meta Ads Certification — Meta"]
+}

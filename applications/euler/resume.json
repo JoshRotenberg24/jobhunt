@@ -1,0 +1,95 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Onboarding Manager | Customer Onboarding Program Design & Cross-Functional Enablement",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer onboarding professional with 15+ years in B2B SaaS and MarTech, owning onboarding from contract signature through go-live. Built and standardized onboarding workflows, playbooks, and CRM systems (HubSpot, Salesforce, GoHighLevel) at Wix and Solenzo, including 2 years directly managing a team of onboarding specialists. Owned onboarding for Birdeye's own partner/reseller program, direct, hands-on experience with the partnerships model EULER's platform is built to run. Comfortable owning process design, sales-to-CS handoffs, and customer enablement end to end.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Design, document, and continuously improve onboarding workflows and playbooks for a portfolio of B2B service clients, standardizing a repeatable process while flexing for each client's needs.",
+        "Own the primary strategic relationship for each client, running discovery and kickoff to align internal delivery with the client's defined success goals from day one.",
+        "Architected and deployed a complete GoHighLevel marketing-automation system, 20+ workflows spanning lead capture, qualification, appointment booking, and post-sale onboarding nurture, with defined onboarding stages and success criteria.",
+        "Architect and implement complex CRM systems in GoHighLevel and HubSpot, contact segmentation, lifecycle stages, and data-hygiene protocols, the operational backbone onboarding runs on.",
+        "Deliver live training and build documentation and playbooks that translate platform capability into client-specific configuration."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments as strategic lead, translating client goals into aligned delivery plans across teams.",
+        "Built rigorous reporting frameworks tracking ROI and conversion KPIs, delivering QBRs that kept clients and internal stakeholders aligned on progress."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Owned onboarding for Birdeye's own reseller partnership program, onboarding, training, and supporting 15-20 partners (deals ~$10K-$45K) through go-live, retaining all but one (~94% retention) during tenure.",
+        "Sold and onboarded partners onto Birdeye's proprietary listings and data-aggregator solution, defining the standard onboarding sequence every partner's end customer went through.",
+        "Collaborated with Product and Engineering to translate structured partner feedback into roadmap input, closing the loop between onboarding friction and product improvement.",
+        "Developed scalable communication workflows and automated training sequences that reduced onboarding friction and time-to-adoption across the partner network."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), standardizing onboarding stages, success criteria, and handoff points across a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets, while owning the sales-to-onboarding handoff.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture and reporting across the team.",
+        "Led onboarding training and digital growth consultations, translating product capability into a working, revenue-generating setup for each client."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, then handed off structured plans to the implementation team to execute.",
+        "Guided client onboarding and API integrations, advising C-suite stakeholders on CRM adoption aligned to their growth stage."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Onboarding Program Design",
+      "items": ["End-to-End Onboarding Ownership", "Playbook & Workflow Documentation", "Onboarding Stage & Success-Criteria Definition", "Time-to-Value Acceleration"]
+    },
+    {
+      "category": "Cross-Functional Collaboration",
+      "items": ["Sales-to-CS Handoffs", "Product/Engineering Feedback Loops", "Stakeholder Alignment"]
+    },
+    {
+      "category": "Training & Enablement",
+      "items": ["Live Product Training", "Documentation & Best Practices", "Configuration Walkthroughs"]
+    },
+    {
+      "category": "CRM & CS Tools",
+      "items": ["HubSpot", "Salesforce", "GoHighLevel", "Workflow Automation (Zapier, Make, n8n)"]
+    },
+    {
+      "category": "Partnerships & Channel",
+      "items": ["Partner/Reseller Onboarding", "Channel Program Management", "Partner Retention Strategy"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google/Coursera", "Meta Ads Certification — Meta"]
+}

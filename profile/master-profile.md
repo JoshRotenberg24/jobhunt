@@ -90,6 +90,18 @@ band.
 - **Long-standing personal interest in live entertainment**, stated by Josh as a genuine
   draw rather than a positioning angle.
 
+> **Cook, 15+ years, multiple restaurants (confirmed Sep 2026):** before Josh's professional
+> marketing/sales resume timeline begins (pre-dates the Standing Akimbo/Senior Directory era),
+> he worked as a cook for 15+ years across multiple types of restaurants. Specific employers,
+> exact dates, and restaurant types not yet captured — ask Josh if a specific application
+> needs more than "multiple types of restaurants" and "15+ years." This is genuine,
+> substantial, first-hand foodservice-industry grounding, usable for foodservice, restaurant,
+> hospitality, and food-tech/procurement employers (e.g., Buyers Edge Platform) as real
+> domain fluency with how restaurants operate and think, not just a positioning angle. Not a
+> marketing credential and not to be conflated with professional food-industry marketing
+> experience, but a real, defensible answer to "can this candidate speak the language of our
+> audience."
+
 ## Outdoor recreation (confirmed Aug 2026)
 
 - **Camps and hikes.** Colorado-based, uses the state's outdoors recreationally.
@@ -97,6 +109,34 @@ band.
   outfitting, or gear-industry experience. For hunting, fishing, or outdoor-industry
   employers, answer from the recreation side only and say plainly that the hunting and
   angling background isn't there. Do not re-ask; do not stretch this.
+
+## Personal interest in financial services / banking (confirmed Sep 2026)
+
+- Josh has confirmed a genuine personal interest in banking and financial services,
+  specifically the idea of helping individual people and businesses make ownership and
+  purchase processes easier, so they don't have to worry about the transactional details
+  to do what they need to do in their life. Real personal interest, not a positioning
+  angle. Usable as an honest "why this space" note for fintech/banking-adjacent postings
+  (e.g., Eltropy) alongside the Fetch & Funnel banking-client experience above, kept
+  explicitly distinct from it: this is personal motivation, that is professional evidence.
+
+## Personal commitment to immigrant and refugee communities (confirmed Sep 2026)
+
+- Josh has confirmed a full, genuine personal commitment to helping immigrant and refugee
+  communities. This is a real personal value, not a positioning angle built for one
+  application. Usable for nonprofit, immigrant-services, refugee-services, and
+  community-integration employers (e.g., Rocky Mountain Welcome Center) as an honest "why
+  this mission" note in cover letters and interviews.
+- **Specific grounding not yet captured:** the particular basis for this commitment
+  (personal/family history, past volunteer work, a specific community connection) hasn't
+  been recorded. Ask Josh if a given application or interview would benefit from a more
+  concrete story beyond the general commitment stated here. Until then, represent this as
+  a genuine stated personal value on its own, not paired with an invented example, family
+  history, or volunteer record.
+- This does **not** substitute for professional nonprofit fundraising, grant-writing, or
+  donor-cultivation experience, none of which is in Josh's work history. Keep the personal
+  mission commitment and the professional development/fundraising skill gap honestly
+  distinct in any resume, cover letter, or match report.
 
 ## Personal healthcare-system experience (confirmed Sep 2026)
 
@@ -303,7 +343,21 @@ operator talking, not like a candidate performing.
 - Analyze complex marketing and operational datasets, extracting actionable insights and structured recommendations that improve campaign performance.
 
 ### Level Agency — Account Executive / Client Strategist (Sep 2024 – Feb 2025)
+> **Ad-spend budget planning (confirmed Sep 2026):** Josh helped client businesses with
+> budget planning for paid ad campaigns at Level Agency. No specific dollar figure or range
+> captured yet — ask Josh for a real number (even a bracketed estimate) before claiming a
+> specific ad-spend scale in a resume; until then, represent this qualitatively as budget
+> planning and allocation experience, not a dollar amount.
+>
+> **LinkedIn Ads — ABM-style targeting with A/B testing (confirmed Sep 2026):** Josh set up
+> LinkedIn ad campaigns at Level Agency using an account-based-marketing approach: small,
+> highly researched audiences (specific contacts/accounts) rather than broad targeting, with
+> A/B testing strategy behind the setup. This is real, defensible, hands-on LinkedIn paid
+> media experience, distinct from organic LinkedIn use, safe to claim directly against a JD
+> asking for LinkedIn Ads experience.
 - Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.
+- Advised client businesses on ad-spend budget planning and allocation across paid campaigns.
+- Designed and ran LinkedIn ad campaigns using an account-based-marketing approach, targeting small, highly researched audiences with A/B-tested setups rather than broad targeting.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
 - Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.
@@ -341,13 +395,31 @@ operator talking, not like a candidate performing.
 > **Home-services clients (confirmed by Josh, Sep 2026):** the agency's client roster included home-services businesses among its accounts, additional (if less specified) demand-side exposure to the trades, consistent with the pattern at Solenzo.
 >
 > **Sales team lead (confirmed by Josh, Sep 2026):** Josh took on team lead for the sales team at Fetch & Funnel, in addition to his individual account work. Team size and exact scope not yet captured — ask Josh if a posting needs the specifics. Usable as evidence of people-leadership experience earlier than the Wix team-lead tenure suggested; the two roles sit back-to-back (Wix team lead through Aug 2022, Fetch & Funnel team lead Sep 2022–Feb 2023), showing continuous leadership responsibility across that period rather than an isolated instance.
+>
+> **Banking-industry client and major banking prospect pursuit (confirmed Sep 2026):**
+> Fetch & Funnel had an active banking client on its roster, real, direct financial-services
+> industry client experience. Separately, Josh was part of the effort to recruit a major
+> banking client in the northeastern U.S. and the agency was a finalist at the table for
+> that deal (did not ultimately close). This is genuine, defensible financial-services
+> business-development experience, usable for fintech/banking-adjacent postings, honestly
+> framed as agency-side marketing/account work with a banking client and a near-miss on a
+> larger banking prospect, not as hands-on banking/core-systems experience itself.
 - Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.
+- Served a banking-industry client and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage in that deal.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
 - Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
 
 ### Wix.com — Account Manager, Onboarding Launch Specialist & Team Lead (Aug 2020 – Aug 2022)
+> **Retail vertical e-commerce experience (confirmed Sep 2026):** a meaningful share of
+> Josh's Wix account portfolio was established retail businesses (physical retail
+> locations) that needed a bigger e-commerce presence as a secondary revenue line. Josh
+> helped build and launch those e-commerce sites. This is genuine, direct retail-industry
+> experience, distinct from the general "diverse verticals" framing below, usable for
+> postings that specifically ask for retail-industry background. Not CPG (consumer
+> packaged goods) specifically, keep that distinction honest against a JD that names CPG.
 - Onboarded and launched **25+ clients per month**, holding **120% of sales targets and 110% of implementation targets**.
+- Built and launched e-commerce websites for established retail businesses adding a bigger online storefront as a secondary revenue line alongside their physical retail locations.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
 - Directly managed and developed a team of onboarding specialists for **2 years — a team of 20, later a team of 8** — overseeing budgets, scope, and delivery for a high-value client portfolio. *(Scale and duration confirmed by Josh, Aug 2026.)*
 - Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team. *(Confirmed by Josh, Sep 2026.)*
@@ -425,6 +497,7 @@ operator talking, not like a candidate performing.
 | Sales Engagement & Enrichment | Salesloft, ZoomInfo, Gong (confirmed hands-on, Sep 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
+| Data & BI Tools | Excel (experienced), Power BI (hands-on setup for client businesses — beginner level), SQL (beginner), Python (beginner) *(confirmed by Josh, Sep 2026 — see note below)* |
 | Web Technical | HTML/CSS (hands-on, own Solenzo site + client GA4 implementation) |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
@@ -432,6 +505,16 @@ operator talking, not like a candidate performing.
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
 | Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
+
+> **Excel, Power BI, SQL, Python (confirmed by Josh, Sep 2026):** Excel is a genuine,
+> experienced-level skill, not just baseline literacy. Power BI, SQL, and Python are real
+> but explicitly beginner-level per Josh's own characterization — he has set up Power BI
+> reporting for client businesses (real, hands-on deployment, not just viewing dashboards
+> someone else built) and has beginner working familiarity with SQL and Python. Represent
+> all three as "working familiarity" or "beginner" honestly; never imply advanced or
+> production-engineering-level fluency in SQL/Python. This is enough to satisfy a JD
+> asking for "familiarity with Excel, SQL, BI tools, and/or Python" (an any-of list), but
+> not enough to claim deep technical/analytics-engineering proficiency.
 
 ---
 

@@ -1,0 +1,93 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Digital Marketing Specialist | Full-Funnel Paid Media, SEO & AI-Driven Marketing Systems",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Digital marketing professional with 15+ years across SaaS, agency, and founder-led environments, running full-funnel paid media, SEO, and landing-page work end to end. Designed and ran LinkedIn ad campaigns at Level Agency using an account-based-marketing approach, targeting small, highly researched audiences with A/B-tested setups, alongside client ad-spend budget planning and Google Ads/Meta campaign management. Runs technical SEO audits, HTML/CSS landing pages, and AI-driven marketing workflows (ChatGPT, Claude) daily at Solenzo today, translating vendor and agency deliverables into working campaigns and clean internal handoffs.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog, implementing fixes directly inside client CMS platforms.",
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click-through quality, then diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Build and update landing pages directly in HTML and CSS, and install Google Tag Manager and GA4 tracking on every site built.",
+        "Use ChatGPT and Claude daily as production tools for research, drafting, and campaign analysis, translating loosely defined business intent into working marketing output.",
+        "Track acquisition and performance across accounts using GA4 and CRM analytics, delivering reporting that drives experimentation and optimization."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Designed and ran LinkedIn ad campaigns using an account-based-marketing approach, targeting small, highly researched audiences with A/B-tested setups rather than broad targeting.",
+        "Advised client businesses on ad-spend budget planning and allocation across paid campaigns.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, coordinating execution across internal departments and agency partners.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Produced high-converting campaign assets, including landing pages, complex email sequences, and conversion-focused ad copy."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded partners onto Birdeye's proprietary listings and data-aggregator solution, direct professional experience with local SEO and listings management.",
+        "Collaborated with Product and Engineering to translate partner feedback into roadmap input."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices, including Google Business Profile setup, to improve client traffic and conversion.",
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built Zapier automations as part of client implementations, hands-on automation-building history running from 2018 through today at Solenzo."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Paid Media",
+      "items": ["Google Ads", "Meta Ads (Certified)", "LinkedIn Ads (ABM Targeting & A/B Testing)", "Budget Planning & Allocation"]
+    },
+    {
+      "category": "SEO & Content",
+      "items": ["Technical SEO Audits", "On-Page SEO", "Keyword & Competitor Research (Screaming Frog)", "Schema & Structured Data"]
+    },
+    {
+      "category": "Web & Analytics",
+      "items": ["HTML/CSS", "Landing Page Development", "Google Analytics 4", "Google Tag Manager"]
+    },
+    {
+      "category": "AI & Marketing Workflows",
+      "items": ["ChatGPT & Claude (Production Use)", "AI-Assisted Campaign Analysis", "Prompt Design"]
+    },
+    {
+      "category": "CRM & Reporting",
+      "items": ["Salesforce", "HubSpot", "Campaign ROI/CAC/LTV Reporting", "QBRs"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google/Coursera", "Meta Ads Certification — Meta"]
+}

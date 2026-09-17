@@ -1,0 +1,104 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Onboarding & Customer Success | SaaS Onboarding, Training & Retention for SMB Teams",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SaaS onboarding and customer success professional with 15+ years owning the first 30-60 days of the post-sale journey for small and growing businesses. Directly managed a team of onboarding specialists at Wix while personally onboarding and launching 25+ SMB clients per month, holding 120% of sales and 110% of implementation targets. Onboarded and trained a network of 15-20 small-business reseller partners at Birdeye, retaining 94% during tenure. Runs hands-on onboarding, configuration, and training for small, service-based businesses at Solenzo today, translating product capability into fast, visible wins and durable usage habits.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own onboarding and configuration for a portfolio of small, service-based businesses, running kickoff-to-activation and mapping each client's operations onto a working CRM and automation setup.",
+        "Architected and deployed a complete GoHighLevel marketing-automation system, 20+ workflows spanning lead capture, appointment booking, no-show recovery, and post-sale onboarding nurture, giving new clients a fast, visible first win.",
+        "Identify strategic opportunities to expand retainer scope, tracking client usage and engagement to flag at-risk accounts early and keep them on track.",
+        "Design and deploy automated lifecycle sequences and onboarding workflows that activate, nurture, and retain high-value users at scale.",
+        "Document every client interaction, timeline, and deliverable across GoHighLevel, HubSpot, and Notion, keeping onboarding auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.",
+        "Managed multi-stakeholder accounts, translating performance data into strategic recommendations that kept clients engaged post-launch."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 small-business reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail), retaining all but one (~94% retention) during tenure.",
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation-management tools.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction and got partners to first value faster.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Took on team lead responsibilities for the sales team alongside individual account work, building internal processes that reduced handoff errors and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ SMB and mid-market clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), coaching them to a consistent onboarding standard across a high-value client portfolio.",
+        "Led hands-on training and digital growth consultations that got clients to a working, revenue-generating setup quickly, including Google Business Profile connection at launch.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, then handed off to the implementation team to execute.",
+        "Guided client onboarding, workflow design, and API integrations, advising clients on CRM adoption aligned to their growth stage and team size."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "SaaS Onboarding & Implementation",
+      "items": ["Kickoff-to-Activation Ownership", "Multi-Project Onboarding Management", "Time-to-Value Acceleration", "Configuration & Setup"]
+    },
+    {
+      "category": "Training & Enablement",
+      "items": ["Live Product Training & Demos", "Configuration Walkthroughs", "Documentation & Playbooks"]
+    },
+    {
+      "category": "SMB Customer Success",
+      "items": ["SMB Client Relationship Management", "Adoption & Usage-Habit Building", "At-Risk Account Identification", "Churn Mitigation"]
+    },
+    {
+      "category": "CRM & Automation",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Workflow Automation (Zapier, Make, n8n)"]
+    },
+    {
+      "category": "Operations",
+      "items": ["Cross-Functional Coordination", "Process Documentation", "Data Hygiene"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate — Google/Coursera", "Meta Ads Certification — Meta"]
+}
