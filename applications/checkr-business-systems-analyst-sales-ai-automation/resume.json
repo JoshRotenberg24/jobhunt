@@ -1,0 +1,87 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "GTM Automation & AI Agent Systems Builder",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Revenue operations builder with 5+ years designing and shipping AI-driven automation for GTM teams, from lead enrichment and outreach to full agent architectures with custom evaluation logic. Fluent in translating loosely-defined business intent into working prompts, workflows, and code (SQL for Power BI/BigQuery/GA4, Python and JavaScript in automation-platform code steps), and in bridging non-technical stakeholders and technical execution. Built and shipped 20+ production automation workflows spanning capture, qualification, booking, and retention.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel marketing-automation system, 20+ production workflows spanning lead capture/tagging/routing, qualification, appointment booking, no-show recovery, onboarding, and retention.",
+        "Broke down manual workflows into agent architectures with custom logic, writing Python and JavaScript in Zapier/Make/n8n code steps to extend automation beyond point-and-click configuration.",
+        "Translated non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable LLM output.",
+        "Designed self-improving evaluation loops and built rubric-based grading criteria to monitor AI agent output quality, performing the underlying data labeling personally to keep the feedback loop grounded.",
+        "Built SQL-backed performance dashboards (Power BI, BigQuery/GA4) tracking pipeline velocity, funnel progression, and automation ROI, giving client stakeholders the data to decide which workflows to scale next.",
+        "Own the primary strategic relationship for a portfolio of B2B clients, translating operational requirements directly into automated system design."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, translating GTM data into optimization recommendations delivered through QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, bridging business priorities and technical execution.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction with data rather than intuition."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built Zapier automations integrating Accelo's CRM/PSA platform with client systems, hands-on automation-building history predating Solenzo by several years.",
+        "Sold and scoped Accelo's own CRM/PSA (professional services automation) platform to agencies, advising on workflow design, contact management, and pipeline automation configuration.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-suite executives as a trusted advisor on operational system design.",
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps, holding that rank across all but the final few months of a 27-month tenure while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & Automation",
+      "items": ["Agentic AI", "Multi-Agent Orchestration", "LLM Workflows", "Prompt Design", "Requirements-to-Prompt Translation", "Rubric-Based Evaluation", "Rapid Prototyping"]
+    },
+    {
+      "category": "Scripting & Data",
+      "items": ["SQL (Power BI, BigQuery/GA4)", "Python (automation code steps)", "JavaScript (automation code steps)", "Excel", "Power BI"]
+    },
+    {
+      "category": "GTM & Revenue Tools",
+      "items": ["Salesforce (CRM + workflow A/B-testing advisory)", "HubSpot", "GoHighLevel", "Zapier", "Make", "n8n", "Salesloft", "ZoomInfo", "Gong"]
+    },
+    {
+      "category": "Process & Collaboration",
+      "items": ["Business-to-Technical Translation", "Cross-Functional Partnership", "Workflow Decomposition", "Cost/Performance Analysis", "Campaign Attribution & Pipeline Metrics"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}

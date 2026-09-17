@@ -50,6 +50,19 @@
 > re-ask; the badge is technically obtainable if Josh chooses to apply for one, but he
 > does not hold one today.
 
+> **Target role shape (confirmed by Josh, Sep 2026):** prefers onboarding, implementation,
+> and account-management roles where he inherits an already-existing client/partner
+> relationship and works to deepen, retain, or expand it, over roles centered on
+> initiating new relationships from scratch (net-new business development, cold
+> partner/customer recruitment, hunting-style sales). Not a knockout, no automatic skip
+> for a hunting-flavored title, but a real signal for the "apply only if excited" call on
+> a borderline or long-shot-band score, and worth naming explicitly in a cover letter or
+> interview when a role's actual day-to-day is warm account management even if the title
+> reads sales-flavored. When scoring, weight "inherits an existing relationship" roles
+> (CS, AM, onboarding, implementation, partner success over an established book) as a
+> genuine personal-fit differentiator, distinct from the Application Priority Score's
+> own dimensions.
+
 ## Compensation Expectations (baseline, confirmed by Josh, Sep 2026)
 
 Standing anchor for application salary-expectation questions, so this doesn't get
@@ -70,7 +83,7 @@ band.
 
 ## Education & Certifications
 
-- **B.A. Liberal Arts, Minor in Political Science** — Colorado State University, Fort Collins, CO
+- **B.A. Liberal Arts, Minor in Political Science** — Colorado State University, Fort Collins, CO (2009)
 - **Google Digital Marketing & E-Commerce Professional Certificate** — Google / Coursera (Issued Sept 2024)
 - **Meta Ads Certification** — Meta *(confirmed by Josh Aug 2026; exact credential title and issue date still to be captured)*
 
@@ -309,8 +322,18 @@ operator talking, not like a candidate performing.
 > **HTML/CSS (confirmed by Josh, Sep 2026):** Josh's own Solenzo site is built directly
 > in HTML/CSS (not a no-code builder), and he works in HTML/CSS when implementing GA4
 > tracking on client sites. This is real, defensible hands-on HTML/CSS experience.
-> JavaScript and formal "data architectures" experience are NOT confirmed, do not claim
-> either without a separate confirmation.
+> Formal "data architectures" experience is NOT confirmed, do not claim it without a
+> separate confirmation. JavaScript is now confirmed (see the Zapier/Make/n8n code-step
+> note below) — do not use the old "not confirmed" framing for JS going forward.
+>
+> **Zapier/Make/n8n custom code steps — Python and JavaScript (confirmed by Josh, Sep
+> 2026):** beyond point-and-click workflow config, Josh has written Python and/or
+> JavaScript inside custom code steps in these automation tools as part of real production
+> workflows, not learning exercises. This is genuine, defensible hands-on scripting
+> experience, distinct from — and stronger than — the general "beginner Python" framing
+> below on its own; represent it specifically as "custom code steps in automation
+> platforms" rather than implying general software-engineering-level Python/JS fluency.
+>
 - Claim, set up, and optimize Google Business Profile listings (categories, descriptions, services, photos, posts) as the first deliverable in every client engagement, the foundation the rest of each client's local SEO and lead-flow program builds on.
 - Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.
 - Architect and deploy autonomous, AI-driven marketing systems for service-based businesses — largely on GoHighLevel — automating lead enrichment, outreach, and appointment booking.
@@ -343,6 +366,18 @@ operator talking, not like a candidate performing.
 - Analyze complex marketing and operational datasets, extracting actionable insights and structured recommendations that improve campaign performance.
 
 ### Level Agency — Account Executive / Client Strategist (Sep 2024 – Feb 2025)
+> **Employment type and departure (confirmed by Josh, Sep 2026) — PRIVATE, NOT resume/
+> cover-letter/application content under any circumstances unless Josh explicitly opts in
+> for a specific document:** this was a full-time role, not a contract engagement — do
+> not label it "(Contract)" or as a concurrent/part-time arrangement alongside Solenzo;
+> that would be inaccurate. Josh was let go after reporting shady behavior he witnessed at
+> the company. This is real, sympathetic context for the short ~5-month tenure, useful for
+> Claude's own calibration and for interview prep if the short stint comes up, but never
+> stated externally by default. If an interview requires an answer, the safe, honest,
+> non-disparaging framing is something like "it ended after an internal disagreement over
+> business practices I wasn't comfortable with" — specifics are Josh's call per
+> conversation, never volunteered by default.
+>
 > **Ad-spend budget planning (confirmed Sep 2026):** Josh helped client businesses with
 > budget planning for paid ad campaigns at Level Agency. No specific dollar figure or range
 > captured yet — ask Josh for a real number (even a bracketed estimate) before claiming a
@@ -418,7 +453,16 @@ operator talking, not like a candidate performing.
 > experience, distinct from the general "diverse verticals" framing below, usable for
 > postings that specifically ask for retail-industry background. Not CPG (consumer
 > packaged goods) specifically, keep that distinction honest against a JD that names CPG.
+>
+> **Salesforce workflow A/B testing — advisory, not hands-on build (confirmed by Josh,
+> Sep 2026):** at Wix, Josh advised on A/B testing strategy for a Salesforce
+> workflow-building effort but did not build the Salesforce automation himself — someone
+> else implemented it. Genuine, attributable to this role specifically. Represent this
+> honestly as advisory/strategy input on Salesforce workflow testing, never as hands-on
+> Salesforce Flow/Process Builder development — that distinction matters for any posting
+> that specifically asks for Salesforce admin or automation-building experience.
 - Onboarded and launched **25+ clients per month**, holding **120% of sales targets and 110% of implementation targets**.
+- Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it.
 - Built and launched e-commerce websites for established retail businesses adding a bigger online storefront as a secondary revenue line alongside their physical retail locations.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
 - Directly managed and developed a team of onboarding specialists for **2 years — a team of 20, later a team of 8** — overseeing budgets, scope, and delivery for a high-value client portfolio. *(Scale and duration confirmed by Josh, Aug 2026.)*
@@ -433,7 +477,7 @@ operator talking, not like a candidate performing.
 > **Zapier automation (confirmed by Josh, Sep 2026):** Josh built Zapier automations at
 > Accelo, making his hands-on automation-building history run from at least 2018-2020
 > through the present at Solenzo, not a skill that started recently.
-- Ranked **top three in sales on a team of 8 to 15 reps** for effectively the full tenure (all but the final few months), holding that ranking while **quota roughly doubled** over the period.
+- Ranked **top three in sales** on a team that scaled from **8 to 15 reps**, holding that rank across all but the final few months of a **27-month tenure** (Apr 2018 - Jul 2020), while **quota roughly doubled** over the period.
 - Closed deals of **$20K and larger** later in tenure, mixed with a base of smaller wins.
 - Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
@@ -497,8 +541,8 @@ operator talking, not like a candidate performing.
 | Sales Engagement & Enrichment | Salesloft, ZoomInfo, Gong (confirmed hands-on, Sep 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
-| Data & BI Tools | Excel (experienced), Power BI (hands-on setup for client businesses — beginner level), SQL (beginner), Python (beginner) *(confirmed by Josh, Sep 2026 — see note below)* |
-| Web Technical | HTML/CSS (hands-on, own Solenzo site + client GA4 implementation) |
+| Data & BI Tools | Excel (experienced), Power BI (hands-on setup for client businesses), SQL (working proficiency — Power BI data modeling, BigQuery/GA4 queries), Python & JavaScript (custom code steps in Zapier/Make/n8n automation workflows) *(confirmed by Josh, Sep 2026 — see note below)* |
+| Web Technical | HTML/CSS (hands-on, own Solenzo site + client GA4 implementation), JavaScript (automation-tool code steps) |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
@@ -506,15 +550,18 @@ operator talking, not like a candidate performing.
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
 | Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
 
-> **Excel, Power BI, SQL, Python (confirmed by Josh, Sep 2026):** Excel is a genuine,
-> experienced-level skill, not just baseline literacy. Power BI, SQL, and Python are real
-> but explicitly beginner-level per Josh's own characterization — he has set up Power BI
-> reporting for client businesses (real, hands-on deployment, not just viewing dashboards
-> someone else built) and has beginner working familiarity with SQL and Python. Represent
-> all three as "working familiarity" or "beginner" honestly; never imply advanced or
-> production-engineering-level fluency in SQL/Python. This is enough to satisfy a JD
-> asking for "familiarity with Excel, SQL, BI tools, and/or Python" (an any-of list), but
-> not enough to claim deep technical/analytics-engineering proficiency.
+> **Excel, Power BI, SQL, Python/JS (confirmed by Josh, Sep 2026, updated Sep 2026):**
+> Excel is a genuine, experienced-level skill, not just baseline literacy. Power BI is
+> real, hands-on deployment for client businesses (not just viewing dashboards someone
+> else built). SQL moved beyond "beginner" once Josh confirmed real production use
+> writing queries for Power BI data modeling and BigQuery/GA4 pulls — represent it as
+> "working proficiency," not advanced/analytics-engineering-level. Python and JavaScript
+> are confirmed via custom code steps inside Zapier/Make/n8n automation workflows (real
+> production use, not learning exercises) — represent this specifically as "scripting in
+> automation-platform code steps," not general software-engineering fluency. None of
+> these should be presented as senior data-engineering or full-stack-developer-level
+> proficiency, but all four now clear the two-minute-defensibility bar for a JD asking
+> for hands-on SQL, Python, or JavaScript in a revenue-operations/automation context.
 
 ---
 
