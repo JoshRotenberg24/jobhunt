@@ -1,0 +1,96 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Partner Marketing & Integrated Campaign Manager",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing manager with 15+ years running integrated B2B campaigns end to end, from audience segmentation and go-to-market planning through delivery and reporting. Built and managed a channel/reseller partner network at Birdeye (15-20 partners, ~94% retention) and now architects full-funnel marketing automation at Solenzo across GoHighLevel and HubSpot, with hands-on Salesforce experience from two prior SaaS roles. Comfortable running experimentation (A/B testing, CRO) and always-on lifecycle campaigns inside a matrixed, cross-functional environment.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.",
+        "Architected and deployed a complete GoHighLevel marketing-automation system — 20+ workflows — spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, onboarding nurture, and long-term reactivation.",
+        "Architect and implement CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and lead-routing logic, with strict data-hygiene protocols.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership.",
+        "Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.",
+        "Designed and ran LinkedIn ad campaigns using an account-based-marketing approach, targeting small, highly researched audiences with A/B-tested setups rather than broad targeting.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing automation and reputation management solutions.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Campaign & GTM Management",
+      "items": ["Integrated Campaign Planning", "Go-to-Market Strategy", "Audience Segmentation", "Email Nurturing & Lifecycle Marketing", "A/B Testing & CRO", "Campaign Reporting & ROI Analysis"]
+    },
+    {
+      "category": "Partner & Channel Marketing",
+      "items": ["Partner / Reseller Enablement", "Partner Onboarding & Training", "Channel Program Management", "Cross-Functional Stakeholder Coordination"]
+    },
+    {
+      "category": "CRM & Marketing Automation",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Marketing Automation Workflow Design", "Lead Routing & Segmentation", "Data Hygiene"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["GA4", "Google Search Console", "Google Tag Manager", "Campaign Attribution", "ROI Dashboards", "QBRs", "KPI Tracking"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Google Workspace", "Notion", "Asana", "Monday.com", "Slack"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ]
+}
