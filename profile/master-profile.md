@@ -496,6 +496,18 @@ operator talking, not like a candidate performing.
 > **Zapier automation (confirmed by Josh, Sep 2026):** Josh built Zapier automations at
 > Accelo, making his hands-on automation-building history run from at least 2018-2020
 > through the present at Solenzo, not a skill that started recently.
+>
+> **Aviation-industry client exposure (confirmed by Josh, Sep 2026):** one of Josh's Accelo
+> accounts was a client business in the aircraft buying, selling, and storage trade, real,
+> direct client-side exposure to the aviation industry, sold and managed as a standard
+> Accelo AE relationship (CRM/PSA software adoption, onboarding, workflow design), not a
+> specialized aviation-software engagement. Josh has also had informal conversations with
+> a couple of other individuals in the aviation industry who needed project-management
+> help, not paying clients or a formal account, just direct exposure to what the industry's
+> operational pain points sound like. Genuine and usable for aviation-adjacent postings
+> (e.g., Portside) as a real touchpoint and honest "why this space" grounding, but keep it
+> scoped honestly: this is client-side exposure to one aviation business plus informal
+> conversations, not professional aviation-industry or aviation-software experience.
 - Ranked **top three in sales** on a team that scaled from **8 to 15 reps**, holding that rank across all but the final few months of a **27-month tenure** (Apr 2018 - Jul 2020), while **quota roughly doubled** over the period.
 - Closed deals of **$20K and larger** later in tenure, mixed with a base of smaller wins.
 - Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.
