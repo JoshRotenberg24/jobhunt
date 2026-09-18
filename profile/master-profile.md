@@ -667,6 +667,7 @@ with its scope and delete the line here.
   Metrics); typical retainer/contract value per client is still unrecorded.
 - **Level Agency accounts.** Portfolio size and spend under management.
 - **Accelo implementation scope.** Typical implementation size in seats or hours.
+- **Demo/POC volume and outcomes.** Number of product demos or proof-of-concept engagements run in any role, and any win-rate or conversion data. Directly requested by pre-sales/Solutions-Engineer-flavored JDs (e.g., Portside, Sep 2026) and currently unevidenced — asked directly, Josh didn't have a number to give at the time.
 
 **Rules for filling these:** the number comes from Josh, never from inference. Ranges are
 acceptable and should be recorded as ranges. Anything he is unsure of gets tagged

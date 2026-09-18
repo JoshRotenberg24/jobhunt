@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Solutions Engineer & Technical Pre-Sales Specialist",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical pre-sales and solutions professional with 15+ years translating complex product capabilities into clear business value for B2B customers. Owns technical onboarding, API integrations, and CRM/workflow design directly with client teams, including C-suite stakeholders, and builds the kind of proof-of-concept tooling that lets a prospect see value fast, most recently a self-serve automation audit that enrolled 180+ businesses. Comfortable as the technical voice of the customer, coordinating across Sales, Product, and Engineering.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Built segmented cold-outreach engines plus an automated prospect \"audit\" workflow, a self-serve proof-of-concept tool that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized outreach.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable LLM output.",
+        "Architect and implement CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and lead-routing logic, with strict data-hygiene protocols.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.",
+        "Architect and deploy autonomous, AI-driven marketing systems for service-based businesses, primarily on GoHighLevel, automating lead enrichment, outreach, and appointment booking."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure, managing the pipeline and account records in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, coordinating campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations, including for a client in aircraft buying, selling, and storage, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Pre-Sales & Technical Solutions",
+      "items": ["Technical Discovery", "Demo & Proof-of-Concept Design", "API Integration Coordination", "Requirements-to-Solution Translation"]
+    },
+    {
+      "category": "CRM & Sales Systems",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Workflow Design", "Pipeline Automation"]
+    },
+    {
+      "category": "Cross-Functional Collaboration",
+      "items": ["Product & Engineering Coordination", "Customer-Feedback-to-Roadmap Translation", "C-Suite Relationship Building"]
+    },
+    {
+      "category": "AI & Automation",
+      "items": ["Agentic AI", "LLM Workflows", "Prompt Engineering", "Python & JavaScript (Automation Scripting)", "Zapier", "Make", "n8n"]
+    },
+    {
+      "category": "Communication & Discovery",
+      "items": ["Consultative Discovery", "Technical-to-Business Translation", "Executive Presentations"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ]
+}

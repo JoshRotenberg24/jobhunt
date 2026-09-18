@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 18, 2026",
+  "company": "Portside",
+  "role": "Solutions Engineer",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "One of my Accelo accounts was a client in the business of buying, selling, and storing aircraft, and I've talked with a couple of other people in aviation since who needed project-management help. That's a real but limited window into the industry, not aviation-software expertise, and I want to be upfront about that scope.",
+    "At Accelo I owned technical onboarding, workflow design, and API integrations directly with client teams, building trust with C-suite stakeholders as the technical voice in the account, the aviation client included. At Solenzo I design and build the kind of proof-of-concept tooling this role calls for: a self-serve audit workflow that scored a business's digital footprint and enrolled 180-plus prospects, translating a technical capability into something a non-technical buyer could see the value of immediately. At Birdeye I worked directly with Product and Engineering to turn customer feedback into roadmap input, and managed the CRM pipeline in Salesforce.",
+    "I haven't carried a formal Solutions Engineer title, and my aviation exposure is real but narrow. What I bring is 15 years of being the technical point of contact who takes a prospect from discovery to a working system, across CRM, API, and automation platforms. I'd welcome the chance to talk through how that applies to Portside's platform."
+  ],
+  "closing": "Sincerely,"
+}
