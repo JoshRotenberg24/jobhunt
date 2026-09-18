@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Client-facing technical support professional with 15+ years troubleshooting, configuring, and resolving technical issues for SaaS clients, using Zendesk and other ticketing systems to track and close first-line and escalated requests. Explains technical concepts clearly to non-technical users and documents solutions and internal playbooks as a standing practice. Comfortable working independently and reliably in a fully remote environment.",
+  "summary": "Client-facing technical support professional with 15+ years troubleshooting, configuring, and resolving technical issues for SaaS clients, tracking cases and client records in CRM and project-management systems including HubSpot, Salesforce, GoHighLevel, and Jira. Explains technical concepts clearly to non-technical users and documents solutions and internal playbooks as a standing practice. Comfortable working independently and reliably in a fully remote environment.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -28,8 +28,7 @@
       "dates": "Feb 2023 – Apr 2024",
       "bullets": [
         "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
-        "Collaborated with Product and Engineering to escalate and resolve structured, high-priority customer issues.",
-        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+        "Collaborated with Product and Engineering to escalate and resolve structured, high-priority customer issues."
       ]
     },
     {
@@ -69,7 +68,7 @@
     },
     {
       "category": "Ticketing & Support Systems",
-      "items": ["Zendesk", "Jira", "HubSpot", "Salesforce", "GoHighLevel"]
+      "items": ["Jira", "HubSpot", "Salesforce", "GoHighLevel"]
     },
     {
       "category": "Customer Communication & Tools",

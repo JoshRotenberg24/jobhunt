@@ -575,7 +575,20 @@ operator talking, not like a candidate performing.
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, ClickUp, Screaming Frog, Google Apps, Procore |
+
+> **Zendesk — comparative/sales-side exposure only (confirmed by Josh, Sep 2026,
+> correcting an earlier overstatement):** Josh's Zendesk experience is comparative
+> demonstration work from the sales side, building side-by-side comparisons of what a
+> workflow would look like in Zendesk versus another system for a prospect or internal
+> evaluation. This is **not** hands-on day-to-day ticket-queue/support-agent usage, and
+> should never be represented as such. Exact employer/role attribution not yet captured —
+> ask Josh before using it in any role-specific bullet. It does not clear the
+> two-minute-defensibility bar for a JD asking specifically for hands-on Zendesk
+> ticketing/agent experience; it is fair to mention only as light platform familiarity
+> from a sales-comparison context, and weaker ticketing-system evidence than Josh's
+> genuinely operational use of HubSpot, Salesforce, GoHighLevel, and Jira for tracking
+> client issues and records.
 
 > **Excel, Power BI, SQL, Python/JS (confirmed by Josh, Sep 2026, updated Sep 2026):**
 > Excel is a genuine, experienced-level skill, not just baseline literacy. Power BI is
