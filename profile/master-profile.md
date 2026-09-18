@@ -50,6 +50,16 @@
 > re-ask; the badge is technically obtainable if Josh chooses to apply for one, but he
 > does not hold one today.
 
+> **Reason for applying below prior seniority level (confirmed by Josh, Sep 2026):** the
+> honest answer for why he's applying to hourly, entry-to-mid, or otherwise
+> below-prior-scope roles (e.g. Sprouts Administrative Coordinator) is that the job market
+> is bad right now, not a career pivot or a stated preference for less responsibility. Use
+> this as the grounded, honest answer for an interview "why this role" or "why are you
+> looking at something like this" question — plainly, without spinning it into a fake
+> passion narrative, and pair it with what's genuinely true alongside it (real transferable
+> skills, real interest in the work itself, schedule/location fit) rather than standing
+> alone as the whole answer.
+
 > **Target role shape (confirmed by Josh, Sep 2026):** prefers onboarding, implementation,
 > and account-management roles where he inherits an already-existing client/partner
 > relationship and works to deepen, retain, or expand it, over roles centered on
@@ -504,9 +514,20 @@ operator talking, not like a candidate performing.
 > customer-vendor-supplier systems, not retail merchandising, budtender training, or
 > field sales, keep that distinction honest against postings asking specifically for the
 > latter.
+>
+> **Cash handling (confirmed by Josh, Sep 2026):** as co-owner during an era when
+> dispensaries had limited access to standard banking, Josh regularly and personally
+> handled cash — counting, till/drawer-type handling, and deposits — as a normal part of
+> running the business, not an occasional or incidental task. This is real, direct
+> cash-handling experience, usable for any retail/cash-handling posting that asks for it
+> (e.g. Sprouts Farmers Market Administrative Coordinator). It does not evidence a
+> specific modern retail POS/till system, formal safe-balancing procedure, or
+> WIC/food-stamp/coupon reconciliation process — keep that distinction honest against a
+> posting that asks specifically for those.
 - Built compliance and customer-management systems from scratch in a licensed cannabis dispensary.
 - Developed early operational infrastructure — intake processes and reporting systems — scaling the business to profitability.
 - Built customer service, vendor, and supplier workflows from the ground up.
+- Personally counted and handled cash, and managed till/drawer and deposit activity, as a routine part of daily operations.
 
 ---
 
@@ -548,8 +569,15 @@ operator talking, not like a candidate performing.
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Microsoft Office (Outlook, Excel, Word), Procore |
 
+> **Microsoft Office — Outlook, Excel, Word (confirmed by Josh, Sep 2026):** beyond
+> Google Apps, Josh has real, hands-on, defensible experience with all three core
+> Microsoft Office applications — Outlook (email/calendar), Excel, and Word — not just
+> Excel in isolation. Safe to claim directly against any posting that names Microsoft
+> Office/Outlook/Excel/Word specifically (e.g. Sprouts Farmers Market Administrative
+> Coordinator).
+>
 > **Excel, Power BI, SQL, Python/JS (confirmed by Josh, Sep 2026, updated Sep 2026):**
 > Excel is a genuine, experienced-level skill, not just baseline literacy. Power BI is
 > real, hands-on deployment for client businesses (not just viewing dashboards someone
