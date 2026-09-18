@@ -1,0 +1,92 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "CRM & Field Operations Scheduling Coordinator",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operations coordinator with 15+ years managing client schedules, onboarding calendars, and CRM-driven service workflows in fast-moving, deadline-driven environments. Built and ran the appointment-booking, confirmation, reminder, and no-show-recovery systems that electrical, HVAC, and plumbing trade businesses use to keep field work on schedule. Coordinated 25+ client onboarding launches a month at peak volume and reprioritized daily workloads across concurrent engagements when timelines shifted.",
+  "experience": [
+    {
+      "title": "CRM & Scheduling Systems Architect — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architected and deployed a complete GoHighLevel scheduling and automation system — 20+ workflows — covering lead capture and routing, appointment booking with confirmation and reminders, no-show recovery, and post-service follow-up, built specifically for electrical, plumbing, and HVAC trade businesses.",
+        "Architect and implement CRM systems in GoHighLevel (primary) and HubSpot, including contact segmentation, lifecycle stages, and lead/appointment routing logic, with strict data-hygiene protocols.",
+        "Managed up to 3 concurrent client engagements at peak, coordinating competing priorities and deadlines while personally building and running each client's operational systems.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping schedules and project records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network spanning health, home services, and retail verticals, coordinating rollout schedules and driving rapid adoption.",
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K), retaining all but one (~94% retention) during tenure.",
+        "Developed scalable communication workflows and automated training sequences that reduced onboarding friction and kept partners informed of status and next steps."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, coordinating campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists for 2 years — a team of 20, later a team of 8 — overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.",
+        "Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Scheduling & CRM Systems",
+      "items": ["GoHighLevel (Appointment Booking & Automation Workflows)", "HubSpot", "Salesforce", "Lead & Appointment Routing", "Workflow Design", "Data Hygiene"]
+    },
+    {
+      "category": "Field & Client Operations",
+      "items": ["Multi-Account / Multi-Market Coordination", "Onboarding & Launch Management", "Cross-Functional Coordination", "Escalation Management", "Process Mapping & SOP Development"]
+    },
+    {
+      "category": "Home Services / Trades Vertical",
+      "items": ["Electrical, HVAC & Plumbing Client Systems", "Home-Services Marketing Automation", "Local SEO & Google Business Profile"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Notion", "Slack", "Asana", "Monday.com", "Procore", "ClickUp", "Google Apps"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ]
+}
