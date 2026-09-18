@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 18, 2026",
+  "company": "Kovo",
+  "role": "Customer Experience — build with AI",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I don't have 4+ years in consumer fintech, lending, or credit, and I want to say that first rather than let it surface later. What pulled me to Kovo is the mission itself: I have a real personal interest in making ownership and financial processes easier for people who've been locked out of them, and building AI-powered systems that scale that access is exactly the kind of work I already do, just for a different customer base.",
+    "At Solenzo I review AI agent output against rubric-based grading criteria I built myself, run self-improving evaluation loops, and have architected 20-plus automation workflows spanning the full customer lifecycle, the same core loop of reviewing agent performance, finding patterns, and expanding automation coverage that this role is built around. I own escalations end to end (Accelo, Birdeye), and I've run Solenzo as a solo operator since 2024, which means I'm used to writing the playbook when one doesn't exist yet, not waiting for someone else to write it.",
+    "I don't have hands-on experience with disputes, chargebacks, or regulatory complaint handling specifically, and that's a real gap for a role at this stage of a regulated fintech. What I bring is the systems-building instinct this role actually runs on: reviewing AI output, finding the pattern, and closing the gap myself. I'd welcome the chance to talk through how that applies to Kovo's customers."
+  ],
+  "closing": "Sincerely,"
+}

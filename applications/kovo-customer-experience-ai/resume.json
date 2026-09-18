@@ -1,0 +1,94 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "AI-Driven Customer Support Systems Builder",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operator who builds and evaluates AI-driven support and workflow systems for a living. At Solenzo, reviews AI agent output against rubric-based grading criteria, designs self-improving evaluation loops, and expands automation coverage across the full customer lifecycle, the same core loop this kind of role is built around. Owns escalations and high-stakes account issues end to end, and brings a founder's comfort with ambiguity, shifting priorities, and building the playbook instead of waiting for one.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Configure and evaluate AI-generated response output for client automation systems, building rubric-based grading criteria and performing the underlying data labeling to keep outputs on standard.",
+        "Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize conversion rates.",
+        "Architected and deployed a complete GoHighLevel marketing-automation system — 20+ workflows — spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable LLM output.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Served a banking-industry client and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage in that deal.",
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists for 2 years — a team of 20, later a team of 8 — overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI-Driven Support & Automation Systems",
+      "items": ["AI Agent Performance Review & Evaluation", "Rubric-Based Quality Grading", "Self-Improving Feedback Loops", "Workflow & Automation Design", "Automation Coverage Expansion"]
+    },
+    {
+      "category": "Customer Escalation & Resolution",
+      "items": ["High-Stakes Issue Ownership", "Escalation Management", "Customer Health & Retention Advisory", "Root-Cause Analysis"]
+    },
+    {
+      "category": "Cross-Functional Collaboration",
+      "items": ["Product & Engineering Coordination", "Operations Coordination", "Requirements Translation"]
+    },
+    {
+      "category": "Data & Systems",
+      "items": ["SQL (Working Proficiency)", "Power BI", "GA4", "GoHighLevel", "HubSpot", "Salesforce"]
+    },
+    {
+      "category": "AI & Automation Tools",
+      "items": ["Agentic AI", "LLM Workflows", "Prompt Engineering", "Python & JavaScript (Automation Scripting)", "Zapier", "Make", "n8n"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ]
+}
