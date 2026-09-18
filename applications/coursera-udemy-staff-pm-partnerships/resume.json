@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "AI Product Builder & Systems Architect",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Builder and systems architect with 15+ years translating ambiguous business and customer intent into shipped products and services. Architects AI-driven agent systems and automation products end to end for B2B clients at Solenzo, from requirements through design, launch, and iteration. Took a brand-new product line from proof of concept to a profitable business at Wix, building the team's confidence and shipping through genuine ambiguity. Moves fast between strategic thinking and hands-on execution, then iterates based on real customer feedback.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable LLM output.",
+        "Architect and deploy autonomous, AI-driven marketing systems for service-based businesses, primarily on GoHighLevel, automating lead enrichment, outreach, and appointment booking.",
+        "Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize conversion rates.",
+        "Configure and evaluate AI-generated response output for client automation systems, building rubric-based grading criteria and performing the underlying data labeling to keep outputs on standard.",
+        "Architected and deployed a complete GoHighLevel marketing-automation system — 20+ workflows — spanning lead capture, qualification, appointment booking, no-show recovery, and lifecycle nurture."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, coordinating campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives. (Corroborated by direct manager's written LinkedIn recommendation.)",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists for 2 years — a team of 20, later a team of 8 — overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Product Thinking & AI Systems",
+      "items": ["AI-Driven Product / Agent Architecture", "Requirements-to-Prompt Translation", "Rapid Prototyping & Iteration", "Evaluation Frameworks & Quality Rubrics", "Zero-to-Launch Execution"]
+    },
+    {
+      "category": "Cross-Functional Collaboration",
+      "items": ["Product & Engineering Coordination", "Customer-Feedback-to-Roadmap Translation", "Cross-Functional Team Leadership"]
+    },
+    {
+      "category": "AI & Automation Tools",
+      "items": ["Agentic AI", "LLM Workflows", "ChatGPT", "Claude Code", "Prompt Engineering", "Python & JavaScript (Automation Scripting)", "n8n", "Zapier", "Make"]
+    },
+    {
+      "category": "Data & Decision-Making",
+      "items": ["GA4", "Power BI", "SQL", "Campaign & Conversion Analytics", "A/B Testing"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Jira", "GoHighLevel", "HubSpot", "Salesforce", "Notion"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ]
+}
