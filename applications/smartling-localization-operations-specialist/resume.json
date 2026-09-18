@@ -1,0 +1,95 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Client Operations & Program Management Specialist",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client operations specialist with 15+ years owning end-to-end account relationships for enterprise and SMB clients, translating requirements into configured workflows across CRM, project-management, and automation platforms. Documents and improves processes as a standing practice, and has spent the last two-plus years applying AI-enabled tooling to streamline client operations at scale. Comfortable as the primary point of contact, coordinating engineering, vendors, and cross-functional teams to keep a client program on track across competing priorities.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.",
+        "Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Design self-improving loops and evaluation frameworks to monitor agent outputs and continuously optimize conversion rates.",
+        "Managed up to 3 concurrent client engagements at peak, coordinating competing priorities and deadlines while personally building and running each client's operational systems."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, coordinating campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists for 2 years — a team of 20, later a team of 8 — overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client & Program Operations",
+      "items": ["End-to-End Account Ownership", "Client Relationship Management", "Process Documentation & Improvement", "Cross-Functional Coordination (Engineering, Product, Vendors)", "Escalation Management"]
+    },
+    {
+      "category": "Project & Reporting Tools",
+      "items": ["Jira", "Asana", "Google Sheets", "Monday.com", "ClickUp", "Notion"]
+    },
+    {
+      "category": "CRM & Automation Platforms",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Workflow Configuration", "Data Hygiene"]
+    },
+    {
+      "category": "AI & Process Automation",
+      "items": ["AI-Enabled Workflow Design", "Zapier", "Make", "n8n", "Prompt Engineering", "Process Optimization"]
+    },
+    {
+      "category": "Communication & Client Management",
+      "items": ["Multi-Stakeholder Communication", "Cross-Time-Zone Coordination", "Client Escalation Handling"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ]
+}
