@@ -5,18 +5,28 @@
 **Req:** 376084
 **Date:** 2026-09-14
 
+> ## ⛔ STATUS: NOT PURSUING — schedule eligibility failure (confirmed by Josh, Sep 2026)
+> Josh confirmed nights and weekends do not work for him. This posting's schedule
+> requirement ("flexible schedule incl. nights/weekends/holidays") is a core, structural
+> condition of an hourly store-floor role, not a soft preference item, so this is a real
+> hard blocker, not a long-shot score. The earlier "evenings/weekends/holidays acceptable"
+> note this eligibility check relied on (Aug 2026, re: DCPA) was wrong/overstated and has
+> been corrected in `master-profile.md`. Eligibility cap applies (see Step 5 of the
+> `/tailor-resume` skill). **Josh's call: drop this application.** Built resume/prep files
+> below are kept as a record, not an active application in progress.
+
 ---
 
 ## Application-Form and Eligibility Check
 
 | Item | Classification | Notes |
 | :--- | :--- | :--- |
+| **Flexible schedule incl. nights/weekends/holidays** | **FAILS — hard blocker** | Confirmed by Josh, Sep 2026: nights and weekends do not work. Corrects the earlier (wrong) Aug 2026 "acceptable" note in `master-profile.md`. This is a core, non-negotiable scheduling condition of the role, not a preference item. |
 | Age 18+ | Application-form | No issue — Josh is well above 18. |
 | Work authorization (I-9) | Application-form | No issue — U.S. citizen (confirmed by Josh). |
 | Work location (Westminster, CO, onsite) | Application-form | No issue — within Denver metro, no relocation needed. |
 | HS diploma or equivalent | Resume-evidenced | Exceeded — B.A., Colorado State University. |
 | 1–2 yrs retail store accounting/admin/HR (preferred, not required) | Candidate confirmation needed / adjacent | No grocery-store-specific or bookkeeping experience on file. Real admin, hiring, onboarding, reporting, and (per below) cash-handling experience exists, but not in a grocery/general-retail setting. |
-| Flexible schedule incl. nights/weekends/holidays | Resume-evidenced | Profile confirms this is acceptable (confirmed Aug 2026). |
 | Outlook, Excel, Word proficiency | **Resume-evidenced** | Confirmed by Josh, Sep 2026 — real, defensible hands-on experience with all three, beyond the Google Apps already on file. Added to `master-profile.md` and this resume. |
 | Bookkeeping/accounting software knowledge | **Gap** | Nothing in the profile evidences bookkeeping or accounting-software experience. |
 | HR/payroll software knowledge (HRIS, timekeeping systems) | **Gap** | Profile shows CRM systems (Salesforce, HubSpot, GoHighLevel), not HRIS/payroll platforms. |
@@ -24,29 +34,36 @@
 | Physical requirements (lift 30 lbs, sit for extended periods, etc.) | Application-form | Self-certification at application/onboarding, not a resume claim. |
 | PPE compliance | Application-form | Onboarding requirement, not a resume claim. |
 
-No hard eligibility failure found — no license, work-authorization, or location blocker. Eligibility cap does not apply.
+**Hard eligibility failure found: schedule requirement.** Eligibility cap applies — total capped at 25 regardless of the strength shown elsewhere below.
 
 ---
 
 ## Application Priority Score
 
 ```
-🔵 Application Priority Score: 61 / 100 — Solid stretch
-[████████████░░░░░░░░]  61%
+🔴 Application Priority Score: 25 / 100 — Eligibility cap (schedule)
+[█████░░░░░░░░░░░░░░░]  25%
 ```
 *Internal decision aid — not a prediction of Sprouts' own screening outcome.*
 
-*Updated Sep 2026 after Josh confirmed two open items below: personal, regular cash-handling experience at Standing Akimbo, and hands-on Microsoft Office (Outlook/Excel/Word) proficiency. Both were previously scored as unevidenced.*
+*Recomputed Sep 2026: Josh confirmed nights and weekends don't work, a hard blocker
+against this role's core schedule requirement, which caps the score regardless of the
+genuine strength shown below (cash handling and MS Office are both now confirmed and
+would otherwise have moved this to 61/100, Solid stretch). The underlying dimension
+scores are kept below for the record, but the cap governs the decision.*
 
 | Dimension | Score | Max | Why |
 | :--- | :--- | :--- | :--- |
-| Must-have requirements met | 32 | 40 | Every explicit hard requirement (age, education, physical capability, schedule flexibility) is met or exceeded. The "preferred" retail accounting/admin/HR experience still isn't grocery-specific, but real adjacent admin/onboarding/HR/cash-handling experience exists. |
-| Seniority & scope alignment | 3 | 15 | Severe downward mismatch: 15+ years as a SaaS Account Executive, team lead, and founder, applying to an hourly, entry-to-mid retail admin role. Unaffected by the new confirmations. |
+| Must-have requirements met | 32 | 40 | Every non-schedule hard requirement (age, education, physical capability) is met or exceeded; schedule now fails, see cap above. |
+| Seniority & scope alignment | 3 | 15 | Severe downward mismatch: 15+ years as a SaaS Account Executive, team lead, and founder, applying to an hourly, entry-to-mid retail admin role. |
 | Domain / industry alignment | 4 | 15 | Still no grocery/retail-store experience. Confirmed cash-handling adds real retail-adjacent operations evidence (Standing Akimbo), but it's a dispensary, not a grocery store. |
 | Differentiators / nice-to-haves | 11 | 15 | Genuine strengths: hands-on hiring/onboarding/training (including a corroborated manager reference), team leadership up to 20 people, dashboard/reporting discipline, structured records management, now rounded out by confirmed MS Office fluency. |
 | Evidence strength | 11 | 15 | Strong, quantified evidence for onboarding/training/reporting, now joined by real, direct cash-handling evidence. Safe balancing, bank-deposit reconciliation specifics, payroll transmission, and HRIS/timekeeping systems remain unevidenced. |
 
-**Band: Solid stretch (60–79)** — apply with a sharp tailored resume. The scope and domain mismatch is still real (this remains a downward move from Josh's SaaS career), but the core-function evidence gap that made this a long shot is now substantially closed.
+**Band: Eligibility cap applied — do not pursue.** The uncapped dimension total is 61
+(Solid stretch), which is genuinely how strong Josh's evidence is for the role's content.
+The cap exists specifically for this situation: strong evidence doesn't matter when a
+confirmed, structural scheduling requirement can't be met.
 
 ---
 
@@ -80,6 +97,7 @@ No hard eligibility failure found — no license, work-authorization, or locatio
 
 ## Gaps
 
+- **Hard blocker: nights and weekends don't work for Josh**, and this role's schedule is built around them. Not a content gap, a real eligibility failure. See status banner at top.
 - No formal safe-balancing procedure, refund-report process, WIC/food-stamp/coupon reconciliation, or payroll-transmission/timekeeping-system experience anywhere in the profile.
 - No bookkeeping/accounting software or HRIS/payroll-system experience documented.
 - No grocery or general retail-store industry experience — Standing Akimbo is retail-adjacent (dispensary), not grocery.

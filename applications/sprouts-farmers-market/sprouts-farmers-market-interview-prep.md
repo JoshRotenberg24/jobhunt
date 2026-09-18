@@ -1,6 +1,12 @@
 # Sprouts Farmers Market Interview Prep — Administrative Coordinator
 
-**Store:** Westminster, CO (#0301) · **Req:** 376084 · **Score:** 61/100, Solid stretch
+**Store:** Westminster, CO (#0301) · **Req:** 376084 · **Score:** 25/100, eligibility cap
+
+> ## ⛔ NOT PURSUING (confirmed by Josh, Sep 2026)
+> Josh confirmed nights and weekends don't work for him, and this role's schedule
+> requires both as a core condition, not a preference. See `match-report.md` for the
+> full eligibility writeup. Kept below as a record and in case a genuinely different,
+> weekday-only version of a similar role surfaces later — not an active application.
 
 ---
 

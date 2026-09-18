@@ -38,8 +38,13 @@
 > Yelp in local business marketing/reputation (Birdeye, Fivestars) — represent this as
 > competitive familiarity, never as Yelp Ads platform experience.
 >
-> **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
-> role (confirmed Aug 2026 re: DCPA).
+> **Non-standard schedules — corrected (Sep 2026):** nights and weekends do NOT work for
+> Josh. The earlier "evenings, weekends, and holidays are acceptable for the right role"
+> note (Aug 2026, re: DCPA) was wrong/overstated and is superseded by this correction —
+> do not cite or revive it. Treat any posting whose core schedule requires regular
+> nights and/or weekends (most retail, hospitality, and venue-floor roles) as a hard
+> knockout, the same tier as the language and location knockouts above. Holiday
+> availability specifically is unconfirmed either way, don't assume it from this note.
 >
 > **Colorado MED Agent Badge (confirmed by Josh, Sep 2026):** does not currently hold a
 > Colorado Marijuana Enforcement Division occupational license ("Agent Badge"). This is
