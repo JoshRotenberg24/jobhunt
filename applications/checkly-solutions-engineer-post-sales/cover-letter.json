@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 18, 2026",
+  "company": "Checkly",
+  "role": "Solutions Engineer, Post-Sales",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm based in Arvada, Colorado, Mountain time, not the Eastern time zone this role is scoped to. I'm flagging that upfront rather than hoping it doesn't come up.",
+    "You build with Claude Code and Codex, and I use Claude Code directly to build and maintain the Python automation pipeline behind my own job-search tooling, so that part of the role is already familiar territory. On the onboarding side, I ran technical onboarding and launch for 25-plus clients a month at Wix while leading a team of onboarding specialists, and at Birdeye I onboarded and trained a reseller partner network on technical product setup, retaining 94% of accounts. At Solenzo I write Python and JavaScript inside n8n, Zapier, and Make to extend automation beyond what's available out of the box, and I handle API integrations and technical configuration directly with clients.",
+    "I don't have hands-on monitoring or observability tooling experience, and I want to say that directly rather than stretch to cover it. What I bring is a fast learning curve on new technical stacks, real comfort with AI-assisted development tools, and 15 years of owning the customer relationship through onboarding and growth. If the time zone works, I'd welcome the conversation."
+  ],
+  "closing": "Sincerely,"
+}
