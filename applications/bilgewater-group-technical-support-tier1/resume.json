@@ -1,0 +1,82 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Technical Support Specialist",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client-facing technical support professional with 15+ years troubleshooting, configuring, and resolving technical issues for SaaS clients, using Zendesk and other ticketing systems to track and close first-line and escalated requests. Explains technical concepts clearly to non-technical users and documents solutions and internal playbooks as a standing practice. Comfortable working independently and reliably in a fully remote environment.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Install and configure Google Tag Manager on every website built at Solenzo, and guided clients through GTM setup at Wix.",
+        "Optimized a client's Google Ads account, cut spam and low-quality leads, improved click-through quality, and diagnosed on-site conversion issues as the remaining bottleneck, demonstrating full-funnel troubleshooting.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Collaborated with Product and Engineering to escalate and resolve structured, high-priority customer issues.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, coordinating campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led digital growth consultations aligning site architecture and technical setup to resolve client-reported issues and improve site performance."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical Support & Troubleshooting",
+      "items": ["First-Line & Escalated Issue Resolution", "Technical Setup & Configuration", "Root-Cause Troubleshooting", "Solution Documentation & Playbooks", "Escalation Management"]
+    },
+    {
+      "category": "Ticketing & Support Systems",
+      "items": ["Zendesk", "Jira", "HubSpot", "Salesforce", "GoHighLevel"]
+    },
+    {
+      "category": "Customer Communication & Tools",
+      "items": ["Clear Technical Explanation for Non-Technical Users", "Remote / Async Collaboration", "Google Tag Manager", "GA4", "API Integrations", "HTML/CSS"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ]
+}
