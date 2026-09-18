@@ -133,6 +133,16 @@ band.
   (e.g., Eltropy) alongside the Fetch & Funnel banking-client experience above, kept
   explicitly distinct from it: this is personal motivation, that is professional evidence.
 
+## Personal connection to K-12 education (confirmed Sep 2026)
+
+- Josh's wife is a PreK-6 vice principal. This is a genuine personal/family connection to
+  K-12 education, not a positioning angle. Usable as an honest personal note for K-12/
+  education-sector postings (e.g., PLTW) to explain genuine interest and informed
+  familiarity with how school administration operates day to day. **Keep this explicitly
+  distinct from professional K-12 industry experience, which Josh does not have** — this
+  is family/personal grounding, never to be represented as his own work history in a
+  school or district.
+
 ## Personal commitment to immigrant and refugee communities (confirmed Sep 2026)
 
 - Josh has confirmed a full, genuine personal commitment to helping immigrant and refugee
@@ -543,6 +553,14 @@ operator talking, not like a candidate performing.
 > pipeline visibility and forecast hygiene; he has not run a formal team forecast cadence
 > or owned a territory-planning process, keep that distinction honest against a JD asking
 > specifically for that broader scope.
+>
+> **E-signature / agreement tools — PandaDoc and Adobe Sign (confirmed by Josh, Sep
+> 2026):** Josh has hands-on experience sending and managing agreements through both
+> PandaDoc and Adobe Sign across his sales/account-management career, with which tool
+> used varying by employer. Exact tool-to-employer attribution not yet captured — ask
+> Josh before writing a role-specific bullet naming one tool at one company; safe to use
+> today in a role-agnostic competencies/tools list, and directly relevant to any JD asking
+> for agreement administration or e-signature/CLM-adjacent tooling.
 
 | Category | Competencies |
 | :--- | :--- |

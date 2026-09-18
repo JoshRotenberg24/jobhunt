@@ -83,7 +83,7 @@
   "competencies": [
     {
       "category": "Deal & Customer Operations",
-      "items": ["Deal-Cycle Coordination", "Contract & Agreement Support", "Quote & Proposal Support", "Budget Planning & Allocation", "Renewal & Retention Support"]
+      "items": ["Deal-Cycle Coordination", "Contract & Agreement Support", "E-Signature & Agreement Tools (PandaDoc, Adobe Sign)", "Quote & Proposal Support", "Budget Planning & Allocation", "Renewal & Retention Support"]
     },
     {
       "category": "CRM & Systems",
@@ -99,7 +99,7 @@
     },
     {
       "category": "Tools & Platforms",
-      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Notion", "ClickUp", "Asana", "Monday.com", "Slack", "Google Apps"]
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "PandaDoc", "Adobe Sign", "Notion", "ClickUp", "Asana", "Monday.com", "Slack", "Google Apps"]
     }
   ],
   "education": [
