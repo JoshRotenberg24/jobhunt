@@ -288,6 +288,20 @@ operator talking, not like a candidate performing.
 > incidental or occasional task. This is direct, professional, hands-on local SEO
 > experience, sold and delivered, and should be represented as a lead qualification for
 > any local SEO / GBP / local-listings-management posting, not as an "adjacent" skill.
+>
+> **BTU Solar (confirmed real client by Josh, Sep 2026):** a Colorado solar installer,
+> real and current Solenzo client, usable by name. The engagement started as a
+> measurement problem, not a traffic problem — junk calls and low-quality form fills were
+> obscuring real demand, and paid traffic had no GA4 attached. Josh fixed the foundation
+> first: optimized the GBP (categories, services, service areas, photos), standardized
+> citations across directories, built location/service pages around how local prospects
+> search for solar installation, and installed GTM/GA4 so calls and forms could be
+> measured against GBP activity. Campaign is **active, not a closed case study** as of
+> Sep 2026 — don't present it as a completed revenue outcome. **No confirmed
+> junk-filtering mechanism yet** (no CAPTCHA, form redesign, or call-qualification
+> process confirmed) — the verified outcome is the measurement/qualification baseline
+> itself, not a specific fix to the junk-call/spam-form problem. Don't claim a specific
+> junk-reduction mechanism until Josh confirms one happened.
 
 **Strategic & Client Leadership**
 - Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.
