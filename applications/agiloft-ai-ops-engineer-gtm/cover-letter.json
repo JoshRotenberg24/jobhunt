@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 18, 2026",
+  "company": "Agiloft",
+  "role": "AI Ops Engineer, GTM",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "Agiloft's pitch is that contract data becomes a real advantage once AI gets embedded in how GTM teams actually work, not bolted on top of it. That is the exact problem I already spend my time solving for smaller service businesses, and I would like to bring that same discipline inside one organization instead of many.",
+    "At Solenzo I architect and run AI-driven GTM automation end to end: 20-plus GoHighLevel workflows covering lead routing, appointment booking, and no-show recovery, an audit workflow that scored 180-plus prospects and triggered personalized outreach, and rubric-based grading criteria I built to keep AI-generated output on standard. I write Python and JavaScript inside n8n, Zapier, and Make to extend what those platforms do natively, and I use Claude Code to build and maintain that tooling myself. Earlier, I ran the customer-facing side of the revenue cycle directly, onboarding 25-plus clients a month at Wix and managing a 15 to 20 account partner book at Birdeye in Salesforce, so I know what breaks for sales and CS teams before AI ever touches it.",
+    "I have not run AI operations inside a larger GTM org with a formal governance function before. What I bring instead is two-plus years of actually shipping the AI-driven workflows this role is asking someone to own, plus the customer-facing background to know which ones are worth building. I would welcome the chance to talk through how I would approach the first quarter."
+  ],
+  "closing": "Sincerely,"
+}

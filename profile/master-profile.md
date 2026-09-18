@@ -334,6 +334,15 @@ operator talking, not like a candidate performing.
 > below on its own; represent it specifically as "custom code steps in automation
 > platforms" rather than implying general software-engineering-level Python/JS fluency.
 >
+> **Claude Code — AI-assisted coding tool (confirmed Sep 2026):** Josh directs and
+> iterates on this repo's Python-based job-search automation pipeline (resume and
+> cover-letter renderers, the fit-score meter, the tailoring workflow itself) using
+> Claude Code on a recurring, ongoing basis — real, current, hands-on use of an
+> AI-assisted coding tool for building and maintaining production scripts, not a one-off
+> demo. Directly usable against any JD asking for "familiarity with AI-assisted coding
+> tools such as Claude Code or OpenAI Codex," honestly framed as directing/iterating via
+> Claude Code rather than hand-writing all the code himself line by line.
+>
 - Claim, set up, and optimize Google Business Profile listings (categories, descriptions, services, photos, posts) as the first deliverable in every client engagement, the foundation the rest of each client's local SEO and lead-flow program builds on.
 - Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.
 - Architect and deploy autonomous, AI-driven marketing systems for service-based businesses — largely on GoHighLevel — automating lead enrichment, outreach, and appointment booking.

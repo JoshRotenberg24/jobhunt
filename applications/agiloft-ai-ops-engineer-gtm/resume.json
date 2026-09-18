@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "AI Operations Builder for Go-to-Market Teams",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "AI operations builder for go-to-market teams, with 15+ years across sales, onboarding, and account management in B2B SaaS. At Solenzo, architects and deploys AI-driven marketing and sales automation on GoHighLevel and HubSpot, spanning lead scoring, personalized outreach, appointment booking, and retention workflows, translating loosely-formed business intent into structured prompts and agent logic that GTM teams actually run on. Writes Python and JavaScript inside n8n, Zapier, and Make, and uses Claude Code to build and maintain that automation pipeline.",
+  "experience": [
+    {
+      "title": "AI Automation & GTM Systems Lead — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architect and deploy autonomous, AI-driven marketing and sales automation systems for service-based B2B clients — primarily on GoHighLevel — automating lead enrichment, outreach, and appointment booking.",
+        "Architected and deployed a complete CRM automation system — 20+ workflows — spanning lead capture/tagging/routing, qualification, appointment booking with confirmation and reminders, no-show recovery, onboarding nurture, and long-term reactivation.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, acting as the bridge between business intent and reliable LLM output.",
+        "Write Python and JavaScript inside custom code steps in Zapier, Make, and n8n to extend automation workflows beyond native point-and-click configuration.",
+        "Built segmented cold-outreach engines plus an automated prospect \"audit\" workflow that enrolled 180+ contacts, scoring each business's digital footprint to trigger personalized, AI-generated outreach.",
+        "Configure and evaluate AI-generated response output for client automation systems, building rubric-based grading criteria and performing the underlying data labeling to keep outputs on standard."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure, managing the pipeline and account records in Salesforce.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, coordinating campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists for 2 years — a team of 20, later a team of 8 — overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Built Zapier automations connecting Accelo's own CRM/PSA platform to other systems, starting a continuous automation-building track record that runs through today at Solenzo.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & Automation Engineering",
+      "items": ["Agentic AI", "Multi-Agent Orchestration", "LLM Workflows", "Prompt Engineering & Requirements Translation", "AI Output Evaluation & Rubric-Based Grading", "Claude Code (AI-Assisted Build Tooling)", "ChatGPT"]
+    },
+    {
+      "category": "Workflow Orchestration & Scripting",
+      "items": ["n8n", "Zapier", "Make", "Python (Automation Scripting)", "JavaScript (Automation Scripting)", "Workflow Design"]
+    },
+    {
+      "category": "CRM & GTM Systems",
+      "items": ["Salesforce (Admin / Power User)", "HubSpot", "GoHighLevel", "Salesloft", "ZoomInfo", "Gong", "Lead Routing", "Data Hygiene"]
+    },
+    {
+      "category": "GTM & Revenue Cycle",
+      "items": ["Full-Cycle Sales", "Onboarding & Implementation", "Customer Retention & Churn Prevention", "Account Expansion", "Pipeline Management", "QBRs"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["GA4", "Power BI", "SQL", "Campaign Attribution", "KPI Tracking"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ]
+}
