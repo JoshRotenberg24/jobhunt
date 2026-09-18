@@ -1,0 +1,108 @@
+{
+  "style": "classic",
+  "name": "Joshua Aaron Rotenberg",
+  "headline": "Sales Operations & Customer Engagement Specialist",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operations specialist with 15+ years supporting sales, onboarding, and account management in B2B SaaS, including CRM-based deal coordination, cross-functional stakeholder communication, and process improvement. Builds and maintains Salesforce and HubSpot workflows to keep complex, multi-stakeholder processes moving on deadline, and has advised clients directly on budget planning, account documentation, and deal cycles. Comfortable being the point of contact who keeps a deal, renewal, or onboarding process on track as priorities and stakeholders multiply.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.",
+        "Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.",
+        "Managed up to 3 concurrent client engagements at peak, coordinating competing priorities and deadlines while personally building and running each client's operational systems."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Advised client businesses on ad-spend budget planning and allocation across paid campaigns.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure, managing the pipeline and account records in Salesforce.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, coordinating campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.",
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Directly managed and developed a team of onboarding specialists for 2 years — a team of 20, later a team of 8 — overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Deal & Customer Operations",
+      "items": ["Deal-Cycle Coordination", "Contract & Agreement Support", "Quote & Proposal Support", "Budget Planning & Allocation", "Renewal & Retention Support"]
+    },
+    {
+      "category": "CRM & Systems",
+      "items": ["Salesforce (Primary CRM, multiple roles)", "HubSpot", "GoHighLevel", "Workflow Design", "Data Hygiene", "Reporting & Dashboards"]
+    },
+    {
+      "category": "Cross-Functional Coordination",
+      "items": ["Multi-Stakeholder Management", "Escalation Management", "Cross-Team Alignment", "Process Improvement"]
+    },
+    {
+      "category": "Communication & Relationship Management",
+      "items": ["Client & Partner Relationship Management", "Customer Health Advisory", "Written & Verbal Communication"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Notion", "ClickUp", "Asana", "Monday.com", "Slack", "Google Apps"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ]
+}
