@@ -1,0 +1,96 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Operations & Administrative Support Professional",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Detail-driven administrative and client support professional with 15+ years managing high-volume, deadline-sensitive workloads across SaaS, MarTech, and agency environments. Documents every client interaction, timeline, and deliverable to keep project records auditable across concurrent engagements, and has built compliance and documentation systems from scratch in a regulated industry. Proficient in Microsoft Office (Word, Excel, Outlook, PowerPoint), with a consistent record of independent ownership and cross-functional coordination under tight deadlines.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.",
+        "Manage up to 3 concurrent client engagements simultaneously as a solo operator, personally handling delivery, documentation, and technical execution for each.",
+        "Draft clean, specific correspondence and client communications across every stage of an engagement, from discovery through delivery."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets, while maintaining accuracy across a high-volume caseload.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, working within a CRM/PSA platform that also managed billing and invoicing."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Built compliance and customer-management systems from scratch in a licensed cannabis dispensary, a heavily regulated environment requiring strict documentation and adherence to state rules.",
+        "Developed early operational infrastructure, intake processes and reporting systems, scaling the business to profitability.",
+        "Built customer service, vendor, and supplier workflows from the ground up."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Administrative & Documentation",
+      "items": ["Process Documentation", "Record-Keeping", "Data Standardization", "Regulated-Environment Compliance Systems", "Deadline-Driven Delivery"]
+    },
+    {
+      "category": "Client & Stakeholder Communication",
+      "items": ["Client Correspondence", "Cross-Functional Coordination", "Discretion & Confidentiality", "Multi-Stakeholder Communication"]
+    },
+    {
+      "category": "Technical Tools",
+      "items": ["Microsoft Office (Word, Excel, Outlook, PowerPoint)", "GoHighLevel", "HubSpot", "Salesforce", "Notion"]
+    },
+    {
+      "category": "Operations",
+      "items": ["High-Volume Workload Management", "Multi-Project Coordination", "Independent Ownership", "Process Improvement"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": []
+}
