@@ -88,6 +88,13 @@ band.
   $55K-$72K) rather than inflated national averages skewed by large enterprise data.
 - **Does not apply directly** to senior IC, team-lead, strategic, or founder-scope roles —
   those need their own market-data pull and a real number from Josh, not this baseline.
+- **Mission-driven nonprofit flex (confirmed by Josh, Sep 2026):** for A Greener World's
+  Marketing Services Coordinator posting ($42K-$52K posted, well below the $72K-$78K
+  baseline), Josh chose to state a salary requirement closer to their posted range
+  ($55K-$60K) rather than his standard anchor. This is a per-application decision, not a
+  new standing baseline, but signals real willingness to flex meaningfully below the
+  associate baseline for a mission-driven nonprofit role specifically. Ask fresh each time
+  rather than assuming this discount applies broadly.
 
 ## Education & Certifications
 

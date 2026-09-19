@@ -1,0 +1,92 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing & Communications Generalist",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing and communications generalist with 15+ years managing content, campaigns, and client-facing communication in lean, fast-moving environments, working independently as part of fully remote teams since 2020. Writes newsletters, blog posts, and direct-response copy; manages CRM systems and social media content; and brings 15+ years of hands-on foodservice experience (cook, multiple restaurant types) that gives grounded, first-hand familiarity with how food businesses and their supply chains actually operate.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Own the primary strategic relationship for a portfolio of service-based businesses, serving as the day-to-day point of contact and running discovery to surface client goals and challenges.",
+        "Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Self-produce short-form, hook-driven, talking-head video content for Solenzo's own brand marketing, appearing on camera to build organic reach.",
+        "Manage up to 3 concurrent client engagements simultaneously as a solo, fully remote founder, personally handling delivery, content, and technical implementation for each."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets, landing pages, complex email sequences, and conversion-focused copy, improving lead generation and pipeline.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, coordinating execution across internal departments.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network spanning multiple regions and verticals, driving rapid adoption of new tools.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Content & Communications",
+      "items": ["Newsletters", "Blog & Web Content", "Direct-Response Copy", "Social Media Content", "Thought Leadership Writing", "Brand Voice"]
+    },
+    {
+      "category": "Client & Stakeholder Relations",
+      "items": ["Point-of-Contact Ownership", "Remote & Cross-Regional Team Coordination", "Training & Onboarding Delivery", "Stakeholder Communication"]
+    },
+    {
+      "category": "Project & Program Management",
+      "items": ["Concurrent Project Management", "Independent Remote Work", "Process Documentation", "Prioritization"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Microsoft Office (Word, Excel, Outlook)", "GoHighLevel", "HubSpot", "Salesforce", "Notion", "Google Apps", "Social Media Platforms"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)",
+    "Meta Ads Certification — Meta"
+  ]
+}
