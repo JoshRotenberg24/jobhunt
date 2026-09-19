@@ -1,0 +1,108 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical B2B Sales Professional",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "B2B sales professional with 15+ years of full-cycle selling and technical solution scoping across SaaS, MarTech, and operations. As co-owner of a licensed cannabis cultivation facility, personally specified and selected HVAC and ventilation equipment, exhaust and intake fans, ducting, climate control, and CO2 systems, working directly with equipment vendors to evaluate options and make buying decisions. Brings that same buyer-side technical fluency into a tenured B2B sales career: ranked top three in sales on a team that scaled from 8 to 15 reps, consistently performed above commission floor into accelerator tiers, and is proficient across four CRM platforms.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery to surface client goals and close on scope.",
+        "Run full-cycle sales and delivery independently as founder, from initial outreach through close and ongoing account expansion."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Personally sold and closed 2 client accounts using programmatic advertising, each at ~$30K MRR (~$360K annualized contract value), owning the client relationship and strategy while a specialist team executed the buys.",
+        "Advised client businesses on ad-spend budget planning and allocation across paid campaigns."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K) — roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps, holding that rank across all but the final few months of a 27-month tenure, while quota roughly doubled over the period.",
+        "Consistently performed above commission floor into accelerator (\"doubling\") tiers, averaging ~$17,750/month in implementation/services bookings (~$213K annualized).",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-suite executives as a trusted advisor on operational system design."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 – Sep 2012",
+      "bullets": [
+        "Specified and selected HVAC and ventilation equipment for on-site cultivation, exhaust and intake fans, ducting, climate control, and CO2 systems, working directly with equipment vendors to evaluate options and make buying decisions.",
+        "Built compliance and customer-management systems from scratch in a licensed cannabis dispensary.",
+        "Developed early operational infrastructure, intake processes and reporting systems, scaling the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Equipment & Technical Buying",
+      "items": ["HVAC/Ventilation Equipment Specification (Buyer-Side)", "Fan & Airflow Systems", "Climate Control & CO2 Systems", "Equipment Vendor Evaluation", "Regulated-Industry Compliance Systems"]
+    },
+    {
+      "category": "Sales & Account Management",
+      "items": ["Full-Cycle Sales", "Pipeline Management", "Quota Attainment", "C-Suite Relationship Building", "Technical Solution Scoping", "Account Expansion"]
+    },
+    {
+      "category": "Deal Experience",
+      "items": ["Six-Figure ACV Deals", "Commission-Accelerator Performance", "Competitive Ranking (Top 3 of 15 Reps)"]
+    },
+    {
+      "category": "CRM & Sales Platforms",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Accelo (CRM/PSA)", "Microsoft Office"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Meta Ads Certification — Meta"
+  ]
+}
