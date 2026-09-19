@@ -305,6 +305,18 @@ operator talking, not like a candidate performing.
 - Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.
 
 **Marketing & Growth Systems**
+> **Short-form video content (confirmed by Josh, Sep 2026):** Josh self-produces
+> short-form, hook-driven, talking-head video content (Reels/TikTok-style format) for
+> Solenzo's own brand marketing, appearing on camera himself. Platform and paid-vs-organic
+> status not yet confirmed — do not claim it ran as paid social ad creative or that it was
+> produced for a client account until Josh confirms further. This is genuine, defensible
+> evidence that he personally understands and executes short-form, hook-driven video
+> structure, real for a creative-strategy-adjacent posting, but should not be oversold as
+> professional paid-ad creative testing, client-facing video ad production, or agency-scale
+> creative output. Note this sits alongside, not against, the personal-brand constraint
+> above (he won't be on-camera talent for an *employer's* creator/influencer program) —
+> this is self-produced content for his own business, a different context.
+>
 > **Automation platform breadth beyond GoHighLevel (confirmed by Josh, Sep 2026):** Josh
 > builds automations in Zapier, Make, and n8n at Solenzo, in addition to native
 > GoHighLevel workflows, not siloed to one platform. He has built Zapier automations
@@ -355,6 +367,7 @@ operator talking, not like a candidate performing.
 - Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
 - Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
+- Self-produce short-form, hook-driven, talking-head video content for Solenzo's own brand marketing, appearing on camera to build organic reach.
 - Build reusable, boilerplate marketing assets and messaging frameworks as needed for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.
 
 **Operations & Technical Setup**

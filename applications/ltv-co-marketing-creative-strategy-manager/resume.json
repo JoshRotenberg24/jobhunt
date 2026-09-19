@@ -1,0 +1,109 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Growth Marketer & AI-Driven Creative Systems Builder",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Growth marketer and AI systems builder with 15+ years across SaaS, MarTech, and agency environments. Writes and tests direct-response copy, landing pages, and short-form hook-driven video content, self-produced for Solenzo's own brand, while building AI-driven workflows that turn raw business and product information into structured, testable outputs, from personalized outreach sequences to a scored digital-footprint audit tool that enrolled 180+ businesses.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Self-produce short-form, hook-driven, talking-head video content for Solenzo's own brand marketing, appearing on camera to build organic reach.",
+        "Built an automated prospect 'audit' workflow that enrolled 180+ contacts, scoring a business's digital footprint to trigger personalized outreach and content.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, bridging business intent and reliable LLM output.",
+        "Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Configure and evaluate AI-generated response output for client automation systems, and built rubric-based grading criteria for the SEO audit process, scoring outputs against defined standards.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights that inform the next round of messaging and creative."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets, landing pages, complex email sequences, and conversion-focused copy, improving lead generation and pipeline.",
+        "Designed and ran LinkedIn ad campaigns using an account-based-marketing approach, targeting small, highly researched audiences with A/B-tested setups rather than broad targeting.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed integrated digital marketing strategies across inbound, paid media, and content, coordinating execution across internal departments."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Creative & Content",
+      "items": ["Direct-Response Copywriting", "Short-Form Hook-Driven Video (self-produced)", "Landing Pages", "Email Sequences", "Thought Leadership Content", "Brand Voice"]
+    },
+    {
+      "category": "AI-Driven Creative Systems",
+      "items": ["Generative AI (ChatGPT, Claude)", "Prompt Design & Orchestration", "AI Agent Architecture", "Workflow Automation (Zapier, Make, n8n)", "Requirements-to-Concept Translation"]
+    },
+    {
+      "category": "Performance Marketing & Testing",
+      "items": ["A/B Testing", "Paid Social (LinkedIn Ads)", "Meta Ads (Certified)", "Google Ads", "Full-Funnel Acquisition", "Campaign Attribution"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["GA4", "ROI / CAC / LTV Reporting", "KPI Tracking", "QBRs", "Performance Dashboards"]
+    },
+    {
+      "category": "Cross-Functional Collaboration",
+      "items": ["Stakeholder Alignment", "Internal Department Coordination", "Partner & Vendor Coordination"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Meta Ads Certification — Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
+}
