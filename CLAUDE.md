@@ -26,6 +26,14 @@ For every job posting Josh pastes or links:
 If Josh says "skip," that's his call for that one posting, not a pattern to infer going
 forward. Never pre-filter postings on his behalf.
 
+**Verb controls scope (confirmed by Josh, Sep 2026):** when he says "rate" (or "score,"
+"what's the fit," etc.) for a posting, do step 1 only — eligibility check, Application
+Priority Score, gaps — and stop there. Don't build the resume unless he then asks for it.
+"Build," "tailor," "apply," or a bare pasted posting with no verb still get the full
+default: fit evaluation + resume build per the core rule above. This is a scope
+instruction, not a reintroduction of gatekeeping — the default is still build-first when
+he hasn't told you otherwise.
+
 ## Where things live
 
 - `profile/master-profile.md` — the only source of true candidate content. Read it fresh

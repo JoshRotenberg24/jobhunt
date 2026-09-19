@@ -33,6 +33,14 @@
 > Section 508 or WCAG accessibility guidelines. Where a posting lists it as required,
 > record it as a real gap rather than a confirmation item.
 >
+> **Payroll / benefits administration (confirmed by Josh, Sep 2026, do not re-ask):** no
+> hands-on payroll or employee-benefits administration experience anywhere in his history —
+> checked specifically against Standing Akimbo (co-owner), Wix team lead, and Fetch & Funnel
+> team lead, none of which included it. This is distinct from working *with* HR/payroll
+> software as a vendor-side implementation/onboarding consultant (which he has). Where a
+> posting requires a stated number of years in payroll, benefits, or HR administration as a
+> named professional function, record it as a real gap, not a confirmation item.
+>
 > **Yelp Ads (confirmed Aug 2026):** no hands-on Yelp Ads platform experience. He does have
 > direct competitive-landscape familiarity from working at two companies that compete with
 > Yelp in local business marketing/reputation (Birdeye, Fivestars) — represent this as
