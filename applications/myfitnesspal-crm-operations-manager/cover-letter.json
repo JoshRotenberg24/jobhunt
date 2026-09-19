@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 19, 2026",
+  "company": "MyFitnessPal",
+  "role": "CRM Operations Manager",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "This role is really about the operational mechanics behind lifecycle marketing: clean data, documented processes, and workflows that let the team move faster without breaking things. That is the job I have done for 5+ years architecting CRM and automation systems, most recently at Solenzo.",
+    "I have built full CRM architectures, segmentation, lifecycle stages, and data-hygiene protocols, in GoHighLevel and HubSpot, and deployed a 20-plus-workflow automation system spanning capture, qualification, booking, no-show recovery, onboarding, and reactivation. I break manual workflows into logic-driven systems that personalize outreach at scale, and I have built rubric-based grading criteria to QA AI-generated output against defined standards, the same discipline this role needs for Braze Canvas and Connected Content. I also work hands-on in SQL, HTML/CSS, and JavaScript, and I use Claude daily in production work, not as a novelty, to move faster on real deliverables.",
+    "I have not worked in Braze specifically, my platform depth is GoHighLevel, HubSpot, and Salesforce, but the underlying skill, architecting segmentation and automation logic, documenting governance, and troubleshooting data pipelines, is the same skill regardless of which platform it runs on. I would welcome the chance to talk through how that transfers to your Braze environment."
+  ],
+  "closing": "Sincerely,"
+}

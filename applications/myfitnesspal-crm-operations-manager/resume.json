@@ -1,0 +1,107 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "CRM & Marketing Automation Operations Manager",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "CRM and marketing automation systems builder with 15+ years in MarTech, SaaS, and agency environments, including 5+ years architecting CRM and lifecycle-marketing systems (GoHighLevel, HubSpot, Salesforce). Builds segmentation, multi-step workflow automation, and AI-driven personalization logic end to end, with hands-on SQL, HTML/CSS, and JavaScript for technical implementation, and daily, production use of AI tools including Claude to increase team speed and output quality.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and strict data-hygiene protocols.",
+        "Architected and deployed a complete GoHighLevel marketing-automation system, 20+ workflows spanning lead capture/tagging/routing, qualification, appointment booking with confirmation and reminders, no-show recovery, onboarding nurture, and reactivation.",
+        "Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach and content.",
+        "Configure and evaluate AI-generated response output for client automation systems, and built rubric-based grading criteria for the SEO audit process, scoring outputs against defined standards.",
+        "Install and configure Google Tag Manager on every website built at Solenzo, and guided clients through GTM setup at Wix.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in pipeline automation."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "CRM & Lifecycle Marketing Systems",
+      "items": ["Segmentation", "Multi-Step Workflow Automation", "Lifecycle Stage Design", "Dynamic Content Personalization", "Data Hygiene & Governance", "Process Documentation"]
+    },
+    {
+      "category": "Marketing Automation Platforms",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Marketo", "Mailchimp", "Zapier", "Make", "n8n"]
+    },
+    {
+      "category": "Technical Implementation",
+      "items": ["SQL (Working Proficiency)", "HTML/CSS", "JavaScript (Automation Code Steps)", "Google Tag Manager", "GA4"]
+    },
+    {
+      "category": "AI & Automation",
+      "items": ["Claude", "ChatGPT", "Prompt Design", "AI-Driven Workflow Building", "AI Output QA & Grading Rubrics"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["Power BI", "Performance Dashboards", "KPI Tracking", "ROI / CAC / LTV Reporting"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)",
+    "Meta Ads Certification — Meta"
+  ]
+}
