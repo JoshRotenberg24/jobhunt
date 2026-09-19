@@ -1,0 +1,128 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Account Executive — B2B SaaS & MarTech Sales",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Tenured B2B sales professional with 15+ years of full-cycle selling across SaaS, MarTech, and agency environments. Ranked top three in sales on a team that scaled from 8 to 15 reps at Accelo, sustaining that rank through a 27-month tenure while quota roughly doubled, and consistently performed above commission floor into accelerator tiers, averaging ~$213K in annualized implementation bookings. Built C-suite relationships as a trusted advisor on operational and revenue systems, translating technical capability into business outcomes for buyers across SaaS, MarTech, and service-based industries.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery to surface client goals and close on scope.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.",
+        "Run full-cycle sales and delivery independently as founder, from initial outreach through close and ongoing account expansion."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Advised client businesses on ad-spend budget planning and allocation across paid campaigns.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K) — roughly $130K+ in total bookings.",
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.",
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps, holding that rank across all but the final few months of a 27-month tenure, while quota roughly doubled over the period.",
+        "Consistently performed above commission floor into accelerator (\"doubling\") tiers, averaging ~$17,750/month in implementation/services bookings (~$213K annualized) plus new recurring revenue, earning roughly $9,300 in monthly performance commission.",
+        "Closed deals of $20K and larger later in tenure, mixed with a base of smaller wins.",
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, building relationships with C-suite executives as a trusted advisor on operational system design."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 – 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs, high-volume prospecting, lead qualification, and customer acquisition.",
+        "Built the consultative approach to customer retention and technology adoption that carried into later SaaS roles."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 – 2016",
+      "bullets": [
+        "Prospected and qualified leads as a Business Development Representative, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings.",
+        "Built the outreach, qualification, and pipeline fundamentals that carried into later SaaS Account Executive roles."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales & Account Management",
+      "items": ["Full-Cycle Sales", "Pipeline Management", "Quota Attainment", "C-Suite Relationship Building", "Strategic Advisory", "Account Expansion", "Consultative Selling"]
+    },
+    {
+      "category": "Deal Experience",
+      "items": ["Deal Sizes to $45K", "Commission-Accelerator Performance", "Competitive Ranking (Top 3 of 15 Reps)", "Multi-Stakeholder Account Management"]
+    },
+    {
+      "category": "Paid Media & Advertising",
+      "items": ["Paid Social (Meta Ads Certified)", "LinkedIn Ads", "Google Ads", "Campaign Budget Planning & Allocation", "A/B Testing"]
+    },
+    {
+      "category": "CRM & Sales Platforms",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Accelo (CRM/PSA)", "Pipeline Stage Tracking & Forecast Hygiene"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["ROI / CAC / LTV Reporting", "QBRs", "KPI Tracking", "Performance Dashboards"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Meta Ads Certification — Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)"
+  ]
+}
