@@ -15,8 +15,8 @@ Non-GMO). HQ Terrebonne, OR.
 | Item | Classification | Notes |
 | :--- | :--- | :--- |
 | **Posted salary range ($42K–$52K)** | **Application-form, resolved this session** | Well below Josh's $72K–$78K baseline for even entry-level support roles. Josh chose to state $55K–$60K in the application's required salary-requirements field, a real flex toward their posted range rather than his standard anchor, and higher than their posted ceiling. Recorded in `master-profile.md` as a per-application decision, not a new standing baseline. |
-| Two marketing/communications work samples (past 4 years) | **Application-form — Josh must supply** | Not something this session can generate. Candidates to pull from: a Solenzo newsletter or educational guide, a piece of direct-response landing-page copy, or one of the self-produced short-form videos. Confirm with Josh which two pieces he can actually hand over before submitting. |
-| References | Application-form | Standard; not addressed here. |
+| Two marketing/communications work samples (past 4 years) | **Resolved** | Josh supplied two live Solenzo client work samples: BTU Solar (solar installer, website/landing page — btusolar.com) and Better Homes Colorado (real estate/home improvement, website + GBP/local-listing work — bettercoloradohomes.com). Both linked directly in `submission-email.md`. Note: this session could not independently verify site content (network policy blocked the fetch) — Josh should give each a quick look before sending to confirm they still represent his work as described. |
+| References | **Application-form — still needed** | Not addressed this session. Josh needs to supply a references list (names, relationship, contact info) separately before submitting; nothing in the profile substitutes for this. |
 | Understanding or experience in sustainable agriculture | **Gap** | No agriculture, farming, or animal-welfare domain experience in Josh's history. Confirmed this session: no personal connection beyond his 15+ years as a cook. Foodservice experience is real and relevant-adjacent (how food businesses and supply chains operate from the kitchen/buyer side) but is not sustainable-agriculture or farm-production knowledge, and the resume and cover letter represent it honestly as that, not more. |
 | Event planning experience, comfortable traveling independently | **Gap / candidate confirmation needed** | No professional event-planning role in Josh's history. His "non-standard schedules acceptable" note (confirmed Aug 2026) covers evenings/weekends generally, but multi-day travel up to 30% and independent event logistics (shipping, materials, on-site coordination) is untested — worth a direct gut-check with Josh before applying, not assumed from the schedule-flexibility note alone. |
 | Experience in agriculture, marketing, communications, or related field | Resume-evidenced | Met via the marketing/communications branch — 15+ years is well beyond this bar. |
@@ -76,7 +76,7 @@ See `fit.png` for the rendered score meter.
 ## Candidate Confirmation Needed
 
 - **Comfort with up to 30% travel, including multi-day and weekend events.** The existing "non-standard schedules OK" note covers evenings/weekends generally but hasn't been tested against this specific travel cadence — worth confirming with Josh directly before he submits.
-- **Two work samples.** Josh needs to identify and hand over two actual marketing/communications pieces from the past 4 years (a Solenzo newsletter, a landing page, a video, etc.) — this session can't generate real samples on his behalf.
+- **References list.** Still needed for submission — not something this session can supply.
 
 ## Metrics Needed
 
@@ -94,4 +94,5 @@ No known contact at A Greener World — omitted.
 - `AGreenerWorld-MarketingServicesCoordinator-Resume.pdf` / `.docx` — labeled deliverables for submission
 - `cover-letter.json` — source; `cover-letter.pdf` / `.docx` — working copies
 - `AGreenerWorld-MarketingServicesCoordinator-CoverLetter.pdf` / `.docx` — labeled deliverables for submission
+- `submission-email.md` — ready-to-send email to jobs@agreenerworld.org: cover letter body, both work-sample links, and salary requirements in one place
 - `fit.json` / `fit.png` — score meter

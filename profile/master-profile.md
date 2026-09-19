@@ -286,6 +286,21 @@ operator talking, not like a candidate performing.
 
 ### Solenzo LLC — Founder & Strategic / Marketing Operations Lead (Feb 2024 – Present)
 
+> **Named clients with live work samples (confirmed by Josh, Sep 2026):** two confirmed
+> Solenzo client engagements with live, linkable web work:
+> - **BTU Solar** (btusolar.com) — solar installer, Colorado. Website/landing page work.
+> - **Better Homes Colorado / Better Colorado Homes** (bettercoloradohomes.com) — real
+>   estate / home-improvement, Colorado. Website and GBP/local-listing work.
+> Both are usable directly as work samples when a posting asks for real marketing/
+> communications deliverables (e.g., the A Greener World application). Solar-installer
+> work is also genuine renewable-energy vertical experience, usable for clean-energy or
+> sustainability-adjacent postings, distinct from and additive to the existing
+> home-services (electrical/plumbing/HVAC) vertical focus below. Real estate/home-
+> improvement is a new vertical not previously captured. This session could not verify
+> site content directly (network policy blocked the fetch); treat scope claims about
+> each site's specific deliverables as Josh's own characterization until independently
+> confirmed.
+>
 > **Home-services vertical focus (confirmed by Josh, Sep 2026):** Josh is a GoHighLevel
 > affiliate and has specifically built marketing-automation workflows designed for
 > home-services clients (electrical, plumbing, HVAC-type trade businesses), not just
