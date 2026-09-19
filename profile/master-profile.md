@@ -433,7 +433,22 @@ operator talking, not like a candidate performing.
 > A/B testing strategy behind the setup. This is real, defensible, hands-on LinkedIn paid
 > media experience, distinct from organic LinkedIn use, safe to claim directly against a JD
 > asking for LinkedIn Ads experience.
+>
+> **Programmatic advertising — 2 deals personally sold/closed, ~$30K MRR each (confirmed
+> Sep 2026):** Josh personally sold and closed 2 client accounts at Level Agency that used
+> programmatic advertising, each at ~$30K MRR (~$360K annualized contract value per
+> client, ~$720K combined). He was the client-facing strategist who sold and owned these
+> relationships; a specialist/trading team executed the actual programmatic buys (DSP
+> platform not specified) — represent this honestly as real, personally-closed,
+> six-figure-ACV programmatic advertising sales experience, not as hands-on DSP/platform
+> operation or audience-targeting execution. This is genuine evidence against any JD
+> asking for programmatic advertising sales experience or proof of closing six-figure
+> annual contracts, distinct from and stronger than the general "ad-spend budget planning"
+> note below. Company scale/industry of these 2 clients not yet captured — ask Josh if a
+> specific application needs it (e.g., whether either was a recognizable large/enterprise
+> brand).
 - Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.
+- Personally sold and closed 2 client accounts using programmatic advertising, each at ~$30K MRR (~$360K annualized contract value), owning the client relationship and strategy while a specialist team executed the programmatic buys.
 - Advised client businesses on ad-spend budget planning and allocation across paid campaigns.
 - Designed and ran LinkedIn ad campaigns using an account-based-marketing approach, targeting small, highly researched audiences with A/B-tested setups rather than broad targeting.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
@@ -582,7 +597,7 @@ operator talking, not like a candidate performing.
 | :--- | :--- |
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing, Zapier, Make, n8n |
 | Sales Engagement & Enrichment | Salesloft, ZoomInfo, Gong (confirmed hands-on, Sep 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
-| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
+| Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), Programmatic Advertising (sales-side, 2 deals closed), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | Data & BI Tools | Excel (experienced), Power BI (hands-on setup for client businesses), SQL (working proficiency — Power BI data modeling, BigQuery/GA4 queries), Python & JavaScript (custom code steps in Zapier/Make/n8n automation workflows) *(confirmed by Josh, Sep 2026 — see note below)* |
 | Web Technical | HTML/CSS (hands-on, own Solenzo site + client GA4 implementation), JavaScript (automation-tool code steps) |
@@ -621,6 +636,7 @@ operator talking, not like a candidate performing.
 - **Top three in sales on a team of 8 to 15 reps at Accelo**, for all but the final few months of tenure, sustained while **quota roughly doubled**
 - **Accelo deal sizes of $20K+** later in tenure, alongside a base of smaller wins
 - **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure (per-deal contract value, confirmed by Josh)
+- **2 programmatic-advertising deals personally sold and closed at Level Agency, ~$30K MRR each (~$360K annualized contract value per client, ~$720K combined)** — Josh was the client-facing strategist who sold and owned these relationships; a specialist team executed the programmatic buys (confirmed by Josh, Sep 2026)
 - **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
 - **2 years as team lead at Wix, managing a team of 20 and later a team of 8** onboarding specialists (confirmed by Josh, Aug 2026)
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
