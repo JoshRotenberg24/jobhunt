@@ -92,5 +92,6 @@ No known contact at Paylocity — omitted.
 - `resume.json` — source
 - `resume.pdf` / `resume.docx` — working copies
 - `Paylocity-ImplementationClientConsultant-Resume.pdf` / `.docx` — labeled deliverables for submission
+- `cover-letter.json` — source; `cover-letter.pdf` / `.docx` — working copies
+- `Paylocity-ImplementationClientConsultant-CoverLetter.pdf` / `.docx` — labeled deliverables for submission
 - `fit.json` / `fit.png` — score meter
-- No cover letter built (not requested by the posting; no transition/gap issue the resume can't already carry).
