@@ -95,6 +95,18 @@ band.
   new standing baseline, but signals real willingness to flex meaningfully below the
   associate baseline for a mission-driven nonprofit role specifically. Ask fresh each time
   rather than assuming this discount applies broadly.
+- **Field/technical B2B sales roles, 5+ years' stated requirement, no posted range** (e.g.,
+  ZIEHL-ABEGG Technical Sales Representative, Sep 2026): target **$75,000-$85,000 base**,
+  tempered toward the lower-middle of market data because of real qualification gaps
+  (no engineering/business degree, no formal industry-specific sales experience) rather
+  than anchored at the top. Market data pulled Sep 2026: Denver/Colorado technical sales
+  reps run ~$65K-$95K base (25th-75th percentile, ZipRecruiter), national manufacturing-
+  specific technical sales median ~$113,633 total comp (Glassdoor), HVAC sales reps
+  specifically ~$96K-$156K total comp (25th-75th percentile, Glassdoor) — total-comp
+  figures run well above base-only Denver data, consistent with a base+commission
+  structure typical for manufacturing field sales. State willingness to discuss a
+  variable/commission component if the role has one; don't assume OTE equals base absent
+  a disclosed structure, unlike the associate-role default above.
 
 ## Education & Certifications
 
