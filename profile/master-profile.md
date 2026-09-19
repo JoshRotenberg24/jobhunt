@@ -562,7 +562,26 @@ operator talking, not like a candidate performing.
 > customer-vendor-supplier systems, not retail merchandising, budtender training, or
 > field sales, keep that distinction honest against postings asking specifically for the
 > latter.
+>
+> **On-site cultivation and HVAC/ventilation equipment specification (confirmed by Josh,
+> Sep 2026) — corrects/expands the note above:** Standing Akimbo included on-site
+> cultivation (growing), not retail-only. As co-owner, Josh was directly involved in
+> specifying and selecting HVAC/ventilation equipment for the grow: exhaust/intake fans
+> and ducting for airflow, climate-control systems (AC, dehumidifiers, temperature/
+> humidity control), and CO2 systems. He worked directly with equipment vendors/reps to
+> evaluate options and make buying decisions, real, hands-on buyer-side experience
+> evaluating fan, ventilation, and climate-control equipment, in an application (controlled-
+> environment cultivation) that is genuinely demanding on airflow, humidity, and odor
+> control. This is honest, direct evidence for postings asking about HVAC/fan/ventilation
+> equipment experience or "Agriculture" as an OEM/industrial vertical (e.g., fan and motor
+> manufacturers, controlled-environment ag equipment) — represent it as buyer-side
+> equipment specification and vendor evaluation at a single-facility scale, not as
+> professional HVAC industry sales, contracting, or engineering experience, and not as
+> scaled/industrial OEM purchasing. Quantities, equipment brands, budget, and square
+> footage not yet captured — ask Josh if a specific application would benefit from more
+> detail (see Numbers Worth Capturing).
 - Built compliance and customer-management systems from scratch in a licensed cannabis dispensary.
+- Specified and selected HVAC/ventilation equipment for on-site cultivation, exhaust/intake fans, ducting, climate control, and CO2 systems, working directly with equipment vendors to evaluate options and make buying decisions.
 - Developed early operational infrastructure — intake processes and reporting systems — scaling the business to profitability.
 - Built customer service, vendor, and supplier workflows from the ground up.
 
@@ -666,6 +685,9 @@ with its scope and delete the line here.
   8). Still unrecorded: how many people he personally hired and trained.
 
 **Role-specific:**
+- **Standing Akimbo grow HVAC scale.** Square footage or number of grow rooms, equipment
+  brands specified, approximate budget, and timeframe for the HVAC/ventilation/CO2 system
+  buildout. Directly relevant to any future HVAC/fan/ventilation/agriculture-OEM posting.
 - **Data volume.** Records or contacts in the largest migration or import he has run, and
   what tool he cleaned it in. Directly requested by implementation JDs (Excel is named
   explicitly in several) and currently unevidenced.
