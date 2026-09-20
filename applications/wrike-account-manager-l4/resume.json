@@ -1,0 +1,100 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Account Manager — SaaS Expansion & Consultative Sales",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "B2B SaaS Account Manager with 15+ years expanding relationships within established accounts across agencies, professional-services firms, and service-based businesses. At Accelo, sold and scoped a work-management and CRM/PSA platform directly comparable to Wrike, ranking top three in sales on a team that scaled from 8 to 15 reps. Consistently identifies expansion opportunities within existing accounts, retainer growth, cross-sell, and upsell, rather than cold outbound, and has personally closed six-figure annual contracts through consultative, solution-based selling.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery to surface client goals, objectives, and market challenges.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Personally sold and closed 2 client accounts using programmatic advertising, each at ~$30K MRR (~$360K annualized contract value), owning the client relationship and strategy while a specialist team executed the buys.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15–20 reseller partners (deal sizes ~$10K–$45K, spanning health, home services, and retail verticals), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K) — roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 – Jul 2020",
+      "bullets": [
+        "Sold and scoped a complex work-management, CRM, and project-management (PSA) platform to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps, holding that rank across all but the final few months of a 27-month tenure, while quota roughly doubled over the period.",
+        "Consistently performed above commission floor into accelerator (\"doubling\") tiers, averaging ~$17,750/month in implementation/services bookings (~$213K annualized).",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-suite executives as a trusted advisor on operational system design.",
+        "Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Account Expansion & Consultative Sales",
+      "items": ["Full-Cycle Sales", "Consultative / Solution-Based Selling", "Account Expansion", "Cross-Sell & Upsell", "C-Suite Relationship Building", "Install-Base Management"]
+    },
+    {
+      "category": "Deal Experience",
+      "items": ["Six-Figure ACV Deals", "Commission-Accelerator Performance", "Competitive Ranking (Top 3 of 15 Reps)"]
+    },
+    {
+      "category": "Sales Tools & Platforms",
+      "items": ["Salesforce", "ZoomInfo", "HubSpot", "GoHighLevel", "Accelo (CRM/PSA)"]
+    },
+    {
+      "category": "Vertical Experience",
+      "items": ["Agencies", "Professional Services", "Service-Based Businesses"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Meta Ads Certification — Meta"
+  ]
+}
