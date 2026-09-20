@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 20, 2026",
+  "company": "SMB Team",
+  "role": "AI Implementation Specialist",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "This role is the technical execution side of the same work I already do at Solenzo, building and documenting AI-driven automation for small businesses, just applied to your law firm clients instead of mine. I built a 20-plus-workflow GoHighLevel automation system spanning lead capture through reactivation, and I translate ambiguous business requirements into structured AI prompts and agent logic as a matter of daily practice, not a one-off project.",
+    "Documentation is not an afterthought in how I work. I log every configuration and deliverable so engagements stay auditable, and I built rubric-based grading criteria to QA AI-generated output before it ever reached a client, rather than trusting model output directly. I have hands-on production experience across Zapier, Make, and n8n, including custom Python and JavaScript code steps, and I am comfortable executing independently from a scoping document without needing step-by-step direction, since that has been how I have run my own practice for the last two years.",
+    "I do not have legal-tech-specific experience, and my background has generally been client-facing rather than pure back-end delivery, but the technical work this role describes is exactly what I already build. I would welcome the chance to bring that to your engagements."
+  ],
+  "closing": "Sincerely,"
+}
