@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Organic Growth Strategist — SEO, Content & AI-Driven Search",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Organic growth marketing strategist with 4+ years of dedicated SEO experience inside a 15+ year B2B marketing and agency career, including technical SEO audits, keyword gap analysis, and structured data implementation using Screaming Frog, Ahrefs, Semrush, GA4, and Google Search Console. Builds and publishes content strategy and thought leadership for B2B SaaS audiences, and brings daily, hands-on fluency in how LLMs process and generate content, prompt design, agent architecture, AI-output evaluation, directly relevant to GEO's core question of how brands get surfaced and cited by generative engines. Drove a 30% increase in website traffic and a 25% improvement in conversion rates managing a live client portfolio.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.",
+        "Identify and implement schema/structured data as part of technical SEO audits, pulling full on-page schema implementation.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions, bridging business intent and reliable LLM output.",
+        "Claim, set up, and optimize Google Business Profile listings as the first deliverable in every client engagement, the foundation the rest of each client's local SEO and lead-flow program builds on.",
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Optimized a client's Google Ads account, cut spam/low-quality leads and improved click-through quality, and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, delivering insights to executive leadership."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.",
+        "Produced high-converting campaign assets, landing pages, complex email sequences, and conversion-focused copy, improving lead generation and pipeline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Sold and onboarded partners on Birdeye's proprietary data-aggregator/listings-syndication solution, ensuring every partner's end customer had a properly configured, consistent local-listings presence."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Served a banking-industry client and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage in that deal.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion, including connecting and setting up clients' Google Business Profile.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "SEO & GEO",
+      "items": ["Technical SEO Audits", "Keyword Gap Analysis", "Competitor Research", "On-Page SEO", "Schema & Structured Data", "Local SEO & Google Business Profile", "LLM/AI Content Fluency (GEO-Adjacent)"]
+    },
+    {
+      "category": "Content Strategy",
+      "items": ["Content Calendars", "Thought Leadership", "Content Briefs", "B2B SaaS Content"]
+    },
+    {
+      "category": "Analytics & Tools",
+      "items": ["Ahrefs", "Semrush", "Screaming Frog", "GA4", "Google Search Console", "Google Tag Manager"]
+    },
+    {
+      "category": "CRO & Performance",
+      "items": ["A/B Testing", "Conversion Rate Optimization", "Campaign Reporting", "ROI / CAC / LTV Analysis"]
+    },
+    {
+      "category": "Agency & Client Management",
+      "items": ["B2B SaaS & Fintech-Adjacent Client Portfolios", "Cross-Functional Collaboration", "Project Management", "Autonomous Execution"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)",
+    "Meta Ads Certification — Meta"
+  ]
+}

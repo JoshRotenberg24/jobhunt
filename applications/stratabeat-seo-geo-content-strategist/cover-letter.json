@@ -1,0 +1,25 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 20, 2026",
+  "company": "Stratabeat",
+  "role": "SEO, GEO & Content Strategist",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "You asked for 3 to 5 reasons I am a strong fit for this role, so here they are, directly.",
+    "1. Real, hands-on technical SEO depth. I run technical SEO audits, keyword gap analysis, and competitor research with Screaming Frog, and implement schema and structured data as standard practice, the same tools your team already uses.",
+    "2. A genuine bridge into GEO. I build AI agent logic and prompt design every day, translating business intent into structured LLM instructions and evaluating AI-generated output against rubrics I wrote myself. I have not run LLM citation-tracking as a formal deliverable yet, but I understand the mechanics of how content gets processed and surfaced by generative engines better than most SEO-only candidates will.",
+    "3. Quantified, real results. At Wix, I drove a 30% increase in website traffic and a 25% improvement in conversion rates managing a live client portfolio, not a single case study, a sustained book of accounts.",
+    "4. B2B SaaS and agency background across multiple employers, plus direct financial-services client experience at Fetch & Funnel, covering two of your three named verticals.",
+    "5. Proven autonomous execution. I have run client engagements solo end to end, research, strategy, content, and reporting, for the last two years as a founder, and cross-functionally with analysts, engineers, and product teams before that.",
+    "I would welcome the chance to bring all five of these to your clients."
+  ],
+  "closing": "Sincerely,"
+}
