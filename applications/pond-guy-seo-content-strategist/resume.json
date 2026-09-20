@@ -1,0 +1,79 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SEO Content Strategist | On-Page SEO, eCommerce Content & AI-Driven Search",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SEO and content practitioner with 15+ years in agency, marketing-operations, and B2B/local-service environments, personally owning SEO-driven content from keyword research through on-page execution and performance reporting. Runs GA4 and Search Console tracking to find content gaps and underperforming pages, and builds AI agent workflows that translate business intent into structured prompts, giving direct, hands-on fluency in how LLM behavior and generative search are reshaping content discovery. Writes thought leadership, guides, and landing pages personally, building reusable templates instead of starting from scratch each time.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own SEO-driven content strategy for a portfolio of B2B and local-service clients: keyword research, content-gap analysis, and competitive research, executed through Screaming Frog site-wide audits and Semrush/Ahrefs keyword mapping.",
+        "Execute on-page SEO directly inside client CMS platforms: meta titles and descriptions, header structure, internal linking, and schema/structured data implementation.",
+        "Track GA4 and Google Search Console performance across concurrent client accounts, using ranking and engagement data to prioritize which content gets refreshed, consolidated, or built next.",
+        "Apply hands-on fluency in LLM behavior and generative search, architecting AI agent workflows that translate stakeholders' goals into structured prompts and evaluating output against defined quality rubrics.",
+        "Write and publish SEO-optimized content personally, from concept through final draft, including guides, thought leadership, and landing pages, adapting a shared template base per client vertical rather than starting from scratch."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded reseller partners on Birdeye's proprietary local-listings/data-aggregator solution, ensuring accurate, optimized local search presence for every partner's end customers."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Built and launched e-commerce websites for established retail businesses adding online storefronts as a secondary revenue line, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion, including Google Business Profile setup."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "SEO & Content Strategy",
+      "items": [
+        "Keyword Research & Search Intent",
+        "On-Page SEO",
+        "Technical SEO Audits (Screaming Frog)",
+        "Schema / Structured Data",
+        "Internal Linking",
+        "Content Strategy & Production",
+        "Local SEO & Google Business Profile"
+      ]
+    },
+    {
+      "category": "Analytics, eCommerce & AI",
+      "items": [
+        "GA4",
+        "Google Search Console",
+        "Semrush",
+        "Ahrefs",
+        "eCommerce Content & Conversion Optimization",
+        "LLM Behavior & Prompt Engineering",
+        "ChatGPT",
+        "Claude"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}
