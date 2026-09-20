@@ -1,0 +1,118 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Coordinator — Content, Social & Campaign Support",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Hands-on marketing generalist who creates content, manages social channels, and builds sales and marketing collateral for service-based businesses, including landing pages, one-pagers, and campaign materials. Coordinates directly with partners and sales teams to keep messaging consistent and campaigns moving, and is comfortable juggling multiple concurrent projects independently in a small, fast-moving team.",
+  "experience": [
+    {
+      "title": "Content, Social & Campaign Execution — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 – Present",
+      "bullets": [
+        "Self-produce short-form, hook-driven, talking-head video content for brand marketing, appearing on camera to build organic reach.",
+        "Draft clean, specific direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.",
+        "Write and publish thought leadership content, newsletters, and educational guides for B2B audiences.",
+        "Claim, set up, and optimize Google Business Profile listings, categories, descriptions, services, photos, and posts, as the first deliverable in every client engagement.",
+        "Build reusable marketing assets and messaging frameworks, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 – Feb 2025",
+      "bullets": [
+        "Produced high-converting campaign assets, landing pages, complex email sequences, and conversion-focused copy, improving lead generation and pipeline.",
+        "Designed and ran LinkedIn ad campaigns using an account-based-marketing approach, targeting small, highly researched audiences with A/B-tested setups."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 – Apr 2024",
+      "bullets": [
+        "Coordinated joint marketing and onboarding efforts with reseller partners across health, home services, and retail verticals, supporting rapid adoption of marketing automation and reputation management solutions.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 – Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 – Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Built and launched e-commerce websites for established retail businesses adding a bigger online storefront alongside their physical retail locations.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion, including connecting and setting up clients' Google Business Profile."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Content & Collateral",
+      "items": [
+        "Landing Pages",
+        "Email Sequences",
+        "One-Pagers & Sales Materials",
+        "Newsletters",
+        "Short-Form Video",
+        "Direct-Response Copy"
+      ]
+    },
+    {
+      "category": "Social & Campaigns",
+      "items": [
+        "Social Media Management",
+        "LinkedIn Ads",
+        "Google Ads",
+        "A/B Testing",
+        "Local SEO & Google Business Profile"
+      ]
+    },
+    {
+      "category": "Partner & Cross-Team Coordination",
+      "items": [
+        "Partner Marketing Coordination",
+        "Sales & Marketing Alignment",
+        "Cross-Functional Communication"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "GoHighLevel",
+        "HubSpot",
+        "Salesforce",
+        "Notion",
+        "ClickUp",
+        "Google Tag Manager",
+        "GA4"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science — Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate — Google / Coursera (2024)",
+    "Meta Ads Certification — Meta"
+  ]
+}
