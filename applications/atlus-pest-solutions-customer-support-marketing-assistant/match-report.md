@@ -126,10 +126,10 @@ Salesforce/GoHighLevel CRM experience. One page.
 
 ## Output files
 
-- `resume.pdf` / `resume.docx` — tailored resume, one page
-- `cover-letter.pdf` / `cover-letter.docx` — cover letter, one page
-- `Rotenberg Resume - Atlus Pest Solutions - Customer Support & Marketing Assistant.pdf/.docx`
-  and the matching `Rotenberg Cover Letter - ...` files — labeled copies for upload
+- `resume.pdf` / `resume.docx` — working resume source
+- `cover-letter.pdf` / `cover-letter.docx` — working cover letter source
+- `Atlus-CustomerSupportMarketingAssistant-Resume.pdf/.docx` and
+  `Atlus-CustomerSupportMarketingAssistant-CoverLetter.pdf/.docx` — labeled copies for upload
 - `fit.json` / `fit.png` — Application Priority Score meter
 - `match-report.md` — this file
 
