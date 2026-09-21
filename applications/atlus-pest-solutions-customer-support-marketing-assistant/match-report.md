@@ -118,16 +118,18 @@ None specific to this posting beyond what's already tracked in `master-profile.m
 
 ## Cover letter
 
-**Not built.** A cover letter could genuinely help here — the honest concern a reviewer
-will have (why is a business owner applying for an entry-level assistant role) is exactly
-the kind of thing Step 9 says a short narrative can resolve. But writing one requires a real
-answer from Josh about why he wants this kind of role right now, and fabricating a
-motivation isn't something this process does. If Josh wants to move forward, tell me his
-real reason and I'll write it.
+**Built**, per Josh's request. It does not address the overqualification question directly
+(that still needs his real answer if it comes up in an interview) — it leans on the
+genuinely true overlap instead: Birdeye's reputation-management platform, Solenzo's
+Google Business Profile/review-generation work for home-services clients, and HubSpot/
+Salesforce/GoHighLevel CRM experience. One page.
 
 ## Output files
 
 - `resume.pdf` / `resume.docx` — tailored resume, one page
+- `cover-letter.pdf` / `cover-letter.docx` — cover letter, one page
+- `Rotenberg Resume - Atlus Pest Solutions - Customer Support & Marketing Assistant.pdf/.docx`
+  and the matching `Rotenberg Cover Letter - ...` files — labeled copies for upload
 - `fit.json` / `fit.png` — Application Priority Score meter
 - `match-report.md` — this file
 
