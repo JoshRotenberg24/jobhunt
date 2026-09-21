@@ -100,14 +100,21 @@ A concrete number for training content produced (playbooks written, onboarding t
 reduced, reps trained) would sharpen this resume further if Josh has one from the Wix or
 Birdeye era.
 
+## Cover letter
+
+**Built**, per Josh's request. No personal-mission angle exists for Ookla/connectivity
+intelligence, so this leans on an honest professional throughline instead: across every
+role, Josh has built the training materials, onboarding processes, or playbooks nobody
+assigned him to build, then handed them off when he moved on. This role is framed as the
+first time that becomes the whole job instead of a side effect of a quota. One page.
+
 ## Output files
 
-- `resume.pdf` / `resume.docx` — tailored resume, one page
-- `Ookla-SalesEnablementManager-Resume.pdf/.docx` — labeled copy for upload
+- `resume.pdf` / `resume.docx` — working resume source, one page
+- `cover-letter.pdf` / `cover-letter.docx` — working cover letter source, one page
+- `Ookla-SalesEnablementManager-Resume.pdf/.docx` and
+  `Ookla-SalesEnablementManager-CoverLetter.pdf/.docx` — labeled copies for upload
 - `fit.json` / `fit.png` — Application Priority Score meter
 - `match-report.md` — this file
-
-No cover letter built — no strong personal-mission angle available for Ookla/connectivity
-intelligence the way there was for the healthcare-adjacent postings. Available on request.
 
 Default to the PDF unless the application portal specifically requests Word.
