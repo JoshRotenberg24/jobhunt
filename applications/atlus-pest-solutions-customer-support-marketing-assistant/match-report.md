@@ -65,7 +65,9 @@ services, CRM).
 | Requirement | Status | Evidence |
 | :--- | :--- | :--- |
 | Customer service / communication skills | Covered (strong) | 15+ years client-facing AE/AM/onboarding roles |
-| Respond to Google reviews / reputation management | **Covered (strong)** | Direct: sold/onboarded partners on Birdeye's reputation-management platform; runs automated review-generation sequences at Solenzo |
+| Reputation management (platform/category) | **Covered (strong)** | Direct: sold/onboarded partners on Birdeye's reputation-management platform |
+| Review *generation* (soliciting new reviews) | Covered (strong) | Runs automated review-generation sequences for home-services clients at Solenzo |
+| Review *response* (replying to posted reviews) | Candidate confirmation needed | Not documented in the profile as a distinct task — resume/cover letter deliberately don't claim it. If Josh does draft or approve review responses for Solenzo clients, this closes a real gap and should be added to the profile |
 | CRM systems (HubSpot named) | Covered (strong) | HubSpot at Level Agency, Fetch & Funnel, Senior Directory |
 | FieldRoutes (preferred) | Gap | Not in profile — pest-control-specific field-service software |
 | Google Ads dispositions | Covered (adjacent) | Google Ads account management and optimization (Solenzo, Level Agency) |
@@ -98,6 +100,12 @@ services, CRM).
 
 ## Candidate confirmation needed
 
+- **Review response, distinct from review generation** — does Josh draft, approve, or post
+  responses to existing Google reviews for Solenzo clients, or does his reputation-management
+  work stop at soliciting new reviews (the confirmed "automated review-generation sequences")?
+  The JD's first responsibility is literally "responding to Google reviews," so this is the
+  single highest-value confirmation on this posting. If yes, add it to `master-profile.md` and
+  it upgrades a real requirement from adjacent to direct.
 - **Local Service Ads (LSA) specifically** — has Josh worked inside the LSA console/product
   directly (distinct from standard Google Ads), e.g. for a Solenzo home-services client, or
   is his Google Ads work confined to standard search/display campaigns? If he has real LSA
