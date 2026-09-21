@@ -1,0 +1,81 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Solutions & Client Strategy Professional | CRM Architecture, Implementation & Stakeholder Translation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical solutions and client strategy professional with 15+ years selling and scoping complex software platforms, translating technical capability into clear business outcomes for both IT teams and executive leadership. Builds implementation plans, architects CRM and automation systems, and guides customers through technical setup and integration. A consistent self-teacher of new technical domains, from SQL and Power BI to agentic AI system design.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and deploy technical automation systems for client businesses, translating non-technical stakeholders' goals into precise, structured technical requirements and implementation logic.",
+        "Write SQL queries for Power BI data modeling and BigQuery/GA4 pulls, and install and configure Google Tag Manager and technical tracking infrastructure on every client site."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing-automation tools in Salesforce, reducing onboarding friction through scalable communication workflows.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets, guiding customers through technical setup and configuration.",
+        "Led digital growth consultations aligning site architecture and GA4/Tag Manager technical implementation."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.",
+        "Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical Solutions & Implementation",
+      "items": [
+        "Solution Scoping", "Implementation Planning", "API Integrations", "Technical Onboarding", "Workflow Architecture"
+      ]
+    },
+    {
+      "category": "Data & Systems",
+      "items": [
+        "SQL (Working Proficiency)", "Power BI", "Salesforce", "HubSpot", "Google Tag Manager"
+      ]
+    },
+    {
+      "category": "Consultative & Executive Communication",
+      "items": [
+        "Technical-to-Business Translation", "C-Suite Advisory", "Stakeholder Consulting", "Rapid Technical Self-Teaching"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
