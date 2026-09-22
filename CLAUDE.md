@@ -34,6 +34,16 @@ default: fit evaluation + resume build per the core rule above. This is a scope
 instruction, not a reintroduction of gatekeeping — the default is still build-first when
 he hasn't told you otherwise.
 
+## Don't make Josh confirm everything (Sep 2026)
+
+Josh finds repeated confirmation lists frustrating. When a draft needs a detail that's
+plausible for his background and consistent with the profile (a standard tool feature he
+uses, a common part of work he already does), write it in as true and let him cut it. Only
+ask when a wrong guess would be a real problem: a hard eligibility item or a credential. For
+salary and start date, fill in the recommended default instead of leaving a bracket. For
+opinion questions, write a full draft answer in his voice, not a placeholder. Hand him
+finished, pasteable text, never a to-do list.
+
 ## Where things live
 
 - `profile/master-profile.md` — the only source of true candidate content. Read it fresh

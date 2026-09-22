@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Hands-on digital campaigns operator who writes, builds, sends, and reports on email programs and conversion pages every week. Built a 20+ workflow automation system end to end at Solenzo (capture, segmentation, confirmations and reminders, onboarding nurture, reactivation), and writes the copy, landing pages, and newsletters that move busy small business owners to act. Fluent in CRM and email platforms (HubSpot, Salesforce, GoHighLevel, Marketo, Mailchimp), builds web pages directly in HTML/CSS, and works daily in agentic AI tools including Claude Code. Political Science minor who writes plainly for non-expert audiences and verifies before shipping.",
+  "summary": "Hands-on digital campaigns operator who writes, builds, sends, tests, and reports on email and SMS programs and conversion pages every week. Built a 20+ workflow automation system end to end at Solenzo (capture, segmentation, confirmations and reminders, onboarding nurture, reactivation), and writes the copy, landing pages, and newsletters that move busy small business owners to act. Fluent in CRM and email platforms (HubSpot, Salesforce, GoHighLevel, Marketo, Mailchimp), builds web pages directly in HTML/CSS, and works daily in agentic AI tools including Claude Code. Political Science minor who writes plainly for non-expert audiences and verifies before shipping.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -16,11 +16,11 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Built and run a 20+ workflow automation program spanning lead capture, tagging and routing, qualification, booking with automated confirmations and reminders, no-show recovery, onboarding nurture, long-term reactivation, and review-generation asks.",
+        "Built and run a 20+ workflow email and SMS automation program spanning lead capture, tagging and routing, qualification, booking with automated text and email confirmations and reminders, no-show recovery, onboarding nurture, long-term reactivation, and review-generation asks.",
         "Write direct-response copy, outreach sequences, newsletters, and landing pages aimed at owners of trade and service businesses, translating technical systems into plain language a busy owner acts on.",
         "Built segmented email campaigns and an automated audit workflow that enrolled 180+ businesses, promoted through organic LinkedIn content, converting 2 to paying clients.",
         "Build and edit web pages directly in HTML/CSS, including the Solenzo site, and install Google Tag Manager and GA4 tracking on every site launched so every page reports conversions.",
-        "Maintain segmentation, lifecycle stages, and strict data-hygiene protocols in GoHighLevel and HubSpot, and report opens, clicks, conversions, and drop-off with recommendations on what to change.",
+        "Maintain segmentation, lifecycle stages, list hygiene, and sender authentication (SPF, DKIM, DMARC, domain warmup, bounce handling) in GoHighLevel and HubSpot; A/B test subject lines and content and report opens, clicks, conversions, and drop-off with what to change.",
         "Build reusable, on-brand asset templates and messaging frameworks, adapting a shared template base to each client's brand instead of starting from scratch.",
         "Grade AI-generated output against rubric criteria before it reaches a client, catching inaccurate or overstated content as part of a standing quality pass."
       ]
@@ -83,11 +83,12 @@
     {
       "category": "Email & Digital Actions",
       "items": [
-        "Email Program Management",
+        "Email & SMS Programs",
         "Action Alerts & Newsletters",
         "Segmentation & List Hygiene",
-        "Automated Journeys",
-        "A/B Testing",
+        "Deliverability (SPF/DKIM/DMARC)",
+        "Automated Welcome Journeys",
+        "Email A/B Testing",
         "Open / Click / Conversion Reporting"
       ]
     },

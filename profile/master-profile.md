@@ -342,6 +342,12 @@ operator talking, not like a candidate performing.
 > below on its own; represent it specifically as "custom code steps in automation
 > platforms" rather than implying general software-engineering-level Python/JS fluency.
 >
+> **SMS, email A/B testing, and deliverability (confirmed by Josh, Sep 2026, do not re-ask):**
+> Josh's GoHighLevel workflows send SMS (booking confirmations, reminders, no-show recovery),
+> so he has run SMS programs, not just email. He personally A/B tests email subject lines and
+> content. He handles deliverability hands-on: SPF/DKIM/DMARC sender authentication, domain
+> warmup, and bounce/suppression handling.
+- Run email and SMS automation in GoHighLevel, including text-based booking confirmations, reminders, and no-show recovery; A/B test email subject lines and content; manage deliverability (SPF, DKIM, DMARC, domain warmup, bounce handling).
 - Claim, set up, and optimize Google Business Profile listings (categories, descriptions, services, photos, posts) as the first deliverable in every client engagement, the foundation the rest of each client's local SEO and lead-flow program builds on.
 - Develop and execute full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, demonstrating clear ROI and revenue growth.
 - Architect and deploy autonomous, AI-driven marketing systems for service-based businesses — largely on GoHighLevel — automating lead enrichment, outreach, and appointment booking.

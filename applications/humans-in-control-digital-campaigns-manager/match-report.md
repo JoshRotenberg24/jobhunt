@@ -66,7 +66,7 @@ Internal decision aid, not a prediction of any employer's system output. See `fi
 - **Policy/legislation translation for a general audience:** no professional evidence beyond a Political Science minor.
 
 ## Candidate confirmation needed
-- **SMS programs:** GHL booking confirmations/reminders and no-show recovery commonly run over SMS. Did Josh's workflows send SMS? If yes, add "SMS" to the Solenzo automation bullet and profile.
+- ~~SMS programs~~ confirmed yes (Sep 22): GHL workflows send SMS. Email A/B testing and deliverability (SPF/DKIM/DMARC, warmup, bounces) also confirmed; resume updated.
 - **Design tools:** does Josh lay out materials in Canva, Figma, InDesign, or similar? Which, and for what?
 - **Print/field collateral:** ever produced one-pagers, handouts, or event materials for someone else to use (Standing Akimbo, Wix sales training, Birdeye partner enablement)?
 - **Mission "why":** genuine personal stance on AI regulation/accountability. Needed before a cover letter; not assumed here.
