@@ -78,4 +78,10 @@ Yes, the range works. I'd target $88,000 to $92,000, given my hands-on email, SM
 
 ## 10. Anything else we should know? (optional)
 
-I'm based in Colorado on Mountain time, and evenings and weekends for rapid response work fine for me. Most of my work is for people who aren't technical and don't have time to be, so I write for the reader who gives an email five seconds before deciding whether to act. I minored in Political Science, and I'd welcome the work exercise. It's a better test of fit than anything I can write here.
+TL;DR on me:
+- 15+ years in marketing, SaaS, and agency work. For the last 2+, I've run my own shop, Solenzo, where I write, build, send, and report on every campaign myself.
+- Email and SMS programs end to end: copy, automation (20+ workflows), segmentation, deliverability, A/B testing, and reporting in GoHighLevel, HubSpot, Marketo, and Mailchimp.
+- I build landing pages in HTML/CSS, run paid ads (Google, LinkedIn, Meta certified), and work daily in AI tools, including Claude Code.
+- I write for busy, non-technical readers: small business owners in the trades, not marketers.
+- I led a team of 20 at Wix and have worked alongside people from restaurant kitchens to plumbing shops. Political Science minor.
+- Colorado based and available evenings and weekends for rapid response.
