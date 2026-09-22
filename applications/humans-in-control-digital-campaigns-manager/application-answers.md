@@ -18,14 +18,21 @@ What worked: a useful free thing beats a pitch, and segmenting by the actual pro
 
 ## 4. Running an email program: which parts have you personally done?
 
-All of them.
-- **Writing:** campaigns, sequences, and newsletters at Solenzo, plus client sequences at Level Agency.
-- **Building and sending:** in GoHighLevel and HubSpot; also hands-on in Marketo and Mailchimp.
-- **Segmentation:** tags, lifecycle stages, and routing, with regular list cleanup and deduplication.
-- **Welcome series:** post-signup onboarding nurture, plus reactivation for contacts who went quiet.
-- **Deliverability:** SPF, DKIM, and DMARC setup, domain warmup, and bounce and suppression handling.
-- **A/B testing:** subject lines and content on email, and A/B-tested LinkedIn ad campaigns.
-- **Metrics reporting:** opens, clicks, conversions, and drop-off, and what to change as a result.
+All of them, personally. At Solenzo, I run the email program end to end, so there's no one else to hand any part of it to.
+
+**Writing:** I write every email, from cold intros and nurture sequences to the audit nudge and report emails in my samples. Each one has one clear ask.
+
+**Building and sending:** I build and schedule sends and automations in GoHighLevel and HubSpot, and I've worked hands-on in Marketo and Mailchimp. My current system runs 20+ workflows, including an automated audit report generated for each business.
+
+**Segmentation:** I segment by what the audit found (weak website visibility, missed calls, low reviews), so each business gets the email about its actual problem instead of one generic sequence. I use tags, lifecycle stages, and routing rules, and I clean and dedupe the list regularly.
+
+**Welcome series:** new contacts enter an onboarding nurture that moves them from signup to a first action (running the audit), then to a conversation. Contacts who go quiet move into a reactivation track.
+
+**Deliverability:** I set up SPF, DKIM, and DMARC, warm up new sending domains, and handle bounces and suppression so the list stays healthy.
+
+**A/B testing:** I test subject lines and content, and I apply what I learn from one sequence to the next.
+
+**Metrics reporting:** I track opens, clicks, replies, conversions, and drop-off by segment, then report what worked and change what didn't. From the audit campaign, 180+ businesses enrolled, and 2 became paying clients.
 
 ## 5. 1 to 3 writing examples
 
@@ -68,3 +75,7 @@ Yes, and most of my career has been exactly that. I spent 15+ years as a cook in
 ## 9. Does the salary range work, and when can you start?
 
 Yes, the range works. I'd target $88,000 to $92,000, given my hands-on email, SMS, and automation experience. I can start two weeks from an offer.
+
+## 10. Anything else we should know? (optional)
+
+I'm based in Colorado on Mountain time, and evenings and weekends for rapid response work fine for me. Most of my work is for people who aren't technical and don't have time to be, so I write for the reader who gives an email five seconds before deciding whether to act. I minored in Political Science, and I'd welcome the work exercise. It's a better test of fit than anything I can write here.
