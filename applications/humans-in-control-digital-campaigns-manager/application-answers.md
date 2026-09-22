@@ -29,9 +29,23 @@ All of them.
 
 ## 5. 1 to 3 writing examples
 
-1. **Solenzo blog: https://getsolenzo.com/blog** (writer and publisher). I write every post. They explain CRM, automation, and local marketing for owners of service businesses who don't think of themselves as technical, turning a systems topic into what to do Monday morning.
-2. **Solenzo segmented outreach campaign** (writer and builder). Three email tracks for local service businesses, each opening with the specific problem the audit found: weak website visibility, missed calls, or low review counts. One plain ask: see your free audit. Copy available on request.
-3. **Level Agency email sequence and landing page** (writer and producer). A multi-touch sequence plus a conversion-focused landing page built to drive lead generation. Client name redacted, and copy is available on request.
+1. **Solenzo blog: https://getsolenzo.com/blog** (writer and publisher). I write every post, explaining search, AI visibility, and automation for owners of service businesses who don't think of themselves as technical.
+
+2. **Audit nudge email** (writer and builder, sent inside an automated sequence). The ask is one action, today, with a personal reason to take it:
+
+> Subject: I'll review your audit with you personally.
+>
+> I've sent a few emails about AI search visibility and the free audit. If you've been meaning to get to it but haven't, here's a reason to do it today. Run the audit at audit.getsolenzo.com. Then reply to this email with your results and I'll personally tell you the one or two things worth fixing first, no charge, no pitch on the back end. Most businesses have one or two gaps that account for the majority of the problem. It takes me about 10 minutes to look at a result and tell you what matters. You get a straight answer. If it makes sense to work together after that, we can talk about it. If not, you still walk away knowing where you stand.
+
+3. **Audit campaign: cold intro plus automated report** (writer and builder). The first touch and the payoff of the same funnel. The intro earns attention without a hard sell; the report template is generated per business and ends with one clear next step.
+
+> Subject: A quick intro, then I'm out of your inbox
+>
+> We may not have spoken directly, so I'll be upfront about why I'm emailing. I run Solenzo, a small agency in Arvada, CO. I help local businesses get found online, on Google and in the AI tools people are starting to search with. If your website looks fine but doesn't actually bring in work, that's the gap I close. I'm not here to hard-sell. I just want to put what I do on your radar in case it's useful, now or down the line.
+
+> Subject: SEO audit for [business]: 67/100
+>
+> I ran [business] through our SEO and AI visibility audit. Here is what came back. [Score, AI recommendation gap, top competitor, AI model test, 16-dimension breakdown] Want to talk through what this means? Book a free 30-minute strategy call. We will walk through your results, identify the highest-leverage fixes, and give you a clear next step. Questions on your score? Reply directly to this email.
 
 ## 6. One argument for AI rules that lands with conservatives but not progressives, and vice versa
 
