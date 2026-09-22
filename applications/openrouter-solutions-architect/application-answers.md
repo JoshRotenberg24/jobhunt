@@ -11,13 +11,13 @@ OpenRouter's core idea, that teams should get the best model for the job without
 locked into one provider, mirrors something I already do on a smaller scale. At Solenzo, I
 evaluate and pilot multiple automation and AI platforms (GoHighLevel, Zapier, Make, n8n)
 for every client rather than defaulting to one, because the right tool depends on the
-specific problem, not brand loyalty. Watching how fast the model landscape is moving, and
-how much operational complexity that creates for any team trying to keep up, is exactly
-the kind of problem I find genuinely interesting to work on from the customer-facing side.
+specific problem, not brand loyalty. How fast the model landscape is moving, and how much
+operational complexity that creates for any team trying to keep up, is exactly the kind of
+problem I find genuinely interesting to work on from the customer-facing side.
 
 I'm also drawn to being early in a category that's still being defined. Solenzo exists
 because I wanted to build something from scratch rather than maintain what already
-existed, and OpenRouter sitting at the center of how enterprises actually operationalize
+existed. OpenRouter's position at the center of how enterprises actually operationalize
 LLMs, not just experiment with them, is the same kind of ground-floor problem.
 
 ---
