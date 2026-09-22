@@ -1,0 +1,137 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Digital Campaigns | Email Programs, Action Pages & Plain-Language Writing",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Hands-on digital campaigns operator who writes, builds, sends, and reports on email programs and conversion pages every week. Built a 20+ workflow automation system end to end at Solenzo (capture, segmentation, confirmations and reminders, onboarding nurture, reactivation), and writes the copy, landing pages, and newsletters that move busy small business owners to act. Fluent in CRM and email platforms (HubSpot, Salesforce, GoHighLevel, Marketo, Mailchimp), builds web pages directly in HTML/CSS, and works daily in agentic AI tools including Claude Code. Political Science minor who writes plainly for non-expert audiences and verifies before shipping.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built and run a 20+ workflow automation program spanning lead capture, tagging and routing, qualification, booking with automated confirmations and reminders, no-show recovery, onboarding nurture, long-term reactivation, and review-generation asks.",
+        "Write direct-response copy, outreach sequences, newsletters, and landing pages aimed at owners of trade and service businesses, translating technical systems into plain language a busy owner acts on.",
+        "Built segmented email campaigns and an automated audit workflow that enrolled 180+ businesses, promoted through organic LinkedIn content, converting 2 to paying clients.",
+        "Build and edit web pages directly in HTML/CSS, including the Solenzo site, and install Google Tag Manager and GA4 tracking on every site launched so every page reports conversions.",
+        "Maintain segmentation, lifecycle stages, and strict data-hygiene protocols in GoHighLevel and HubSpot, and report opens, clicks, conversions, and drop-off with recommendations on what to change.",
+        "Build reusable, on-brand asset templates and messaging frameworks, adapting a shared template base to each client's brand instead of starting from scratch.",
+        "Grade AI-generated output against rubric criteria before it reaches a client, catching inaccurate or overstated content as part of a standing quality pass."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced multi-touch email sequences, conversion-focused landing pages, and campaign copy that improved lead generation.",
+        "Designed and ran A/B-tested LinkedIn ad campaigns against small, highly researched audiences, and advised clients on paid-campaign budget allocation.",
+        "Built campaign reporting tracking ROI, CAC, and conversion KPIs, turning results into optimization recommendations and QBRs.",
+        "Led integrated strategy across paid media, inbound, and content, coordinating execution across internal teams."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated training sequences and communication workflows that equipped a 15-20 partner network to explain and sell the product without hand-holding.",
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention).",
+        "Analyzed partner engagement data to spot adoption drop-off and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client campaigns end to end at a performance marketing agency, analyzing results and recommending changes across paid media and creative.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Contributed to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment through site architecture, SEO, and conversion guidance.",
+        "Managed and developed a team of onboarding specialists for two years (a team of 20, later 8), and built sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, and built Zapier automations along the way."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Email & Digital Actions",
+      "items": [
+        "Email Program Management",
+        "Action Alerts & Newsletters",
+        "Segmentation & List Hygiene",
+        "Automated Journeys",
+        "A/B Testing",
+        "Open / Click / Conversion Reporting"
+      ]
+    },
+    {
+      "category": "Platforms",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel",
+        "Marketo",
+        "Mailchimp",
+        "Zapier, Make, n8n",
+        "GA4 & Google Tag Manager"
+      ]
+    },
+    {
+      "category": "Web & Ads",
+      "items": [
+        "Landing Pages",
+        "HTML/CSS",
+        "CMS Page Builds",
+        "Google Ads",
+        "Meta Ads (certified)",
+        "LinkedIn Ads",
+        "Ad Copy"
+      ]
+    },
+    {
+      "category": "Writing & AI",
+      "items": [
+        "Plain-Language Copywriting",
+        "Technical Translation for Non-Experts",
+        "Editing & QA Pass",
+        "Claude Code & Agentic AI Tools",
+        "Prompt Design",
+        "Reusable Templates & Messaging Frameworks"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}
