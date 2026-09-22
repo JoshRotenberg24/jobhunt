@@ -270,7 +270,9 @@ banned-openings list above is about bullets. Prose has its own failure modes:
   the thing still in use. It answers "what would this person leave behind here."
 
 **Voice:** direct, commercially aware, no hype, no corporate filler. Commas and
-parentheses instead of em dashes. Short paragraphs. It should read like a competent
+parentheses instead of em dashes. Always put a comma after an introductory phrase ("At
+Solenzo, I own…", "At Wix, I led…") and before the conjunction joining two independent
+clauses (Josh's explicit correction, Sep 2026). Short paragraphs. It should read like a competent
 operator talking, not like a candidate performing.
 
 ---

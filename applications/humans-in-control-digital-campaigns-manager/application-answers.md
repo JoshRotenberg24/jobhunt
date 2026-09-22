@@ -2,17 +2,17 @@
 
 ## 1. Briefly, why are you interested in Digital Campaigns Manager?
 
-This is the work I already do every week: write the email, build the page, set up the automation, send it, and read the results. At Solenzo I do all of it myself for small business owners, and what makes it work is plain language that a busy person acts on. I'd like to point that at something bigger than a client's lead flow. I build with AI tools daily, including Claude Code, so I see up close how fast these systems are getting more capable and how little outside accountability sits around them. The people building it shouldn't be the only ones writing the rules, and most Americans already agree on that. Turning that agreement into action is a job I want.
+This is the work I already do every week: write the email, build the page, set up the automation, send it, and read the results. At Solenzo, I do all of it myself for small business owners, and what makes it work is plain language that a busy person acts on. I'd like to point that at something bigger than a client's lead flow. I build with AI tools daily, including Claude Code, so I see up close how fast these systems are getting more capable and how little outside accountability sits around them. The people building it shouldn't be the only ones writing the rules, and most Americans already agree on that. Turning that agreement into action is a job I want.
 
 ## 2. Most relevant digital campaigns experience + channels
 
-At Solenzo I own the full digital program for service businesses: email and SMS campaigns, automated journeys, CRM and list work, landing pages, paid search, and reporting. I built a 20+ workflow system in GoHighLevel covering capture, segmentation, text and email confirmations and reminders, no-show recovery, onboarding nurture, and reactivation. At Level Agency I produced multi-touch email sequences and landing pages and ran A/B-tested LinkedIn ad campaigns.
+At Solenzo, I own the full digital program for service businesses: email and SMS campaigns, automated journeys, CRM and list work, landing pages, paid search, and reporting. I built a 20+ workflow system in GoHighLevel covering capture, segmentation, text and email confirmations and reminders, no-show recovery, onboarding nurture, and reactivation. At Level Agency, I produced multi-touch email sequences and landing pages and ran A/B-tested LinkedIn ad campaigns.
 
 Channels owned: email, SMS, CRM/list management (GoHighLevel, HubSpot, Salesforce), landing pages (HTML/CSS), paid digital (Google Ads, LinkedIn Ads, Meta Ads certified), organic LinkedIn, and analytics (GA4, Google Tag Manager).
 
 ## 3. Built an audience or program from scratch?
 
-Yes. I started Solenzo in 2024 with no list and no audience. I built a free digital-footprint audit as the entry offer, promoted it through organic LinkedIn content, and wired an automated workflow that scored each business's online presence and sent follow-up based on what it found (website visibility, missed calls, low reviews). 180+ businesses enrolled and 2 became paying clients.
+Yes. I started Solenzo in 2024 with no list and no audience. I built a free digital-footprint audit as the entry offer, promoted it through organic LinkedIn content, and wired an automated workflow that scored each business's online presence and sent follow-up based on what it found (website visibility, missed calls, low reviews). 180+ businesses enrolled, and 2 became paying clients.
 
 What worked: a useful free thing beats a pitch, and segmenting by the actual problem the audit found beat one generic sequence. What I'd do differently: build the nurture track for people who didn't buy right away much earlier.
 
@@ -49,8 +49,8 @@ What feels overblown is the idea that one dramatic moment will announce the dang
 
 ## 8. Comfortable working with people who don't share your politics or worldview?
 
-Yes, and most of my career has been exactly that. I spent 15+ years as a cook in restaurant kitchens, co-owned a cannabis dispensary in Colorado's early medical era, and now work with owners of plumbing, electrical, and HVAC businesses. At Wix I led a team of 20. None of that worked by sorting people by politics. It worked by being clear about the goal and respecting how people got to where they are.
+Yes, and most of my career has been exactly that. I spent 15+ years as a cook in restaurant kitchens, co-owned a cannabis dispensary in Colorado's early medical era, and now work with owners of plumbing, electrical, and HVAC businesses. At Wix, I led a team of 20. None of that worked by sorting people by politics. It worked by being clear about the goal and respecting how people got to where they are.
 
 ## 9. Does the salary range work, and when can you start?
 
-Yes, the range works. I'd target $88,000 to $92,000 given my hands-on email, SMS, and automation experience. I can start two weeks from an offer.
+Yes, the range works. I'd target $88,000 to $92,000, given my hands-on email, SMS, and automation experience. I can start two weeks from an offer.
