@@ -131,6 +131,22 @@ band.
   employers, answer from the recreation side only and say plainly that the hunting and
   angling background isn't there. Do not re-ask; do not stretch this.
 
+## Personal hardware / AI tinkering (confirmed Sep 2026)
+
+- Josh has done light, informal personal tinkering with a Raspberry Pi at home ("messed
+  around with it a bit"). This is genuine, hands-on hardware/infrastructure curiosity
+  pursued on his own initiative, not professional experience, and should never be
+  represented as cloud, Kubernetes, networking, or production infrastructure engineering
+  experience, none of which is confirmed. Usable narrowly for the specific "personal
+  projects / home-lab tinkering" nice-to-have some postings name (e.g., a Raspberry-Pi
+  example), not for any stated must-have requiring real infrastructure engineering depth.
+- Context (unconfirmed specifics, do not use in application materials beyond this general
+  framing): the interest was prompted by a near-miss opportunity with an early-stage drone
+  company that failed to launch as a business after new FAA drone regulations shut it
+  down before Josh's involvement solidified. The nature of the prospective engagement
+  (employee, contractor, or client) was not specified, ask Josh if a specific application
+  would benefit from more detail.
+
 ## Personal interest in financial services / banking (confirmed Sep 2026)
 
 - Josh has confirmed a genuine personal interest in banking and financial services,

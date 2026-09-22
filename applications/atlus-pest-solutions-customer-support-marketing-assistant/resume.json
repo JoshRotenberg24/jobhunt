@@ -1,0 +1,81 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Support & Marketing Operations Professional | CRM, Reputation Management & Google Ads",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer-facing operations professional with 15+ years managing client accounts, CRM systems, and reputation/review programs across SaaS, agency, and home-services businesses. Direct experience selling and onboarding partners on a reputation-management platform (Birdeye), managing Google Ads accounts, and running Google Business Profile and review-generation programs for home-services clients at Solenzo. Comfortable working inside CRM systems (HubSpot, Salesforce, GoHighLevel) to keep records accurate.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Claim, set up, and optimize Google Business Profile listings and run automated review-generation sequences for home-services clients (electrical, plumbing, HVAC), maintaining their online reputation.",
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click-through quality.",
+        "Architect and manage CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and data-hygiene protocols, documenting every client interaction and deliverable."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Advised clients on ad-spend budget planning and Google keyword research, and managed multi-stakeholder accounts in HubSpot, resolving feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded partners on Birdeye's proprietary reputation-management and local-listings/data-aggregator platform, ensuring every partner's end customer had accurate business listings and an active reputation-management program.",
+        "Onboarded and managed 15-20 reseller partners (health, home-services, and retail verticals) in Salesforce, retaining all but one (~94% retention) during tenure."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets, while maintaining accurate CRM records for a high-value account portfolio.",
+        "Led digital growth consultations aligning site architecture and SEO, including connecting and setting up clients' Google Business Profile alongside their site build."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Support & CRM",
+      "items": [
+        "Customer Record Management", "HubSpot", "Salesforce", "GoHighLevel", "Service-Inquiry Follow-Up", "Data Hygiene"
+      ]
+    },
+    {
+      "category": "Reputation & Local Marketing",
+      "items": [
+        "Google Business Profile Management", "Review Generation", "Local Listings / Data-Aggregator Platforms"
+      ]
+    },
+    {
+      "category": "Paid Media, Reporting & Tools",
+      "items": [
+        "Google Ads Account Management", "Keyword & Search-Term Research", "Campaign Reporting", "Google Workspace (Gmail, Calendar, Docs)", "Remote Administrative & Marketing Support"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
