@@ -1,0 +1,112 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Enablement & Training | Onboarding, Product Adoption & CRM Platforms",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro, MST)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer enablement and onboarding leader with 15+ years in SaaS, MarTech, and agency environments, training customers and partners on CRM, lead-handling, and marketing automation platforms. At Birdeye, built the training sequences and onboarding program behind a 15-20 partner network that retained all but one (~94%). At Wix, onboarded 25+ clients per month and led a team of 20 onboarding specialists, including building sales training for tenured account executives. Translates product capabilities into plain-language value for owners, managers, and frontline staff at local businesses, and carries customer feedback back to Product. Denver based, near a major hub airport.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into platform configuration and delivering hands-on training so owners and staff actually use what was built.",
+        "Built a 20+ workflow lead-handling system in GoHighLevel covering lead capture, routing, qualification, appointment booking with reminders, no-show recovery, and follow-up nurture, the same lead-to-appointment motion a dealership BDC runs.",
+        "Write user guides, educational content, and reusable templates that let non-technical business owners self-serve instead of waiting on support.",
+        "Translate non-technical stakeholders' goals and feedback into precise system requirements, bridging business intent and platform capability.",
+        "Report adoption and performance on a regular cadence, with recommendations on what to change next."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts, translating performance data into recommendations and running QBRs.",
+        "Kept delivery quality consistent across implementations, resolving client feedback quickly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Partner Training & Enablement (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a high-volume partner network, driving adoption of reputation management, listings, and marketing automation products.",
+        "Built automated product-training sequences and communication workflows that reduced onboarding friction and equipped partners to explain product value to their own customers.",
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Delivered structured, prioritized customer feedback to Product and Engineering that informed the roadmap.",
+        "Analyzed partner utilization data to find adoption gaps and recommend interventions that reduced churn.",
+        "Guided customers through technical setup and configuration of listings, reputation, and automation tools, tracking every account in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team while running client accounts end to end, and built internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Managed and developed a team of onboarding specialists for two years (20, later 8), and contributed to hiring, onboarding, and training new hires.",
+        "Developed sales training for tenured account executives on a brand-new vertical that grew from proof of concept to a profitable business line.",
+        "Led digital growth consultations with business owners, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Standardized CRM field definitions in Salesforce for onboarding and outbound workflows, so every specialist captured the same data."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped CRM and project-management software, then built sequenced implementation plans and guided client onboarding and workflow design alongside the implementation team.",
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Sold a loyalty and marketing automation platform to local SMBs, building a consultative approach to adoption and retention."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Enablement & Training",
+      "items": ["Customer Training Programs", "Onboarding Strategy", "Product Adoption", "Training Content & User Guides", "Live Virtual Training Sessions", "Resource Libraries & FAQs"]
+    },
+    {
+      "category": "Customer Success",
+      "items": ["Retention & Churn Prevention", "Adoption Gap Analysis", "Voice of Customer to Product", "QBRs", "Stakeholder Management"]
+    },
+    {
+      "category": "Platforms",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Zendesk", "Jira", "Slack", "Google Workspace", "Notion", "ClickUp"]
+    },
+    {
+      "category": "Lead Handling & CRM",
+      "items": ["Lead Capture & Routing", "Appointment Setting Workflows", "CRM Configuration", "Marketing Automation", "Data Hygiene"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)", "Meta Ads Certification - Meta"]
+}
