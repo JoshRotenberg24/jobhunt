@@ -361,7 +361,7 @@ operator talking, not like a candidate performing.
 - Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.
 - Identify and implement schema/structured data as part of technical SEO audits, pulling full on-page schema implementation. *(Confirmed by Josh, Aug 2026.)*
 - Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
-- Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.
+- Write and publish thought leadership content, newsletters, and educational guides (public writing sample: https://getsolenzo.com/blog) on systems architecture, CRM optimization, and operational growth for B2B audiences.
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
 - Build reusable, boilerplate marketing assets and messaging frameworks as needed for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.
 

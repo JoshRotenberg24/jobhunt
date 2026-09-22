@@ -29,9 +29,9 @@ All of them.
 
 ## 5. 1 to 3 writing examples
 
-1. **Solenzo segmented outreach campaign** (writer and builder). Three email tracks for local service businesses, each opening with the specific problem the audit found: weak website visibility, missed calls, or low review counts. One plain ask: see your free audit.
-2. **Solenzo newsletter and guides** (writer). CRM and automation explained for business owners who don't think of themselves as technical, turning a systems topic into what to do Monday morning.
-3. **Level Agency email sequence and landing page** (writer and producer). A multi-touch sequence plus a conversion-focused landing page built to drive lead generation. Client name redacted; copy available on request.
+1. **Solenzo blog: https://getsolenzo.com/blog** (writer and publisher). I write every post. They explain CRM, automation, and local marketing for owners of service businesses who don't think of themselves as technical, turning a systems topic into what to do Monday morning.
+2. **Solenzo segmented outreach campaign** (writer and builder). Three email tracks for local service businesses, each opening with the specific problem the audit found: weak website visibility, missed calls, or low review counts. One plain ask: see your free audit. Copy available on request.
+3. **Level Agency email sequence and landing page** (writer and producer). A multi-touch sequence plus a conversion-focused landing page built to drive lead generation. Client name redacted, and copy is available on request.
 
 ## 6. One argument for AI rules that lands with conservatives but not progressives, and vice versa
 
