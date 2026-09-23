@@ -1,0 +1,115 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Content & Social | Hooks, Captions, Multi-Voice Copy, Creative Briefing & AI-Assisted Writing",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Content marketer and copywriter with 15+ years in marketing, SaaS, and agency roles, writing hooks, captions, and direct-response copy that gets a specific reader to act. Grew Solenzo's audience through organic LinkedIn content, filling a free-audit funnel that enrolled 180+ businesses. Writes in distinct voices for multiple client brands at once without them bleeding together, and briefs work tightly enough that it ships right the first time. Uses AI writing tools daily and grades the output against a rubric, keeping what's usable and cutting what sounds generic. Reads performance data and turns it into the next test.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built Solenzo's audience through organic LinkedIn content, promoting a free digital-footprint audit that enrolled 180+ businesses and converted paying clients.",
+        "Write and publish the Solenzo blog, newsletters, and guides that turn technical topics into plain language for busy, non-expert owners.",
+        "Write hooks, captions, email sequences, and landing-page copy for multiple client brands, each in its own voice, from a shared messaging framework adapted per brand.",
+        "Use AI writing tools daily to generate and refine options, then grade output against rubric criteria so only specific, on-brand copy ships.",
+        "Keep client Google Business Profiles current with regular posts and photos, and correct live content when services, pricing, or details change.",
+        "Track engagement and conversion in GA4 and CRM dashboards, reporting what worked and the next test to run."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced campaign copy, landing pages, and email sequences across paid, inbound, and content channels, coordinating execution with internal creative teams.",
+        "Ran A/B-tested LinkedIn campaigns and reported results, turning performance data into creative and messaging recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Worked with 15-20 reseller partners, many serving healthcare-focused businesses, on reputation and review programs, retaining all but one (~94%).",
+        "Wrote automated training and communication sequences that partners used without follow-up questions."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency and recommended changes, managing tasks and briefs in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led a team of 20 (later 8) on a fixed launch schedule of 25+ client launches per month, at 110% of implementation targets.",
+        "Advised on content, site architecture, and SEO, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Content & Copy",
+      "items": [
+        "Hooks & Captions",
+        "Multi-Voice / Persona Writing",
+        "Short-Form Copy",
+        "Direct-Response Copy",
+        "Repurposing Long-Form for Social",
+        "Editorial Judgment"
+      ]
+    },
+    {
+      "category": "Planning & Briefing",
+      "items": [
+        "Content Calendars",
+        "Creative Briefs",
+        "ClickUp",
+        "Cross-Functional Coordination"
+      ]
+    },
+    {
+      "category": "Channels & Data",
+      "items": [
+        "LinkedIn (organic & paid)",
+        "Meta (certified)",
+        "Google Business Profile",
+        "Email",
+        "GA4",
+        "Performance Reporting"
+      ]
+    },
+    {
+      "category": "AI",
+      "items": [
+        "AI Writing Tools (Claude, ChatGPT)",
+        "Prompt Design",
+        "Output Evaluation"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}
