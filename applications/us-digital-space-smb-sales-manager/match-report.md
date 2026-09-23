@@ -31,7 +31,7 @@ Remote US, work authorization: pass. No knockouts visible.
 
 ## Gaps
 - **No formal Sales Manager title** directly managing a quota-carrying AE team; Wix team was onboarding specialists.
-- **Team forecasting cadence:** IC pipeline and forecast hygiene only; no team forecast ownership on record.
+- **Forecasting:** done in every sales role (confirmed by Josh); team-level forecast ownership as a manager is the step up.
 
 ## Output files
 - `USDigitalSpace-SMBSalesManager-Resume.pdf` / `.docx`

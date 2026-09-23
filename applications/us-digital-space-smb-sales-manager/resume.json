@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "SMB SaaS seller and team leader with 15+ years in sales, onboarding, and account management, including back-to-back team lead roles at Wix and Fetch & Funnel. At Wix, led a team of 20 (later 8) for two years, helped hire and train new team members, and built sales training for tenured account executives on a new vertical that went from proof of concept to profitable, while personally holding 120% of sales targets. Ranked top three in sales at Accelo on a team that grew from 8 to 15 reps while quota roughly doubled, so I know what separates a top rep from the middle of the board. Coaches to a repeatable process: clean pipeline, honest forecasts, and consultative selling that ties the product to the customer's revenue.",
+  "summary": "SMB SaaS seller and team leader with 15+ years in sales, onboarding, and account management, including back-to-back team lead roles at Wix and Fetch & Funnel. At Wix, led a team of 20 (later 8) for two years, helped hire and train new team members, and built sales training for tenured account executives on a new vertical that went from proof of concept to profitable, while personally holding 120% of sales targets. Ranked top three in sales at Accelo on a team that grew from 8 to 15 reps while quota roughly doubled, so I know what separates a top rep from the middle of the board. Has forecast pipeline in every sales role held, and coaches to a repeatable process: clean pipeline, honest forecasts, and consultative selling that ties the product to the customer's revenue.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -36,7 +36,8 @@
       "location": "Remote",
       "dates": "Feb 2023 - Apr 2024",
       "bullets": [
-        "Sold, trained, and managed 15-20 SMB-focused reseller partners (deals ~$10K-$45K), enabling their teams to sell the product, and retained all but one (~94%)."
+        "Sold, trained, and managed 15-20 SMB-focused reseller partners (deals ~$10K-$45K), enabling their teams to sell the product, and retained all but one (~94%).",
+        "Forecast partner renewals and new partner deals in Salesforce, keeping stage data clean across the book."
       ]
     },
     {
@@ -46,16 +47,18 @@
       "dates": "Sep 2022 - Feb 2023",
       "bullets": [
         "Led the sales team while carrying my own number, closing 6 new-client deals averaging ~$22K (several over $25K), roughly $130K+ in total bookings.",
+        "Owned pipeline and forecast reporting for the sales team's deals in HubSpot, flagging slipping opportunities early.",
         "Built internal sales and reporting processes that improved accuracy, reduced handoff errors, and strengthened alignment between sales and delivery."
       ]
     },
     {
-      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "title": "Sales & Onboarding Team Lead (Account Manager, Onboarding Launch Specialist & Team Lead)",
       "company": "Wix.com",
       "location": "Remote",
       "dates": "Aug 2020 - Aug 2022",
       "bullets": [
         "Led and developed a team for two years (20, later 8), overseeing budgets, scope, and delivery for a high-value SMB portfolio.",
+        "Forecast monthly sales and launch numbers for my book and tracked the team's pipeline stages in Salesforce, keeping commits accurate against a fixed monthly target.",
         "Contributed to hiring, onboarding, and training new team members, and developed sales training for tenured account executives.",
         "Drove team initiatives and process improvements for a brand-new vertical that grew from proof of concept to a profitable business line.",
         "Held 120% of sales targets and 110% of implementation targets while launching 25+ SMB clients per month."
@@ -68,6 +71,7 @@
       "dates": "Apr 2018 - Jul 2020",
       "bullets": [
         "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, earning consistently into accelerator tiers.",
+        "Maintained accurate pipeline stages and monthly forecasts in the CRM, calling commits leadership could plan against while quota roughly doubled.",
         "Averaged ~$17,750/month in services bookings (~$213K annualized) plus new recurring revenue, selling SaaS to SMB agencies and professional-services firms."
       ]
     },
@@ -77,24 +81,47 @@
       "location": "Denver, CO",
       "dates": "2017 - 2018",
       "bullets": [
-        "Ran full-cycle, high-volume SMB SaaS sales: prospecting, qualification, demos, and close."
+        "Ran full-cycle, high-volume SMB SaaS sales: prospecting, qualification, demos, and close.",
+        "Kept pipeline stages and forecasts current in Salesforce on a high-volume, monthly-quota motion."
       ]
     }
   ],
   "competencies": [
     {
       "category": "Sales Leadership",
-      "items": ["Team Leadership", "AE Coaching & Enablement", "Sales Training", "Hiring & Onboarding", "Sales Process Design"]
+      "items": [
+        "Team Leadership",
+        "AE Coaching & Enablement",
+        "Sales Training",
+        "Hiring & Onboarding",
+        "Sales Process Design"
+      ]
     },
     {
       "category": "Pipeline & Revenue",
-      "items": ["Pipeline Management", "Forecast Hygiene", "SMB SaaS Sales", "Consultative Selling", "Expansion"]
+      "items": [
+        "Pipeline Management",
+        "Forecast Hygiene",
+        "SMB SaaS Sales",
+        "Consultative Selling",
+        "Expansion"
+      ]
     },
     {
       "category": "Tools",
-      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Salesloft", "ZoomInfo", "Gong", "Excel"]
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Salesloft",
+        "ZoomInfo",
+        "Gong",
+        "Excel"
+      ]
     }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
   "certifications": []
 }
