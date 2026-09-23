@@ -1,0 +1,102 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SaaS Account Executive | Consultative Selling, Executive Stakeholders & Hands-On AI Agent Expertise",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Quota-carrying SaaS account executive who also builds and deploys AI agents hands-on. Ranked top three in sales at Accelo on a team that grew from 8 to 15 reps while quota roughly doubled, earning into accelerator tiers and closing $20K+ deals with C-suite buyers. Held 120% of sales targets at Wix and closed 6 new-client deals averaging ~$22K at Fetch & Funnel. At Solenzo, architects agentic AI systems for clients, breaking manual workflows into agent logic and translating business intent into reliable LLM output, so the product conversation starts from real deployments, not slides. Denver based.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run the full sales cycle for my own firm: outbound prospecting, discovery, scoping, pricing, and close, then expand accounts by scoping additional services tied to each client's goals.",
+        "Architect and deploy AI agents and LLM workflows for clients, decomposing manual processes into agent logic with custom scoring and personalized output.",
+        "Translate non-technical stakeholders' goals into precise prompts and agent instructions, the bridge between business intent and reliable AI output.",
+        "Built rubric-based evaluation loops to grade AI output quality before it reaches a client, keeping deployments trustworthy."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder accounts as strategic lead, running QBRs on ROI, CAC, and LTV and turning results into expansion recommendations.",
+        "Ran account-based LinkedIn campaigns against small, highly researched buyer lists with A/B-tested messaging."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94%).",
+        "Partnered with Product and Engineering on structured customer feedback, and guided partners through technical deployment."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K (several over $25K), roughly $130K+ in total bookings, while leading the sales team.",
+        "Pursued a major northeastern U.S. banking prospect through to the finalist stage."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Held 120% of sales targets and 110% of implementation targets while launching 25+ clients per month.",
+        "Led a team of 20 (later 8), and built sales training for tenured account executives on a new vertical that grew from proof of concept to profitable."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps for all but the final months of a 27-month tenure, while quota roughly doubled.",
+        "Consistently earned into accelerator tiers, averaging ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue, with deals of $20K+ later in tenure.",
+        "Sold complex CRM and project-management SaaS to agencies and professional-services firms, building C-suite relationships as a trusted advisor on operational design."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle SaaS sales: high-volume prospecting, qualification, demos, and close."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales",
+      "items": ["Full-Cycle SaaS Sales", "Outbound Prospecting", "Consultative / Value Selling", "Executive Stakeholder Management", "Negotiation", "Pipeline & Forecast Hygiene", "Account Expansion"]
+    },
+    {
+      "category": "AI",
+      "items": ["AI Agents & Agentic Workflows", "LLM Deployment", "Prompt Design", "Output Evaluation", "Claude", "ChatGPT"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Salesforce", "HubSpot", "Salesloft", "ZoomInfo", "Gong", "Excel"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": []
+}
