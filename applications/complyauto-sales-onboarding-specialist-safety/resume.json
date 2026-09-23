@@ -1,0 +1,123 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SaaS Sales & Customer Onboarding | New Business, Implementation & Compliance-Minded Operations",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro, near DEN)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SaaS account executive and onboarding specialist with 15+ years selling to local business owners and then getting them live on the software. Ranked top three in sales at Accelo while quota roughly doubled, closing deals of $20K+ and building the implementation plan behind each one. At Wix, carried a combined sales and implementation load, holding 120% of sales targets and 110% of implementation targets while onboarding 25+ clients a month. Co-owned and ran a licensed, regulated business in Colorado, building its compliance, intake, and reporting systems from scratch. Detail-driven in account setup and in the CRM (HubSpot, Salesforce), and Denver based near a major hub airport.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Prospect, pitch, and close local service businesses (electrical, plumbing, HVAC, and other trades), using a free no-cost audit as the conversation opener to surface problems and show value before any pricing talk.",
+        "Run discovery, onboarding, and hands-on training for every new client, configuring their accounts and getting owners and staff using the system.",
+        "Document every prospect, meeting, deliverable, and next step in HubSpot and GoHighLevel, keeping pipeline and project records current across concurrent engagements.",
+        "Expand retainer scope by identifying under-served needs after onboarding and scoping complementary services."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts and ran QBRs, resolving client feedback quickly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded 15-20 reseller partners (deals ~$10K-$45K) on Birdeye's listings, reputation, and automation software, retaining all but one (~94% retention).",
+        "Led onboarding and training for a high-volume partner network and guided customers through detailed technical setup and configuration.",
+        "Passed structured field feedback on customer needs and objections to Product and Engineering, informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K (several over $25K), roughly $130K+ in total bookings, while leading the sales team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Carried a combined sales and onboarding load, holding 120% of sales targets and 110% of implementation targets while launching 25+ clients per month.",
+        "Led a team of onboarding specialists for two years (20, later 8), and standardized the CRM fields the team used to capture sales and onboarding data."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, consistently earning into accelerator tiers.",
+        "Averaged ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue, with deals of $20K+ later in tenure.",
+        "Demonstrated and scoped SaaS to business owners, negotiated terms, and built sequenced implementation plans for each new client."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales to local SMB owners for a loyalty and marketing platform: high-volume prospecting, qualification, demos, and close."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads and booked appointments for regional sales representatives, keeping a steady flow of sales-ready meetings."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance, intake, reporting, and vendor and supplier systems from scratch for a state-licensed, heavily regulated business, scaling it to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales",
+      "items": ["New Business Development", "Prospecting & Qualification", "Product Demos", "Pricing & Negotiation", "Closing", "ARR Quota Attainment", "Pipeline & Forecast Hygiene"]
+    },
+    {
+      "category": "Onboarding",
+      "items": ["Account Setup & Configuration", "Customer Training", "Detailed Data Entry & Documentation", "Handoff to Customer Success", "Churn Prevention"]
+    },
+    {
+      "category": "Tools",
+      "items": ["HubSpot", "Salesforce", "GoHighLevel", "Excel", "Google Workspace", "Tablets & Web Platforms"]
+    },
+    {
+      "category": "Operations",
+      "items": ["Regulatory Compliance Systems", "Vendor & Supplier Workflows", "Territory & Schedule Planning", "Self-Directed Work"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": []
+}
