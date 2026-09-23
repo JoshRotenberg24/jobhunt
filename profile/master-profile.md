@@ -55,6 +55,10 @@
 > eligibility gap; apply the score cap. Josh's private-payer insurance experience as a
 > patient is unrelated and never substitutes.
 >
+> **Graduate enrollment (confirmed by Josh, Sep 2026, do not re-ask):** not currently enrolled
+> in any graduate program. Internships, co-ops, and work-study roles restricted to active students
+> are a hard eligibility knockout.
+>
 > **Colorado MED Agent Badge (confirmed by Josh, Sep 2026):** does not currently hold a
 > Colorado Marijuana Enforcement Division occupational license ("Agent Badge"). This is
 > commonly a required, direct application question for cannabis retail/field roles that
