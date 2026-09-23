@@ -1,0 +1,111 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Implementation & Client Onboarding | Configuration, Data Mapping & Project Management",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation and client onboarding lead with 15+ years across SaaS, agency, and operations roles, taking clients from signed contract to live, validated systems. At Wix, onboarded and launched 25+ clients per month at 110% of implementation targets and led a team of 20 onboarding specialists. At Accelo, scoped CRM and project-management implementations, built sequenced implementation plans, and supported API integrations and workflow design. Configures platforms hands-on (Salesforce, HubSpot, GoHighLevel, Zapier/Make/n8n), defines data fields and mappings, tests workflows before go-live, and documents every decision so the operations handoff is clean.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end implementations of new technology stacks, gathering client requirements and translating them into platform configuration, integrations, and hands-on user training.",
+        "Configured and deployed 20+ integrated workflows in GoHighLevel and HubSpot, including lead routing, booking, and data sync, testing each workflow end to end before activation.",
+        "Build integrations across CRMs and tools in Zapier, Make, and n8n, including custom Python and JavaScript code steps to map and transform data between systems.",
+        "Maintain contact segmentation, lifecycle stages, and strict data-hygiene protocols so client data stays complete and validated.",
+        "Document every interaction, timeline, configuration, and deliverable in Notion and the CRM, keeping project records auditable across concurrent implementations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated multi-department delivery for multi-stakeholder accounts, keeping implementation quality consistent and resolving client feedback quickly.",
+        "Built reporting frameworks and ran QBRs, translating performance data into recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of listings-syndication, reputation, and marketing automation tools across a 15-20 partner network.",
+        "Ensured every partner's end customer had an accurately configured local-listings data presence, the core of the product offering.",
+        "Built automated onboarding and product-training sequences that reduced onboarding friction, retaining all but one partner (~94% retention).",
+        "Delivered structured, prioritized implementation feedback to Product and Engineering, and tracked accounts in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets and 120% of sales targets.",
+        "Led a team of onboarding specialists for two years (20, later 8), overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Labeled and defined the CRM fields required for onboarding and outbound workflows in Salesforce, standardizing data capture across the team.",
+        "Advised on A/B test structure and success criteria for a Salesforce workflow-automation effort.",
+        "Delivered launches on time as primary contact, accelerating time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Scoped CRM and project-management implementations for agencies and professional-services firms, building sequenced implementation plans that ranked which systems to change and in what order, then handing them to the implementation team.",
+        "Guided client onboarding, workflow design, and API integrations alongside implementation teams, troubleshooting technical issues during setup.",
+        "Escalated implementation risks to leadership early and built Zapier automations along the way."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built operational infrastructure from scratch for a state-licensed, regulated business: compliance systems, intake processes, reporting, and vendor and supplier workflows."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": ["Requirements Gathering", "Platform & Account Configuration", "Data Mapping & Validation", "Integrations & APIs", "Workflow Testing / UAT", "Go-Live & Ops Handoff"]
+    },
+    {
+      "category": "Project Management",
+      "items": ["Implementation Timelines", "Concurrent Projects", "Client Deliverable Checklists", "Configuration Documentation", "Setup Guides", "Risk Escalation"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Jira", "Asana", "Monday.com", "ClickUp", "Notion", "Excel & MS Office", "Zapier, Make, n8n"]
+    },
+    {
+      "category": "Technical",
+      "items": ["SQL (working)", "Python & JavaScript (automation code steps)", "HTML/CSS", "Data Hygiene", "Zendesk Ticketing"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": []
+}
