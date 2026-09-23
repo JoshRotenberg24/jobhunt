@@ -1,0 +1,100 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SMB SaaS Sales Leader | Team Leadership, AE Coaching & Enablement, Pipeline & Forecasting",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SMB SaaS seller and team leader with 15+ years in sales, onboarding, and account management, including back-to-back team lead roles at Wix and Fetch & Funnel. At Wix, led a team of 20 (later 8) for two years, helped hire and train new team members, and built sales training for tenured account executives on a new vertical that went from proof of concept to profitable, while personally holding 120% of sales targets. Ranked top three in sales at Accelo on a team that grew from 8 to 15 reps while quota roughly doubled, so I know what separates a top rep from the middle of the board. Coaches to a repeatable process: clean pipeline, honest forecasts, and consultative selling that ties the product to the customer's revenue.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run the full sales cycle for SMB clients, from outbound and discovery through pricing, close, and expansion, and consult with owners on driving revenue from their systems.",
+        "Built an outbound engine that scored 180+ businesses' digital footprint and triggered personalized outreach, a repeatable top-of-funnel motion.",
+        "Build sales pipelines, lead routing, and reporting in GoHighLevel and HubSpot, the infrastructure a sales team runs and forecasts on."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder accounts across creative, media, and technology teams, running QBRs and turning results into expansion recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold, trained, and managed 15-20 SMB-focused reseller partners (deals ~$10K-$45K), enabling their teams to sell the product, and retained all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Sales Team Lead (Account Executive / Sales Operations)",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team while carrying my own number, closing 6 new-client deals averaging ~$22K (several over $25K), roughly $130K+ in total bookings.",
+        "Built internal sales and reporting processes that improved accuracy, reduced handoff errors, and strengthened alignment between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led and developed a team for two years (20, later 8), overseeing budgets, scope, and delivery for a high-value SMB portfolio.",
+        "Contributed to hiring, onboarding, and training new team members, and developed sales training for tenured account executives.",
+        "Drove team initiatives and process improvements for a brand-new vertical that grew from proof of concept to a profitable business line.",
+        "Held 120% of sales targets and 110% of implementation targets while launching 25+ SMB clients per month."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, earning consistently into accelerator tiers.",
+        "Averaged ~$17,750/month in services bookings (~$213K annualized) plus new recurring revenue, selling SaaS to SMB agencies and professional-services firms."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle, high-volume SMB SaaS sales: prospecting, qualification, demos, and close."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales Leadership",
+      "items": ["Team Leadership", "AE Coaching & Enablement", "Sales Training", "Hiring & Onboarding", "Sales Process Design"]
+    },
+    {
+      "category": "Pipeline & Revenue",
+      "items": ["Pipeline Management", "Forecast Hygiene", "SMB SaaS Sales", "Consultative Selling", "Expansion"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Salesloft", "ZoomInfo", "Gong", "Excel"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": []
+}
