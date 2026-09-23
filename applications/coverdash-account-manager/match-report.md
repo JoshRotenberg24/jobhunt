@@ -1,6 +1,6 @@
 # Match Report: Coverdash, Account Manager (Commercial P&C)
 
-> **Status: Rated only, not built.** Josh confirmed (2026-09-23) he does not hold a P&C license, which the posting requires.
+> **Status: SKIPPED by Josh (2026-09-23). Rated only, not built.** Josh confirmed (2026-09-23) he does not hold a P&C license, which the posting requires.
 
 - **Company:** Coverdash (embedded commercial insurance agency for startups/SMBs)
 - **Role:** Commercial Insurance Account Manager, book up to $4MM annual premium
