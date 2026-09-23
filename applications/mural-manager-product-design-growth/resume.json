@@ -1,0 +1,100 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Growth & Activation | Funnel Design, Onboarding Journeys, Experimentation & AI Prototyping",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Growth operator who designs the journey from first touch to value realized, then measures where users drop and fixes it. Built Solenzo's product-led acquisition loop from zero: a free audit as the activation moment, automated scoring, segmented follow-up, and conversion to paid. Owned onboarding and launch for 25+ SaaS customers a month at Wix while leading a team of 20, and designed partner onboarding at Birdeye that retained ~94% of the book. Prototypes flows directly in HTML/CSS and with AI coding tools, including Claude Code, and treats funnel data and A/B test results as design inputs, not after-the-fact validation.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Designed and shipped a product-led acquisition loop from zero: a free digital-footprint audit as the first-value moment, automated scoring, and follow-up segmented by what each audit found. 180+ businesses enrolled and 2 converted to paid.",
+        "Architected 20+ lifecycle workflows mapping the full journey, from capture and qualification through booking, no-show recovery, onboarding nurture, reactivation, and review asks, each stage instrumented so drop-off is visible.",
+        "Prototype landing pages and flows directly in HTML/CSS and with AI coding tools (Claude Code, Zapier/Make/n8n code steps in Python and JavaScript), using working code as the fastest way to test an idea.",
+        "Diagnosed on-site conversion friction as the real bottleneck on a client's Google Ads funnel after cutting low-quality leads, tracing the problem past acquisition into the page experience.",
+        "A/B test email subject lines and content, and report funnel progression, conversion, and drop-off in GA4 and CRM dashboards to decide what changes next.",
+        "Design agent logic and rubric-based evaluation loops for AI-generated output, balancing automation speed against output quality and user trust."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced conversion-focused landing pages and multi-touch email sequences, and ran A/B-tested LinkedIn campaigns against small, highly researched audiences.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, turning results into optimization recommendations for cross-functional teams."
+      ]
+    },
+    {
+      "title": "Customer Onboarding & Activation (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Designed automated onboarding and product-training sequences that reduced time-to-first-value friction for a 15-20 partner network, retaining all but one (~94%).",
+        "Analyzed utilization data to locate adoption gaps and recommend interventions that reduced churn.",
+        "Fed structured, prioritized user feedback to Product and Engineering that shaped the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team at a performance marketing agency, analyzing campaign data and recommending changes across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Owned onboarding and launch for 25+ customers per month on a self-serve SaaS platform, holding 120% of sales targets and 110% of implementation targets.",
+        "Contributed to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment through site architecture, SEO, and conversion guidance.",
+        "Managed and developed a team of onboarding specialists for two years (20, later 8): 1:1s, training, hiring support, and raising the quality bar across the team.",
+        "Advised on A/B test design for a Salesforce workflow-automation effort, defining test structure and success criteria.",
+        "Drove process improvements for a new vertical that grew from proof of concept to a profitable business line."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans and guided workflow design for CRM and project-management software, ranking top three in sales on a team that grew from 8 to 15 reps."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Growth & Funnels",
+      "items": ["Acquisition, Activation, Retention & Expansion", "Onboarding Journey Design", "Product-Led Acquisition Loops", "Lifecycle Touchpoints", "CRO & Landing Pages"]
+    },
+    {
+      "category": "Experimentation & Data",
+      "items": ["A/B Testing", "Funnel & Drop-off Analysis", "GA4 & Google Tag Manager", "CRM Dashboards", "SQL (working)"]
+    },
+    {
+      "category": "Prototyping & AI",
+      "items": ["HTML/CSS", "Claude Code & AI-Assisted Prototyping", "Python & JavaScript (automation code steps)", "Agentic AI Workflows", "Prompt Design"]
+    },
+    {
+      "category": "Leadership",
+      "items": ["Team Management (team of 20)", "Coaching & 1:1s", "Cross-Functional Partnership", "Workshop Facilitation"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)", "Meta Ads Certification - Meta"]
+}
