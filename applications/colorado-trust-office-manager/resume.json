@@ -1,0 +1,109 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Operations & Office Management | Vendors, Budgets, Team Support & Day-to-Day Operations",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operations generalist with 15+ years keeping businesses and teams running: vendors and suppliers, budgets and invoices, scheduling, and the daily details nobody else has time for. Co-owned and ran a licensed Denver business, building its vendor, supplier, compliance, and customer-service operations from scratch. Led a team of 20 at Wix, overseeing budgets, scope, hiring support, and training. Runs every operational piece of Solenzo today, from contracts and invoicing to calendars and client meetings. Spent 15+ years in restaurant kitchens before that, where a clean, stocked, safe space is the job. Organized, discreet, and comfortable with Excel, Microsoft and Google tools, Zoom, and project-management software. Denver metro based, ready for three days a week on site.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run all business operations for the firm: vendor and software contracts, invoicing, budget tracking, scheduling, and client meeting logistics.",
+        "Coordinate concurrent client engagements, managing calendars, timelines, and deliverables in Notion and the CRM so nothing slips.",
+        "Build reusable templates, checklists, and standard processes so recurring work runs the same way every time.",
+        "Automate repetitive administrative tasks (scheduling, reminders, follow-ups, reporting) with Zapier and Make."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments for multi-stakeholder accounts, and advised clients on budget planning and allocation."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed relationships with 15-20 partner organizations, retaining all but one (~94%), and kept every account's setup, communication, and follow-up organized in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team and built internal processes that improved reporting accuracy and reduced handoff errors, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led a team of onboarding specialists for two years (20, later 8), overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Supported hiring, onboarding, and training of new team members, and built training for tenured account executives.",
+        "Drove team initiatives and process improvements for a new business line that grew from proof of concept to profitable.",
+        "Managed 25+ client launches per month at 110% of targets, keeping schedules and handoffs on track."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built detailed implementation plans for clients and coordinated handoffs with internal teams, ranking top three in sales on a team of 8 to 15."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Scheduled appointments and kept a steady, organized meeting calendar for regional sales representatives across four years."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built day-to-day operations from scratch for a licensed Denver business: vendor and supplier relationships, intake, customer service, and reporting.",
+        "Created and administered compliance systems and procedures in a heavily regulated industry, and scaled the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Operations",
+      "items": ["Vendor & Contractor Management", "Budgets & Invoices", "Policies & Procedures", "Compliance & Safety Protocols", "Supply Ordering", "Event & Meeting Logistics"]
+    },
+    {
+      "category": "Administrative Support",
+      "items": ["Calendar & Meeting Coordination", "Scheduling", "Note-Taking & Documentation", "Confidentiality & Discretion", "Multi-Team Coordination"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Microsoft Word, Excel, PowerPoint, Teams", "Google Workspace", "Zoom", "Slack", "Notion", "ClickUp", "Asana", "Salesforce"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": []
+}
