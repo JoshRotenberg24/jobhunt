@@ -1,0 +1,107 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Systems & Asset Governance | Taxonomy, Naming Standards, E-commerce & Image SEO",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations builder with 15+ years across e-commerce, SaaS, and agency roles, specializing in the systems behind the content: taxonomy, naming and tagging standards, and workflows that let teams find the right approved thing without asking. Built e-commerce storefronts for established retail brands at Wix, defined the CRM field standards for onboarding workflows while leading a 20-person team, and runs technical SEO (site crawls, schema, on-page fixes inside client CMS platforms) at Solenzo. Connects systems with Zapier, Make, and n8n to cut manual downloading, renaming, and re-uploading. Trains non-technical users until the system sticks. Denver metro based, ready for hybrid in Broomfield.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build reusable marketing asset templates and messaging frameworks from a shared base, adapting them to each client's brand and vertical instead of recreating assets from scratch.",
+        "Set up and maintain Google Business Profile listings for every client, including categories, services, photos, and posts, keeping approved imagery current across listings.",
+        "Run technical SEO audits with Screaming Frog, including URL structure, schema and structured data, and on-page fixes implemented directly inside client CMS platforms.",
+        "Design tagging systems, naming conventions, lifecycle stages, and data-hygiene rules in GoHighLevel and HubSpot so records stay searchable and clean across concurrent clients.",
+        "Automate handoffs between CRMs, CMS platforms, and marketing tools in Zapier, Make, and n8n, removing repeated manual steps from each workflow.",
+        "Build and edit web pages directly in HTML/CSS, and install Google Tag Manager and GA4 on every site launched."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced landing pages, email sequences, and paid-campaign assets across channels with their own specs and approval rules, coordinating execution across internal creative and media teams.",
+        "Ran LinkedIn ad campaigns with A/B-tested creative, and reported results to multi-stakeholder clients."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded 15-20 reseller partners onto Birdeye's listings-syndication product, making sure every end customer's business data and listings were accurate and consistent across every directory it fed, retaining all but one (~94%).",
+        "Built automated training sequences that got partners using the platform correctly without hand-holding."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between teams, managing workflows in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Built and launched e-commerce storefronts for established retail businesses adding online sales, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Defined and labeled the CRM fields required for onboarding and outbound workflows in Salesforce, standardizing data capture across the team.",
+        "Led a team of onboarding specialists for two years (20, later 8), training them and new hires on tools, standards, and process.",
+        "Launched 25+ clients per month at 110% of implementation targets, advising on site architecture and SEO best practices."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided clients through workflow design and system setup for a CRM and project-management platform, building sequenced implementation plans for each."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance, intake, and reporting systems from scratch for a state-licensed, heavily regulated consumer business."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Asset & Content Governance",
+      "items": ["Taxonomy & Metadata Design", "Naming Conventions", "Tagging Systems", "Version & Lifecycle Status", "Reusable Templates"]
+    },
+    {
+      "category": "E-commerce & SEO",
+      "items": ["E-commerce Storefronts", "Technical SEO", "Image & On-Page SEO", "URL Structure", "Schema / Structured Data", "Screaming Frog", "GA4 & GTM"]
+    },
+    {
+      "category": "Systems & Automation",
+      "items": ["CMS Platforms", "HTML/CSS", "Zapier, Make, n8n", "HubSpot", "Salesforce", "GoHighLevel", "Notion"]
+    },
+    {
+      "category": "Adoption",
+      "items": ["User Training", "Cross-Functional Coordination", "Process Documentation"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)", "Meta Ads Certification - Meta"]
+}
