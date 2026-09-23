@@ -1,0 +1,95 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Account Manager | APIs & Integrations, Escalations, Adoption & Retention",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client-facing technical account lead with 15+ years in SaaS, owning the relationship and the technical side of the account at the same time. Retained ~94% of a 15-20 partner book at Birdeye while running their technical setup and escalations to Product and Engineering. Guided API integrations and workflow design for CRM and project-management clients at Accelo, advising their executives on system design. Hands-on today with REST APIs, integrations in Zapier, Make, and n8n, Python and JavaScript code steps, working SQL (BigQuery, GA4), and HTML/CSS, integrating CRMs and CMS platforms into client workflows. Translates technical issues into plain language for senior, non-technical stakeholders.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Act as the technical lead for every client account: requirements, platform configuration, integrations, troubleshooting, and ongoing optimization.",
+        "Build and troubleshoot REST API integrations between CRMs, CMS platforms, and marketing tools in Zapier, Make, and n8n, writing custom Python and JavaScript code steps where no-code falls short.",
+        "Write SQL against BigQuery and GA4 exports and build Power BI data models to diagnose data issues and report on account performance.",
+        "Architected and support a 20+ workflow automation system in GoHighLevel and HubSpot, standardizing configuration so every client runs on a consistent, supportable setup.",
+        "Identify at-risk accounts early from usage and performance data, and expand scope by recommending solutions tied to each client's goals."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across technology and marketing channels, running QBRs and translating performance data into recommendations.",
+        "Resolved client feedback and escalations quickly, coordinating fixes across internal departments to protect retention."
+      ]
+    },
+    {
+      "title": "Technical Partner Success (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Owned 15-20 reseller partner accounts (deals ~$10K-$45K) as primary technical and relationship contact, retaining all but one (~94%).",
+        "Guided partners and their customers through complex technical setup and configuration of listings-syndication, reputation, and marketing automation products.",
+        "Escalated and tracked technical issues with Product and Engineering, delivering structured, prioritized feedback that shaped the roadmap.",
+        "Analyzed utilization data to spot adoption risk early and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team and built processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio as primary contact, onboarding and launching 25+ clients per month at 110% of implementation targets.",
+        "Guided clients through technical setup including Google Tag Manager, site architecture, and SEO configuration, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Led a team of onboarding specialists for two years (20, later 8), and standardized CRM field definitions in Salesforce for the team's workflows."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations for a cloud CRM and project-management platform, troubleshooting technical issues during setup alongside implementation teams.",
+        "Advised C-suite stakeholders as a trusted advisor on operational system design, escalating risks early; ranked top three in sales while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical",
+      "items": ["REST APIs & Integrations", "SQL (working: BigQuery, GA4)", "Python & JavaScript (automation code steps)", "HTML/CSS", "Zapier, Make, n8n", "CRM & CMS Integrations", "Cloud SaaS Platforms"]
+    },
+    {
+      "category": "Account Management",
+      "items": ["Technical Escalations", "Adoption & Retention", "Risk Identification", "QBRs", "Stakeholder Management", "Voice of Customer to Product"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Zendesk", "Jira", "Power BI", "Slack", "Notion"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": []
+}

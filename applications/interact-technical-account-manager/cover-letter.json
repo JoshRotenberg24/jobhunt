@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 23, 2026",
+  "company": "Interact Software",
+  "role": "Technical Account Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "A good TAM is the person the customer calls when something breaks and the person they trust when it's time to grow. I've been both in the same account for most of my career, and I like the job best when the technical side and the relationship side belong to one person.",
+    "At Birdeye, I owned 15 to 20 partner accounts as their technical and relationship contact and kept all but one. When an issue was bigger than setup, I took it to Product and Engineering with enough detail that it got fixed, not bounced back. At Accelo, I guided clients through API integrations and workflow design for a cloud CRM, and advised their executives on how the system should fit their business. Today I build and troubleshoot REST API integrations myself, write Python and JavaScript when a no-code tool can't do the job, and use SQL to find where the data went wrong.",
+    "Intranets live or die on adoption and on how cleanly they plug into the rest of a company's stack. That's where I spend my time. Got time for a conversation this week?"
+  ],
+  "closing": "Best,"
+}
