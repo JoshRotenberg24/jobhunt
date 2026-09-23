@@ -7,3 +7,7 @@ Mostly SMB and mid-market. At Wix, Birdeye, and Solenzo, that meant high volume 
 ## Have you worked with API-based integrations, file-based integrations (SFTP/S3), or both?
 
 Mostly API-based. I build integrations in Zapier, Make, and n8n, writing Python and JavaScript code steps to map and transform data between CRMs, ad platforms, and reporting tools, and I supported API integrations during client implementations at Accelo. On the file side, I've done CSV imports, exports, and cleanup for CRM migrations, but I haven't run SFTP or S3 feeds in production. I understand how they work and can hold my own in a troubleshooting conversation with engineering, and it's the part of your stack I'd ramp on first.
+
+## What is your compensation expectation for this role?
+
+I'm targeting $110,000 to $120,000 base, and I'm flexible on the full package, including equity and benefits.
