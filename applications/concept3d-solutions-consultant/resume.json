@@ -1,0 +1,105 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Solutions Consultant | Discovery, Demos, AE Enablement & Deal Acceleration",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client-facing SaaS seller and product advocate with 7+ years running discovery and demos, plus the enablement work that makes a sales team better. Ranked top three in sales at Accelo while quota roughly doubled, running discovery and scoping with C-suite buyers and mapping each deal's stakeholders and implementation plan. Built sales training for tenured account executives at Wix on a brand-new product line that grew from proof of concept to profitable, while leading a team of 20. Writes demo talk tracks, messaging frameworks, and plain-language content, and uses AI daily to speed up research, prep, and follow-up. Salesforce and Salesloft fluent. Denver based, ready for hybrid.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run discovery and live demos with business owners, matching their problems to specific product capabilities and turning a technical system into a plain-language business case.",
+        "Build reusable messaging frameworks, talk tracks, and collateral from a shared base, adapted to each audience and vertical.",
+        "Write and publish educational content and guides that explain systems and automation to non-technical buyers.",
+        "Use AI tools and agentic workflows daily to research prospects, prep calls, draft follow-ups, and score leads before outreach.",
+        "Spot patterns across conversations and turn them into repeatable plays, refining the ideal-customer profile and messaging as the offer evolves."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Presented strategy and results to multi-stakeholder client teams in QBRs, translating performance data into recommendations for mixed business and technical audiences.",
+        "Produced landing pages, email sequences, and conversion-focused copy that reinforced business outcomes."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and enabled 15-20 reseller partners (deals ~$10K-$45K), training their teams to explain and demo the product to their own customers, retaining all but one (~94%).",
+        "Built automated product-training sequences that got partners selling without hand-holding.",
+        "Fed structured, prioritized customer feedback to Product and Engineering that informed the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K while leading the sales team, and built processes that improved reporting accuracy and handoffs."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Developed sales training for tenured account executives on a brand-new vertical that grew from proof of concept to a profitable business line.",
+        "Led a team of onboarding specialists for two years (20, later 8), contributing to hiring, onboarding, and training new hires.",
+        "Held 120% of sales targets and 110% of implementation targets while launching 25+ clients per month.",
+        "Led product consultations with business owners, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, earning into accelerator tiers.",
+        "Ran discovery, demos, and scoping for complex CRM and project-management SaaS with agency and professional-services leaders, including C-suite stakeholders.",
+        "Built sequenced implementation plans for each deal and handed them cleanly to the implementation team, keeping the path from close to value clear."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing platform: prospecting, qualification, demos, and close."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Solutions Consulting",
+      "items": ["Discovery", "Live & Online Demos", "Stakeholder Mapping", "Objection Handling", "Value Validation", "Proposal Support"]
+    },
+    {
+      "category": "Enablement & GTM",
+      "items": ["AE Training", "Demo Scripts & Talk Tracks", "Decks & One-Pagers", "ICP & Persona Refinement", "Voice of Customer to Product"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Salesforce", "Salesloft", "ZoomInfo", "Gong", "HubSpot", "Google Workspace", "LinkedIn", "AI Tools (Claude, ChatGPT)"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": []
+}
