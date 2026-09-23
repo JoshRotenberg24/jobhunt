@@ -10,8 +10,8 @@
 | Friends/relatives at ProCaps | No |
 | Referred by employee | No |
 | Years in DAM / media management | Less than 4 |
-| Built a DAM from the ground up | I used or maintained an existing system but did not design its structure |
-| Follow-up (first two options only) | N/A |
+| Built a DAM from the ground up | Yes, I led the design and hands-on setup of these standards and processes (small scale, Solenzo) |
+| Follow-up (first two options only) | Paragraph below |
 | Describe a system you built | Paragraph below (CRM/marketing asset system at Solenzo) |
 | SharePoint | No hands-on experience |
 | Channels | Company website, DTC, Social Media, Email |
@@ -57,3 +57,7 @@ Yes. B.A. in Liberal Arts with a Minor in Political Science, Colorado State Univ
 **Salary expectations**
 
 I'm targeting $95,000, within your posted range, and I'm open to discussing the full package.
+
+**Follow-up: what did you personally build, which platform, which teams or channels?**
+
+At Solenzo, I built the asset system for my agency and its clients from nothing. I set up the folder structure and file-naming rules in Google Drive and Dropbox, a shared template base for client marketing assets, and tagging and lifecycle stages in GoHighLevel and HubSpot, with Zapier and Make moving files and data between them. New assets come in, get named and filed, move to approved once the client signs off, and get archived when they're replaced. It's a small operation, just me and my clients, and it feeds their websites, Google Business Profiles, email campaigns, and social channels.
