@@ -1,0 +1,103 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Mid-Market Account Executive | Full-Cycle B2B Sales, Merchant Growth & Commerce",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Full-cycle B2B account executive with 7+ years carrying a number across SaaS, MarTech, and agency sales, selling to business owners and executives on customer acquisition, conversion, and growth. Ranked top three in sales at Accelo while quota roughly doubled, earning into accelerator tiers with $20K+ mid-market deals. Held 120% of sales targets at Wix while launching e-commerce storefronts for established retail brands, contributing to a 25% conversion improvement across the e-commerce segment. Closed 6 new-client deals averaging ~$22K at Fetch & Funnel and reached finalist stage with a major northeastern U.S. bank. Builds pipeline through outbound, research, and referrals, and brings a merchant's-eye view of what drives conversion.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run the full sales cycle for my own firm: outbound prospecting, market research, discovery, business case, pricing, and close, then expand accounts with added scope.",
+        "Built an outbound engine that scored 180+ businesses' digital footprint and triggered personalized outreach, converting prospects to paying clients.",
+        "Build business cases tied to each client's acquisition and conversion goals, and report results against them on a regular cadence."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder accounts across paid media and conversion, running QBRs on ROI, CAC, and LTV and turning results into expansion opportunities.",
+        "Ran account-based LinkedIn campaigns against small, highly researched buyer lists."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94%).",
+        "Brought structured customer feedback and field insight to Product and Engineering that informed the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K (several over $25K), roughly $130K+ in total bookings, while leading the sales team.",
+        "Served a banking-industry client and pursued a major northeastern U.S. banking prospect to the finalist stage.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across the deal team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Held 120% of sales targets and 110% of implementation targets while launching 25+ clients per month.",
+        "Built and launched e-commerce storefronts for established retail brands adding online sales, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Led a team of 20 (later 8), and developed sales training for tenured account executives on a new vertical that grew from proof of concept to profitable."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps for all but the final months of a 27-month tenure, while quota roughly doubled.",
+        "Earned consistently into accelerator tiers, averaging ~$17,750/month in services bookings (~$213K annualized) plus new recurring revenue, with $20K+ deals later in tenure.",
+        "Sold complex SaaS to agency and professional-services leaders, negotiating terms and building implementation plans for each deal."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Sold a loyalty and marketing platform to local merchants: high-volume prospecting, qualification, demos, and close."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales",
+      "items": ["Full-Cycle B2B Sales", "Outbound Prospecting & Pipeline Generation", "Account Planning", "Business Cases", "Pricing & Negotiation", "Executive Stakeholders", "Forecasting"]
+    },
+    {
+      "category": "Commerce & Growth",
+      "items": ["E-commerce", "Customer Acquisition", "Conversion Optimization", "Merchant Growth", "Loyalty & Retention", "Fintech / Banking Clients"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Salesforce", "HubSpot", "Salesloft", "ZoomInfo", "Gong", "Excel"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": []
+}
