@@ -44,7 +44,7 @@ ProCaps is a founder-led supplement maker with a CEO who is closely involved in 
 
 **Describe a digital asset system or process you built.**
 
-At Solenzo, every new client started from scratch: marketing assets, messaging, and CRM records scattered across folders and inboxes with no consistent naming. I built a shared template base for assets and messaging that adapts to each client's brand, plus a tagging system, naming conventions, and lifecycle stages in GoHighLevel and HubSpot so every record and asset had a clear place and status. I connected the tools with Zapier and Make so files and data moved automatically instead of being downloaded, renamed, and re-uploaded. After that, new clients launched from a proven base, and nothing got lost between tools.
+When I started Solenzo, every client's assets lived wherever they happened to land: logos in email threads, photos on someone's phone, three versions of the same flyer with names like "final_v2_USE THIS." Nobody could tell which file was current. I set up one folder structure in Google Drive and Dropbox with naming rules that include the client, asset type, and date, plus a shared template library each client's brand is built from. Every asset gets a status (in progress, approved, archived), and Zapier and Make move approved files into the tools that use them. Afterward, clients and I pulled the current approved version in seconds, new clients launched from the templates instead of from scratch, and old files stopped showing up on live websites and Google profiles.
 
 **CPG, nutraceuticals, pharmaceuticals, functional foods, or confectionery?**
 
