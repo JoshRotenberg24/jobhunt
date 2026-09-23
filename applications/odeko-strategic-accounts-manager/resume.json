@@ -1,0 +1,131 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Strategic Account Management | Multi-Level Accounts, Negotiation & Program Expansion",
+  "contact": {
+    "location": "Arvada, CO (Denver Metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Account manager and negotiator with 15+ years in B2B sales and account management, at my best growing an existing book across every layer of a customer. At Birdeye, ran a two-step channel motion: signed 15-20 reseller partners, then drove adoption down to their end customers, retaining all but one (~94%). Ranked top three in sales at Accelo while quota roughly doubled, negotiating terms with C-suite buyers. Spent 15+ years in restaurant kitchens before tech, and co-owned a Denver business with vendor and supplier relationships built from scratch, so the caf\u00e9 operator's view of a delivery and a price sheet is familiar ground. Denver based, HubSpot fluent, and used to remote, high-autonomy work.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the full client relationship for a portfolio of small, owner-operated businesses, from negotiation and scoping through delivery, reporting, and renewal.",
+        "Expand accounts by identifying under-served needs and scoping complementary services, building repeatable programs each new client launches from.",
+        "Track account status, terms, and pipeline in HubSpot and GoHighLevel, reporting results to owners on a regular cadence."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts, aligning internal departments on execution without direct authority, and ran QBRs on ROI and margin-relevant KPIs.",
+        "Advised clients on budget planning and allocation, and resolved feedback quickly to protect retention."
+      ]
+    },
+    {
+      "title": "Channel Account Manager (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Ran a two-step channel motion: signed and managed 15-20 reseller partners (deals ~$10K-$45K), then drove activation down to each partner's end customers, retaining all but one partner (~94%).",
+        "Stayed involved through activation instead of handing off, training partners and their teams and tracking utilization to catch stalled accounts early.",
+        "Worked with partners across health, home services, and retail, managing relationships at the owner, manager, and end-customer level.",
+        "Advised partners on retention and customer health metrics, and fed structured feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K (several over $25K), roughly $130K+ in total bookings, while leading the sales team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio, including established retail businesses adding e-commerce, holding 120% of sales targets and 110% of implementation targets.",
+        "Led a team of 20 (later 8), and drove process improvements for a new vertical that grew from proof of concept to a profitable business line."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, earning into accelerator tiers.",
+        "Negotiated terms and scoped multi-part implementation and services agreements with C-suite buyers, averaging ~$17,750/month in services bookings (~$213K annualized)."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Sold a loyalty and marketing platform to local SMB owners, including food and beverage operators."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built vendor and supplier relationships and workflows from scratch for a licensed Denver retail business, alongside intake, compliance, and reporting, scaling it to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Account Management",
+      "items": [
+        "Multi-Level Account Management",
+        "Channel / Two-Step Programs",
+        "Win-Back & At-Risk Accounts",
+        "Program Expansion",
+        "Account Penetration Reporting",
+        "Renewals"
+      ]
+    },
+    {
+      "category": "Negotiation",
+      "items": [
+        "Pricing & Terms",
+        "Objection Handling",
+        "C-Suite Negotiation",
+        "Vendor & Supplier Relationships"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel",
+        "Excel",
+        "Slack",
+        "Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
