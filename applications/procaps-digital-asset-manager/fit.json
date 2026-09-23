@@ -1,12 +1,32 @@
 {
-  "score": 50,
+  "score": 53,
   "band": "Long shot",
   "role": "Digital Asset Manager, Marketing & Ecommerce - ProCaps",
   "breakdown": [
-    ["Must-have requirements met", 19, 40],
-    ["Seniority & scope alignment", 9, 15],
-    ["Domain / industry alignment", 7, 15],
-    ["Differentiators", 9, 15],
-    ["Evidence strength", 6, 15]
+    [
+      "Must-have requirements met",
+      21,
+      40
+    ],
+    [
+      "Seniority & scope alignment",
+      9,
+      15
+    ],
+    [
+      "Domain / industry alignment",
+      7,
+      15
+    ],
+    [
+      "Differentiators",
+      9,
+      15
+    ],
+    [
+      "Evidence strength",
+      7,
+      15
+    ]
   ]
 }

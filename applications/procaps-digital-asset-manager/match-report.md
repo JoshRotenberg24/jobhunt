@@ -22,19 +22,19 @@ No license/eligibility knockouts, but two required items (DAM years, SharePoint)
 ## Application Priority Score
 
 ```
-🟡 Application Priority Score: 50 / 100 (Long shot)
-[██████████░░░░░░░░░░]  50%
+🟡 Application Priority Score: 53 / 100 (Long shot)
+[███████████░░░░░░░░░]  53%
 ```
 
 Internal decision aid, not a prediction of any employer's system output. See `fit.png`.
 
 | Dimension | Score |
 | :--- | :--- |
-| Must-have requirements met | 19 / 40 |
+| Must-have requirements met | 21 / 40 |
 | Seniority & scope alignment | 9 / 15 |
 | Domain / industry alignment | 7 / 15 |
 | Differentiators / nice-to-haves | 9 / 15 |
-| Evidence strength | 6 / 15 |
+| Evidence strength | 7 / 15 |
 
 ## Requirement coverage (about 4 of 9 must-haves)
 
@@ -56,7 +56,7 @@ Internal decision aid, not a prediction of any employer's system output. See `fi
 3. E-commerce storefront builds for retail brands, plus automation to kill manual asset handling.
 
 ## Gaps
-- **No DAM experience or SharePoint/Brandfolder hands-on.** The biggest screen risk; SharePoint is listed as required.
+- **No dedicated DAM administration or SharePoint/Brandfolder hands-on** (Josh has used shared file libraries like Dropbox and Google Drive in every role, confirmed 2026-09-23). The biggest screen risk; SharePoint is listed as required.
 - **No Amazon or HSN/QVC** marketplace image specs.
 - **No CPG** background (retail via Wix only).
 

@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Marketing operations builder with 15+ years across e-commerce, SaaS, and agency roles, specializing in the systems behind the content: taxonomy, naming and tagging standards, and workflows that let teams find the right approved thing without asking. Built e-commerce storefronts for established retail brands at Wix, defined the CRM field standards for onboarding workflows while leading a 20-person team, and runs technical SEO (site crawls, schema, on-page fixes inside client CMS platforms) at Solenzo. Connects systems with Zapier, Make, and n8n to cut manual downloading, renaming, and re-uploading. Trains non-technical users until the system sticks. Denver metro based, ready for hybrid in Broomfield.",
+  "summary": "Marketing operations builder with 15+ years across e-commerce, SaaS, and agency roles, specializing in the systems behind the content: taxonomy, naming and tagging standards, and workflows that let teams find the right approved thing without asking. Built e-commerce storefronts for established retail brands at Wix, defined the CRM field standards for onboarding workflows while leading a 20-person team, and runs technical SEO (site crawls, schema, on-page fixes inside client CMS platforms) at Solenzo. Connects systems with Zapier, Make, and n8n to cut manual downloading, renaming, and re-uploading. Has worked in shared file and asset libraries (Dropbox, Google Drive) in every role, and trains non-technical users until the system sticks. Denver metro based, ready for hybrid in Broomfield.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -87,21 +87,54 @@
   "competencies": [
     {
       "category": "Asset & Content Governance",
-      "items": ["Taxonomy & Metadata Design", "Naming Conventions", "Tagging Systems", "Version & Lifecycle Status", "Reusable Templates"]
+      "items": [
+        "Taxonomy & Metadata Design",
+        "Naming Conventions",
+        "Tagging Systems",
+        "Version & Lifecycle Status",
+        "Reusable Templates"
+      ]
     },
     {
       "category": "E-commerce & SEO",
-      "items": ["E-commerce Storefronts", "Technical SEO", "Image & On-Page SEO", "URL Structure", "Schema / Structured Data", "Screaming Frog", "GA4 & GTM"]
+      "items": [
+        "E-commerce Storefronts",
+        "Technical SEO",
+        "Image & On-Page SEO",
+        "URL Structure",
+        "Schema / Structured Data",
+        "Screaming Frog",
+        "GA4 & GTM"
+      ]
     },
     {
       "category": "Systems & Automation",
-      "items": ["CMS Platforms", "HTML/CSS", "Zapier, Make, n8n", "HubSpot", "Salesforce", "GoHighLevel", "Notion"]
+      "items": [
+        "Dropbox",
+        "Google Drive",
+        "CMS Platforms",
+        "HTML/CSS",
+        "Zapier, Make, n8n",
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel",
+        "Notion"
+      ]
     },
     {
       "category": "Adoption",
-      "items": ["User Training", "Cross-Functional Coordination", "Process Documentation"]
+      "items": [
+        "User Training",
+        "Cross-Functional Coordination",
+        "Process Documentation"
+      ]
     }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
-  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)", "Meta Ads Certification - Meta"]
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
 }

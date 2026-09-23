@@ -564,7 +564,12 @@ operator talking, not like a candidate performing.
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Dropbox, Google Drive, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
+
+> **File/asset libraries (confirmed by Josh, Sep 2026):** has used shared file and asset
+> management systems (Dropbox, Google Drive, etc.) as part of every job. This is user-level
+> library work, not administration of a dedicated DAM platform (Brandfolder, Bynder, etc.);
+> SharePoint not specifically confirmed.
 
 > **Excel, Power BI, SQL, Python/JS (confirmed by Josh, Sep 2026, updated Sep 2026):**
 > Excel is a genuine, experienced-level skill, not just baseline literacy. Power BI is
