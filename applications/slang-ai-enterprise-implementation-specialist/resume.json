@@ -1,0 +1,110 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Enterprise Implementation & Project Management | Phased Rollouts, Stakeholders & Launch Readiness",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation lead with 15+ years in SaaS, agency, and operations roles, turning complex customer programs into organized, predictable launches. At Wix, ran onboarding and launch for 25+ clients a month at 110% of implementation targets while leading a team of 20 specialists. At Accelo, built sequenced implementation plans that ranked which systems to change and in what order, then drove them with delivery teams and C-suite stakeholders. At Birdeye, rolled out a product across a 15-20 partner network and their end customers, retaining ~94%. Before tech, spent 15+ years cooking in restaurant kitchens, so restaurant operators, managers, and location-level teams are familiar ground. Builds hands-on with AI and automation tools daily.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end implementations from kickoff to launch: requirements gathering with owners, platform configuration, integrations, testing, hands-on training, and a documented handoff.",
+        "Configured and deployed a 20+ workflow AI and automation system in GoHighLevel covering lead capture, booking with confirmations and reminders, and no-show recovery, sequencing the rollout so each client saw a working win first.",
+        "Surface risks early and keep every stakeholder current, documenting decisions, timelines, and deliverables in Notion and the CRM across concurrent implementations.",
+        "Turn lessons from each engagement into reusable templates, workflows, and standard setups, so every new implementation starts from a proven base instead of from scratch.",
+        "Translate non-technical stakeholders' goals into precise system requirements and AI agent instructions, bridging business intent and product capability."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder accounts as strategic lead, coordinating execution across internal departments and running executive QBRs.",
+        "Held delivery quality consistent across implementations, resolving client feedback quickly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Implementation & Rollout Lead (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Rolled out Birdeye's listings, reputation, and automation products across 15-20 reseller partners and their end-customer locations, retaining all but one partner (~94%).",
+        "Guided partners through complex technical setup and configuration, making sure every end customer's listings were set up correctly before launch.",
+        "Built scalable onboarding workflows and automated training sequences that reduced friction and made each new rollout faster than the last.",
+        "Coordinated with Product and Engineering, delivering structured, prioritized customer feedback that informed the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team and built internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets and 120% of sales targets, with launches delivered on time.",
+        "Led a team of onboarding specialists for two years (20, later 8), overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Drove process improvements and repeatable ways of working for a new vertical that grew from proof of concept to a profitable business line.",
+        "Standardized the CRM fields for onboarding workflows in Salesforce so every specialist captured the same decisions and context."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute.",
+        "Guided onboarding, workflow design, and API integrations alongside implementation teams, escalating risks to leadership early and resolving technical issues during setup.",
+        "Built C-suite relationships as a trusted advisor on operational system design."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built a customer-facing retail operation from scratch in a regulated industry: compliance, intake, customer service, and vendor and supplier workflows."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation & Program Management",
+      "items": ["Implementation Plans", "Pilots & Phased Rollouts", "Milestones & Dependencies", "Risk Management", "Launch Readiness", "Governance & Cadences"]
+    },
+    {
+      "category": "Stakeholder Leadership",
+      "items": ["Executive Communication", "Operator & Location-Level Teams", "Cross-Functional Alignment", "Influence Without Authority", "Customer Success Handoff"]
+    },
+    {
+      "category": "Build for Scale",
+      "items": ["Process Improvement", "Playbooks & Templates", "Documentation", "Pattern Recognition Across Accounts"]
+    },
+    {
+      "category": "Tools & AI",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Jira", "Asana", "Notion", "Agentic AI & LLM Workflows", "Zapier, Make, n8n"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": []
+}
