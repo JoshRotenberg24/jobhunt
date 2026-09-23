@@ -53,3 +53,7 @@ Not directly. The closest is Standing Akimbo, a state-licensed consumer business
 **Degree**
 
 Yes. B.A. in Liberal Arts with a Minor in Political Science, Colorado State University, 2009, plus 15+ years of practical experience in marketing, e-commerce, and marketing operations.
+
+**Salary expectations**
+
+I'm targeting $95,000, within your posted range, and I'm open to discussing the full package.
