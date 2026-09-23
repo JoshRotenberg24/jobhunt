@@ -1,0 +1,84 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SEO Strategist | Local SEO, Google Business Profile, Technical Audits & AI Search Visibility",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Hands-on local SEO practitioner with 4 years of concentrated SEO work inside 15+ years of digital marketing. Runs local SEO for service businesses at Solenzo: Google Business Profile setup and optimization first on every account, then technical audits in Screaming Frog, schema, on-page fixes implemented directly in the CMS, and GTM, GA4, and Search Console on every site. Onboarded 15-20 reseller partners onto Birdeye's listings data-aggregator product, making sure every end customer's listings were correct across the directory network. Built an automated SEO and AI-visibility audit that scores a site across 16 dimensions, tests how AI models recommend it, and flags the gaps, so AI search is part of the work, not an afterthought.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Claim, verify, and optimize Google Business Profile listings (categories, descriptions, services, photos, posts) as the first deliverable on every client account, the foundation of each local SEO program.",
+        "Run technical SEO audits, keyword gap analyses, and competitor research with Screaming Frog, and implement fixes directly inside client CMS platforms.",
+        "Identify and implement schema and structured data as part of every technical audit.",
+        "Install and configure Google Tag Manager and GA4 on every site launched, and use Search Console to monitor indexing, queries, and technical health.",
+        "Built an automated SEO and AI-visibility audit that scores a business across 16 dimensions, tests how AI models recommend it, and benchmarks it against its top competitor; Solenzo's audit funnel has enrolled 180+ businesses.",
+        "Write SEO content, blog posts, and landing-page copy, and report organic performance with prioritized next steps."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Built performance reporting on ROI and conversion KPIs and walked clients through results and recommendations in QBRs."
+      ]
+    },
+    {
+      "title": "Local Listings & Partner Onboarding (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded 15-20 reseller partners onto Birdeye's proprietary listings data-aggregator and syndication product, making sure every end customer's local listings were complete and correctly configured across markets.",
+        "Used Whitespark's citation and local-search research as enablement material, and retained all but one partner (~94%).",
+        "Guided partners through technical setup of listings, reviews, and reputation tools across health, home services, and retail."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance at a performance marketing agency and built processes that improved reporting accuracy."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations on site architecture and SEO best practices, including Google Business Profile setup, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Guided clients through Google Tag Manager setup, and managed 25+ launches per month at 110% of implementation targets, delivering launches on time."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "SEO",
+      "items": ["Local SEO", "Google Business Profile", "Listings & Citations", "Technical SEO Audits", "On-Page & Off-Page SEO", "Schema / Structured Data", "Keyword Research", "AI Search Visibility"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Google Search Console", "Google Tag Manager", "GA4", "Screaming Frog", "Ahrefs", "Semrush", "HTML/CSS", "CMS Platforms"]
+    },
+    {
+      "category": "Reporting & Process",
+      "items": ["Organic Performance Reporting", "Prioritized Recommendations", "Documentation", "Multi-Account Management"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)", "Meta Ads Certification - Meta"]
+}
