@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 23, 2026",
+  "company": "Measured",
+  "role": "Sr. Technical Implementations Specialist",
+  "recipient": "Hiring Team",
+  "body": [
+    "The line in your posting that stuck with me is knowing when a requirement is firm because the model breaks without it, and when a tradeoff costs little. That call is most of the job in implementation, and it's the one I've gotten better at every year.",
+    "I've spent a long time on both sides of marketing data. At agencies, I lived in Google Ads, Meta, and LinkedIn reporting and built the ROI and CAC frameworks clients used to judge spend. At Solenzo, I set up GA4 and Tag Manager on every site, write SQL against BigQuery exports, build Power BI models, and connect systems through APIs with my own Python and JavaScript. When the ad platform, the CRM, and the client's own numbers disagree, I'm the one who figures out why before anyone presents it.",
+    "I've also done the onboarding at volume. At Wix, I launched 25+ clients a month at 110% of target while running a team of 20. At Accelo, I scoped each implementation and told clients plainly what the system needed from their data and their process, including when the answer was no and here's what works instead.",
+    "Incrementality and MMM are where I'd go deeper at Measured, and I'd welcome learning your models from the inside. The client work, the data work, and standing behind a call are already familiar. Got time for a conversation this week?"
+  ],
+  "closing": "Best,"
+}

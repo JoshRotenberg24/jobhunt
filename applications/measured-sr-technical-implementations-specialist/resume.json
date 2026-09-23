@@ -1,0 +1,100 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Implementation | Marketing Data Onboarding, Integrations & Output QA",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client-facing implementation lead with 15+ years in MarTech, SaaS, and agency roles, grounded in marketing and media data. Connects and validates marketing data hands-on: GA4 and Google Tag Manager implementations, SQL against BigQuery and GA4 exports, Power BI data models, and API integrations with Python and JavaScript code steps in Zapier, Make, and n8n. Reconciles ad-platform reporting (Google Ads, Meta, LinkedIn) against CRM and conversion data to find where the numbers break. Ran 25+ onboardings a month at Wix at 110% of implementation targets and scoped CRM implementations at Accelo, explaining to clients what the system actually needs from their data and why. Uses agentic AI daily to automate repeatable steps.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own client onboardings end to end, from discovery and requirements through source connections, configuration, QA, and go-live, running several concurrent engagements.",
+        "Implement GA4 and Google Tag Manager tracking on every client site, then validate conversion data against CRM records and ad-platform reporting before anything is reported out.",
+        "Write SQL against BigQuery and GA4 exports and build Power BI data models to reconcile campaign, funnel, and pipeline data and isolate the root cause of variances.",
+        "Build API integrations in Zapier, Make, and n8n with custom Python and JavaScript code steps to map, transform, and move data between CRMs, ad platforms, and reporting tools.",
+        "Define field-level structure, lifecycle stages, and data-hygiene rules in GoHighLevel and HubSpot, translating inconsistent client naming into consistent, rules-driven mappings.",
+        "Turn repeated work into reusable templates, workflows, and rubric-based QA checks, applying agentic AI to automate manual, error-prone steps."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs across paid media, and walked client stakeholders through the results in QBRs.",
+        "Advised clients on ad-spend budget planning and allocation, and ran A/B-tested LinkedIn campaigns against highly researched audiences.",
+        "Coordinated delivery across internal departments for multi-stakeholder accounts, translating performance data into recommendations marketers could act on."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded 15-20 reseller partners onto Birdeye's listings data-aggregation and syndication product, making sure every end customer's business data was complete and correctly configured, retaining all but one (~94%).",
+        "Guided customers through complex technical setup, and filed structured, prioritized issues and feedback with Product and Engineering.",
+        "Analyzed partner utilization data to find adoption gaps and recommend fixes that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media campaign data at a performance marketing agency and built internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month at 110% of implementation targets, and led a team of onboarding specialists for two years (20, later 8).",
+        "Defined and labeled the CRM fields required for onboarding and outbound workflows in Salesforce, standardizing data capture across the team.",
+        "Guided clients through Google Tag Manager setup and analytics configuration as part of site launches, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Scoped CRM and project-management implementations and built sequenced implementation plans, then guided clients through onboarding, workflow design, and API integrations alongside the implementation team.",
+        "Advised client executives on what the platform needed from their data and processes, escalating risks early and troubleshooting technical issues during setup."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": ["Client Onboarding", "Requirements & Data Readiness Consulting", "Source Connections & Integrations", "Data Mapping & Normalization", "QA & Output Validation", "Delivery Plans & Go-Live"]
+    },
+    {
+      "category": "Marketing Data",
+      "items": ["GA4", "Google Tag Manager", "Google Ads", "Meta Ads (certified)", "LinkedIn Ads", "Campaign Attribution", "Spend & Conversion Reconciliation"]
+    },
+    {
+      "category": "Data & Technical",
+      "items": ["SQL (BigQuery, GA4 exports)", "Power BI", "Excel", "APIs", "Python & JavaScript (automation code steps)", "Zapier, Make, n8n"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Jira", "Asana", "Salesforce", "HubSpot", "Notion", "Agentic AI Workflows"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)", "Meta Ads Certification - Meta"]
+}
