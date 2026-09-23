@@ -1,0 +1,95 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "GTM Enablement | Sales & CS Training, Playbooks, Onboarding Programs & Hands-On AI",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Go-to-market enablement builder with 15+ years across sales, onboarding, and customer success in B2B SaaS, so the playbooks I write come from having done the job. At Wix, built sales training for tenured account executives on a new product line that went from proof of concept to profitable, and helped hire, onboard, and train a team of 20. At Birdeye, built the automated product-training sequences that let 15-20 reseller partners sell and deploy without hand-holding, and ran a structured feedback loop to Product and Engineering. Ranked top three in sales at Accelo. Builds and evaluates AI agents and LLM workflows hands-on, so a technical AI product is something I can learn deeply and pitch myself.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build reusable playbooks, templates, runbooks, and messaging frameworks so every engagement runs from a proven base instead of from scratch.",
+        "Architect and deploy AI agents and LLM workflows for clients, and built rubric-based evaluation of AI output to catch unreliable results before they ship.",
+        "Translate non-technical stakeholders' goals into precise AI agent instructions, the same translation between product capability and business outcome that enablement content requires.",
+        "Lead onboarding and hands-on training for every new client's technology stack, and write guides and educational content for non-technical users."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments as strategic lead for multi-stakeholder accounts, driving alignment without direct authority.",
+        "Built campaign reporting frameworks and ran QBRs, translating performance data into recommendations."
+      ]
+    },
+    {
+      "title": "Partner Enablement & Onboarding (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated product-training sequences and communication workflows that enabled 15-20 reseller partners to sell and deploy the product, retaining all but one (~94%).",
+        "Led onboarding and training for a diverse, high-volume partner network across health, home services, and retail.",
+        "Ran a structured feedback loop from partners and customers to Product and Engineering, prioritizing what the field needed on the roadmap.",
+        "Analyzed partner utilization data to find adoption gaps and target training where it would reduce churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team while carrying a number, and built internal processes that improved reporting accuracy and cross-team handoffs."
+      ]
+    },
+    {
+      "title": "Sales Enablement & Onboarding Team Lead (Account Manager, Onboarding Launch Specialist & Team Lead)",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Developed sales training for tenured account executives on a brand-new vertical that grew from proof of concept to a profitable business line.",
+        "Contributed to hiring, onboarding, and ramping new team members, and led and developed a team of onboarding specialists for two years (20, later 8).",
+        "Drove team initiatives and process improvements, standardizing CRM fields and workflows in Salesforce so the team worked from one shared framework.",
+        "Held 120% of sales targets and 110% of implementation targets while launching 25+ clients per month."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled.",
+        "Built sequenced implementation plans and guided client onboarding, workflow design, and API integrations alongside implementation teams."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Enablement",
+      "items": ["Sales Training", "New-Hire Onboarding & Ramp", "Playbooks & Runbooks", "Partner Enablement", "Training Content", "Enablement Operating Model"]
+    },
+    {
+      "category": "GTM Experience",
+      "items": ["Full-Cycle SaaS Sales", "Customer Onboarding & Deployment", "Customer Success & Retention", "Product Feedback Loops", "Cross-Functional Alignment"]
+    },
+    {
+      "category": "AI & Tools",
+      "items": ["AI Agents & LLM Workflows", "AI Output Evaluation", "Claude, ChatGPT", "Salesforce", "HubSpot", "Notion", "Jira"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": []
+}
