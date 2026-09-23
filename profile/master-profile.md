@@ -49,6 +49,12 @@
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
 >
+> **Insurance licensing (confirmed by Josh, Sep 2026, do not re-ask):** does not hold a
+> Property & Casualty (P&C) insurance license, and has no insurance-industry work experience.
+> Postings that require an active P&C (or other insurance producer) license are a hard
+> eligibility gap; apply the score cap. Josh's private-payer insurance experience as a
+> patient is unrelated and never substitutes.
+>
 > **Colorado MED Agent Badge (confirmed by Josh, Sep 2026):** does not currently hold a
 > Colorado Marijuana Enforcement Division occupational license ("Agent Badge"). This is
 > commonly a required, direct application question for cannabis retail/field roles that
