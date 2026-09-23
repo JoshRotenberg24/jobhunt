@@ -1,5 +1,7 @@
 # Match Report: ComplyAuto, Sales & Onboarding Specialist, Safety
 
+> **Status: SKIPPED by Josh (2026-09-23).** Resume built but not sent.
+
 - **Company:** ComplyAuto (EHS and compliance SaaS for auto dealerships)
 - **Role:** Sales & Onboarding Specialist, Safety. Half outside sales (cold walk-ins at dealerships), half in-person onboarding (chemical and equipment inventories, facility diagrams, staff training)
 - **Location:** Remote, Denver listing; about 70% travel with frequent overnights
