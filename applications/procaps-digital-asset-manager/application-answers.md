@@ -22,7 +22,21 @@
 | Work authorization | U.S. citizen |
 | Location | I currently reside in Nevada OR Colorado and can reliably commute |
 
-## Details
+
+## Summary (TL;DR) field
+
+- 15+ years in marketing, e-commerce, and marketing operations, most recently running my own marketing systems shop, Solenzo.
+- I build the structure behind the work: tagging systems, naming conventions, lifecycle stages, and reusable asset templates.
+- Built e-commerce storefronts for established retail brands at Wix; run technical SEO including URL structure and on-page fixes inside client CMS platforms.
+- Automate file and data handoffs with Zapier, Make, and n8n so nobody renames and re-uploads the same asset twice.
+- Trained and led a team of 20 at Wix; I make systems stick with non-technical users.
+- Arvada based, an easy commute to Broomfield.
+
+## Details field
+
+I haven't held a DAM title, and I'm upfront about that. What I bring is the builder side of this role: designing the categories, naming rules, and status tracking that make things findable, connecting tools so assets move without manual work, and training people until they use the system on their own. I've worked in shared asset libraries like Dropbox and Google Drive in every role, and I'd ramp on Brandfolder and SharePoint quickly. I'd like to build ProCaps' system from the ground up and keep it clean as your channels grow.
+
+## Other answers
 
 **What do you know about ProCaps Laboratories, and what excites you most?**
 
