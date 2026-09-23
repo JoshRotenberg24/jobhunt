@@ -1,0 +1,20 @@
+# Winona: Application Answers
+
+## Hard Skills (tools, years, level)
+
+* Claude / ChatGPT and AI writing tools (3 yrs, 9/10)
+* LinkedIn, organic and ads (3 yrs, 8/10)
+* Meta Ads, certified (2 yrs, 7/10)
+* Google Business Profile (4 yrs, 9/10)
+* ClickUp (1 yr, 7/10)
+* Notion (2 yrs, 8/10)
+* Google Workspace (10+ yrs, 9/10)
+* Mailchimp (2 yrs, 7/10)
+* HubSpot (7 yrs, 8/10)
+* GoHighLevel (2+ yrs, 9/10)
+* Salesforce (4 yrs, 7/10)
+* GA4 and Google Tag Manager (4 yrs, 8/10)
+* Zapier (8 yrs, 9/10); Make and n8n (2 yrs, 8/10)
+* Excel (10+ yrs, 8/10)
+* HTML/CSS (3 yrs, 7/10)
+* Asana, Monday.com, Jira (2 yrs, 7/10)
