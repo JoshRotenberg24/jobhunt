@@ -1,0 +1,107 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Paid Media Specialist | Google Ads, Meta, LinkedIn, CPA/CPC Optimization & ROI Reporting",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Paid media and performance marketer with 15+ years across agency, SaaS, and marketing operations, running campaigns and explaining the results in plain language. Optimizes Google Ads accounts for lead quality and click-through, runs A/B-tested LinkedIn campaigns, and holds a Meta Ads certification. Advised agency clients on paid-campaign budget planning and allocation, and built reporting on ROI, CAC, LTV, and conversion. Sets up GA4 and Google Tag Manager on every site so paid traffic is tracked correctly, and connects the dots between ads, SEO, websites, and social for business owners. Worked with established retail brands at Wix, and fluent in Salesforce, Jira, Excel, and Google Sheets.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Optimized a client's Google Ads account to cut spam and low-quality leads and improve click-through quality, then diagnosed on-site conversion as the remaining bottleneck.",
+        "Install and configure GA4 and Google Tag Manager on every client site so paid, organic, and social traffic is tracked and attributed correctly.",
+        "Build dashboards tracking lead volume, funnel progression, campaign ROI, and pipeline, and report results with recommendations on a regular cadence.",
+        "Run local SEO and Google Business Profile programs for service businesses, and explain SEO, website, and social tradeoffs to owners in plain language.",
+        "Manage multiple client campaigns at once, keeping work on schedule and within scope."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Advised clients on paid-campaign budget planning and allocation, and coordinated paid media, inbound, and content execution across internal teams.",
+        "Designed and ran LinkedIn ad campaigns with A/B-tested setups against small, highly researched audiences.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, and ran Google keyword research and search-term analysis to shape targeting.",
+        "Produced landing pages and conversion-focused copy supporting paid campaigns."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners on local listings, reputation, and marketing automation tools, retaining all but one (~94%).",
+        "Analyzed partner performance data to find gaps and recommend fixes, tracking accounts in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media campaign performance at a performance marketing agency and translated results into optimization recommendations across paid media and creative.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Built and launched e-commerce storefronts for established retail businesses, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Guided clients through Google Tag Manager and site setup, and launched 25+ clients per month at 110% of implementation targets while leading a team of 20 (later 8)."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, advising agency clients on their operations and reporting."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Sold a loyalty and marketing automation platform to local businesses, helping owners understand how their marketing drove repeat customers."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Paid Media",
+      "items": ["Google Ads", "Meta Ads / Facebook Business Manager (certified)", "LinkedIn Ads", "CPA / CPC / CPM Campaigns", "Budget Planning & Allocation", "A/B Testing", "Keyword Research"]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": ["GA4", "Google Tag Manager", "ROI / CAC / LTV Reporting", "Excel & Google Sheets", "Dashboards"]
+    },
+    {
+      "category": "Adjacent",
+      "items": ["SEO & Google Business Profile", "Landing Pages & CRO", "Social Media"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Salesforce", "Jira", "Microsoft Office (Word, Excel, PowerPoint, Outlook)", "HubSpot"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Meta Ads Certification - Meta", "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
