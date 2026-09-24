@@ -47,7 +47,7 @@ ATS output, or hiring decision.* See `fit.png`.
 | Seniority & scope alignment | 14 / 15 | Senior IC consultant. Josh's implementation volume and team-lead history put him at or above level. |
 | Domain / industry alignment | 14 / 15 | CRM implementation is his core domain; HubSpot is a platform he's built on. Not a HubSpot Solutions Partner background. |
 | Differentiators | 14 / 15 | AI agent building, custom-code integrations, sold CRM/PSA implementations at Accelo, onboarding team leadership. |
-| Evidence strength | 11 / 15 | 25+/month, 110% implementation, ~94% retention. No time-to-value or adoption KPI numbers, which this role is explicitly measured on. |
+| Evidence strength | 11 / 15 | 25+/month, 110% implementation, ~94% retention. Wix onboarding was measured on first sale (a real TTV outcome, confirmed Sep 2026); no duration number yet. |
 
 **Band: Strong fit.** Highest-leverage move: a HubSpot Academy certification and a TTV number.
 
@@ -66,7 +66,7 @@ ATS output, or hiring decision.* See `fit.png`.
 ## Gaps
 
 - No enterprise or multi-regional customers.
-- No documented time-to-value or adoption-KPI numbers (the role's core metrics).
+- TTV definition now documented (Wix onboarding counted only at the client's first sale); typical days-to-first-sale still not captured.
 
 ## Candidate confirmation needed
 

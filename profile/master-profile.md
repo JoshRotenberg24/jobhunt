@@ -473,6 +473,8 @@ operator talking, not like a candidate performing.
 > Salesforce Flow/Process Builder development — that distinction matters for any posting
 > that specifically asks for Salesforce admin or automation-building experience.
 - Onboarded and launched **25+ clients per month**, holding **120% of sales targets and 110% of implementation targets**.
+  > **Onboarding win = first sale (confirmed by Josh, Sep 2026):** at Wix an onboarding only counted as a win once the client had their first sale on the books, not at site go-live. So the 25+/month and 110% implementation attainment were measured against a time-to-value outcome (first revenue), not a setup checklist. Use this whenever a JD asks about time-to-value, activation, or adoption KPIs. Typical duration to first sale is still not captured, do not estimate one.
+- Onboarded 25+ clients a month to their first sale, the point Wix counted an onboarding as won, holding 110% of implementation targets.
 - Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it.
 - Built and launched e-commerce websites for established retail businesses adding a bigger online storefront as a secondary revenue line alongside their physical retail locations.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
@@ -580,7 +582,7 @@ operator talking, not like a candidate performing.
 
 - **30% increase in website traffic** (Wix, e-commerce segment)
 - **25% improvement in conversion rates** (Wix, supported accounts / e-commerce segment)
-- **25+ clients onboarded/launched per month** (Wix, personal monthly load across the two-year tenure)
+- **25+ clients onboarded/launched per month** (Wix, personal monthly load across the two-year tenure). An onboarding counted only once the client's first sale was on the books, so this and the 110% implementation attainment are time-to-value outcomes, not go-live counts (confirmed Sep 2026).
 - **120% of sales targets and 110% of implementation targets** (Wix, attainment against quota; role was primarily sales in year one, combined sales and implementation in year two)
 - **15+ years** total experience in MarTech / SaaS / agency
 - **5+ years** building CRM & marketing automation (GoHighLevel primary, HubSpot secondary)
@@ -613,8 +615,9 @@ with its scope and delete the line here.
   once (distinct from the 15-20 total onboarded/managed over the full tenure). Wix is
   covered (25+/month) and Solenzo is covered (up to 3 concurrent clients), see Verified
   Metrics. Birdeye is the remaining gap.
-- **Time-to-launch / time-to-value.** Typical onboarding duration at Wix and Birdeye,
-  and whether it improved during his tenure (from what, to what).
+- **Time-to-launch / time-to-value.** Wix's TTV definition is captured (onboarding = client's
+  first sale on the books). Still open: typical days to first sale at Wix, onboarding
+  duration at Birdeye, and whether either improved during his tenure (from what, to what).
 - **Wix hiring/training counts.** Team size and duration are now captured (2 years, 20 then
   8). Still unrecorded: how many people he personally hired and trained.
 

@@ -63,7 +63,7 @@
       "location": "Remote",
       "dates": "Aug 2020 - Aug 2022",
       "bullets": [
-        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets and 120% of sales targets.",
+        "Onboarded 25+ clients per month to their first sale (Wix counted an onboarding as won only once the client's first sale was on the books), holding 110% of implementation targets and 120% of sales targets.",
         "Led client launches as primary strategic contact, delivering on time and accelerating time-to-value.",
         "Led and developed a team of onboarding specialists for 2 years (a team of 20, later 8), overseeing scope and delivery for a high-value portfolio.",
         "Guided clients through technical setup including Google Tag Manager, Google Business Profile, and e-commerce builds.",
@@ -87,21 +87,59 @@
   "competencies": [
     {
       "category": "Implementation & Onboarding",
-      "items": ["SaaS Implementation", "Discovery & Requirements", "Time-to-Value Reduction", "Adoption KPIs", "Training & Enablement", "Success Handoffs", "Escalation Management"]
+      "items": [
+        "SaaS Implementation",
+        "Discovery & Requirements",
+        "Time-to-Value Reduction",
+        "Adoption KPIs",
+        "Training & Enablement",
+        "Success Handoffs",
+        "Escalation Management"
+      ]
     },
     {
       "category": "CRM & Technical",
-      "items": ["HubSpot", "Salesforce", "GoHighLevel", "CRM Architecture & Governance", "Lifecycle Stages", "Data Hygiene", "Integrations & APIs", "Zapier, Make, n8n", "Python & JavaScript (automation code steps)", "SQL (working)"]
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel",
+        "CRM Architecture & Governance",
+        "Lifecycle Stages",
+        "Data Hygiene",
+        "Integrations & APIs",
+        "Zapier, Make, n8n",
+        "Python & JavaScript (automation code steps)",
+        "SQL (working)"
+      ]
     },
     {
       "category": "Reporting & AI",
-      "items": ["Dashboards & KPI Reporting", "GA4", "Power BI", "Excel", "AI Workflow Design", "Prompt Design", "ChatGPT, Claude"]
+      "items": [
+        "Dashboards & KPI Reporting",
+        "GA4",
+        "Power BI",
+        "Excel",
+        "AI Workflow Design",
+        "Prompt Design",
+        "ChatGPT, Claude"
+      ]
     },
     {
       "category": "Inbound & Growth",
-      "items": ["Inbound Marketing", "Lifecycle & Nurture Campaigns", "Email Marketing", "SEO", "Landing Pages"]
+      "items": [
+        "Inbound Marketing",
+        "Lifecycle & Nurture Campaigns",
+        "Email Marketing",
+        "SEO",
+        "Landing Pages"
+      ]
     }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
-  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)", "Meta Ads Certification - Meta"]
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
 }
