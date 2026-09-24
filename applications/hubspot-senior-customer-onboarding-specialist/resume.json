@@ -1,0 +1,107 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Customer Onboarding Specialist | HubSpot & CRM Implementation, Time-to-Value, Adoption",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer onboarding and implementation consultant with 15+ years in SaaS, MarTech, and agency environments, and 5+ years building CRM and marketing automation systems, including hands-on HubSpot client builds. Onboarded 25+ clients a month at Wix at 110% of implementation targets while leading a team of 8 to 20 specialists, and scoped CRM implementations and API integrations for C-suite buyers at Accelo. Today designs CRM architectures, integrations (Zapier, Make, n8n with custom Python/JavaScript steps), and AI-driven workflows for B2B clients, translating business goals into configurations that reach value fast.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for new technology stacks, running discovery with business owners, translating requirements into CRM configurations, and delivering hands-on training.",
+        "Architect and implement CRM systems in HubSpot and GoHighLevel, including contact segmentation, lifecycle stages, lead routing, and strict data-hygiene protocols.",
+        "Build integrations between client CRMs, CMS platforms, and third-party tools in Zapier, Make, and n8n, writing custom Python and JavaScript code steps for production workflows.",
+        "Designed and deployed 20+ automation workflows spanning lead capture, qualification, booking, onboarding nurture, reactivation, and review generation.",
+        "Translate non-technical stakeholders' goals into structured AI prompts and agent logic, and use AI tools daily to speed up audits, troubleshooting, and delivery.",
+        "Identify expansion opportunities with existing clients, scoping complementary services tied to their growth objectives."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder client accounts across paid media, inbound, and content, coordinating execution across internal departments.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, presenting recommendations and quarterly business reviews to client leadership."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a high-volume partner network, driving adoption of marketing automation and reputation management solutions.",
+        "Guided customers through complex technical setup and configuration, including Birdeye's listings-syndication solution for every partner's end customers.",
+        "Built scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Onboarded and managed 15-20 reseller partners (contracts ~$10K-$45K), retaining all but one (~94% retention).",
+        "Fed structured, high-priority customer feedback to Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, managing pipeline in HubSpot and coordinating delivery across teams.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between client-facing and delivery teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets and 120% of sales targets.",
+        "Led client launches as primary strategic contact, delivering on time and accelerating time-to-value.",
+        "Led and developed a team of onboarding specialists for 2 years (a team of 20, later 8), overseeing scope and delivery for a high-value portfolio.",
+        "Guided clients through technical setup including Google Tag Manager, Google Business Profile, and e-commerce builds.",
+        "Labeled and defined the CRM fields for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Built team processes, hiring, onboarding, and training for a brand-new Wix vertical that grew from proof of concept to a profitable business line."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped CRM and project-management (PSA) implementations for agencies and professional-services firms, advising C-suite stakeholders on operational system design.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute.",
+        "Guided client onboarding, workflow design, and API integrations alongside implementation teams, resolving technical issues during setup.",
+        "Ranked top three in sales on a team that grew from 8 to 15 reps, sustained while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation & Onboarding",
+      "items": ["SaaS Implementation", "Discovery & Requirements", "Time-to-Value Reduction", "Adoption KPIs", "Training & Enablement", "Success Handoffs", "Escalation Management"]
+    },
+    {
+      "category": "CRM & Technical",
+      "items": ["HubSpot", "Salesforce", "GoHighLevel", "CRM Architecture & Governance", "Lifecycle Stages", "Data Hygiene", "Integrations & APIs", "Zapier, Make, n8n", "Python & JavaScript (automation code steps)", "SQL (working)"]
+    },
+    {
+      "category": "Reporting & AI",
+      "items": ["Dashboards & KPI Reporting", "GA4", "Power BI", "Excel", "AI Workflow Design", "Prompt Design", "ChatGPT, Claude"]
+    },
+    {
+      "category": "Inbound & Growth",
+      "items": ["Inbound Marketing", "Lifecycle & Nurture Campaigns", "Email Marketing", "SEO", "Landing Pages"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)", "Meta Ads Certification - Meta"]
+}

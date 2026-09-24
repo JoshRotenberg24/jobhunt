@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 24, 2026",
+  "company": "HubSpot",
+  "role": "Senior Customer Onboarding Specialist",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Senior Customer Onboarding Specialist role. I've spent most of my career on both sides of a CRM implementation: selling and scoping them at Accelo, running onboarding at volume at Wix, and now building HubSpot and GoHighLevel systems for B2B clients at my own practice. The through line is the one your posting leads with: turn a customer's business goals into a configuration that reaches value fast.",
+    "At Wix I onboarded 25+ clients a month at 110% of implementation targets while leading a team of 8 to 20 specialists, which is where I learned to run a portfolio of launches with competing priorities and re-plan without dropping any. At Accelo I built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and guided workflow design and API integrations with C-suite stakeholders. At Birdeye I onboarded and trained a network of 15 to 20 reseller partners and retained all but one.",
+    "The technical side is hands-on. I architect CRM systems (lifecycle stages, segmentation, routing, data hygiene), connect them to other tools through Zapier, Make, and n8n with custom Python and JavaScript steps, and use AI daily to speed up discovery, troubleshooting, and delivery. I'd welcome the conversation about bringing that to HubSpot's customers."
+  ],
+  "closing": "Sincerely,"
+}
