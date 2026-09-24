@@ -19,8 +19,7 @@
         "Plan and publish LinkedIn content on a regular calendar, growing an audience that fed a free-audit funnel enrolling 180+ businesses.",
         "Write and send email campaigns and newsletters in HubSpot and GoHighLevel, with segmentation, lead scoring and routing, A/B-tested subject lines, and deliverability handled end to end.",
         "Set up tracking (GA4, Google Tag Manager, CRM attribution) before every campaign launches, and report opens, clicks, conversions, and drop-off with recommendations.",
-        "Write the Solenzo blog and guides, turning technical systems topics into clear content for non-expert readers.",
-        "Manage timelines, deliverables, and documentation across concurrent client campaigns in Notion and the CRM."
+        "Write the Solenzo blog and guides, turning technical systems topics into clear content for non-expert readers."
       ]
     },
     {
@@ -30,8 +29,7 @@
       "dates": "Sep 2024 - Feb 2025",
       "bullets": [
         "Produced multi-touch email sequences, landing pages, and campaign assets, coordinating execution across creative, media, and content teams.",
-        "Ran A/B-tested LinkedIn campaigns against small, highly researched B2B audiences, and built reporting on ROI, CAC, and conversion.",
-        "Managed HubSpot-based client accounts and presented results and next steps in QBRs."
+        "Ran A/B-tested LinkedIn campaigns against small, highly researched B2B audiences, and built reporting on ROI, CAC, and conversion."
       ]
     },
     {
@@ -58,25 +56,43 @@
       "location": "Remote",
       "dates": "Aug 2020 - Aug 2022",
       "bullets": [
-        "Launched 25+ client projects per month on schedule at 110% of targets, and led a team of 20 (later 8).",
-        "Advised on content, SEO, and site architecture, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment."
+        "Launched 25+ client projects per month on schedule at 110% of targets, and led a team of 20 (later 8)."
       ]
     }
   ],
   "competencies": [
     {
       "category": "Marketing Execution",
-      "items": ["Content Calendars", "LinkedIn Content", "Email & Newsletters", "Segmentation & Lead Management", "Campaign Tracking", "Product Launch Coordination", "Sales Enablement Assets"]
+      "items": [
+        "Content Calendars",
+        "LinkedIn Content",
+        "Email & Newsletters",
+        "Segmentation & Lead Management",
+        "Campaign Tracking",
+        "Product Launch Coordination",
+        "Sales Enablement Assets",
+        "Timelines & Documentation"
+      ]
     },
     {
       "category": "Tools",
-      "items": ["HubSpot (7 yrs)", "Notion", "Monday.com", "ClickUp", "Google Workspace", "Microsoft Office", "GA4 & GTM", "Mailchimp"]
-    },
-    {
-      "category": "Project Management",
-      "items": ["Timelines & Deliverables", "Cross-Functional Coordination", "Documentation", "Multiple Concurrent Campaigns"]
+      "items": [
+        "HubSpot (7 yrs)",
+        "Notion",
+        "Monday.com",
+        "ClickUp",
+        "Google Workspace",
+        "Microsoft Office",
+        "GA4 & GTM",
+        "Mailchimp"
+      ]
     }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
-  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)", "Meta Ads Certification - Meta"]
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
 }
