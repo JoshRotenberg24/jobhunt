@@ -1,0 +1,82 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "B2B Marketing Specialist | HubSpot, Email & Newsletters, LinkedIn Content, Campaign Execution",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Hands-on B2B marketer with 15+ years across SaaS, agency, and marketing operations, and 7 years in HubSpot. Plans and ships the work end to end: LinkedIn content and calendars, email and newsletter programs, segmentation and lead management, tracking, and the reporting that shows what to change. Grew Solenzo's audience through organic LinkedIn content into a free-audit funnel that enrolled 180+ businesses. Keeps multiple campaigns on schedule across creative, sales, and subject-matter teams, and translates technical material into content a busy expert will actually read.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Plan and publish LinkedIn content on a regular calendar, growing an audience that fed a free-audit funnel enrolling 180+ businesses.",
+        "Write and send email campaigns and newsletters in HubSpot and GoHighLevel, with segmentation, lead scoring and routing, A/B-tested subject lines, and deliverability handled end to end.",
+        "Set up tracking (GA4, Google Tag Manager, CRM attribution) before every campaign launches, and report opens, clicks, conversions, and drop-off with recommendations.",
+        "Write the Solenzo blog and guides, turning technical systems topics into clear content for non-expert readers.",
+        "Manage timelines, deliverables, and documentation across concurrent client campaigns in Notion and the CRM."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced multi-touch email sequences, landing pages, and campaign assets, coordinating execution across creative, media, and content teams.",
+        "Ran A/B-tested LinkedIn campaigns against small, highly researched B2B audiences, and built reporting on ROI, CAC, and conversion.",
+        "Managed HubSpot-based client accounts and presented results and next steps in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated communication and training sequences and sales enablement material for 15-20 reseller partners, many serving healthcare-focused businesses, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client campaigns at a performance marketing agency in HubSpot, managing workflows and deliverables in ClickUp and improving reporting accuracy."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Launched 25+ client projects per month on schedule at 110% of targets, and led a team of 20 (later 8).",
+        "Advised on content, SEO, and site architecture, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Execution",
+      "items": ["Content Calendars", "LinkedIn Content", "Email & Newsletters", "Segmentation & Lead Management", "Campaign Tracking", "Product Launch Coordination", "Sales Enablement Assets"]
+    },
+    {
+      "category": "Tools",
+      "items": ["HubSpot (7 yrs)", "Notion", "Monday.com", "ClickUp", "Google Workspace", "Microsoft Office", "GA4 & GTM", "Mailchimp"]
+    },
+    {
+      "category": "Project Management",
+      "items": ["Timelines & Deliverables", "Cross-Functional Coordination", "Documentation", "Multiple Concurrent Campaigns"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)", "Meta Ads Certification - Meta"]
+}
