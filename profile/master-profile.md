@@ -387,11 +387,12 @@ operator talking, not like a candidate performing.
 > business practices I wasn't comfortable with" — specifics are Josh's call per
 > conversation, never volunteered by default.
 >
-> **Ad-spend budget planning (confirmed Sep 2026):** Josh helped client businesses with
-> budget planning for paid ad campaigns at Level Agency. No specific dollar figure or range
-> captured yet — ask Josh for a real number (even a bracketed estimate) before claiming a
-> specific ad-spend scale in a resume; until then, represent this qualitatively as budget
-> planning and allocation experience, not a dollar amount.
+> **Ad-spend budget planning, with scale (confirmed by Josh, Sep 2026):** at both Level
+> Agency and Fetch & Funnel, Josh advised incoming clients on media spend, with client
+> Google Ads budgets running upwards of $25K/month. He also worked out how to carve part of
+> that budget into hyper-targeted LinkedIn Ads campaigns once the client's ICP was defined.
+> Scope: per-client monthly Google Ads spend he advised on, not a consolidated book-wide
+> spend he owned. Safe phrasing: "advised on client Google Ads budgets of $25K+/month."
 >
 > **LinkedIn Ads — ABM-style targeting with A/B testing (confirmed Sep 2026):** Josh set up
 > LinkedIn ad campaigns at Level Agency using an account-based-marketing approach: small,
@@ -400,7 +401,7 @@ operator talking, not like a candidate performing.
 > media experience, distinct from organic LinkedIn use, safe to claim directly against a JD
 > asking for LinkedIn Ads experience.
 - Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.
-- Advised client businesses on ad-spend budget planning and allocation across paid campaigns.
+- Advised incoming clients on media spend, including Google Ads budgets of $25K+/month, and allocated part of that budget to hyper-targeted LinkedIn Ads campaigns built around a defined ICP.
 - Designed and ran LinkedIn ad campaigns using an account-based-marketing approach, targeting small, highly researched audiences with A/B-tested setups rather than broad targeting.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
@@ -451,6 +452,7 @@ operator talking, not like a candidate performing.
 - Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, managing workflows and tasks in ClickUp.
 - Served a banking-industry client and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage in that deal.
 - Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.
+- Advised incoming clients on media spend, including Google Ads budgets of $25K+/month, and allocation into LinkedIn Ads for ICP-targeted campaigns.
 - Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.
 - Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
 
@@ -591,6 +593,7 @@ operator talking, not like a candidate performing.
 - **2 years as team lead at Wix, managing a team of 20 and later a team of 8** onboarding specialists (confirmed by Josh, Aug 2026)
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
 - **Free digital-footprint audit offer (Solenzo), promoted via LinkedIn organic growth: 180+ businesses enrolled, 2 converted to paying clients** (~1.1% audit-to-client conversion) — confirmed by Josh, Aug 2026. This is Josh's own product-marketing / PLG-style motion: a free offer as top-of-funnel, distributed through his own LinkedIn growth, converting a share of free users to paid. Track record still early; do not overstate the conversion rate, state it plainly.
+- **Client Google Ads budgets of $25K+/month advised on (Level Agency and Fetch & Funnel)**, with part of that budget allocated to ICP-targeted LinkedIn Ads campaigns. Per-client monthly spend, advisory role on incoming clients (confirmed by Josh, Sep 2026).
 - **Up to 3 concurrent clients at Solenzo** at peak, while personally building the outbound automation system and running outbound himself (confirmed by Josh, Sep 2026). This is a solo-founder scale number, real and specific, not a large book, state it plainly rather than rounding up. Monthly lead volume at Solenzo is not reliably capturable as a metric (see private note below) — do not estimate one.
 
 > If a job calls for a metric not in this list, do NOT manufacture one. Use a
@@ -622,7 +625,7 @@ with its scope and delete the line here.
 - **Training delivery.** Number of sessions run and people trained, at Wix and Birdeye.
 - **Solenzo retainer range.** Concurrent client count is now captured (up to 3, see Verified
   Metrics); typical retainer/contract value per client is still unrecorded.
-- **Level Agency accounts.** Portfolio size and spend under management.
+- **Level Agency accounts.** Portfolio size (number of accounts). Per-client spend now captured ($25K+/month Google Ads, see Verified Metrics).
 - **Accelo implementation scope.** Typical implementation size in seats or hours.
 
 **Rules for filling these:** the number comes from Josh, never from inference. Ranges are

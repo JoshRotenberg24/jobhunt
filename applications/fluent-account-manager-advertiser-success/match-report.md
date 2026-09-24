@@ -22,7 +22,7 @@ No knockouts. Remote US, English, U.S. citizen. One item needs Josh's answer.
 | Commerce media experience (plus) | Resume-evidenced | **Gap.** |
 | Organized, many campaigns simultaneously | Resume-evidenced | Covered. 25+ launches/month at Wix; multi-account portfolios at agencies. |
 | Presenting to advertisers and internal stakeholders | Resume-evidenced | Covered. QBRs at Level; C-suite advisory at Accelo. |
-| Budgets, spend targets, revenue pacing, sales skills | Resume-evidenced | **Partly covered.** Sales skills strong and quantified. Ad-spend budget planning at Level (qualitative, no dollar figure). Pacing/spend-target monitoring as a daily discipline not documented. |
+| Budgets, spend targets, revenue pacing, sales skills | Resume-evidenced | **Partly covered.** Sales skills strong and quantified. Advised on client Google Ads budgets of $25K+/month at Level and Fetch & Funnel, plus LinkedIn Ads allocation (confirmed Sep 2026). Pacing/spend-target monitoring as a daily discipline not documented. |
 | Analytical skills | Resume-evidenced | Covered. GA4, Power BI, SQL, ROI/CAC/LTV reporting. |
 | High proficiency in Excel | Resume-evidenced | Covered. Profile records Excel as experienced-level. |
 | Written communication | Resume-evidenced | Covered. Published content, copywriting, client reporting. |
@@ -75,13 +75,12 @@ required) and documented spend pacing/billing.
 ## Candidate confirmation needed
 
 - **Salary number** for the application form (see table).
-- **Ad spend managed at Level Agency.** A real range (monthly or annual, across his accounts) would turn the budget-planning bullet into direct evidence against "attentive to client budgets and spend targets." Already on the Numbers Worth Capturing list.
 - **Pacing reports.** Did Josh track spend pacing against monthly budgets for Level or Fetch & Funnel clients? If yes, it's a bullet.
 - **Level Agency portfolio size** (number of client accounts). Already on the capture list.
 
 ## Metrics needed
 
-- Ad spend under management (Level, Fetch & Funnel). This is the single highest-leverage number for any paid media or ad-tech AM posting; worth an `/excavate-profile` pass.
+- Captured Sep 2026: client Google Ads budgets $25K+/month (Level, Fetch & Funnel). Still open: number of concurrent accounts at Level.
 
 ## Output files
 
