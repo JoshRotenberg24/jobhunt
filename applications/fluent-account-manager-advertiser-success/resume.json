@@ -1,0 +1,152 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Account Manager | Performance Marketing, Advertiser Portfolios & Revenue Growth",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Account manager with 15+ years across performance marketing agencies, MarTech, and SaaS, owning books of business where retention and spend growth drive revenue. Ran client accounts end to end at two performance marketing agencies (paid media, budget planning, ROI/CAC/LTV reporting, business reviews) and retained all but one of 15-20 reseller partners at Birdeye (~94%). Backs account strategy with a sales record (top three of 8 to 15 reps at Accelo while quota doubled, 120% of targets at Wix) and hands-on analytics in Excel, GA4, and Power BI, so every client review ends with a clear recommendation and a growth path.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary relationship for a portfolio of service-business clients, running discovery and onboarding to define each client's goals, KPIs, and market challenges.",
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click-through quality, then diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Report performance on a regular cadence with actionable insights and optimization recommendations, backed by GA4 and CRM tracking across multiple accounts.",
+        "Identify opportunities to expand retainer scope, recommending and scoping complementary services tied to each client's revenue objectives.",
+        "Built performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity for business-owner stakeholders.",
+        "Architected 20+ GoHighLevel automation workflows (lead capture, routing, booking, no-show recovery, nurture, reactivation) so paid leads convert past the click."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated strategy across paid media, inbound, and content for a performance marketing agency's client accounts, coordinating execution across internal teams.",
+        "Advised clients on ad-spend budget planning and allocation across paid campaigns.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, presenting optimization recommendations and quarterly business reviews to clients.",
+        "Designed and ran A/B-tested LinkedIn Ads campaigns using account-based targeting on small, highly researched audiences.",
+        "Translated performance data into strategic recommendations for multi-stakeholder accounts, resolving client feedback promptly to protect retention."
+      ]
+    },
+    {
+      "title": "Partner Account Management - Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed a book of 15-20 reseller partners (deal sizes ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Analyzed partner utilization and performance metrics to spot adoption gaps and recommend interventions that reduced churn.",
+        "Ran onboarding and training for new partners, coordinating technical setup of Birdeye's listings, reputation, and marketing automation solutions.",
+        "Relayed structured, high-priority customer feedback to Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Analyzed campaign performance data and turned results into optimization recommendations across paid media and creative.",
+        "Closed 6 new-client deals averaging ~$22K each (several above $25K), roughly $130K+ in total bookings.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between account and execution teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led and developed a team of onboarding specialists for 2 years (a team of 20, later 8), overseeing budgets, scope, and delivery.",
+        "Led client launches as primary strategic contact, delivering on time and accelerating time-to-value."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps for all but the final months of a 27-month tenure, while quota roughly doubled.",
+        "Averaged ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue, consistently into accelerator tiers.",
+        "Built C-suite relationships at agencies and professional-services firms as a trusted advisor on operational system design."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for an SMB loyalty and marketing automation platform, from prospecting and qualification through close."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Account Management",
+      "items": [
+        "Book of Business Management",
+        "Client Onboarding",
+        "Business Reviews / QBRs",
+        "Account Expansion & Upsell",
+        "Retention & Churn Prevention",
+        "Cross-Functional Coordination"
+      ]
+    },
+    {
+      "category": "Performance Marketing",
+      "items": [
+        "Paid Media Strategy",
+        "Google Ads",
+        "Meta Ads (certified)",
+        "LinkedIn Ads",
+        "Ad-Spend Budget Planning",
+        "A/B Testing",
+        "Landing Pages & CRO"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "Excel",
+        "GA4",
+        "Power BI",
+        "SQL (working)",
+        "KPI Tracking",
+        "ROI / CAC / LTV Reporting",
+        "Performance Dashboards"
+      ]
+    },
+    {
+      "category": "Platforms",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Google Tag Manager",
+        "ClickUp",
+        "Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}
