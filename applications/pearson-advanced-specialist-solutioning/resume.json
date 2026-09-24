@@ -1,0 +1,108 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Solution Consulting | Strategic Discovery, Solution Proposals, AI Fluency & Sales Partnership",
+  "contact": {
+    "location": "Arvada, CO (Remote, US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Consultative seller and solution designer with 15+ years in customer-facing SaaS, agency, and operations roles, turning a customer's business problem into a clear solution, a scoped plan, and a proposal leadership can approve. At Accelo, ranked top three in sales while quota roughly doubled, leading discovery with C-suite stakeholders, scoping CRM and project-management solutions, and building sequenced implementation plans for delivery teams. At Wix, built sales training for tenured account executives and led a team of 20, so learning and workforce enablement are familiar ground. Builds and deploys AI agents and LLM workflows today, and uses AI tools daily for research, analysis, and solution design.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead discovery with business owners and their teams to map objectives, constraints, stakeholders, and success criteria, then design and propose the solution.",
+        "Architect and deploy AI agents and LLM workflows, breaking manual processes into agent logic and translating business intent into reliable AI output.",
+        "Use AI tools daily to accelerate research, analysis, proposal drafting, and solution design, and built rubric-based evaluation to keep AI output accurate.",
+        "Scope complementary services to expand engagements, tying each proposal to measurable outcomes.",
+        "Lead onboarding and hands-on training for every new technology stack so solutions are adopted, not just delivered."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated strategy for multi-stakeholder accounts across paid media, inbound, and content, coordinating execution across internal departments.",
+        "Presented performance and strategy to client leadership in QBRs, translating data into recommendations for business and technical audiences."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded 15-20 reseller partners (deals ~$10K-$45K), designing each partner's rollout and training, and retained all but one (~94%).",
+        "Partnered with Product and Engineering on structured customer feedback, and analyzed adoption data to recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K while leading the sales team, and took a major northeastern U.S. banking prospect to the finalist stage."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Developed sales training for tenured account executives on a brand-new vertical that grew from proof of concept to a profitable business line.",
+        "Led and developed a team for two years (20, later 8), contributing to hiring, onboarding, and training new hires.",
+        "Held 120% of sales targets and 110% of implementation targets while launching 25+ clients per month."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, earning into accelerator tiers.",
+        "Led discovery and scoped complex CRM and project-management solutions for agencies and professional-services firms, advising C-suite stakeholders on operational system design.",
+        "Built sequenced implementation plans ranking which systems to change and in what order, and handed them to implementation teams to deliver.",
+        "Averaged ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle consultative sales for a loyalty and marketing automation platform."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Solution Consulting",
+      "items": ["Strategic Discovery & Workshops", "Solution Design", "Proposals & Value Narratives", "Stakeholder Mapping", "Implementation Readiness", "Executive Presentations"]
+    },
+    {
+      "category": "AI & Technology",
+      "items": ["AI Tools for Analysis & Productivity", "AI Agents & LLM Workflows", "CRM & Project-Management Platforms", "Integrations & APIs", "Digital Transformation"]
+    },
+    {
+      "category": "Learning & Enablement",
+      "items": ["Sales Training", "Team Onboarding", "Customer Training & Adoption"]
+    },
+    {
+      "category": "Tools",
+      "items": ["PowerPoint", "Excel", "Salesforce", "HubSpot", "Claude", "ChatGPT"]
+    }
+  ],
+  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
+  "certifications": ["Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+}
