@@ -40,7 +40,7 @@
 ## Gaps
 - **Enterprise buying environments:** mid-market only.
 - **Workforce planning / talent strategy** not on record beyond team training.
-- **Microsoft Copilot** specifically not on record.
+- **Microsoft Copilot:** evaluated/tested at Solenzo only (confirmed); not daily use.
 
 ## Output files
 - `Pearson-AdvancedSpecialistSolutioning-Resume.pdf` / `.docx`
