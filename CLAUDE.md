@@ -44,6 +44,13 @@ salary and start date, fill in the recommended default instead of leaving a brac
 opinion questions, write a full draft answer in his voice, not a placeholder. Hand him
 finished, pasteable text, never a to-do list.
 
+## Resume length (confirmed by Josh, Sep 2026)
+
+Resumes are always two pages. If a draft runs short or leaves a near-empty second page,
+fill it with real content (restore relevant bullets, bring in an older role like Accelo,
+Fivestars, Senior Directory, or Standing Akimbo), never by trimming to one page and never
+with padding.
+
 ## Where things live
 
 - `profile/master-profile.md` — the only source of true candidate content. Read it fresh

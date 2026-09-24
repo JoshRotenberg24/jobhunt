@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Hands-on B2B marketer with 15+ years across SaaS, agency, and marketing operations, and 7 years in HubSpot. Plans and ships the work end to end: LinkedIn content and calendars, email and newsletter programs, segmentation, tracking, and reporting. Grew Solenzo's audience through organic LinkedIn content into a free-audit funnel that enrolled 180+ businesses, and turns technical material into content a busy expert will actually read.",
+  "summary": "Hands-on B2B marketer with 15+ years across SaaS, agency, and marketing operations, and 7 years in HubSpot. Plans and ships the work end to end: LinkedIn content and calendars, email and newsletter programs, segmentation and lead management, tracking, and the reporting that shows what to change. Grew Solenzo's audience through organic LinkedIn content into a free-audit funnel that enrolled 180+ businesses. Keeps multiple campaigns on schedule across creative, sales, and subject-matter teams, and translates technical material into content a busy expert will actually read.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -19,7 +19,8 @@
         "Plan and publish LinkedIn content on a regular calendar, growing an audience that fed a free-audit funnel enrolling 180+ businesses.",
         "Write and send email campaigns and newsletters in HubSpot and GoHighLevel, with segmentation, lead scoring and routing, A/B-tested subject lines, and deliverability handled end to end.",
         "Set up tracking (GA4, Google Tag Manager, CRM attribution) before every campaign launches, and report opens, clicks, conversions, and drop-off with recommendations.",
-        "Write the Solenzo blog and guides, turning technical systems topics into clear content for non-expert readers."
+        "Write the Solenzo blog and guides, turning technical systems topics into clear content for non-expert readers.",
+        "Manage timelines, deliverables, and documentation across concurrent client campaigns in Notion and the CRM."
       ]
     },
     {
@@ -29,7 +30,8 @@
       "dates": "Sep 2024 - Feb 2025",
       "bullets": [
         "Produced multi-touch email sequences, landing pages, and campaign assets, coordinating execution across creative, media, and content teams.",
-        "Ran A/B-tested LinkedIn campaigns against small, highly researched B2B audiences, and built reporting on ROI, CAC, and conversion."
+        "Ran A/B-tested LinkedIn campaigns against small, highly researched B2B audiences, and built reporting on ROI, CAC, and conversion.",
+        "Managed HubSpot-based client accounts and presented results and next steps in QBRs."
       ]
     },
     {
@@ -56,7 +58,27 @@
       "location": "Remote",
       "dates": "Aug 2020 - Aug 2022",
       "bullets": [
-        "Launched 25+ client projects per month on schedule at 110% of targets, and led a team of 20 (later 8)."
+        "Launched 25+ client projects per month on schedule at 110% of targets, and led a team of 20 (later 8).",
+        "Advised on content, SEO, and site architecture, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold CRM and project-management SaaS to agencies and professional-services firms, explaining a technical product in terms of each buyer's workflow and outcomes.",
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, and built Zapier automations along the way."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Sold a loyalty and marketing automation platform to local businesses, building the consultative approach to adoption and retention that carried into later roles."
       ]
     }
   ],
@@ -70,8 +92,7 @@
         "Segmentation & Lead Management",
         "Campaign Tracking",
         "Product Launch Coordination",
-        "Sales Enablement Assets",
-        "Timelines & Documentation"
+        "Sales Enablement Assets"
       ]
     },
     {
@@ -86,12 +107,22 @@
         "GA4 & GTM",
         "Mailchimp"
       ]
+    },
+    {
+      "category": "Project Management",
+      "items": [
+        "Timelines & Deliverables",
+        "Cross-Functional Coordination",
+        "Documentation",
+        "Multiple Concurrent Campaigns"
+      ]
     }
   ],
   "education": [
     "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
   ],
   "certifications": [
-    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
   ]
 }
