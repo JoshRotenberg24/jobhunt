@@ -1,0 +1,109 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Service & Client Support | Phone, Chat & Email | Accurate Records, Clear Answers",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer-facing professional with 15+ years answering client questions by phone and email, in fully remote roles since 2020. Explains complex products in plain language and keeps every interaction documented in CRM and ticketing systems. Brings eight years of first-hand experience working through private insurance claims, prior authorizations, and appeals, so benefits questions from members and providers are familiar ground.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Answer small-business clients' questions by phone and email as their main point of contact, resolving issues end to end.",
+        "Document every client interaction, timeline, and deliverable in HubSpot, GoHighLevel, and Notion, keeping records accurate and auditable across concurrent clients."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback and questions promptly across multiple accounts, protecting satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Supported 15-20 business partners and their customers through setup, training, and ongoing questions, retaining all but one (~94% retention).",
+        "Guided customers step by step through technical setup and configuration of software tools.",
+        "Logged recurring customer issues and passed structured feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Handled client communication and reporting across accounts, and improved internal processes to cut handoff errors and improve record accuracy."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded 25+ clients per month, answering product questions and walking each client through setup.",
+        "Standardized CRM field definitions for the team's onboarding records, improving data consistency.",
+        "Led a team of onboarding specialists for 2 years, including hiring, onboarding, and training new hires."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Explained a complex software product clearly to business owners and executives, and escalated account issues to leadership early."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Service",
+      "items": [
+        "Phone & Email Support",
+        "Issue Resolution",
+        "Plain-Language Explanations",
+        "Escalation Handling",
+        "Customer Onboarding & Training"
+      ]
+    },
+    {
+      "category": "Systems & Records",
+      "items": [
+        "Zendesk",
+        "Salesforce",
+        "HubSpot",
+        "Excel",
+        "Google Workspace",
+        "Accurate Data Entry & Record Keeping"
+      ]
+    },
+    {
+      "category": "Insurance Familiarity",
+      "items": [
+        "Private-payer claims (member side)",
+        "Prior authorization & appeals (member side)"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}
