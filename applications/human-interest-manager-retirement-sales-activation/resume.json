@@ -1,0 +1,132 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Sales Activation & Onboarding Leader | Team Leadership, Conversion Quotas, High-Volume Launches",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Onboarding and sales leader with 15+ years in SaaS and agency environments and 2+ years leading teams against monthly quotas. At Wix, led a team of 20 (later 8) onboarding specialists while personally launching 25+ clients a month to their first sale, the point Wix counted an onboarding as won, at 110% of implementation and 120% of sales targets. Led the sales team at Fetch & Funnel next, and ranked top three of 8 to 15 reps at Accelo while quota roughly doubled. Builds the workflows, automation, and process fixes that move volume through a conversion pipeline faster.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for B2B service clients, translating business requirements into system configurations and delivering hands-on training.",
+        "Designed and deployed 20+ automation workflows covering lead qualification, booking, no-show recovery, and onboarding nurture, removing manual steps that slowed conversion.",
+        "Build performance dashboards tracking funnel progression, conversion, and pipeline velocity, and report recommendations on a regular cadence."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder client accounts, coordinating execution across internal departments and presenting quarterly business reviews to client leadership.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs to drive optimization decisions."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (contracts ~$10K-$45K), retaining all but one (~94% retention).",
+        "Built scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Analyzed partner utilization data to spot adoption gaps early and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Sales Team Lead - Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team while carrying an individual book, closing 6 new-client deals averaging ~$22K each (roughly $130K+ in bookings).",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery teams.",
+        "Managed work for a banking-industry client and joined the pursuit of a major northeastern U.S. banking prospect, reaching the finalist stage."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led and developed a team of onboarding specialists for 2 years (a team of 20, later 8), overseeing budgets, scope, and delivery.",
+        "Onboarded 25+ clients per month to their first sale (Wix counted an onboarding as won only once the client's first sale was on the books), holding 110% of implementation targets and 120% of sales targets.",
+        "Built team processes, hiring, onboarding, and training for a brand-new Wix vertical that grew from proof of concept to a profitable business line, and developed sales training for tenured account executives.",
+        "Labeled and defined the CRM fields for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Led team initiatives and pitched process improvements to streamline launches, accelerating time-to-value for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps for all but the final months of a 27-month tenure, while quota roughly doubled.",
+        "Averaged ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue, consistently into accelerator tiers.",
+        "Built sequenced implementation plans for incoming clients and handed them to the implementation team, carrying sales commitments into delivery."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle, high-volume SMB sales for a loyalty and marketing automation platform, from prospecting and qualification through close."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Leadership & Performance",
+      "items": [
+        "Team Leadership & Coaching",
+        "Hiring & Training",
+        "Quota Attainment",
+        "Sales Enablement",
+        "Performance Gap Analysis",
+        "Escalation Management"
+      ]
+    },
+    {
+      "category": "Activation & Conversion",
+      "items": [
+        "High-Volume Onboarding",
+        "Conversion Pipeline Management",
+        "Pre-Launch Churn Prevention",
+        "Time-to-Value Reduction",
+        "Process Optimization",
+        "Cross-Functional Collaboration"
+      ]
+    },
+    {
+      "category": "Data & Systems",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Pipeline Stage Tracking & Forecast Hygiene",
+        "Excel",
+        "Power BI",
+        "Dashboards & KPI Reporting",
+        "Workflow Automation"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}
