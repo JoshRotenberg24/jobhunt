@@ -62,13 +62,12 @@ Essential functions: onboarding + training (Wix, Birdeye, Solenzo), primary poin
 
 ## Gaps
 
-- **K-12 / special education / EdTech industry experience.** Not in profile. Preferred, not required.
+- **K-12 / special education / EdTech professional experience.** Not in profile. Preferred, not required. Interest is now covered via family connection (see Cover letter).
 - **Direct coordination of in-person professional-services/training delivery** (scheduling trainers for on-site sessions). Closest evidence is Accelo implementation handoffs.
 
 ## Candidate confirmation needed
 
 - **Travel 6-20%:** OK with periodic overnight trips for customer visits and conferences?
-- **Interest in K-12 / special education / autism support:** the preferred qualification says "experience *or interest*." Any genuine personal connection (family, volunteering, education background) would be worth a cover letter. Don't claim it until Josh confirms.
 - **Overqualification framing:** is Josh comfortable at a specialist-level title and a $65-75K band? If asked "why this level," he needs a real answer ready.
 
 ## Metrics needed
@@ -78,11 +77,12 @@ Essential functions: onboarding + training (Wix, Birdeye, Solenzo), primary poin
 
 ## Cover letter
 
-Skipped. The resume carries the CS evidence on its own. Recommend one only if Josh confirms a genuine K-12/special-ed/autism connection, since that is the one thing the resume can't show and it's the domain gap.
+Built. Josh confirmed (Sep 2026) his wife is a vice principal at an elementary school serving many high-needs kids and his family is full of educators. That satisfies the preferred "interest in K-12" and is the one thing the resume can't show, so the letter leads with it, then maps Birdeye retention and Wix onboarding/training to the role. Framed as family context, not professional K-12 experience. Added to `master-profile.md`.
 
 ## Output files
 
 - `Rotenberg Resume - STAR Autism Support - Customer Success Specialist.pdf` (upload this; posting doesn't specify format)
 - `Rotenberg Resume - STAR Autism Support - Customer Success Specialist.docx`
-- `resume.json` / `resume.pdf` / `resume.docx` (working copies)
+- `Rotenberg Cover Letter - STAR Autism Support - Customer Success Specialist.pdf` / `.docx`
+- `resume.*` / `cover-letter.*` (working copies)
 - `fit.json` / `fit.png`

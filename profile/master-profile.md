@@ -159,6 +159,19 @@ band.
   mission commitment and the professional development/fundraising skill gap honestly
   distinct in any resume, cover letter, or match report.
 
+## Family connection to K-12 education (confirmed Sep 2026)
+
+- **Josh's wife is a VP (vice principal) at an elementary school that serves a lot of
+  high-needs kids**, and his family is full of educators. Genuine, close, first-hand
+  exposure to how schools, teachers, and administrators operate and what support they
+  need. Usable as an honest "why this space" note in cover letters and interviews for
+  K-12, EdTech, and special-education employers (e.g., STAR Autism Support).
+- This is **personal/family context, not professional K-12 or special-education
+  experience.** Josh has not worked in a school, in EdTech, or in special education
+  himself. Keep that distinction honest: it satisfies a posting's "interest in K-12" but
+  not "experience in K-12." Don't name the school or specify the student population
+  beyond "high-needs" without Josh's say-so.
+
 ## Personal healthcare-system experience (confirmed Sep 2026)
 
 - **Has been a patient inside the healthcare system himself**, and wants to help patients
