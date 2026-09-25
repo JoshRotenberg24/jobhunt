@@ -541,24 +541,28 @@ operator talking, not like a candidate performing.
 
 ## Core Competencies Bank (mix & match to the job)
 
-> **Forecasting / pipeline-stage awareness (confirmed by Josh, Sep 2026):** knowing where
-> an opportunity sits in the sales process has been part of every sales role Josh has
-> held, not a skill isolated to one job. Frame as career-long individual-contributor
-> pipeline visibility and forecast hygiene; he has not run a formal team forecast cadence
-> or owned a territory-planning process, keep that distinction honest against a JD asking
-> specifically for that broader scope.
+> **Team forecasting (corrected by Josh, Sep 2026, do not re-ask or re-narrow):** Josh has
+> done team forecasting in every sales job he has held, not just individual pipeline
+> hygiene. An earlier version of this note said he had never run a formal team forecast;
+> that was wrong and Josh called it out directly. Claim team forecasting and pipeline
+> forecasting as real, career-long experience. Still not captured: territory-planning or
+> capacity-planning ownership specifically, ask before claiming those by name.
+>
+> **401(k) (confirmed by Josh, Sep 2026):** has been a 401(k) plan participant personally.
+> No employer-side plan design, plan administration, or retirement-industry work. Represent
+> as participant familiarity only.
 
 | Category | Competencies |
 | :--- | :--- |
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing, Zapier, Make, n8n |
-| Sales Engagement & Enrichment | Salesloft, ZoomInfo, Gong (confirmed hands-on, Sep 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
+| Sales Engagement & Enrichment | Salesloft, ZoomInfo, Gong (confirmed hands-on, Sep 2026; role attribution to be captured), Pipeline Stage Tracking, Team Forecasting |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | Data & BI Tools | Excel (experienced), Power BI (hands-on setup for client businesses), SQL (working proficiency — Power BI data modeling, BigQuery/GA4 queries), Python & JavaScript (custom code steps in Zapier/Make/n8n automation workflows) *(confirmed by Josh, Sep 2026 — see note below)* |
 | Web Technical | HTML/CSS (hands-on, own Solenzo site + client GA4 implementation), JavaScript (automation-tool code steps) |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
-| Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
+| Sales & Account Management | Full-cycle Sales, Pipeline Management, Team & Pipeline Forecasting, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
 | Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |

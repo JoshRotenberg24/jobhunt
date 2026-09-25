@@ -21,8 +21,8 @@ No knockouts.
 | Work authorization | Application-form | OK. U.S. citizen. |
 | 3-5 yrs experience, 2+ yrs people leadership in Sales/Implementation, SaaS or financial services | Resume-evidenced | **Covered.** Wix team lead 2 years (team of 20, later 8) + Fetch & Funnel sales team lead. |
 | Quota-carrying, target-driven track record | Resume-evidenced | **Covered, strong.** Wix 120%/110%; Accelo top three while quota doubled; Fetch & Funnel ~$130K bookings. |
-| 401(k) plan design, or ability to learn quickly | Resume-evidenced | **Gap (learnable).** No retirement-plan knowledge. Profile confirms no payroll/benefits administration. Posting accepts "ability to quickly develop." Named directly in cover letter. |
-| Pipeline management, forecasting, performance coaching | Resume-evidenced | **Partly covered.** Pipeline and coaching yes. Forecasting is individual pipeline hygiene; no formal team forecast or capacity planning ownership (per profile). |
+| 401(k) plan design, or ability to learn quickly | Resume-evidenced | **Gap (learnable).** Personal 401(k) participant only; no employer-side plan design. Profile confirms no payroll/benefits administration. Posting accepts "ability to quickly develop." Named directly in cover letter. |
+| Pipeline management, forecasting, performance coaching | Resume-evidenced | **Covered.** Team forecasting in every sales role (corrected by Josh, Sep 2026); team coaching at Wix and Fetch & Funnel. |
 | Process optimization, efficiency | Resume-evidenced | Covered. Wix process improvements (manager rec), Fetch & Funnel handoff fixes, automation. |
 | High-volume portfolios, complex implementations | Resume-evidenced | Covered. 25+/month at Wix. |
 | Bachelor's degree (preferred, Business/Operations) | Resume-evidenced | B.A. Liberal Arts. Not business; preferred only. |
@@ -32,8 +32,8 @@ No knockouts.
 ## Application Priority Score
 
 ```
-🟢 Application Priority Score: 84 / 100 (Strong fit)
-[█████████████████░░░]  84%
+🟢 Application Priority Score: 86 / 100 (Strong fit)
+[█████████████████░░░]  86%
 ```
 
 *Internal decision aid based on the master profile. Not a prediction of Human Interest's
@@ -41,7 +41,7 @@ ATS output or hiring decision.* See `fit.png`.
 
 | Dimension | Score | Reasoning |
 | :--- | :--- | :--- |
-| Must-have requirements met | 34 / 40 | Leadership, quota, high-volume activation, process work all land. 401(k) knowledge absent (learnable per posting); team forecasting/capacity planning not documented. |
+| Must-have requirements met | 36 / 40 | Leadership, quota, high-volume activation, process work all land. 401(k) plan design absent (learnable per posting). |
 | Seniority & scope alignment | 13 / 15 | People manager of an activation team. Wix team lead is the same shape; title was "Team Lead" not "Manager." |
 | Domain / industry alignment | 10 / 15 | SaaS yes. Retirement/fintech no; banking-client exposure only. |
 | Differentiators | 14 / 15 | Wix's "counted at first sale" model mirrors "counted at plan launch" almost exactly; combined sales and implementation load; automation builder. |
@@ -53,7 +53,7 @@ ATS output or hiring decision.* See `fit.png`.
 
 ## Requirement coverage
 
-8 of 10 requirements evidenced (forecasting partial, 401(k) a learnable gap).
+9 of 10 requirements evidenced (401(k) plan design a learnable gap).
 
 ## Top strengths
 
@@ -64,7 +64,6 @@ ATS output or hiring decision.* See `fit.png`.
 ## Gaps
 
 - No 401(k) / retirement plan knowledge (Safe Harbor, Auto-Enroll). Posting allows ramp-up.
-- No formal team forecasting or capacity-planning ownership.
 
 ## Candidate confirmation needed
 
