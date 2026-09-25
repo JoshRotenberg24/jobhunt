@@ -1,0 +1,119 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Account Manager | Agency Client Strategy, Retention & Team Development",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Account management leader with 15+ years in client-facing roles across agencies and MarTech SaaS, owning strategy, retention, and expansion for a portfolio of digital marketing clients. Retained ~94% of a 15-20 partner book at Birdeye, led a team of 20 (later 8) onboarding specialists at Wix, and delivered QBRs across paid media, inbound, and content programs at Level Agency. Brings hands-on command of paid search, paid social (Meta Ads certified), local SEO, reputation management, and AI-driven process automation.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the strategic relationship and digital marketing direction for a portfolio of service-business clients, running discovery to surface goals, challenges, and priorities.",
+        "Deliver local SEO, Google Business Profile optimization, and review-generation programs, and expand retainer scope with complementary services aligned to client goals.",
+        "Optimized a client's Google Ads account to cut spam and low-quality leads, then diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Architect AI agents and automated workflows (GoHighLevel, Zapier, Make, n8n) that turn manual, repeatable tasks into scalable processes."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated digital strategies across paid media, inbound, and content as strategic lead, coordinating execution across internal departments.",
+        "Built campaign performance reporting tracking ROI, CAC, LTV, and conversion KPIs, and delivered QBRs with data-backed optimization recommendations.",
+        "Advised clients on paid-campaign budget planning and allocation, and ran ABM-style LinkedIn ad campaigns with A/B-tested targeting.",
+        "Managed multi-stakeholder accounts, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Partner Account Management (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail), retaining all but one (~94% retention) during tenure.",
+        "Sold and onboarded partners on reputation management and local-listings solutions, ensuring every end customer had a properly configured listings presence.",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Shared structured client feedback with Product and Engineering to inform the platform roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, reporting, and cross-team communication, and led the sales team.",
+        "Translated campaign performance data into optimization recommendations across paid media and creative.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led and developed a team of onboarding specialists for 2 years (20, later 8), contributing to hiring, onboarding, and training new hires and building sales training for tenured account executives.",
+        "Drove team initiatives and process improvements for a new Wix vertical that went from proof of concept to a profitable business line.",
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped operations software to agencies and professional-services firms, ranking top three on a team that scaled from 8 to 15 reps while quota roughly doubled.",
+        "Built trusted-advisor relationships with C-suite executives, escalating account risk early and resolving it with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Strategy & Retention",
+      "items": [
+        "Portfolio Retention & Expansion",
+        "QBRs & Executive Presentations",
+        "Strategic Recommendations & Market Analysis",
+        "Team Leadership & Mentorship"
+      ]
+    },
+    {
+      "category": "Digital Marketing",
+      "items": [
+        "Paid Search (Google Ads)",
+        "Paid Social (Meta Ads certified, LinkedIn Ads)",
+        "Local SEO & Google Business Profile",
+        "Reputation Management & Listings",
+        "Email Marketing"
+      ]
+    },
+    {
+      "category": "Analytics, Systems & AI",
+      "items": [
+        "GA4, Google Tag Manager, KPI Dashboards & Campaign Reporting",
+        "HubSpot, Salesforce, GoHighLevel",
+        "AI Agents & Workflow Automation"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
