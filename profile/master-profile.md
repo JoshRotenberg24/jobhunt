@@ -46,6 +46,12 @@
 > Yelp in local business marketing/reputation (Birdeye, Fivestars) — represent this as
 > competitive familiarity, never as Yelp Ads platform experience.
 >
+> **Clay, LeanData, Snowflake, Hightouch (confirmed by Josh in an earlier session, moved
+> here Sep 2026 so it stops living only in a match report):** no hands-on time with any of
+> these. Record as a real gap, not a confirmation item, when a posting names them.
+> Instantly, Smartlead, Apollo, HeyReach, and cold-email deliverability setup (domains,
+> warm-up, sender reputation) are **not yet confirmed either way**; ask before claiming.
+>
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
 >

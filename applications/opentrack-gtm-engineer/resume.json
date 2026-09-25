@@ -1,0 +1,119 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Outbound & GTM Automation Builder | Enrichment, Sequencing, HubSpot & AI Agents",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "GTM systems builder who designs outbound as an automated engine, not a headcount plan. Built a segmented cold-outreach system with an automated audit workflow that scores a prospect's digital footprint and triggers personalized messaging, and wires it into the CRM end to end. Writes Python and JavaScript in automation code steps, builds AI agents where off-the-shelf tools stop, and brings 15+ years of B2B sales (BDR through top-three AE) to judge whether outreach actually sounds right.",
+  "experience": [
+    {
+      "title": "GTM Automation & Outbound Systems (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built segmented cold-email outreach engines by trigger (website visibility, missed calls, low reviews), running outbound personally end to end, from list to booked meeting.",
+        "Built an automated prospect-audit workflow that scores a business's digital footprint and triggers personalized outreach; 180+ businesses enrolled, 2 converted to paying clients.",
+        "Break down manual prospecting workflows into agent architectures with custom logic, and grade AI-generated output against rubric-based evaluation criteria.",
+        "Architected 20+ GoHighLevel workflows covering lead capture, tagging and routing, qualification, booking, no-show recovery, and reactivation, keeping every record's source and status clean in the CRM.",
+        "Connect GoHighLevel, HubSpot, and client systems through Zapier, Make, and n8n, writing Python and JavaScript in custom code steps where no-code stops.",
+        "Grew LinkedIn organically as the distribution channel for the audit offer, and write the direct-response copy and outreach sequences behind it."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran ABM-style LinkedIn campaigns against small, highly researched account lists with A/B-tested setups.",
+        "Built performance reporting tracking ROI, CAC, LTV, and conversion KPIs, and produced email sequences and landing pages that improved lead generation."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94%), and built automated product-training sequences that cut onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K (~$130K+ total bookings), was part of a finalist-stage pursuit of a major banking prospect, and led the sales team.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Advised on A/B testing strategy for a Salesforce workflow-automation effort, defining test structure and success criteria.",
+        "Held 120% of sales targets and 110% of implementation targets while onboarding 25+ clients per month."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps while quota roughly doubled; built Zapier automations and guided client API integrations."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads, booking a steady flow of sales-ready meetings for regional sales representatives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Outbound & GTM Systems",
+      "items": [
+        "ICP & Trigger-Based Segmentation",
+        "Sequence Design & Personalization at Scale",
+        "Lead Scoring, Routing & CRM Entry Hygiene",
+        "Salesloft, ZoomInfo, Gong",
+        "HubSpot, GoHighLevel, Salesforce"
+      ]
+    },
+    {
+      "category": "Automation & AI",
+      "items": [
+        "Zapier, Make, n8n, Webhooks & API Integrations",
+        "Python & JavaScript (automation code steps)",
+        "AI Agents, Prompt Design, Output Evaluation",
+        "Claude, ChatGPT"
+      ]
+    },
+    {
+      "category": "Reporting",
+      "items": [
+        "Funnel & Pipeline Reporting",
+        "A/B Testing",
+        "SQL (working proficiency), Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

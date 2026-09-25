@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 25, 2026",
+  "company": "OpenTrack",
+  "role": "GTM Engineer",
+  "recipient": "Hiring Team",
+  "body": [
+    "\"An outbound engine that runs as an automated system rather than a team of people\" is what I built for my own consulting business, because I was the whole team. I segmented prospects by trigger (weak website visibility, missed calls, low reviews), built an automated audit that scores each business's digital footprint and fires personalized outreach from the result, and wired booking, routing, and follow-up into the CRM so every meeting arrived with context. I work in Zapier, Make, and n8n, write Python and JavaScript in code steps where the tools stop, and build agents with rubrics to grade what they produce.",
+    "I also know what the other end of the handoff needs. I started as a BDR booking meetings for regional reps, then spent years as an AE (top three on my team at Accelo while quota doubled) and running HubSpot and Salesforce pipelines. To be direct about gaps: I haven't used Clay, and my outbound so far has been at small-business scale rather than enterprise logistics, so my numbers are early. I'd close the Clay gap in the first weeks and bring the systems habits that make an engine improve itself.",
+    "I'd welcome a conversation about what OpenTrack's outbound engine should look like. I'm available at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Sincerely,"
+}
