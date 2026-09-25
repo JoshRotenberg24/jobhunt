@@ -6,6 +6,7 @@
 - **Comp:** Not posted
 - **Link:** https://jobs.gusto.com/postings/opentrack-inc-gtm-engineer-dfb1a187-6446-43ec-848c-06d2b87b585a/applicants/new
 - **Date evaluated:** 2026-09-25
+- **Status:** Skipped by Josh (2026-09-25). Not applying. Materials kept for reference.
 
 ## Application-Form and Eligibility Check
 
