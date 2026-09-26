@@ -1,0 +1,102 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation & Project Coordination | Multi-Project Delivery, Scheduling & Client Communication",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation and account professional with 15+ years coordinating multiple simultaneous client projects from kickoff through close-out. Built sequenced implementation plans at Accelo, delivered 25+ client launches per month at 110% of implementation targets at Wix while overseeing budgets, scope, and delivery for a team of onboarding specialists, and works directly with HVAC, electrical, and plumbing businesses in current consulting work.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run concurrent client engagements for home-services trade businesses (HVAC, electrical, plumbing), documenting every interaction, timeline, and deliverable in the CRM and Notion.",
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and training client teams."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments for multi-stakeholder accounts, and advised clients on budget planning and allocation."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration across 15-20 partner accounts, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that reduced handoff errors and improved reporting accuracy between sales and delivery teams; managed workflows in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Delivered 25+ client launches per month on schedule, holding 110% of implementation targets and 120% of sales targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute.",
+        "Troubleshot workflow design and technical challenges alongside implementation teams during setup, escalating risk early."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built vendor, supplier, and compliance workflows from the ground up in a licensed, regulated business."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Project Delivery",
+      "items": [
+        "Multi-Project Scheduling & Coordination",
+        "Scope & Budget Oversight",
+        "Implementation Planning & Handoff Documentation",
+        "Vendor & Supplier Coordination"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Procore, ClickUp, Asana, Monday.com, Jira",
+        "Excel, Salesforce, HubSpot"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
