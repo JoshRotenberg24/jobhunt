@@ -6,6 +6,7 @@
 - **Comp:** Not posted
 - **Link:** https://jobs.siemens.com/en_US/externaljobs/JobDetail/523957
 - **Date evaluated:** 2026-09-26
+- **Status:** Skipped by Josh (2026-09-26). Not applying. Materials kept for reference.
 
 ## Eligibility: failed hard requirement (top of report)
 
