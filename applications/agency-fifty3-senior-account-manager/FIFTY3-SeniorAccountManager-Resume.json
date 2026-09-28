@@ -1,0 +1,102 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Account Manager | Integrated Web, Digital & Creative Strategy for Agency Clients",
+  "contact": {
+    "location": "Arvada, CO (Denver metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Senior account manager and agency strategist with 15+ years in client-facing marketing, SaaS, and agency roles. I've managed integrated programs across web, SEO, paid media, and content at Level Agency and Fetch & Funnel, led a team of up to 20 at Wix while managing a high-value account portfolio, and today own strategic client relationships at Solenzo. I'm hands-on across the stack (site builds, GA4, SEO, Google Ads), so I can read cross-channel performance data and explain it to an executive in plain language. I use AI daily to automate the routine work and spend the time on strategy.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery to surface goals, market challenges, and needs the client hasn't articulated yet.",
+        "Grow retainer scope by identifying strategic opportunities and recommending complementary services aligned with each client's objectives.",
+        "Deliver integrated programs spanning website builds, local SEO and Google Business Profile, Google Ads, and CRM automation, and diagnosed on-site CRO as a client's real conversion bottleneck after cleaning up their Google Ads.",
+        "Report performance on a regular cadence with dashboards and actionable recommendations, tracking traffic, conversion, and ROI in GA4 and CRM analytics.",
+        "Build AI-driven workflows that automate routine marketing and reporting tasks, freeing time for strategy."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing strategies across inbound, paid media, and content as strategic lead, coordinating execution across internal departments.",
+        "Advised clients on budget planning and allocation across paid campaigns, and ran A/B-tested LinkedIn campaigns for highly researched audiences.",
+        "Built campaign reporting tracking ROI, CAC, LTV, and conversion KPIs, and presented recommendations in QBRs.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 agency and reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94%).",
+        "Advised partners on retention strategy, customer health metrics, and automation, and fed prioritized feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Analyzed campaign data and translated results into optimization recommendations across paid media and creative.",
+        "Led the sales team, closing 6 new-client deals averaging ~$22K (~$130K+ total bookings)."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion.",
+        "Directly managed and developed a team of onboarding specialists for 2 years (20, later 8), mentoring new hires and developing sales training for tenured account executives.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised C-suite executives at agencies and professional-services firms on operational system design, ranking top three in sales on a team of 8 to 15 while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Account Strategy",
+      "items": ["Portfolio Management", "Strategic Roadmaps", "Account Growth & Renewal", "Executive Presentations", "QBRs", "Mentoring"]
+    },
+    {
+      "category": "Integrated Marketing",
+      "items": ["Website Strategy & Conversion", "SEO & Local SEO", "Google Ads", "Paid Social (Meta certified)", "LinkedIn Ads", "Content & Direct-Response Copy"]
+    },
+    {
+      "category": "Data & Tools",
+      "items": ["GA4", "Google Tag Manager", "Google Search Console", "Budget Allocation", "HubSpot", "Salesforce", "AI Workflow Automation"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
