@@ -1,0 +1,136 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Operations Strategy & Systems Builder | Process Design, Automation & AI, Data Analysis",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operator who fixes processes by going to the source: running the workflow, reading the data, and building the system that makes the fix stick. 15+ years across SaaS operations, onboarding, and sales, including two years leading a team of 20 (later 8) at Wix and co-founding an operations-heavy business from scratch. Today I design and deploy automation and AI agent workflows in production, write SQL for BigQuery and Power BI, and script custom code steps in Python and JavaScript. Remote since 2020.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Break manual workflows down into automated and AI-agent architectures with custom logic, deploying 20+ production workflows spanning intake, routing, qualification, scheduling, no-show recovery, and reactivation.",
+        "Build integrations with webhooks, batch data imports, and custom Python and JavaScript code steps in Zapier, Make, and n8n.",
+        "Design evaluation loops and rubric-based grading to monitor AI output quality, and personally label data to keep the systems accurate.",
+        "Build dashboards tracking funnel progression, ROI, and pipeline velocity using SQL on BigQuery/GA4 data and Power BI.",
+        "Traced a client's lead-quality problem past the ad account to the real bottleneck (on-site conversion), fixing the root cause instead of the symptom."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments as strategic lead, and built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built scalable, automated training and communication workflows that reduced onboarding friction across 15-20 reseller partners, retaining all but one (~94%).",
+        "Analyzed partner utilization data to find adoption gaps, and fed structured, prioritized feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment, while leading the sales team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led a team of onboarding specialists for 2 years (20, later 8), managing workload, priorities, hours, and quality while launching 25+ clients per month at 110% of implementation targets.",
+        "Drove process improvements for a new vertical that went from proof of concept to a profitable business line, including hiring, onboarding, and training.",
+        "Defined and standardized the CRM fields required for sales and onboarding workflows."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order; built Zapier automations and guided API integrations.",
+        "Ranked top three in sales on a team of 8 to 15 while quota roughly doubled."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": []
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": []
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance, intake, reporting, vendor, and supplier systems from scratch in a licensed, state-regulated business, scaling it to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Operations",
+      "items": [
+        "Process & Workflow Design",
+        "Root Cause Analysis",
+        "Cross-Functional Project Leadership",
+        "Team Leadership",
+        "SOP Development"
+      ]
+    },
+    {
+      "category": "Automation & AI",
+      "items": [
+        "AI Agent Workflows",
+        "LLM Output Evaluation",
+        "Zapier / Make / n8n",
+        "Webhooks & Integrations",
+        "Python & JavaScript (code steps)"
+      ]
+    },
+    {
+      "category": "Data",
+      "items": [
+        "SQL (BigQuery)",
+        "Power BI",
+        "Excel (experienced)",
+        "GA4",
+        "Salesforce",
+        "HubSpot"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
