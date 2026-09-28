@@ -1,0 +1,20 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 28, 2026",
+  "company": "bswift",
+  "role": "Operations Analyst II",
+  "recipient": "Hiring Team",
+  "body": [
+    "The Operations Analyst II role comes down to one thing: making sure the data is right before it reaches an employee, a carrier, or a paycheck. That's the part of my work I'm most careful about. At Solenzo, I run batch imports into client systems, map every record to the right fields, and enforce data-hygiene standards so nothing downstream breaks. I also built grading rubrics to audit automated output against a defined standard, and I review that data myself.",
+    "Earlier, at Wix, I defined and standardized the CRM fields a team of 20 relied on, and I approved that team's hours, PTO, and schedules. As co-owner of a state-regulated business, I handled new-hire paperwork (I-9s and W-4s) and employee background checks, and built the compliance and reporting systems we ran on. I work in Excel, SQL, and Power BI daily.",
+    "I haven't audited payroll or carrier files before, and I'd be learning bswift's benefits data from the ground up. I pick up a new system quickly, I document what I find, and I flag discrepancies early rather than late. I'd welcome a conversation, and Central-time hours work fine from Colorado."
+  ],
+  "closing": "Best,"
+}

@@ -49,11 +49,12 @@ No blocker.
 
 ## Cover letter
 
-Skipped. Not requested; the resume carries the data-accuracy framing.
+Built on request (Sep 28). One page: data accuracy and mapping evidence, HR-paperwork adjacency, payroll/carrier-file gap named directly.
 
 ## Output files
 
 - `bswift-OperationsAnalystII-Resume.pdf` / `.docx` (1 page, classic)
+- `bswift-OperationsAnalystII-CoverLetter.pdf` / `.docx` (1 page, classic)
 - `fit.json` / `fit.png`
 
 Upload the PDF.
