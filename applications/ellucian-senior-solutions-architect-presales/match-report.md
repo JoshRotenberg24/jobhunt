@@ -1,5 +1,7 @@
 # Match Report: Ellucian, Senior Solutions Architect, Pre-sales (7765)
 
+> **Status: Skipped by Josh (Sep 28, 2026).** Files kept for reference.
+
 - **Company:** Ellucian (higher-education SaaS/ERP/SIS platform, ~3,000 institutions)
 - **Role:** Senior Solutions Architect in Sales. Technical pre-sales: discovery, solution architecture, demos and POCs, RFPs, plus hands-on building (front-end cards/pages, extensions, APIs), CI/CD and IaC (Bitbucket, Jenkins, Terraform), mentoring architects.
 - **Location:** Remote US; travel up to 50%
