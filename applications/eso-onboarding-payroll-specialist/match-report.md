@@ -1,5 +1,7 @@
 # Match Report: ESO, Onboarding and Payroll Specialist (6517)
 
+> **Status: Skipped by Josh (Sep 28, 2026).** Files kept for reference.
+
 - **Company:** Posted via `eso.workgr8.com` (staffing firm; accommodations email is `ain1.com`). Exact company name to confirm on the apply page.
 - **Role:** Onboarding and Payroll Specialist, supporting the HRC National Account recruitment team. Non-exempt, individual contributor, no direct reports.
 - **Location:** Remote, United States. Mon-Fri daytime hours.
