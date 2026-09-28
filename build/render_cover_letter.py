@@ -79,7 +79,8 @@ def build_pdf(data, path, theme):
     from reportlab.lib.styles import ParagraphStyle
     from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
                                     Spacer, HRFlowable)
-    F_REG, F_BOLD = theme["pdf_regular"], theme["pdf_bold"]
+    from pdf_fonts import embedded
+    F_REG, F_BOLD = embedded(theme["pdf_regular"]), embedded(theme["pdf_bold"])
     accent = Color(*[c/255 for c in theme["accent"]]); ink = Color(*[c/255 for c in INK])
     muted = Color(*[c/255 for c in MUTED])
     pw, ph = letter; ml = MARGIN_LR_IN*inch; mt = MARGIN_TB_IN*inch

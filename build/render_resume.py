@@ -159,7 +159,9 @@ def build_pdf(data, path, theme):
     from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
                                     Spacer, Table, TableStyle, HRFlowable, KeepTogether)
 
-    F_REG, F_BOLD, F_ITAL = theme["pdf_regular"], theme["pdf_bold"], theme["pdf_italic"]
+    from pdf_fonts import embedded
+    F_REG, F_BOLD, F_ITAL = (embedded(theme["pdf_regular"]), embedded(theme["pdf_bold"]),
+                             embedded(theme["pdf_italic"]))
     accent = Color(*[c / 255 for c in theme["accent"]])
     ink = Color(*[c / 255 for c in INK]); muted = Color(*[c / 255 for c in MUTED])
     ahex = "#" + theme["accent_hex"]
