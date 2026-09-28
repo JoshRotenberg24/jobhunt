@@ -57,9 +57,10 @@ Application Priority Score: 77 / 100 — Solid stretch (apply with a sharp tailo
 
 ## Cover letter
 
-Skipped. The application is form plus PDF CV, and the resume carries the team-leadership and automation match. Build one on request.
+Built on request (Sep 28, 2026). One page: Wix team leadership and scale, hands-on automation/AI with human oversight, and the payroll/benefits/employment-law gap named directly as learnable. Does not claim formal performance reviews (still a confirmation item).
 
 ## Output files
 
 - `Rotenberg Resume - Remote - Manager Onboarding Operations.pdf` / `.docx`
+- `Rotenberg Cover Letter - Remote - Manager Onboarding Operations.pdf` / `.docx` (source `cover-letter.json`)
 - `resume.json` / `resume.pdf` / `resume.docx`, `fit.json` / `fit.png`
