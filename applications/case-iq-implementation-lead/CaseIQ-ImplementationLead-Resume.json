@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Implementation and onboarding lead with 15+ years in B2B SaaS, professional-services software, and agency environments. Owned implementations from contract through configuration, training, and go-live at Wix (25+ launches a month at 110% of implementation targets) and scoped CRM/PSA implementations with API integrations at Accelo. Today I build the integrations myself, in Zapier, Make, and n8n with custom Python and JavaScript code steps, so I can translate customer requirements into configurations engineering can trust. Built compliance systems from scratch in a state-regulated business.",
+  "summary": "Implementation and onboarding lead with 15+ years in B2B SaaS, professional-services software, and agency environments. Owned implementations from contract through configuration, training, and go-live at Wix (25+ launches a month at 110% of implementation targets) and scoped CRM/PSA implementations with API integrations at Accelo. Today I build the integrations myself, with webhooks, batch data imports, and custom Python and JavaScript code steps in Zapier, Make, and n8n, so I can translate customer requirements into configurations engineering can trust. Built compliance systems from scratch in a state-regulated business.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -17,7 +17,8 @@
       "dates": "Feb 2024 - Present",
       "bullets": [
         "Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and delivering hands-on user training.",
-        "Build system integrations in Zapier, Make, and n8n, writing custom Python and JavaScript code steps in production workflows that connect client CRMs, CMS platforms, and third-party tools.",
+        "Build system integrations in Zapier, Make, n8n, and GoHighLevel using webhook triggers and custom Python and JavaScript code steps, connecting client CRMs, CMS platforms, and third-party tools in production.",
+        "Run batch/CSV data imports into GoHighLevel and other platforms, cleaning and mapping records to the target CRM's fields and lifecycle stages.",
         "Architect CRM implementations in GoHighLevel and HubSpot (contact segmentation, lifecycle stages, strict data-hygiene protocols) across concurrent client engagements.",
         "Document every requirement, timeline, and deliverable in the CRM and Notion, keeping project records auditable and handoffs clean."
       ]
@@ -118,6 +119,8 @@
       "category": "Integrations & Data",
       "items": [
         "API Integrations",
+        "Webhooks",
+        "Batch / CSV Data Imports",
         "Zapier / Make / n8n",
         "Python & JavaScript (automation code steps)",
         "SQL",

@@ -353,6 +353,12 @@ operator talking, not like a candidate performing.
 > separate confirmation. JavaScript is now confirmed (see the Zapier/Make/n8n code-step
 > note below) — do not use the old "not confirmed" framing for JS going forward.
 >
+> **Webhooks and batch imports (confirmed by Josh, Sep 2026):** Josh has configured
+> webhook triggers in Zapier, Make, n8n, and GoHighLevel, and has run batch/CSV data
+> imports into GoHighLevel and other platforms. Directly answers implementation JDs asking
+> for "APIs, webhooks, batch data transfers." No record count for the largest import is
+> known (see Numbers Worth Capturing), so describe it qualitatively.
+>
 > **Zapier/Make/n8n custom code steps — Python and JavaScript (confirmed by Josh, Sep
 > 2026):** beyond point-and-click workflow config, Josh has written Python and/or
 > JavaScript inside custom code steps in these automation tools as part of real production
@@ -573,7 +579,7 @@ operator talking, not like a candidate performing.
 
 | Category | Competencies |
 | :--- | :--- |
-| CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing, Zapier, Make, n8n |
+| CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing, Zapier, Make, n8n, Webhooks, Batch/CSV Data Imports |
 | Sales Engagement & Enrichment | Salesloft, ZoomInfo, Gong (confirmed hands-on, Sep 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
@@ -646,7 +652,10 @@ with its scope and delete the line here.
 **Role-specific:**
 - **Data volume.** Records or contacts in the largest migration or import he has run, and
   what tool he cleaned it in. Directly requested by implementation JDs (Excel is named
-  explicitly in several) and currently unevidenced.
+  explicitly in several). Batch imports themselves are now confirmed (see the webhooks /
+  batch imports note under Solenzo); Josh doesn't have a record count offhand (Sep 2026),
+  so don't state a volume. Worth a later `/excavate-profile` pass (e.g., check a GHL
+  import history).
 - **Training delivery.** Number of sessions run and people trained, at Wix and Birdeye.
 - **Solenzo retainer range.** Concurrent client count is now captured (up to 3, see Verified
   Metrics); typical retainer/contract value per client is still unrecorded.
