@@ -1,0 +1,121 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Enablement & Cross-Functional Initiative Leader | Go-to-Market, Channel Enablement & Team Leadership",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operations and enablement leader with 15+ years turning broad direction into structured plans, ready teams, and measurable results. At Wix, I led a team of 20 (later 8) and helped take a new vertical from proof of concept to a profitable business line, building the process, training, and data standards it ran on. At Birdeye, I enabled a channel of 15-20 reseller partners to sell and support the product, retaining all but one. As a founder and co-owner, I've built operations and compliance systems from nothing in a state-regulated business. I work well in ambiguity, keep leaders informed on risks and tradeoffs, and know which calls to make and which to escalate.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run discovery with business owners to structure loosely defined goals into scoped plans, milestones, and measures of success.",
+        "Align marketing programs to revenue objectives directly with owners and sales teams, and report progress with recommendations on a regular cadence.",
+        "Build repeatable, scalable systems (20+ automated workflows, reusable templates and frameworks) that improve execution across every engagement.",
+        "Translate non-technical stakeholders' ideas into precise requirements for technical builds, bridging business intent and delivery."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated strategies across inbound, paid media, and content as strategic lead, coordinating execution across internal departments.",
+        "Managed multi-stakeholder accounts, translating performance data into recommendations and QBRs for client leadership."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Enabled a distribution channel of 15-20 reseller partners across health, home services, and retail to sell and deliver the product, retaining all but one (~94%).",
+        "Led partner onboarding and training, and built automated product-training sequences that scaled enablement across the channel.",
+        "Advised partners on retention strategy and customer health metrics, equipping them to communicate product value to their own customers.",
+        "Fed structured, prioritized field feedback to Product and Engineering, and analyzed partner performance data to recommend interventions."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team, and rebuilt internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.",
+        "Pursued a major northeastern U.S. banking prospect through to finalist stage, and served a banking-industry client."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years (20, later 8): set priorities, allocated workload, approved hours and PTO, and oversaw budgets, scope, and delivery.",
+        "Drove team initiatives and process improvements for a new vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training, and building sales training for tenured account executives.",
+        "Standardized the CRM fields required for sales and onboarding workflows, creating consistent data capture across the team.",
+        "Held 120% of sales targets and 110% of implementation targets while launching 25+ clients per month."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to implementation teams to execute.",
+        "Advised C-suite executives on operational system design and escalated account risk to leadership early; ranked top three in sales on a team of 8 to 15."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": []
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": []
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance, intake, reporting, and vendor/supplier systems from scratch in a licensed, state-regulated business, scaling it to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Strategy to Execution",
+      "items": ["Initiative Planning & Milestones", "Business Readiness", "Go-to-Market & Channel Enablement", "Risk & Dependency Management", "Executive Updates & Escalation"]
+    },
+    {
+      "category": "Leadership",
+      "items": ["People Leadership & Coaching", "Workload Allocation", "Cross-Functional Influence", "Training & Enablement Programs"]
+    },
+    {
+      "category": "Analysis & Tools",
+      "items": ["Excel (experienced)", "Power BI", "SQL", "Salesforce", "HubSpot", "Microsoft Word & Outlook"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
