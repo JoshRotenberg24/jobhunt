@@ -1,0 +1,119 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Revenue Operations & GTM Systems Architect | HubSpot, Salesforce, Automation & AI",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "GTM operator and systems architect with 15+ years across sales, onboarding, and customer success in SaaS, including 5+ years designing CRM and automation systems end to end. Has carried a quota, onboarded 25+ customers a month, and led a team of 20, so diagnoses friction from the rep's seat and then builds the fix as part of a connected system across HubSpot, Salesforce, GoHighLevel, and the automation layer between them. Spent 15+ years cooking in restaurants before this career and understands how independent restaurant owners think and operate.",
+  "experience": [
+    {
+      "title": "Revenue Operations & GTM Systems (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and implement CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, lead routing, and strict data-hygiene protocols.",
+        "Architected a 20+ workflow automation system spanning lead capture and routing, qualification, booking, no-show recovery, post-sale onboarding, and reactivation, designed as one connected lifecycle rather than isolated automations.",
+        "Integrate CRMs with client systems through Zapier, Make, and n8n, writing Python and JavaScript in custom code steps where native tools stop.",
+        "Develop full-lifecycle customer strategies spanning demand generation, sales CRM architecture, and customer success, and build dashboards tracking funnel progression, ROI, and pipeline velocity.",
+        "Translate non-technical stakeholders' loosely defined needs into precise technical requirements and AI agent logic."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, coordinating execution across internal departments."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed a 15-20 reseller partner channel (deal sizes ~$10K-$45K) in Salesforce, retaining all but one (~94%).",
+        "Built scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Analyzed partner utilization data to identify adoption gaps, and fed structured feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team and built internal processes that improved reporting accuracy, reduced handoff errors, and aligned sales and delivery.",
+        "Closed 6 new-client deals averaging ~$22K (~$130K+ total bookings)."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery.",
+        "Defined the Salesforce fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Drove process improvements for a new vertical that went from proof of concept to a profitable business line.",
+        "Held 120% of sales targets and 110% of implementation targets while onboarding 25+ clients per month."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and implemented a CRM/PSA platform to agencies and professional-services firms, building sequenced implementation plans that ranked which systems to change and in what order.",
+        "Advised C-suite clients on CRM adoption, workflow design, and API integrations; ranked top three in sales while quota roughly doubled."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales of a loyalty and marketing automation platform to local SMBs."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "GTM Systems",
+      "items": [
+        "HubSpot (architecture & automation), Salesforce, GoHighLevel",
+        "Gong, Salesloft, ZoomInfo",
+        "Zapier, Make, n8n, API Integrations",
+        "Lifecycle Stages, Lead Routing, Data Hygiene"
+      ]
+    },
+    {
+      "category": "Operations & Leadership",
+      "items": [
+        "Process Mapping & Workflow Decomposition",
+        "Requirements Translation (GTM to Technical)",
+        "Team Leadership & Development",
+        "Pipeline Stage Tracking & Forecast Hygiene"
+      ]
+    },
+    {
+      "category": "Analytics & AI",
+      "items": [
+        "SQL (working proficiency), Power BI, Excel",
+        "AI Agents & LLM Workflows"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

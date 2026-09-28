@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 28, 2026",
+  "company": "Workyard",
+  "role": "Scaled Customer Success Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "My clients right now are HVAC, electrical, and plumbing contractors. I build the automation that books their jobs and follows up with their customers, so I know the owner is on a job site, not at a desk, and that a straight answer on the phone beats any deck. That's the customer this role keeps, and it's why Workyard stood out.",
+    "The job you describe, half program and half book, is how I already work. At Birdeye I retained all but one of my 15-20 reseller partners by watching utilization data in Salesforce and stepping in before adoption gaps turned into churn, and I built the automated training sequences that reached every account in between. At Wix I onboarded 25+ small businesses a month for two years. In HubSpot and GoHighLevel I've built segmented onboarding, reactivation, and review sequences, and I use Claude every day to pull apart exports and draft campaigns. As the first dedicated retention hire, I'd start by testing the health score against the accounts that actually churned.",
+    "I'd welcome a conversation about the book. I'm available at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Sincerely,"
+}

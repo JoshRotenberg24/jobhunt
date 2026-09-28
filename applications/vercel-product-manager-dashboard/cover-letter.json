@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 25, 2026",
+  "company": "Vercel",
+  "role": "Product Manager, Dashboard",
+  "recipient": "Hiring Team",
+  "body": [
+    "Moving the Dashboard from a pull experience to a push experience is the same problem I've been solving on a smaller scale: deciding what an agent should surface, when it should act, and when it should hand the decision back to a person. I build AI agents for my own clients that score a business's digital footprint and trigger personalized outreach, and I grade their output against rubrics I wrote, because an agent that acts on a user's behalf has to earn trust one correct action at a time.",
+    "I'll be direct: I haven't held a Product Manager title or shipped a developer-facing control plane. What I bring is the other side of the Dashboard. At Wix I onboarded 25+ customers a month and saw exactly where first-login experiences lose people. At Birdeye I turned partner utilization data into adoption fixes and fed prioritized customer feedback to Product and Engineering. I also build things myself, in HTML/CSS and in Python and JavaScript code steps inside automation platforms, and I use AI tools in my own workflow every day.",
+    "If Vercel is open to a product hire who comes from onboarding, activation, and hands-on agent building, I'd welcome the conversation. I'm available at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Sincerely,"
+}

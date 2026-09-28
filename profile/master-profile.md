@@ -46,6 +46,12 @@
 > Yelp in local business marketing/reputation (Birdeye, Fivestars) — represent this as
 > competitive familiarity, never as Yelp Ads platform experience.
 >
+> **Clay, LeanData, Snowflake, Hightouch (confirmed by Josh in an earlier session, moved
+> here Sep 2026 so it stops living only in a match report):** no hands-on time with any of
+> these. Record as a real gap, not a confirmation item, when a posting names them.
+> Instantly, Smartlead, Apollo, HeyReach, and cold-email deliverability setup (domains,
+> warm-up, sender reputation) are **not yet confirmed either way**; ask before claiming.
+>
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
 >
@@ -158,6 +164,19 @@ band.
   donor-cultivation experience, none of which is in Josh's work history. Keep the personal
   mission commitment and the professional development/fundraising skill gap honestly
   distinct in any resume, cover letter, or match report.
+
+## Family connection to K-12 education (confirmed Sep 2026)
+
+- **Josh's wife is a VP (vice principal) at an elementary school that serves a lot of
+  high-needs kids**, and his family is full of educators. Genuine, close, first-hand
+  exposure to how schools, teachers, and administrators operate and what support they
+  need. Usable as an honest "why this space" note in cover letters and interviews for
+  K-12, EdTech, and special-education employers (e.g., STAR Autism Support).
+- This is **personal/family context, not professional K-12 or special-education
+  experience.** Josh has not worked in a school, in EdTech, or in special education
+  himself. Keep that distinction honest: it satisfies a posting's "interest in K-12" but
+  not "experience in K-12." Don't name the school or specify the student population
+  beyond "high-needs" without Josh's say-so.
 
 ## Personal healthcare-system experience (confirmed Sep 2026)
 

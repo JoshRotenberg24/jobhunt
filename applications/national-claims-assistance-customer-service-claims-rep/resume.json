@@ -1,0 +1,94 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Service & Client Advocacy | Virtual Consultations & Commission Sales",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client-facing professional with 15+ years working directly with small-business owners, including home-services trades, running consultations over video, documenting every interaction, and closing on commission. Ranked top three on an Accelo sales team while quota roughly doubled, hit 120% of sales targets at Wix, and retained ~94% of a partner book at Birdeye. Learns new systems fast and stays calm and clear when a customer is frustrated and needs someone on their side.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run discovery and onboarding consultations with small-business owners, including home-services trades (electrical, plumbing, HVAC), to understand their situation and goals.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts remotely, resolving client concerns promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K, spanning health, home services, and retail), retaining all but one (~94% retention) during tenure.",
+        "Guided customers through complex technical setup over virtual sessions, training them until they could run the product on their own."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K each (~$130K+ in total bookings) and led the sales team alongside an individual book."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month through virtual consultations, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps over a 27-month tenure while quota roughly doubled, consistently earning into accelerator commission tiers.",
+        "Escalated issues to leadership early and resolved account-level risk with direct guidance, building trust with clients as a straight-talking advisor."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Service & Advocacy",
+      "items": [
+        "Virtual Consultations & Video Conferencing",
+        "Customer Education & Expectation Setting",
+        "De-escalation & Composure Under Pressure",
+        "Thorough Documentation & Record-Keeping"
+      ]
+    },
+    {
+      "category": "Sales",
+      "items": [
+        "Commission-Based Full-Cycle Sales",
+        "Follow-Up & Pipeline Management",
+        "Salesforce, HubSpot, GoHighLevel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

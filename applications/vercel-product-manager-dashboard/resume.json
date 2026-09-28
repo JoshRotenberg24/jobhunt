@@ -1,0 +1,109 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "AI Agent Builder & Customer-Facing Operator | Onboarding, Activation & Product Feedback",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operator who designs and ships AI agents and automated workflows, with 15+ years in SaaS onboarding, account management, and go-to-market. Breaks manual workflows into agent architectures with custom logic, builds evaluation rubrics to grade agent output, and writes Python and JavaScript in automation code steps. Onboarded 25+ customers a month at Wix and fed structured customer feedback to Product and Engineering at Birdeye, and thinks about product surfaces from first login onward, for both people and agents.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Break down manual workflows into agent architectures with custom logic that scores a business's digital footprint and generates personalized outreach.",
+        "Design self-improving loops and rubric-based evaluation frameworks to monitor agent output and optimize conversion, performing the underlying data labeling personally.",
+        "Translate non-technical stakeholders' loosely formed ideas into precise prompts and agent instructions, bridging business intent and reliable LLM output.",
+        "Built and launched a free digital-footprint audit as a product-led top-of-funnel offer: 180+ businesses enrolled, 2 converted to paying clients.",
+        "Architected 20+ GoHighLevel workflows spanning lead capture, qualification, booking, no-show recovery, onboarding, and reactivation, with Python and JavaScript code steps in Zapier, Make, and n8n.",
+        "Build performance dashboards tracking funnel progression and conversion, instrumented with GA4 and Google Tag Manager; hand-code the company site in HTML/CSS."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built campaign reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, and ran A/B-tested LinkedIn campaigns against highly researched audiences."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Collaborated with Product and Engineering to share structured, prioritized customer feedback that informed the roadmap.",
+        "Analyzed partner utilization metrics to identify adoption gaps and recommend interventions that reduced churn, retaining ~94% of a 15-20 partner book.",
+        "Built automated product-training sequences that reduced onboarding friction across a high-volume partner network."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ customers per month, accelerating time-to-value and holding 110% of implementation targets.",
+        "Advised on A/B testing strategy for a Salesforce workflow-automation effort, defining test structure and success criteria for the team building it.",
+        "Drove process improvements for a new Wix vertical that went from proof of concept to a profitable business line, and led a team of onboarding specialists (20, later 8)."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations for a CRM/PSA platform, and built sequenced implementation plans ranking which systems to change and in what order."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & Agents",
+      "items": [
+        "Agent Architecture & Workflow Decomposition",
+        "Prompt Design & Requirements-to-Prompt Translation",
+        "Output Evaluation Rubrics",
+        "Claude, ChatGPT"
+      ]
+    },
+    {
+      "category": "Growth & Analytics",
+      "items": [
+        "Onboarding & Activation",
+        "A/B Testing",
+        "GA4, Google Tag Manager, Power BI, SQL (working proficiency)",
+        "Product-Led Top-of-Funnel Offers"
+      ]
+    },
+    {
+      "category": "Building",
+      "items": [
+        "HTML/CSS",
+        "Python & JavaScript (automation code steps)",
+        "Zapier, Make, n8n, GoHighLevel, HubSpot, Salesforce"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

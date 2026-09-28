@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Software Support & Client Onboarding | SaaS Troubleshooting, Documentation & Practice-Management Software",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client-facing SaaS professional with 15+ years guiding customers through software setup, troubleshooting, and adoption by phone, email, and screen share. Sold and implemented Accelo's practice-management (PSA) and CRM platform for professional-services firms, walked 25+ Wix clients a month through launch, and resolved complex configuration issues for Birdeye partners. Explains technical problems in plain terms, documents every interaction, and spots the patterns worth sending to Product.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Configure, troubleshoot, and support CRM and automation systems (GoHighLevel, HubSpot, Zapier, Make, n8n) for small-business clients, resolving integration and workflow issues directly."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback and issues promptly across multi-stakeholder accounts to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation management and marketing automation software.",
+        "Built automated product-training sequences and communication workflows that reduced onboarding friction.",
+        "Shared structured, prioritized customer feedback with Product and Engineering to inform the roadmap; retained ~94% of a 15-20 partner book."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Walked 25+ small-business clients per month through platform setup and launch, holding 110% of implementation targets.",
+        "Guided clients through technical setup including Google Tag Manager and Google Business Profile connections."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and implemented a practice-management (PSA) and CRM platform for agencies and professional-services firms.",
+        "Guided client onboarding, workflow design, and API integrations, troubleshooting technical challenges alongside the implementation team and escalating complex issues early.",
+        "Built Zapier automations connecting the platform to clients' other tools."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Support",
+      "items": [
+        "Phone & Email Client Support",
+        "Troubleshooting & Escalation",
+        "Case Documentation",
+        "Knowledge Base & Training Content",
+        "Upsell & Cross-Sell Identification"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Zendesk, Jira, Salesforce, HubSpot",
+        "Excel, Google Workspace",
+        "Zapier, Make, n8n, API Integrations"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

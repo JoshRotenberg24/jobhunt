@@ -1,0 +1,118 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Onboarding Operations Leader | High-Volume Team Leadership, Scalable Process & AI Automation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Onboarding operations leader with 15+ years in SaaS and remote-first teams. Led a team of 20 (later 8) onboarding specialists at Wix for two years, delivering 25+ launches per month personally at 110% of implementation targets while building the processes, training, and data standards that let a new business line scale to profitability. Builds AI and automation workflows hands-on, so knows how to spot repetitive work worth automating, define requirements with technical partners, and roll changes out with the right human oversight.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Break down manual operational workflows into automated and AI-assisted processes (GoHighLevel, Zapier, Make, n8n), with custom logic replacing repetitive steps end to end.",
+        "Built rubric-based evaluation criteria to grade AI-generated output against defined standards, reviewing and labeling the output personally.",
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into configurations and training client teams to adopt them.",
+        "Translate non-technical stakeholders' loosely defined needs into precise requirements and AI instructions."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments for multi-stakeholder accounts, holding delivery quality consistent and resolving client concerns promptly."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a high-volume partner network, retaining all but one of 15-20 reseller partners (~94%).",
+        "Built scalable communication workflows and automated training sequences that reduced onboarding friction.",
+        "Analyzed utilization and performance data to identify adoption gaps and recommend interventions."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team alongside an individual book, and built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Contributed to hiring, onboarding, and training new specialists, and built sales training for tenured account executives.",
+        "Drove team initiatives and process improvements for a new vertical that went from proof of concept to a profitable business line.",
+        "Delivered 25+ onboardings and launches per month personally, holding 110% of implementation targets and 120% of sales targets.",
+        "Defined and standardized the CRM fields for onboarding workflows, improving data capture and accuracy across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans ranking which client systems to change and in what order, then handed them to the implementation team to execute.",
+        "Escalated account risk to leadership early and resolved it with direct guidance."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance, intake, and reporting systems from scratch in a licensed, regulated business."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Operations Leadership",
+      "items": [
+        "High-Volume Team Management",
+        "Coaching, Performance Feedback & Hiring",
+        "Scalable Process Design & SOPs",
+        "Escalation Management",
+        "Compliance & Data Integrity"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "Workflow Decomposition & Automation Opportunity Mapping",
+        "AI Output Evaluation & Human Oversight",
+        "Change Management & Tool Adoption",
+        "Zapier, Make, n8n, Claude, ChatGPT"
+      ]
+    },
+    {
+      "category": "Data & Systems",
+      "items": [
+        "Salesforce, HubSpot, Excel, Power BI, SQL (working proficiency)"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

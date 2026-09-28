@@ -159,7 +159,9 @@ def build_pdf(data, path, theme):
     from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
                                     Spacer, Table, TableStyle, HRFlowable, KeepTogether)
 
-    F_REG, F_BOLD, F_ITAL = theme["pdf_regular"], theme["pdf_bold"], theme["pdf_italic"]
+    from pdf_fonts import embedded
+    F_REG, F_BOLD, F_ITAL = (embedded(theme["pdf_regular"]), embedded(theme["pdf_bold"]),
+                             embedded(theme["pdf_italic"]))
     accent = Color(*[c / 255 for c in theme["accent"]])
     ink = Color(*[c / 255 for c in INK]); muted = Color(*[c / 255 for c in MUTED])
     ahex = "#" + theme["accent_hex"]
@@ -194,17 +196,17 @@ def build_pdf(data, path, theme):
     def section(title):
         return [Paragraph(title.upper(), sec_st), rule()]
 
+    # Dates ride in the text flow (on the location line), not in a right-hand
+    # table column: ATS parsers read side-by-side columns in unpredictable
+    # order and spliced the dates into the middle of the first bullet
+    # ("...reseller partners Feb 2023 - Apr 2024 (~94%).").
     def role_header(job):
-        left = Paragraph("<b>%s</b>&nbsp;&nbsp;|&nbsp;&nbsp;<font color='%s'>%s</font>"
+        return Paragraph("<b>%s</b>&nbsp;&nbsp;|&nbsp;&nbsp;<font color='%s'>%s</font>"
                          % (_esc(job["title"]), ahex, _esc(job.get("company", ""))), role_l)
-        right = Paragraph(_esc(job.get("dates", "")), role_r)
-        t = Table([[left, right]], colWidths=[usable * 0.72, usable * 0.28])
-        t.setStyle(TableStyle([("VALIGN", (0, 0), (-1, -1), "TOP"),
-                               ("LEFTPADDING", (0, 0), (-1, -1), 0),
-                               ("RIGHTPADDING", (0, 0), (-1, -1), 0),
-                               ("TOPPADDING", (0, 0), (-1, -1), 0),
-                               ("BOTTOMPADDING", (0, 0), (-1, -1), 0)]))
-        return t
+
+    def role_meta(job):
+        bits = [_esc(b) for b in (job.get("dates"), job.get("location")) if b]
+        return Paragraph("&nbsp;&nbsp;|&nbsp;&nbsp;".join(bits), loc_st) if bits else None
 
     def make_story():
         s = [Paragraph(_esc(data["name"]), name_st)]
@@ -222,8 +224,9 @@ def build_pdf(data, path, theme):
             s += section("Professional Experience")
             for job in data["experience"]:
                 head = [role_header(job)]
-                if job.get("location"):
-                    head.append(Paragraph(_esc(job["location"]), loc_st))
+                meta = role_meta(job)
+                if meta:
+                    head.append(meta)
                 bl = job.get("bullets", [])
                 first = [Paragraph(_esc(bl[0]), bullet_st, bulletText="•")] if bl else []
                 s.append(KeepTogether(head + first))
