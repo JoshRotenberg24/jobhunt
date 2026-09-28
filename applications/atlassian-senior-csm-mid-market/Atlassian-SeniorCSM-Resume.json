@@ -1,0 +1,100 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Customer Success & Account Manager | SaaS Adoption, Retention & Expansion",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success and account management professional with 15+ years in SaaS, MarTech, and agency environments, driving product adoption, retention, and expansion across a book of business. Retained all but one of 15-20 reseller partners at Birdeye (~94%), managed a high-value account portfolio at Wix while leading a team of 20 (later 8), and advised C-suite buyers on operational system design at Accelo, a work-management and professional-services automation platform. I pair the relationship with technical depth: I configure CRMs and build integrations myself, so I can talk configuration trade-offs, not just outcomes.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of B2B clients, running discovery to align on goals, success metrics, and a plan to reach them.",
+        "Drive clients to their goals on complex SaaS platforms, and identify expansion opportunities by scoping complementary services aligned to their objectives.",
+        "Report performance on a regular cadence with dashboards and strategic recommendations, tracking adoption and outcomes in GA4, Power BI, and CRM analytics.",
+        "Architect CRM and automation systems in GoHighLevel and HubSpot, and build integrations with webhooks and custom code steps in Zapier, Make, and n8n."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts, leading QBRs that translated ROI, CAC, LTV, and conversion data into optimization recommendations.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Partner Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed a book of 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows, equipping them to communicate product value.",
+        "Analyzed partner utilization and performance metrics to spot adoption gaps early and recommend interventions that reduced churn.",
+        "Represented the voice of the customer to Product and Engineering, sharing structured, prioritized feedback that informed the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end, covering performance reporting and cross-team communication, and led the sales team while carrying my own book."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month as primary strategic contact, holding 120% of sales targets and 110% of implementation targets.",
+        "Directly managed and developed a team of onboarding specialists for 2 years (20, later 8), overseeing scope and delivery for a high-value client portfolio.",
+        "Drove process improvements for a new vertical that went from proof of concept to a profitable business line, including sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised C-suite buyers at agencies and professional-services firms as a trusted advisor on CRM adoption and operational system design, aligned to their growth stage and team structure.",
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled; averaged ~$17,750/month in implementation and services bookings (~$213K annualized).",
+        "Guided onboarding, workflow design, and API integrations alongside implementation teams, escalating account risk early."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": ["Success Plans", "QBRs / Business Reviews", "Adoption & Value Realization", "Churn Risk Identification", "Expansion", "Voice of the Customer"]
+    },
+    {
+      "category": "Platforms",
+      "items": ["Salesforce", "HubSpot", "Jira", "Zendesk", "Power BI", "Excel", "SQL"]
+    },
+    {
+      "category": "Technical",
+      "items": ["CRM Configuration", "Workflow Design", "Integrations & Webhooks", "Zapier / Make / n8n"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
