@@ -1,0 +1,124 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Growth Marketer | B2B SaaS Acquisition, CRO & Funnel Analytics for SMB Operators",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Growth marketer and operator who builds the acquisition engine end to end: paid search and social, SEO, landing pages, sign-up flows, CRM automation, and the dashboards that show what's working. Founder of Solenzo, where I market to and build for SMB service operators, the same buyer WanderOS sells to. Earlier at Wix, I ran growth consultations for SMBs launching on a website builder, contributing to a 25% conversion lift and 30% traffic growth across the e-commerce segment. I write the copy myself, and it sounds like a person.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own acquisition end to end: organic LinkedIn and SEO for my own business, and paid search, landing pages, and CRM-driven follow-up for clients.",
+        "Launched a free digital-footprint audit as a top-of-funnel offer, distributed through my own LinkedIn growth: 180+ businesses enrolled, 2 converted to paying clients.",
+        "Optimized a client's Google Ads account to cut spam and low-quality leads, then diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Run technical SEO audits, keyword gap analysis, schema implementation, and Google Business Profile optimization for SMB service operators, and install GTM and GA4 tracking in HTML/CSS on every site built.",
+        "Architected a 20+ workflow GoHighLevel system spanning lead capture, routing, qualification, booking, no-show recovery, and nurture, integrated with HubSpot, Zapier, Make, and n8n.",
+        "Build dashboards tracking lead volume, funnel conversion, campaign ROI, and pipeline velocity, using SQL on BigQuery/GA4 data."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated growth strategy across inbound, paid media, and content for performance marketing clients.",
+        "Ran A/B-tested LinkedIn ad campaigns using an account-based approach, targeting small, highly researched audiences.",
+        "Advised clients on paid-media budget planning and allocation, and built reporting tracking ROI, CAC, LTV, and conversion.",
+        "Produced conversion-focused landing pages, multi-touch email sequences, and ad copy that improved lead generation and pipeline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed a partner channel of 15-20 reseller agencies (deals ~$10K-$45K) selling local-listings and reputation software to SMBs, retaining all but one (~94%).",
+        "Sold and onboarded partners on Birdeye's listings-syndication solution, the backbone of the channel offer, using Whitespark research as sales-enablement material."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency, translating results into optimization recommendations.",
+        "Closed 6 new-client deals averaging ~$22K, roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led growth consultations for SMBs launching on Wix, aligning site architecture, inbound marketing, and SEO, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Launched 25+ SMB sites per month at 120% of sales and 110% of implementation targets, including Google Business Profile setup alongside the build.",
+        "Led a team of onboarding specialists for 2 years (20, later 8) on a new vertical that went from proof of concept to profitable."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, selling B2B SaaS to agencies and professional-services firms."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Acquisition",
+      "items": [
+        "Google Ads",
+        "Meta Ads (certified)",
+        "LinkedIn Ads",
+        "SEO & Technical SEO",
+        "Local SEO / GBP",
+        "Partner & Referral Channels"
+      ]
+    },
+    {
+      "category": "Conversion",
+      "items": [
+        "CRO",
+        "A/B Testing",
+        "Landing Pages & Sign-Up Flows",
+        "Offers & Messaging",
+        "Direct-Response Copy"
+      ]
+    },
+    {
+      "category": "Analytics & Stack",
+      "items": [
+        "GA4",
+        "Google Tag Manager",
+        "SQL (BigQuery)",
+        "Power BI",
+        "Attribution & ROI Reporting",
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel",
+        "Zapier / Make / n8n"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
