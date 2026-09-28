@@ -1,0 +1,108 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Partner Onboarding & Experience Leader | Funnel Metrics, Automation & Team Leadership",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Onboarding and partner-experience leader with 15+ years in SaaS, MarTech, and agency operations. Led a team of 20 (later 8) onboarding specialists at Wix while launching 25+ clients a month, and onboarded 15-20 reseller partners at Birdeye with ~94% retention. At Solenzo I build the full funnel for home-services businesses: paid acquisition, capture, qualification, scheduling with automated reminders, no-show recovery, and reactivation, measured stage by stage. That is the same machinery that moves an applicant to a first shift and keeps them coming back.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected a 20+ workflow automation system in GoHighLevel spanning lead capture, tagging and routing, qualification, booking with confirmations and reminders, no-show recovery, onboarding nurture, and long-term reactivation.",
+        "Build dashboards tracking lead volume, conversion by funnel stage, campaign ROI, and pipeline velocity, using GA4, CRM analytics, and SQL, and report findings and recommendations to business owners on a regular cadence.",
+        "Optimized a client's Google Ads account to cut spam and low-quality leads, then traced the remaining drop-off to on-site conversion, fixing the real bottleneck instead of adding spend.",
+        "Build marketing-automation workflows for home-services trade businesses (electrical, plumbing, HVAC), fluent in how local service operations fill schedules and lose customers.",
+        "Design evaluation loops that monitor automation and AI output against defined standards, catching broken steps before they cost a lead.",
+        "Run a free audit offer as a top-of-funnel acquisition play: 180+ businesses enrolled, 2 converted to paying clients."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Advised client businesses on ad-spend budget planning and allocation across paid campaigns.",
+        "Built campaign reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, and turned the data into optimization recommendations and QBRs.",
+        "Produced conversion-focused landing pages and multi-touch email sequences that improved lead generation."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Built automated product-training and communication sequences that reduced onboarding friction across the partner network.",
+        "Analyzed partner utilization and performance data to find adoption gaps and recommend interventions that reduced churn.",
+        "Fed structured, prioritized partner feedback to Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team while carrying my own accounts, and rebuilt internal processes to improve reporting accuracy and reduce handoff errors.",
+        "Analyzed paid media and creative performance and translated results into optimization recommendations."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed and developed a team of onboarding specialists for 2 years (20, later 8), setting priorities and overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Drove team initiatives for a new Wix vertical that went from proof of concept to a profitable business line, including hiring, onboarding, and training new hires and building sales training for tenured reps.",
+        "Labeled and defined the CRM fields required for sales and onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Funnel & Acquisition",
+      "items": ["Stage-by-Stage Funnel Metrics", "Cost per Acquisition", "Paid Budget Allocation", "Google Ads", "Meta Ads (certified)", "Landing Pages"]
+    },
+    {
+      "category": "Onboarding & Retention",
+      "items": ["Onboarding Workflow Design", "Time-to-Value Reduction", "Churn Prevention", "Feedback Loops", "Root Cause Analysis"]
+    },
+    {
+      "category": "Automation & Communications",
+      "items": ["Multi-Channel Lifecycle Messaging", "GoHighLevel", "HubSpot", "Salesforce", "Zapier / Make / n8n", "AI Workflows"]
+    },
+    {
+      "category": "Analytics & Leadership",
+      "items": ["GA4", "SQL", "Power BI", "Excel", "Team Leadership & Coaching", "Hiring & Training"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
