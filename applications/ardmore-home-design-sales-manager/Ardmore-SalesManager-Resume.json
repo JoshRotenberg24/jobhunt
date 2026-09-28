@@ -1,0 +1,101 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Sales Leader | Independent Rep & Channel Management, Sales Training & Key Accounts",
+  "contact": {
+    "location": "Arvada, CO (Denver metro, near DEN)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Sales leader with 15+ years in B2B sales, channel management, and account growth. At Birdeye, I managed a network of 15-20 independent reseller partners, training them to sell and support the product and retaining all but one. I've led sales teams at Wix and Fetch & Funnel, built sales training for tenured account executives, and ranked top three on a team of 8 to 15 at Accelo while quota roughly doubled. I use data to find where a territory or rep is leaving revenue on the table, and I coach to close the gap.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary relationship for a portfolio of service-based businesses, growing retainer scope by identifying and recommending complementary services."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": []
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed a network of 15-20 independent reseller partners (deals ~$10K-$45K) across health, home services, and retail, selling through the channel rather than direct, and retained all but one (~94%).",
+        "Trained partners to sell and communicate product value, building automated product-training sequences that scaled enablement across the network."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team while carrying my own book, closing 6 new-client deals averaging ~$22K (several over $25K), roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led a team of onboarding specialists for 2 years (20, later 8) while holding 120% of sales targets and 110% of implementation targets.",
+        "Developed sales training for tenured account executives and contributed to hiring, onboarding, and training new hires on a new vertical that went from proof of concept to profitable.",
+        "Managed a portfolio that included established retail businesses expanding into e-commerce, building and launching their online storefronts."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps, holding that rank while quota roughly doubled; closed deals of $20K+."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": []
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": []
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales Leadership",
+      "items": [
+        "Independent Rep & Channel Management",
+        "Sales Training & Coaching",
+        "Key Accounts",
+        "Rep Performance Analysis",
+        "Excel",
+        "Salesforce",
+        "HubSpot"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
