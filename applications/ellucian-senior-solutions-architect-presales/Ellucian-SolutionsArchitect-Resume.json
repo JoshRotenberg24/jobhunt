@@ -1,0 +1,87 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Pre-Sales Solutions Consultant | Discovery, Solution Design, Integrations & AI Workflows",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer-facing technical seller and solution builder with 15+ years in SaaS. I lead discovery with executives, translate business goals into solution designs and implementation plans, and build working integrations myself: webhooks, APIs, batch data imports, and custom JavaScript and Python code steps in Zapier, Make, and n8n, plus AI agent workflows in production. At Accelo, I scoped CRM and professional-services automation implementations for agencies and firms, ranking top three on a team of 8 to 15, and handed sequenced implementation plans to delivery teams.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead discovery with business owners and translate requirements into solution designs, technical configurations, and rollout plans.",
+        "Architect and deploy AI agent workflows with custom logic that score data and generate personalized outreach, with evaluation loops and rubric-based grading for output quality.",
+        "Build integrations with webhooks, APIs, batch data imports, and custom JavaScript and Python code steps in Zapier, Make, and n8n, connecting CRMs, CMS platforms, and third-party tools.",
+        "Build and maintain my own site in HTML/CSS and implement GTM/GA4 tracking; write SQL on BigQuery data for Power BI reporting."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Presented strategy and performance analysis to multi-stakeholder client teams in QBRs, coordinating execution across internal departments."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided partners and customers through complex technical setup and configuration, and fed prioritized customer feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Reached finalist stage in a multi-stakeholder pursuit of a major northeastern U.S. bank; closed 6 deals averaging ~$22K."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led a team of 20 (later 8) onboarding specialists and launched 25+ clients per month at 110% of implementation targets, mentoring new hires."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Led discovery and scoping for CRM and professional-services automation implementations, advising C-suite buyers on operational system design.",
+        "Guided workflow design and API integrations alongside implementation teams, and built sequenced implementation plans for the transition to delivery.",
+        "Ranked top three in sales on a team of 8 to 15 while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Pre-Sales",
+      "items": ["Discovery & Workshops", "Solution Design", "Executive Presentations", "Implementation Planning", "Sales-to-Delivery Handoff"]
+    },
+    {
+      "category": "Technical",
+      "items": ["APIs & Webhooks", "JavaScript & Python (automation code steps)", "HTML/CSS", "SQL", "AI Agent Workflows", "Zapier / Make / n8n"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
