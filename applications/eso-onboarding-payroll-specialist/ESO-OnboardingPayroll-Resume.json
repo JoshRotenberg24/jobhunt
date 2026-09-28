@@ -1,0 +1,112 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Onboarding & Operations Specialist | Documentation, Deadlines & Data Accuracy",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Onboarding and operations professional with 15+ years in fast-paced, deadline-driven remote environments. Onboarded 25+ clients per month at Wix while leading a team of onboarding specialists, and have spent my career coordinating timelines between customers and internal teams while keeping records accurate and complete. Experienced Excel user who builds tracking, reporting, and automated workflows that keep high-volume processes on schedule.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run client onboarding end to end, collecting requirements and documentation, setting timelines, and configuring each client's systems.",
+        "Document every client interaction, timeline, and deliverable in HubSpot, GoHighLevel, and Notion, keeping records auditable across concurrent engagements.",
+        "Build automated intake, reminder, and follow-up workflows that keep deadlines on track without manual chasing.",
+        "Track and report performance in Excel, Power BI, and CRM dashboards on a regular cadence."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments for multiple client accounts, resolving client feedback promptly to hold delivery quality.",
+        "Advised clients on budget planning and allocation across paid campaigns and reported results against KPIs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners, guiding each through setup and configuration and retaining all but one (~94%).",
+        "Built automated training and communication sequences that reduced onboarding friction and missed steps."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team and rebuilt internal processes that improved reporting accuracy and reduced handoff errors.",
+        "Managed client workflows and tasks in ClickUp against weekly deadlines."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), and contributed to hiring, onboarding, and training new hires.",
+        "Labeled and defined the CRM fields required for onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding alongside implementation teams, troubleshooting setup issues and escalating risks early."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Onboarding & Operations",
+      "items": [
+        "Onboarding Coordination",
+        "Documentation & Recordkeeping",
+        "Timeline Management",
+        "Process Improvement",
+        "Data Accuracy"
+      ]
+    },
+    {
+      "category": "Systems",
+      "items": [
+        "Microsoft Excel (experienced)",
+        "Salesforce",
+        "HubSpot",
+        "Power BI",
+        "Notion",
+        "Zapier / Make"
+      ]
+    },
+    {
+      "category": "Professional",
+      "items": [
+        "Team Leadership",
+        "Written & Verbal Communication",
+        "Customer & Stakeholder Coordination",
+        "Problem Solving"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
