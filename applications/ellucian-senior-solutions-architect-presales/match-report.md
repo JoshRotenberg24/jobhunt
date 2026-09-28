@@ -49,5 +49,5 @@ The **LINQ Solutions Consultant** (76) is the same pre-sales motion without the 
 
 ## Output files
 
-- `Ellucian-SolutionsArchitect-Resume.pdf` / `.docx` (modern). Headline frames him honestly as a pre-sales solutions consultant, not an architect/engineer.
+- `Ellucian-SolutionsArchitect-Resume.pdf` / `.docx` (1 page, modern). Headline frames him honestly as a pre-sales solutions consultant, not an architect/engineer.
 - `fit.json` / `fit.png`

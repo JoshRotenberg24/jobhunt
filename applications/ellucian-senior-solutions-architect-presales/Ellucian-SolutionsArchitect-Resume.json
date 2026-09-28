@@ -27,9 +27,7 @@
       "company": "Level Agency",
       "location": "Remote",
       "dates": "Sep 2024 - Feb 2025",
-      "bullets": [
-        "Presented strategy and performance analysis to multi-stakeholder client teams in QBRs, coordinating execution across internal departments."
-      ]
+      "bullets": []
     },
     {
       "title": "Channel Partnerships & Customer Onboarding",
@@ -64,20 +62,24 @@
       "location": "Denver, CO",
       "dates": "Apr 2018 - Jul 2020",
       "bullets": [
-        "Led discovery and scoping for CRM and professional-services automation implementations, advising C-suite buyers on operational system design.",
         "Guided workflow design and API integrations alongside implementation teams, and built sequenced implementation plans for the transition to delivery.",
-        "Ranked top three in sales on a team of 8 to 15 while quota roughly doubled."
+        "Led discovery and scoping with C-suite buyers, ranking top three in sales on a team of 8 to 15 while quota roughly doubled."
       ]
     }
   ],
   "competencies": [
     {
-      "category": "Pre-Sales",
-      "items": ["Discovery & Workshops", "Solution Design", "Executive Presentations", "Implementation Planning", "Sales-to-Delivery Handoff"]
-    },
-    {
-      "category": "Technical",
-      "items": ["APIs & Webhooks", "JavaScript & Python (automation code steps)", "HTML/CSS", "SQL", "AI Agent Workflows", "Zapier / Make / n8n"]
+      "category": "Skills",
+      "items": [
+        "Discovery & Workshops",
+        "Solution Design",
+        "Implementation Planning",
+        "APIs & Webhooks",
+        "JavaScript & Python (automation code steps)",
+        "HTML/CSS",
+        "SQL",
+        "AI Agent Workflows"
+      ]
     }
   ],
   "education": [
