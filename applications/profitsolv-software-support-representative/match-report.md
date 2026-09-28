@@ -6,6 +6,7 @@
 - **Comp:** Not posted ("performance-based compensation")
 - **Link:** not provided (JD pasted)
 - **Date evaluated:** 2026-09-28
+- **Status:** Stopped by Josh mid-application (2026-09-28): the form required too many phone numbers. Not submitted. Materials kept for reference.
 
 ## Application-Form and Eligibility Check
 
