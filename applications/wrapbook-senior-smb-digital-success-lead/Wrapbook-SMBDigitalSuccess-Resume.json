@@ -1,0 +1,94 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SMB Digital Success Lead | AI Agent Building, Scaled Onboarding & Retention",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success and onboarding leader who builds the AI and automation behind a scaled success model, not just uses it. At Solenzo, I design, tune, and run AI agents and 20+ production workflows that score customer signals, trigger outreach, recover no-shows, and reactivate accounts, with rubric-based evaluation and human review on the output. Before that, I onboarded 25+ SMB customers a month at Wix while leading a team of 20 (later 8), and retained all but one of 15-20 channel partners at Birdeye. I know what to automate and what needs a person.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build, tune, and run AI agents that score each business's signals and generate personalized outreach, breaking manual workflows into agent architectures with custom logic.",
+        "Design evaluation loops and rubric-based grading for AI output, and personally review and label data so agents stay accurate before anything reaches a customer.",
+        "Architected a 20+ workflow lifecycle system in GoHighLevel covering intake, routing, onboarding nurture, reminders, no-show recovery, and reactivation, integrated through webhooks and Zapier, Make, and n8n.",
+        "Translate non-technical stakeholders' goals into precise agent requirements and prompts, then prototype, deploy, and drive adoption.",
+        "Own client relationships end to end and expand retainer scope by identifying complementary services."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts, resolving feedback promptly to protect satisfaction and retention, and presented performance data in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners serving SMBs across health, home services, and retail, retaining all but one (~94%).",
+        "Built automated product-training and communication sequences that reduced onboarding friction and scaled enablement across the network.",
+        "Analyzed utilization data to catch adoption gaps early and recommend interventions that reduced churn; fed prioritized feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Rebuilt internal processes that improved reporting accuracy and reduced handoff errors, and served a banking-industry client."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ SMB customers per month, holding 110% of implementation targets and 120% of sales targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8) on a new vertical that went from proof of concept to profitable, building the process, training, and CRM data standards it ran on.",
+        "Managed a high-value SMB portfolio, contributing to a 25% conversion improvement and 30% traffic growth across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped CRM and professional-services automation (including time tracking and billing) to agencies and firms; ranked top three on a team of 8 to 15."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & Automation",
+      "items": ["AI Agent Design & Tuning", "LLM Output Evaluation", "Prompt & Requirements Design", "Zapier / Make / n8n", "Webhooks"]
+    },
+    {
+      "category": "Customer Success",
+      "items": ["Scaled / Digital CS", "Onboarding Programs", "Risk Signals & Churn Prevention", "Expansion", "Playbooks"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Zendesk", "SQL", "Power BI"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
