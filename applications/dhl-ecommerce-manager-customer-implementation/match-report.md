@@ -55,9 +55,10 @@ Application Priority Score: 80 / 100 — Strong fit (apply, competitive)
 
 ## Cover letter
 
-Skipped. Resume carries it. Build on request.
+Built at Josh's request (2026-09-28). Leads with Wix team leadership mapped to DHL's success metrics, then Birdeye adoption/escalation work and Accelo implementation planning; names the logistics/SAP gap.
 
 ## Output files
 
 - `Rotenberg Resume - DHL eCommerce - Manager Customer Implementation.pdf` / `.docx`
-- `resume.json` / `resume.pdf` / `resume.docx`, `fit.json` / `fit.png`
+- `Rotenberg Cover Letter - DHL eCommerce - Manager Customer Implementation.pdf` / `.docx`
+- `resume.*` / `cover-letter.*` (working copies), `fit.json` / `fit.png`
