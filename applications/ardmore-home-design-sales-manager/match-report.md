@@ -4,7 +4,7 @@
 - **Role:** Sales Manager for Made Goods, Pigeon & Poodle, Burton James. Leads a team of independent sales reps, delivers training, trade shows, key designer accounts.
 - **Location:** Remote with required travel; must be near a major airport
 - **Comp:** $110,000 - $130,000 base + bonus
-- **Link:** not provided (JD pasted)
+- **Link:** https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4541127
 - **Date evaluated:** 2026-09-28
 
 ## Application-Form and Eligibility Check
