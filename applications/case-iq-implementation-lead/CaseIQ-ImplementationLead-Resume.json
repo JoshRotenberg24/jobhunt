@@ -1,0 +1,147 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Lead | SaaS Configuration, Integrations & Customer Onboarding",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation and onboarding lead with 15+ years in B2B SaaS, professional-services software, and agency environments. Owned implementations from contract through configuration, training, and go-live at Wix (25+ launches a month at 110% of implementation targets) and scoped CRM/PSA implementations with API integrations at Accelo. Today I build the integrations myself, in Zapier, Make, and n8n with custom Python and JavaScript code steps, so I can translate customer requirements into configurations engineering can trust. Built compliance systems from scratch in a state-regulated business.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and delivering hands-on user training.",
+        "Build system integrations in Zapier, Make, and n8n, writing custom Python and JavaScript code steps in production workflows that connect client CRMs, CMS platforms, and third-party tools.",
+        "Architect CRM implementations in GoHighLevel and HubSpot (contact segmentation, lifecycle stages, strict data-hygiene protocols) across concurrent client engagements.",
+        "Document every requirement, timeline, and deliverable in the CRM and Notion, keeping project records auditable and handoffs clean."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts across marketing and technology channels, coordinating execution across internal departments and holding delivery quality consistent across implementations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K), guiding customers through complex technical setup and configuration and retaining all but one (~94%).",
+        "Led onboarding and training for a high-volume partner network, and built automated training sequences that reduced onboarding friction.",
+        "Fed structured, prioritized customer feedback on product gaps to Product and Engineering to inform the roadmap.",
+        "Analyzed partner utilization data to find adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Rebuilt internal delivery processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ customers per month, holding 110% of implementation targets and 120% of sales targets.",
+        "Owned launches from handoff through configuration, training, and go-live as primary point of contact, accelerating time to value.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), and contributed to process, hiring, and training for a new vertical that went from proof of concept to profitable.",
+        "Defined the CRM fields required for onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming professional-services clients, ranking which systems to change and in what order, and handed them to the implementation team to execute.",
+        "Guided client onboarding, workflow design, and API integrations for a CRM/PSA platform, troubleshooting technical issues during setup and escalating risks early.",
+        "Built Zapier automations connecting Accelo to clients' existing systems."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for a loyalty and marketing-automation platform, building the consultative approach to adoption and retention that carried into later SaaS roles."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Qualified leads and booked appointments for regional sales representatives, maintaining a steady flow of sales-ready meetings."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance, intake, and reporting systems from scratch in a licensed, state-regulated business, including new-hire paperwork and employee background checks."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": [
+        "Contract-to-Go-Live Delivery",
+        "Requirements Gathering",
+        "Configuration",
+        "Project Plans & Milestones",
+        "User Training & Enablement"
+      ]
+    },
+    {
+      "category": "Integrations & Data",
+      "items": [
+        "API Integrations",
+        "Zapier / Make / n8n",
+        "Python & JavaScript (automation code steps)",
+        "SQL",
+        "CRM Data Hygiene"
+      ]
+    },
+    {
+      "category": "Platforms",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Accelo",
+        "Jira",
+        "Zendesk",
+        "Notion",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
