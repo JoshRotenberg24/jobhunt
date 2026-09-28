@@ -1,5 +1,7 @@
 # Match Report: Agency FIFTY3, Senior Account Manager
 
+> **Status: Skipped by Josh (Sep 28, 2026).** Files kept for reference.
+
 - **Company:** Agency FIFTY3 (Denver-HQ real estate marketing agency: creative/branding, websites, digital media)
 - **Role:** Senior Account Manager, Client Success. Portfolio of key/complex accounts, mentors Account Managers, owns strategic health and growth, interprets cross-channel performance, advises on budget allocation.
 - **Location:** HQ Denver, CO; remote across the U.S.
