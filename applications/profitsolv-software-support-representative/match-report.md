@@ -56,9 +56,10 @@ Application Priority Score: 76 / 100 — Solid stretch (apply with a sharp tailo
 
 ## Cover letter
 
-Skipped. The resume carries the Accelo domain match, and a support-rep application rarely turns on a letter.
+Built at Josh's request (2026-09-28). Opens on Accelo practice-management experience with professional-services firms, then hands-on troubleshooting at Accelo, Wix, and Birdeye.
 
 ## Output files
 
 - `Rotenberg Resume - ProfitSolv - Software Support Representative.pdf` / `.docx` (1 page)
-- `resume.json` / `resume.pdf` / `resume.docx`, `fit.json` / `fit.png`
+- `Rotenberg Cover Letter - ProfitSolv - Software Support Representative.pdf` / `.docx`
+- `resume.*` / `cover-letter.*` (working copies), `fit.json` / `fit.png`
