@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "SaaS delivery and implementation lead with 15+ years translating business needs into technical requirements, sequencing the work, and getting it delivered across teams. I built sequenced implementation plans at Accelo, led a team of 20 (later 8) delivering 25+ launches a month at Wix, and today build production integrations and automation myself, so I can talk tradeoffs with engineers and explain them to leadership in plain language. Working SQL, Jira, and Power BI; Denver-based.",
+  "summary": "SaaS delivery and implementation lead with 15+ years translating business needs into technical requirements, sequencing the work, and getting it delivered across teams. I built sequenced implementation plans at Accelo, led a team of 20 (later 8) delivering 25+ launches a month at Wix, and today build production integrations and automation myself, so I can talk tradeoffs with engineers and explain them to leadership in plain language. Experienced in Agile/Scrum, Jira, SQL, and Power BI; Denver-based.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -35,7 +35,7 @@
       "location": "Remote",
       "dates": "Feb 2023 - Apr 2024",
       "bullets": [
-        "Collaborated with Product and Engineering, turning partner feedback into structured, prioritized input for the roadmap."
+        "Bridged 15-20 reseller partners and Product and Engineering as liaison, turning field feedback into structured, prioritized requirements for the roadmap; retained all but one partner (~94%)."
       ]
     },
     {
@@ -72,8 +72,9 @@
     {
       "category": "Delivery",
       "items": [
+        "Agile / Scrum",
         "Requirements & Acceptance Criteria",
-        "Backlog Prioritization",
+        "Prioritization",
         "Dependency & Risk Tracking",
         "Stakeholder Communication",
         "Implementation Planning"

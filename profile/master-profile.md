@@ -570,6 +570,14 @@ operator talking, not like a candidate performing.
 
 ## Core Competencies Bank (mix & match to the job)
 
+> **Agile/Scrum, Jira, engineering liaison (confirmed by Josh, Sep 2026):** Josh has
+> worked in Agile/Scrum (role attribution not yet captured) and has used Jira as a
+> user. Owning/prioritizing a Jira backlog is **not** confirmed, so don't claim backlog
+> ownership in Jira. His work with engineering teams has been mainly as a liaison
+> (carrying customer/partner requirements and feedback to Product and Engineering, e.g.
+> Birdeye), not as an embedded delivery manager inside an engineering org. No
+> infrastructure/CloudOps/SRE/DevOps team experience.
+>
 > **Forecasting / pipeline-stage awareness (confirmed by Josh, Sep 2026):** knowing where
 > an opportunity sits in the sales process has been part of every sales role Josh has
 > held, not a skill isolated to one job. Frame as career-long individual-contributor
@@ -588,7 +596,7 @@ operator talking, not like a candidate performing.
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
-| Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
+| Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination, Agile/Scrum, Jira (user) |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
 | Office & Finance Basics | Microsoft Word, Outlook, Excel (experienced); Basic bookkeeping, reconciliation, AP/AR *(confirmed by Josh, Sep 2026; which role(s) not yet captured, ask before writing a role-specific bullet)* |
 | Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |

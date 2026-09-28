@@ -7,33 +7,37 @@
 - **Job ID:** 10869, posted 09/28/2026
 - **Date evaluated:** 2026-09-28
 
+## Rescore (Sep 28): 47 → 56 after confirmations
+
+Josh confirmed Agile/Scrum experience, Jira use (as a user), and engineering-team work mainly as a liaison. Added to `profile/master-profile.md`. Agile/Scrum moves from gap to met; engineering liaison is adjacent (still no infrastructure teams); Jira stays adjacent (backlog ownership not confirmed). Must-haves 22 → 30, evidence 6 → 7. Still a Long shot.
+
 ## Application-Form and Eligibility Check
 
 | Item | Classification | Status |
 | :--- | :--- | :--- |
 | 5+ yrs Product / Technical Product / Technical Project Management | Resume-evidenced | Partial. Implementation planning and delivery leadership, not a PM/TPM title. |
 | Experience with Infrastructure, CloudOps, SRE, DevOps, Security, or DBA teams | Resume-evidenced | **Gap.** |
-| Agile/Scrum | Needs candidate confirmation | Not on file. |
+| Agile/Scrum | Resume-evidenced | Confirmed Sep 28. |
 | Location | Application-form requirement | Pass (Denver office listed; remote allowed). |
 | Salary | Needs candidate confirmation | Not posted. A Denver TDM typically runs ~$110K-$140K; confirm with recruiter. |
 
 ## Application Priority Score
 
 ```
-🟡 Application Priority Score: 47 / 100 — Long shot
-[█████████░░░░░░░░░░░]  47%
+🟡 Application Priority Score: 56 / 100 — Long shot
+[███████████░░░░░░░░░]  56%
 ```
 
 > Internal decision aid, not a prediction of any employer's system output. See `fit.png`.
 
 | Dimension | Score | Why |
 | :--- | :--- | :--- |
-| Must-have requirements met | 22 / 40 | 8 asks: 4 strong (SaaS, technical-to-business translation, stakeholder management, analytics), 1 adjacent (backlog in Jira or similar), 3 gaps (5+ yrs PM/TPM, infrastructure-team experience, Agile/Scrum). |
+| Must-have requirements met | 30 / 40 (was 22) | 8 asks: 4 strong (SaaS, technical-to-business translation, stakeholder management, analytics), 1 adjacent (backlog in Jira or similar), 3 gaps (5+ yrs PM/TPM, infrastructure-team experience, Agile/Scrum). |
 | Seniority & scope alignment | 8 / 15 | IC delivery owner; Josh has delivery leadership but not in engineering orgs. |
 | Domain / industry alignment | 4 / 15 | No infrastructure, cloud ops, or EHSQ; compliance-systems background is small and early. |
 | Differentiators / nice-to-haves | 7 / 15 | SQL (preferred), Jira (listed), automation-minded. No AWS/Azure, observability, FinOps, or PM certifications. |
-| Evidence strength | 6 / 15 | No delivery metrics from an engineering context. |
-| **Total** | **47 / 100** | **Long shot.** |
+| Evidence strength | 7 / 15 (was 6) | No delivery metrics from an engineering context. |
+| **Total** | **56 / 100** | **Long shot.** |
 
 ## Candidate confirmation needed
 
