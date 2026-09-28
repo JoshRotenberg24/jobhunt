@@ -1,0 +1,95 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Marketing & Sales Enablement | Seller-Ready Proof, Customer Voice & B2B Content",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "B2B marketer and former top-performing SaaS account executive with 15+ years across sales, customer success, enablement, and content. I've been the seller who needed the right proof at the right deal stage, so I know which evidence moves a deal and which just gets published. I've used third-party research as sales-enablement material in a partner channel, built automated review-generation programs for clients, trained partners and tenured AEs to communicate product value, and written thought leadership and conversion copy for B2B audiences. I measure content by what it does for pipeline, using Salesforce, HubSpot, GA4, and SQL.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built automated review-generation sequences that capture customer reviews after service, turning satisfied customers into public social proof for local businesses.",
+        "Write and publish thought leadership, newsletters, and educational guides on systems architecture and CRM for B2B audiences.",
+        "Build reusable marketing assets and messaging frameworks, adapting a shared template base to each client's brand and vertical.",
+        "Build dashboards tracking funnel progression, campaign ROI, and pipeline velocity, using GA4, CRM analytics, and SQL."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced conversion-focused campaign assets (landing pages, multi-touch email sequences, copy), coordinating production across internal creative and media teams.",
+        "Built campaign reporting tracking ROI, CAC, LTV, and conversion KPIs, and presented recommendations in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Used Whitespark's published industry research as sales-enablement proof to sell Birdeye's listings solution through a channel of 15-20 reseller partners, retaining all but one (~94%).",
+        "Trained and equipped partners to communicate product value to their own customers across health, home services, and retail, selling a reputation and review-management platform.",
+        "Fed structured, prioritized customer feedback to Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K, and reached finalist stage in a multi-stakeholder pursuit of a major northeastern U.S. bank."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Developed sales training for tenured account executives on a new vertical that went from proof of concept to a profitable business line.",
+        "Managed a high-value account portfolio, contributing to a 25% improvement in conversion rates and 30% traffic growth across the e-commerce segment.",
+        "Led a team of onboarding specialists for 2 years (20, later 8) while holding 120% of sales targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ran complex B2B SaaS sales cycles with C-suite buyers at agencies and professional-services firms, ranking top three on a team of 8 to 15 while quota roughly doubled.",
+        "Closed deals of $20K+ and averaged ~$17,750/month in implementation and services bookings (~$213K annualized)."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Marketing & Enablement",
+      "items": ["Seller-Ready Content", "Sales Training", "Review Generation & Customer Voice", "Third-Party Proof in Deals", "Messaging Frameworks"]
+    },
+    {
+      "category": "Content",
+      "items": ["Thought Leadership", "Direct-Response Copy", "Landing Pages & Email"]
+    },
+    {
+      "category": "Revenue Analytics",
+      "items": ["Salesforce", "HubSpot", "GA4", "SQL", "Power BI", "Pipeline Reporting"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
