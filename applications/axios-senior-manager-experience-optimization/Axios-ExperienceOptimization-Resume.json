@@ -1,0 +1,112 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Conversion & Growth Optimization Leader | Experimentation, Funnel Analytics & SEO",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Growth and conversion operator with 15+ years across SaaS, MarTech, and agency environments, focused on the moment a visitor becomes a lead and a lead becomes a paying customer. Founder of Solenzo, where I build the full conversion layer myself: landing pages, first-party data capture, segmentation, triggered lifecycle journeys, technical SEO, and the GA4/GTM measurement that shows what is working. Earlier, at Wix, I led conversion-focused site consultations for a high-value e-commerce portfolio (25% conversion lift and 30% traffic growth across the segment) and ran a team of up to 20 onboarding specialists. I use AI daily as a working tool, not a talking point.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built and run a free digital-footprint audit offer as a top-of-funnel registration play, distributed through my own LinkedIn growth: 180+ businesses enrolled, 2 converted to paying clients (~1.1% free-to-paid).",
+        "Architected a 20+ workflow conversion and lifecycle system in GoHighLevel spanning lead capture, tagging and routing, qualification, booking with confirmations and reminders, no-show recovery, onboarding nurture, and reactivation.",
+        "Design first-party data capture and segmentation (contact tagging, lifecycle stages, strict data hygiene) in GoHighLevel and HubSpot, feeding personalized outreach from scored behavioral and footprint signals.",
+        "Optimized a client's Google Ads account to cut spam and low-quality leads, then diagnosed on-site CRO as the remaining conversion bottleneck, tracing the full funnel from click to lead.",
+        "Run technical SEO audits, keyword gap analysis, and schema/structured-data implementation using Screaming Frog, and install Google Tag Manager and GA4 tracking directly in HTML/CSS on every site built.",
+        "Build dashboards and evaluation loops tracking funnel progression, campaign ROI, and conversion rates, using SQL on BigQuery/GA4 data, and iterate on landing pages and copy from the results."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Designed and ran A/B-tested LinkedIn ad campaigns using an account-based approach, targeting small, highly researched audiences rather than broad segments.",
+        "Produced conversion-focused landing pages, multi-touch email sequences, and campaign copy that improved lead generation and pipeline.",
+        "Built campaign reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, and turned the data into optimization recommendations and QBRs.",
+        "Coordinated integrated strategy across inbound, paid media, and content, aligning internal teams on a shared execution plan."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Built automated product-training and communication sequences that reduced onboarding friction across the partner network.",
+        "Analyzed partner utilization and performance data to find adoption gaps, and fed structured, prioritized customer feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance data and translated results into optimization recommendations for client accounts.",
+        "Led the sales team while carrying my own accounts, and rebuilt internal processes to improve reporting accuracy and reduce handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations on site architecture, inbound marketing, and SEO for a high-value e-commerce portfolio, contributing to a 25% improvement in conversion rates and a 30% increase in website traffic across the segment.",
+        "Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it.",
+        "Managed and developed a team of onboarding specialists for 2 years (20, later 8), helping take a new Wix vertical from proof of concept to a profitable business line.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, selling CRM and workflow-automation software to agencies and professional-services firms.",
+        "Guided client onboarding, workflow design, and API integrations, and built Zapier automations connecting client systems."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Conversion & Experimentation",
+      "items": ["Conversion Rate Optimization", "A/B Testing", "Landing Page Optimization", "Funnel Analysis", "First-Party Data Capture"]
+    },
+    {
+      "category": "Analytics & Measurement",
+      "items": ["GA4", "Google Tag Manager", "Google Search Console", "SQL (BigQuery/GA4)", "Power BI", "Excel"]
+    },
+    {
+      "category": "SEO & Web",
+      "items": ["Technical SEO", "Schema / Structured Data", "Keyword Research", "Screaming Frog", "HTML/CSS"]
+    },
+    {
+      "category": "MarTech & Lifecycle",
+      "items": ["HubSpot", "Marketo", "Mailchimp", "Salesforce", "GoHighLevel", "Segmentation & Personalization", "Zapier / Make / n8n"]
+    },
+    {
+      "category": "AI & Collaboration",
+      "items": ["LLM Workflows & Prompt Design", "Cross-Functional Leadership", "Stakeholder Management", "Team Leadership"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
