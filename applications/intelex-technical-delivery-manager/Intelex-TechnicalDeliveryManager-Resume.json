@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Delivery & Project Lead | Requirements, Prioritization & Cross-Team Delivery in SaaS",
+  "contact": {
+    "location": "Arvada, CO (Denver metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SaaS delivery and implementation lead with 15+ years translating business needs into technical requirements, sequencing the work, and getting it delivered across teams. I built sequenced implementation plans at Accelo, led a team of 20 (later 8) delivering 25+ launches a month at Wix, and today build production integrations and automation myself, so I can talk tradeoffs with engineers and explain them to leadership in plain language. Working SQL, Jira, and Power BI; Denver-based.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Translate non-technical stakeholders' goals into precise technical requirements and acceptance standards, then build, test, and deploy the resulting automation and AI workflows.",
+        "Own the build backlog across concurrent client engagements, prioritizing new work, fixes, and improvements, and documenting every requirement and deliverable.",
+        "Build integrations with webhooks, APIs, batch data imports, and custom JavaScript/Python code steps; monitor output with evaluation loops to catch failures early.",
+        "Write SQL on BigQuery data and build Power BI dashboards to support prioritization and report progress."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": []
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Collaborated with Product and Engineering, turning partner feedback into structured, prioritized input for the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Rebuilt internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment, managing work in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led a team of 20 (later 8) onboarding specialists delivering 25+ launches per month at 110% of implementation targets, overseeing scope, priorities, and delivery.",
+        "Defined the CRM fields and data standards required for sales and onboarding workflows on a new vertical that went from proof of concept to profitable."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to implementation teams to execute.",
+        "Guided workflow design and API integrations with implementation teams, escalating risks to leadership early."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Delivery",
+      "items": [
+        "Requirements & Acceptance Criteria",
+        "Backlog Prioritization",
+        "Dependency & Risk Tracking",
+        "Stakeholder Communication",
+        "Implementation Planning"
+      ]
+    },
+    {
+      "category": "Technical",
+      "items": [
+        "SQL",
+        "APIs & Webhooks",
+        "Automation (Zapier / Make / n8n)",
+        "Power BI",
+        "Jira",
+        "ClickUp",
+        "Asana"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
