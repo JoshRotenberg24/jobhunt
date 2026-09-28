@@ -494,6 +494,7 @@ operator talking, not like a candidate performing.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
 - Directly managed and developed a team of onboarding specialists for **2 years — a team of 20, later a team of 8** — overseeing budgets, scope, and delivery for a high-value client portfolio. *(Scale and duration confirmed by Josh, Aug 2026.)*
 - Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team. *(Confirmed by Josh, Sep 2026.)*
+- Approved team members' hours, PTO, and schedules as team lead. *(Confirmed by Josh, Sep 2026.)*
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion, including connecting and setting up clients' Google Business Profile alongside their site build. *(Confirmed by Josh, Sep 2026.)*
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
 - Led onboarding and launch operations as team lead and primary strategic contact, delivering launches on time and accelerating time-to-value.
@@ -506,6 +507,7 @@ operator talking, not like a candidate performing.
 > through the present at Solenzo, not a skill that started recently.
 - Ranked **top three in sales** on a team that scaled from **8 to 15 reps**, holding that rank across all but the final few months of a **27-month tenure** (Apr 2018 - Jul 2020), while **quota roughly doubled** over the period.
 - Closed deals of **$20K and larger** later in tenure, mixed with a base of smaller wins.
+- Set up and walked clients through Accelo's time-tracking and timesheet-approval workflows during scoping and onboarding. *(Confirmed by Josh, Sep 2026.)*
 - Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
 - Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.
@@ -531,7 +533,14 @@ operator talking, not like a candidate performing.
 > customer-vendor-supplier systems, not retail merchandising, budtender training, or
 > field sales, keep that distinction honest against postings asking specifically for the
 > latter.
+> **New-hire paperwork and employee screening (confirmed by Josh, Sep 2026):** Josh
+> handled new-hire paperwork (I-9s, W-4s, new-hire forms) and employee background
+> checks / state badge requirements for dispensary staff. This is genuine employer-side
+> employee-onboarding compliance experience in a state-regulated business. It is **not**
+> payroll processing or benefits administration, which remain confirmed gaps (see the
+> knockouts block at the top); keep the two distinct.
 - Built compliance and customer-management systems from scratch in a licensed cannabis dispensary.
+- Managed new-hire paperwork (I-9s, W-4s, new-hire forms) and employee background checks and state badge requirements for dispensary staff.
 - Developed early operational infrastructure — intake processes and reporting systems — scaling the business to profitability.
 - Built customer service, vendor, and supplier workflows from the ground up.
 
@@ -575,6 +584,7 @@ operator talking, not like a candidate performing.
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
+| Office & Finance Basics | Microsoft Word, Outlook, Excel (experienced); Basic bookkeeping, reconciliation, AP/AR *(confirmed by Josh, Sep 2026; which role(s) not yet captured, ask before writing a role-specific bullet)* |
 | Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
 
 > **Excel, Power BI, SQL, Python/JS (confirmed by Josh, Sep 2026, updated Sep 2026):**

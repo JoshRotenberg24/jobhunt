@@ -7,6 +7,37 @@
 - **Link:** https://eso.workgr8.com/jobs/6517/onboarding-and-payroll-specialist
 - **Date evaluated:** 2026-09-28
 
+## Rescore (Sep 28, 2026): 45 → 61 after Josh's confirmations
+
+Josh confirmed five facts in-session, all now in `profile/master-profile.md`:
+1. Standing Akimbo: handled new-hire paperwork (I-9s, W-4s, new-hire forms) and employee background checks / state badge requirements.
+2. Accelo: set up and walked clients through time-tracking and timesheet-approval workflows.
+3. Wix: approved team hours, PTO, and schedules as team lead.
+4. Basic bookkeeping, reconciliation, AP/AR (role attribution not yet captured).
+5. Proficient in Microsoft Word and Outlook.
+
+```
+🔵 Application Priority Score: 61 / 100 — Solid stretch
+[████████████░░░░░░░░]  61%
+```
+
+| Dimension | Before | After | Why it moved |
+| :--- | :--- | :--- | :--- |
+| Must-have requirements met | 23 | 31 / 40 | Employee onboarding paperwork and background checks now evidenced; timecard handling adjacent (approvals + timesheet workflow setup); basic accounting and MS Office met; 2 years personnel experience met (Akimbo + Wix). **Payroll processing itself is still a confirmed gap.** |
+| Seniority & scope alignment | 5 | 6 / 15 | Still heavily overqualified for a non-exempt specialist role. Structural, no rewrite fixes it. |
+| Domain / industry alignment | 3 | 6 / 15 | Employer-side new-hire compliance in a state-regulated business. Still no staffing or payroll-operations background. |
+| Differentiators / nice-to-haves | 7 | 9 / 15 | Compliance systems built from scratch, Excel + automation. |
+| Evidence strength | 7 | 9 / 15 | Direct I-9/W-4/background-check handling, but 2010-2012 and unquantified. |
+| **Total** | **45** | **61 / 100** | **Solid stretch (bottom of band).** |
+
+**Ceiling:** about 61 is as high as it goes honestly. The remaining points are payroll processing (~40% of the job, confirmed never done), VMS/ERP systems, and the overqualification mismatch.
+
+Resume rebuilt: one page, classic, now includes Standing Akimbo, Fivestars, and Senior Directory so the timeline is continuous back to 2010.
+
+---
+
+## Original evaluation (45)
+
 ## Application-Form and Eligibility Check
 
 | Item | Classification | Status |
@@ -16,8 +47,8 @@
 | Pay expectation | Application-form requirement | Posted max $22.69/hr (~$47K) is about 37% below the $75K floor anchor. Josh's call whether that's acceptable; if applying, answer within the posted range. |
 | Remote US, Mon-Fri daytime | Application-form requirement | Pass. |
 | Work authorization / E-Verify | Application-form requirement | Pass. U.S. citizen. |
-| Basic accounting knowledge | Needs candidate confirmation | Not documented in profile. |
-| MS Word / Outlook proficiency | Needs candidate confirmation | Excel is confirmed experienced; Word/Outlook not documented (left off the resume until confirmed). |
+| Basic accounting knowledge | Resume-evidenced | Confirmed Sep 28 (see rescore). |
+| MS Word / Outlook proficiency | Resume-evidenced | Confirmed Sep 28. |
 | Enterprise Resource Program (ERP) / VMS timecard systems | Resume-evidenced | Gap. No ERP or vendor-management-system experience on file. |
 
 No hard knockout. Built per the core rule.

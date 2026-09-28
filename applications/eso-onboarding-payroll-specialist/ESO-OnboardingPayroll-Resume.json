@@ -1,14 +1,14 @@
 {
   "style": "classic",
   "name": "Joshua Rotenberg",
-  "headline": "Onboarding & Operations Specialist | Documentation, Deadlines & Data Accuracy",
+  "headline": "Onboarding & Operations Specialist | New-Hire Paperwork, Timesheets & Deadlines",
   "contact": {
     "location": "Arvada, CO (Remote)",
     "phone": "303-726-5037",
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Onboarding and operations professional with 15+ years in fast-paced, deadline-driven remote environments. Onboarded 25+ clients per month at Wix while leading a team of onboarding specialists, and have spent my career coordinating timelines between customers and internal teams while keeping records accurate and complete. Experienced Excel user who builds tracking, reporting, and automated workflows that keep high-volume processes on schedule.",
+  "summary": "Onboarding and operations professional with 15+ years in deadline-driven, high-volume environments. Handled new-hire paperwork (I-9s, W-4s) and employee background checks in a state-regulated business, approved team hours and PTO as a team lead, and set up timesheet-approval workflows for software clients. Experienced in Excel, Word, and Outlook, with basic bookkeeping knowledge.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -16,10 +16,8 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Run client onboarding end to end, collecting requirements and documentation, setting timelines, and configuring each client's systems.",
-        "Document every client interaction, timeline, and deliverable in HubSpot, GoHighLevel, and Notion, keeping records auditable across concurrent engagements.",
-        "Build automated intake, reminder, and follow-up workflows that keep deadlines on track without manual chasing.",
-        "Track and report performance in Excel, Power BI, and CRM dashboards on a regular cadence."
+        "Run client onboarding end to end: collect documentation and requirements, set timelines, and configure each client's systems.",
+        "Document every client interaction, timeline, and deliverable in HubSpot, GoHighLevel, and Notion, keeping records auditable across concurrent engagements."
       ]
     },
     {
@@ -27,10 +25,7 @@
       "company": "Level Agency",
       "location": "Remote",
       "dates": "Sep 2024 - Feb 2025",
-      "bullets": [
-        "Coordinated execution across internal departments for multiple client accounts, resolving client feedback promptly to hold delivery quality.",
-        "Advised clients on budget planning and allocation across paid campaigns and reported results against KPIs."
-      ]
+      "bullets": []
     },
     {
       "title": "Channel Partnerships & Customer Onboarding",
@@ -38,8 +33,7 @@
       "location": "Remote",
       "dates": "Feb 2023 - Apr 2024",
       "bullets": [
-        "Onboarded and managed 15-20 reseller partners, guiding each through setup and configuration and retaining all but one (~94%).",
-        "Built automated training and communication sequences that reduced onboarding friction and missed steps."
+        "Onboarded 15-20 reseller partners through setup and configuration, retaining all but one (~94%)."
       ]
     },
     {
@@ -48,8 +42,7 @@
       "location": "Remote",
       "dates": "Sep 2022 - Feb 2023",
       "bullets": [
-        "Led the sales team and rebuilt internal processes that improved reporting accuracy and reduced handoff errors.",
-        "Managed client workflows and tasks in ClickUp against weekly deadlines."
+        "Led the sales team and rebuilt processes that improved reporting accuracy and reduced handoff errors."
       ]
     },
     {
@@ -58,9 +51,8 @@
       "location": "Remote",
       "dates": "Aug 2020 - Aug 2022",
       "bullets": [
-        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets.",
-        "Led a team of onboarding specialists for 2 years (20, later 8), and contributed to hiring, onboarding, and training new hires.",
-        "Labeled and defined the CRM fields required for onboarding workflows, standardizing data capture across the team."
+        "Led a team of onboarding specialists for 2 years (20, later 8): approved hours, PTO, and schedules, and contributed to hiring, onboarding, and training new hires.",
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets."
       ]
     },
     {
@@ -69,39 +61,55 @@
       "location": "Denver, CO",
       "dates": "Apr 2018 - Jul 2020",
       "bullets": [
-        "Guided client onboarding alongside implementation teams, troubleshooting setup issues and escalating risks early."
+        "Set up and walked clients through time-tracking and timesheet-approval workflows in Accelo's platform during scoping and onboarding."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": []
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": []
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Managed new-hire paperwork (I-9s, W-4s, new-hire forms) and employee background checks and state badge requirements in a licensed, state-regulated business.",
+        "Built compliance, intake, and reporting systems from scratch, scaling the business to profitability."
       ]
     }
   ],
   "competencies": [
     {
-      "category": "Onboarding & Operations",
+      "category": "Onboarding & Compliance",
       "items": [
-        "Onboarding Coordination",
-        "Documentation & Recordkeeping",
-        "Timeline Management",
-        "Process Improvement",
-        "Data Accuracy"
+        "New-Hire Paperwork (I-9, W-4)",
+        "Background Checks",
+        "Timesheet & PTO Approval",
+        "Recordkeeping",
+        "Deadline Management"
       ]
     },
     {
-      "category": "Systems",
+      "category": "Systems & Skills",
       "items": [
-        "Microsoft Excel (experienced)",
+        "Excel (experienced)",
+        "Word",
+        "Outlook",
         "Salesforce",
         "HubSpot",
-        "Power BI",
-        "Notion",
-        "Zapier / Make"
-      ]
-    },
-    {
-      "category": "Professional",
-      "items": [
-        "Team Leadership",
-        "Written & Verbal Communication",
-        "Customer & Stakeholder Coordination",
-        "Problem Solving"
+        "Basic Bookkeeping",
+        "Team Leadership"
       ]
     }
   ],
