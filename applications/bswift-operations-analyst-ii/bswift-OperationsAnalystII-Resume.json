@@ -1,0 +1,114 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Operations Analyst | Data Accuracy, File Auditing & Process Improvement",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operations professional with 15+ years in SaaS and service businesses, focused on getting data right and keeping processes clean. I run batch data imports, map records to CRM fields, enforce data-hygiene standards, and build rubrics to audit output against a standard. Experienced in Excel, SQL, and Power BI, with employer-side HR experience handling I-9s and W-4s, approving team hours and PTO, and basic bookkeeping.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run batch/CSV data imports into GoHighLevel and other platforms, mapping records to the target system's fields and enforcing strict data-hygiene standards.",
+        "Built rubric-based grading criteria to audit automated and AI-generated output against defined standards, and personally review and label the data.",
+        "Build Excel and Power BI reporting, using SQL on BigQuery data, to spot discrepancies and track performance."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": []
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded 15-20 partners, making sure every end customer's local-listings data was configured correctly, and retained all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Rebuilt internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Labeled and defined the CRM fields required for sales and onboarding workflows, standardizing data capture across the team.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), approving hours, PTO, and schedules, and training new hires."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Set up and walked clients through time-tracking and timesheet-approval workflows during onboarding."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": []
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": []
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Managed new-hire paperwork (I-9s, W-4s) and employee background checks, and built compliance and reporting systems in a state-regulated business."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Data & Tools",
+      "items": [
+        "Data Accuracy & Hygiene",
+        "Field Mapping & Batch Imports",
+        "Quality Control",
+        "Excel (experienced)",
+        "Word",
+        "Outlook",
+        "SQL",
+        "Power BI",
+        "Salesforce",
+        "HubSpot",
+        "Basic Bookkeeping"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
