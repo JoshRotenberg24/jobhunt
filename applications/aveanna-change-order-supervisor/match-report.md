@@ -1,5 +1,7 @@
 # Match Report: Aveanna Healthcare, Change Order Supervisor (Remote)
 
+> **Status: Skipped by Josh (Sep 29, 2026).** Files kept for reference.
+
 - **Company:** Aveanna Healthcare (home care)
 - **Role:** Change Order Supervisor. Leads a team processing changes to patient plans of care: workflow, performance, QA, escalations, HIPAA compliance.
 - **Location:** Remote; Monday-Friday Eastern Time (branch: Oklahoma City AMS)

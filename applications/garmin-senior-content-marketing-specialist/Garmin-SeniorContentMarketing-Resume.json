@@ -1,0 +1,114 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Content Marketing & SEO | Long- and Short-Form Writing, Content Strategy & Performance Analytics",
+  "contact": {
+    "location": "Arvada, CO (Denver metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Content marketer and writer who turns complex products into clear, useful reading, and then measures whether it worked. I write and publish thought leadership, newsletters, and educational guides for B2B audiences, produce conversion copy and multi-touch email sequences, and run the SEO behind it: keyword and competitor research, technical audits, schema, and GA4 and Search Console analysis. 15+ years in MarTech and SaaS, 4 of them focused on SEO. I've also trained and mentored teams, including sales training for tenured account executives at Wix.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Write and publish thought leadership, newsletters, and educational guides that translate systems architecture and CRM concepts into plain language for B2B readers.",
+        "Draft direct-response copy, outreach sequences, and landing pages, and build reusable messaging frameworks adapted to each client's brand and audience.",
+        "Run keyword gap analysis, competitor research, and technical SEO audits (Screaming Frog, schema/structured data), implementing fixes directly in client CMS platforms.",
+        "Track content and site performance in GA4 and Search Console, and turn the data into optimization recommendations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated strategies across inbound, paid media, and content, coordinating cross-department execution for client campaigns.",
+        "Produced landing pages, complex email sequences, and conversion-focused copy, and ran Google keyword research to shape content direction.",
+        "Built performance reporting on conversion KPIs and presented optimization recommendations in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated product-training content sequences that helped 15-20 partners explain product value to their own customers, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations on site architecture, inbound marketing, and SEO, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Developed sales training for tenured account executives and trained new hires as team lead of a 20-person (later 8) team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Explained complex CRM and project-management software to agency and professional-services buyers, ranking top three on a team of 8 to 15."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Content",
+      "items": [
+        "Long- & Short-Form Writing",
+        "Content Strategy",
+        "Email Content & Newsletters",
+        "Direct-Response Copy",
+        "Technical-to-Plain-Language Translation"
+      ]
+    },
+    {
+      "category": "SEO & Analytics",
+      "items": [
+        "SEO & Keyword Research",
+        "Technical SEO & Schema",
+        "Google Analytics 4",
+        "Google Search Console",
+        "Content Performance Analysis"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Microsoft Office",
+        "HubSpot",
+        "Mailchimp",
+        "Marketo",
+        "Screaming Frog",
+        "Ahrefs",
+        "Semrush"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
