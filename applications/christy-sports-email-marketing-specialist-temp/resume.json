@@ -1,0 +1,89 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Email Marketing & Lifecycle Campaigns | Build, Segment, QA, Deploy & Measure",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Email and lifecycle marketer who takes campaigns from brief to deployment: writing the copy, building the sequence, setting audiences and personalization, checking every link and trigger before launch, and reporting on what worked. Hands-on in HubSpot, Marketo, Mailchimp, and GoHighLevel, with 20+ automated lifecycle workflows built and deployed. Launched e-commerce storefronts for established retail businesses at Wix, and a Colorado local who camps and hikes.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built and deployed 20+ automated lifecycle workflows in GoHighLevel and HubSpot, including onboarding nurture, reminders, win-back and reactivation, and review-generation sequences.",
+        "Built segmented email campaigns by audience trigger (website visibility, missed calls, low reviews), with personalization driven by each contact's data.",
+        "Write direct-response copy, email sequences, and landing pages, and build reusable templates adapted to each client's brand."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced complex email sequences, landing pages, and conversion-focused copy that improved lead generation.",
+        "Built campaign reporting on ROI, CAC, LTV, and conversion, ran A/B-tested campaigns, and delivered recommendations in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated product-training sequences and communication workflows for a 15-20 partner network, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance at a performance marketing agency and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Built and launched e-commerce sites for established retail businesses adding online sales to their physical stores.",
+        "Contributed to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Email Production",
+      "items": [
+        "Campaign Build & Deployment",
+        "Segmentation & Personalization",
+        "Pre-Launch QA",
+        "Templates & Reusable Components",
+        "A/B Testing"
+      ]
+    },
+    {
+      "category": "Platforms & Analytics",
+      "items": [
+        "HubSpot, Marketo, Mailchimp, GoHighLevel",
+        "GA4, Google Tag Manager, Excel",
+        "HTML/CSS"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
