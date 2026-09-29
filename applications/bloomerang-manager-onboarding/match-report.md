@@ -5,6 +5,7 @@
 **Location:** Remote (US + select Canadian provinces); no visa sponsorship or relocation
 **Compensation:** $81,500-$110,000 + discretionary bonus
 **Date:** September 16, 2026
+**Status:** Skipped by Josh (2026-09-29, when the posting came up again). Not applying. Materials kept for reference.
 
 ---
 
