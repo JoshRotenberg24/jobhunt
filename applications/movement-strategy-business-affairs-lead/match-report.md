@@ -6,6 +6,7 @@
 - **Comp:** $150K-$190K
 - **Link:** not provided (JD pasted)
 - **Date evaluated:** 2026-09-29
+- **Status:** Skipped by Josh (2026-09-29). Not applying. Materials kept for reference.
 
 ## Eligibility: failed hard requirement (top of report)
 
