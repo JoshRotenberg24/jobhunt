@@ -1,0 +1,103 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Agency Operations & Commercial Deals | Deal Scoping, Client Agreements & Process Playbooks",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Agency and SaaS operator with 15+ years on the commercial side of client relationships: scoping and closing agreements, negotiating live with owners and executives, and building the processes and templates that keep delivery aligned with what was sold. Closed and scoped deals from ~$10K to $45K across agency and SaaS roles, built compliance systems from scratch in a licensed, regulated business, and led a team of 20 (later 8). Knows when a question needs an expert and escalates early.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Scope and expand client retainers, defining deliverables and recommending complementary services aligned with each client's objectives.",
+        "Build reusable templates and messaging frameworks, and document every client interaction, timeline, and deliverable so engagements stay auditable."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder agency accounts across paid, inbound, and content, coordinating execution across internal departments and advising clients on budget allocation."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client agency deals averaging ~$22K (~$130K+ total), reached finalist stage on a major banking prospect, and led the sales team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed and developed a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex software agreements to agencies and professional-services firms, closing deals of $20K and larger; ranked top three while quota roughly doubled.",
+        "Escalated account risk to leadership early and resolved it with direct guidance."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance, vendor, and supplier systems from scratch in a licensed, regulated business."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Commercial",
+      "items": [
+        "Deal Scoping & Negotiation",
+        "Client Agreements & Retainer Scope",
+        "Vendor & Supplier Management",
+        "Escalation Judgment"
+      ]
+    },
+    {
+      "category": "Operations",
+      "items": [
+        "Playbooks, Templates & SOPs",
+        "Compliance Systems",
+        "Team Leadership & Coaching",
+        "Salesforce, HubSpot, Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
