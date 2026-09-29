@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 29, 2026",
+  "company": "New Law Business Model",
+  "role": "Solutions Engineer - Customer Success",
+  "recipient": "Hiring Team",
+  "body": [
+    "The stack behind Accelerator, GoHighLevel and HubSpot connected to the rest of a firm's tools, is the stack I build and support every day. At Solenzo I've architected 20+ GoHighLevel workflows across client accounts, covering pipelines, calendars, forms, appointment booking and reminders, no-show recovery, onboarding, and email and SMS review requests, and I connect GoHighLevel and HubSpot to everything else through Zapier, Make, and n8n. When no-code stops, I write Python or JavaScript in custom code steps to parse and map the data.",
+    "The other half of this role is the person on the other end. My clients are business owners who don't want to learn how a webhook works; they want their calendar to book and their follow-ups to send. I've spent 15+ years walking non-technical people through setup and fixes, including 25+ onboardings a month at Wix and complex configuration work for Birdeye partners. I also know the professional-services world: at Accelo I sold and implemented practice-management software for professional-services firms. I also build AI into client systems, and I grade its output against rubrics before trusting it.",
+    "I'd welcome a conversation about Accelerator and how I can help your members. I'm available at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Sincerely,"
+}

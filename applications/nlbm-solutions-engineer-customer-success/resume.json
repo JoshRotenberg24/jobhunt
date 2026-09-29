@@ -1,0 +1,106 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Solutions Engineer | GoHighLevel & HubSpot Administration, Integrations & Client Education",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Systems builder and client-facing troubleshooter with 15+ years in SaaS and 5+ years administering CRM and automation platforms, primarily GoHighLevel with hands-on HubSpot builds. Built and supports 20+ GoHighLevel workflows across client accounts (pipelines, calendars, forms, booking, email and SMS), connects systems through Zapier, Make, and n8n with Python and JavaScript code steps, and explains technical fixes in plain language to non-technical business owners. Sold and implemented practice-management software to professional-services firms at Accelo.",
+  "experience": [
+    {
+      "title": "GoHighLevel & HubSpot Systems Builder (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build and administer GoHighLevel and HubSpot for service-business client accounts: pipelines, lifecycle stages, lead routing, calendars, forms, and data-hygiene rules.",
+        "Architected 20+ GoHighLevel workflows covering lead capture and tagging, qualification, appointment booking with confirmations and reminders, no-show recovery, onboarding, reactivation, and email and SMS review requests.",
+        "Integrate GoHighLevel, HubSpot, and client systems through Zapier, Make, and n8n, using webhooks and writing Python and JavaScript in custom code steps to parse and map data where no-code stops.",
+        "Troubleshoot automation and integration issues across client accounts to root cause, testing each fix before it goes live.",
+        "Configure and evaluate AI-generated output for client automation systems against self-built rubric criteria, labeling the data personally.",
+        "Train client teams on their systems and translate non-technical requests into precise technical configurations; install Google Tag Manager and GA4 on every site built."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts in HubSpot, resolving client issues promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation-management and marketing-automation software, retaining all but one of 15-20 partners (~94%).",
+        "Built automated training sequences that reduced onboarding friction, and fed structured customer feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes in HubSpot and ClickUp that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month at 110% of implementation targets, walking non-technical owners through setup including Google Tag Manager and Google Business Profile.",
+        "Led and trained a team of onboarding specialists (20, later 8)."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and implemented a practice-management (PSA) and CRM platform for professional-services firms, guiding onboarding, workflow design, and API integrations and building Zapier automations."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Platforms",
+      "items": [
+        "GoHighLevel (workflows, pipelines, calendars, forms, SMS)",
+        "HubSpot",
+        "Asana, ClickUp, Salesforce"
+      ]
+    },
+    {
+      "category": "Integrations & Technical",
+      "items": [
+        "Zapier, Make, n8n, Webhooks, API Integrations",
+        "Python & JavaScript (automation code steps)",
+        "HTML/CSS, GA4, Google Tag Manager, SQL (working proficiency)"
+      ]
+    },
+    {
+      "category": "Support & Education",
+      "items": [
+        "Root-Cause Troubleshooting",
+        "Client Training in Plain Language",
+        "Documentation & Repeatable Fixes",
+        "AI-Assisted Investigation with Verification"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
