@@ -1,14 +1,14 @@
 {
   "style": "modern",
   "name": "Joshua Rotenberg",
-  "headline": "Email Marketing & Lifecycle Campaigns | Build, Segment, QA, Deploy & Measure",
+  "headline": "Email & SMS Marketing | Build, Segment, QA, Deploy & Measure",
   "contact": {
     "location": "Arvada, CO",
     "phone": "303-726-5037",
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Email and lifecycle marketer who takes campaigns from brief to deployment: writing the copy, building the sequence, setting audiences and personalization, checking every link and trigger before launch, and reporting on what worked. Hands-on in HubSpot, Marketo, Mailchimp, and GoHighLevel, with 20+ automated lifecycle workflows built and deployed. Launched e-commerce storefronts for established retail businesses at Wix, and a Colorado local who camps and hikes.",
+  "summary": "Email and lifecycle marketer who takes campaigns from brief to deployment: writing the copy, building the sequence, setting audiences and personalization, checking every link and trigger before launch, and reporting on what worked. Hands-on in HubSpot, Marketo, Mailchimp, and GoHighLevel, with 20+ automated lifecycle workflows built and deployed. Launched e-commerce storefronts for established retail businesses at Wix. Denver native who camps and hikes.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -16,7 +16,7 @@
       "location": "Arvada, CO",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Built and deployed 20+ automated lifecycle workflows in GoHighLevel and HubSpot, including onboarding nurture, reminders, win-back and reactivation, and review-generation sequences.",
+        "Built and deployed 20+ automated lifecycle workflows in GoHighLevel and HubSpot, including email and SMS onboarding, reminders, reactivation, and review-generation sequences.",
         "Built segmented email campaigns by audience trigger (website visibility, missed calls, low reviews), with personalization driven by each contact's data.",
         "Write direct-response copy, email sequences, and landing pages, and build reusable templates adapted to each client's brand."
       ]
@@ -64,7 +64,7 @@
     {
       "category": "Email Production",
       "items": [
-        "Campaign Build & Deployment",
+        "Email & SMS Campaign Build & Deployment",
         "Segmentation & Personalization",
         "Pre-Launch QA",
         "Templates & Reusable Components",

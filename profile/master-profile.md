@@ -18,6 +18,7 @@
 | Company | Solenzo LLC (Founder) |
 | Languages | English only (not bilingual) |
 | Citizenship | U.S. citizen (confirmed by Josh, Sep 2026) |
+| Hometown | Denver native, "I'm from Denver" (confirmed by Josh, Sep 2026). Usable as local-roots context for Colorado employers. |
 
 > **Job-search knockouts (constraints, not resume content):** English only — any role
 > that requires a second language / bilingual (e.g. Spanish) fluency is a hard knockout.
@@ -324,6 +325,14 @@ operator talking, not like a candidate performing.
 - Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.
 
 **Marketing & Growth Systems**
+> **SMS campaigns (confirmed by Josh, Sep 2026):** Josh has sent SMS/text campaigns from
+> GoHighLevel as part of his Solenzo automation work. Safe to claim SMS campaign building and
+> deployment in GoHighLevel. Specific SMS use cases and volumes not yet captured.
+>
+> **Email open rates (Josh, Sep 2026):** Josh reports "very high open rates" on his email
+> campaigns. No number captured yet; do not put "high open rates" on a resume without a
+> real figure or range (see Numbers Worth Capturing).
+>
 > **Automation platform breadth beyond GoHighLevel (confirmed by Josh, Sep 2026):** Josh
 > builds automations in Zapier, Make, and n8n at Solenzo, in addition to native
 > GoHighLevel workflows, not siloed to one platform. He has built Zapier automations
@@ -634,6 +643,7 @@ with its scope and delete the line here.
   8). Still unrecorded: how many people he personally hired and trained.
 
 **Role-specific:**
+- **Email and SMS open/click rates.** Josh reports "very high" open rates (Sep 2026); get a real number or range, plus the platform and list it came from.
 - **Data volume.** Records or contacts in the largest migration or import he has run, and
   what tool he cleaned it in. Directly requested by implementation JDs (Excel is named
   explicitly in several) and currently unevidenced.

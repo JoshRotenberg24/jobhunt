@@ -17,7 +17,7 @@
 | Portfolio / work samples (strongly preferred) | Candidate confirmation needed | Does Josh have email designs he can show (Solenzo client emails, Level sequences)? |
 | Listrak (strongly preferred, may be prioritized) | Resume-evidenced | **Gap.** Not in profile. |
 | Figma or similar | Candidate confirmation needed | Not in profile. |
-| SMS campaign experience | Candidate confirmation needed | Unconfirmed; has come up before. GoHighLevel supports SMS, but no SMS campaigns are on record. |
+| SMS campaign experience | Resume-evidenced | Confirmed by Josh (2026-09-29): SMS campaigns from GoHighLevel. Added to resume and profile. |
 | Bachelor's in marketing/business/comms or related | Resume-evidenced | B.A. Liberal Arts. Arguably related. |
 
 ## Application Priority Score
@@ -33,20 +33,19 @@ Application Priority Score: 58 / 100 — Long shot (only if excited; lead with d
 | :--- | :--- | :--- |
 | Must-have requirements met | 23 / 40 | Email build, segmentation, personalization, analytics, A/B testing: yes. Listrak, SMS, email design tools, portfolio, subscriber and revenue growth numbers: not evidenced. |
 | Seniority & scope alignment | 11 / 15 | Hands-on specialist; Josh is senior to it, but temp roles tolerate that. |
-| Domain / industry alignment | 8 / 15 | Retail e-commerce launches (Wix); personal outdoor recreation (camps, hikes; no ski/snowboard on record). |
+| Domain / industry alignment | 8 / 15 | Retail e-commerce launches (Wix); personal outdoor recreation (camps, hikes; no ski/snowboard on record); Denver native (confirmed). |
 | Differentiators / nice-to-haves | 10 / 15 | Marketo, Mailchimp, HubSpot; HTML/CSS; GA4/GTM; automation depth. |
 | Evidence strength | 6 / 15 | No email KPIs (open, click, revenue per send, list growth). |
 
 ## Gaps
 
 - Listrak.
-- SMS campaigns (unconfirmed).
 - Email design in Figma or similar, and a portfolio.
 - Email revenue and subscriber-growth numbers.
 
 ## Candidate confirmation needed
 
-- Have you run SMS campaigns (GoHighLevel texts, reminders, missed-call text-back)? If yes, it goes on the resume and the profile.
+- Email open-rate number: Josh reports "very high" open rates; need a real figure or range before it goes on the resume.
 - Figma, Canva, or another design tool for emails?
 - Any email samples you could share as a portfolio?
 - Any email numbers: open rate, click rate, revenue from a send, list growth?
