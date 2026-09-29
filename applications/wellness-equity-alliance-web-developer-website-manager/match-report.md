@@ -1,5 +1,7 @@
 # Match Report: Wellness Equity Alliance, Web Developer & Website Manager
 
+> **Status: Skipped by Josh (Sep 29, 2026).** Files kept for reference.
+
 - **Company:** Wellness Equity Alliance (national community-based health organization; mobile/field care, harm reduction, tribal nations)
 - **Role:** Part-time 1099 contractor. Build and maintain WEA and affiliated sites in **Squarespace**: pages, custom HTML/CSS/JS, SEO/AEO, schema/JSON-LD, analytics, accessibility, email/newsletter support.
 - **Location:** Remote, U.S.
