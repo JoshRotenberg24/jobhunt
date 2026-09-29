@@ -54,9 +54,10 @@ Application Priority Score: 58 / 100 — Long shot (only if excited; lead with d
 
 ## Cover letter
 
-Skipped. The application is a portfolio-weighted hands-on role; work samples will matter more than a letter.
+Built at Josh's request (2026-09-29). Opens on Denver roots and proximity to Lakewood, maps email/SMS build-to-deploy work (Solenzo, Level, Wix e-commerce), and names the Listrak gap.
 
 ## Output files
 
 - `Rotenberg Resume - Christy Sports - Email Marketing Specialist.pdf` / `.docx`
-- `resume.json` / `resume.pdf` / `resume.docx`, `fit.json` / `fit.png`
+- `Rotenberg Cover Letter - Christy Sports - Email Marketing Specialist.pdf` / `.docx`
+- `resume.*` / `cover-letter.*` (working copies), `fit.json` / `fit.png`
