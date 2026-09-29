@@ -1,0 +1,114 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Operations Supervisor | Team Leadership, Workflow Management, Quality & Escalations",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Remote operations leader with 15+ years in high-volume, detail-driven environments. At Wix, I directly managed a team of 20 (later 8) for two years: assigning daily work, approving hours and PTO, and hiring and training new team members, while personally delivering 25+ launches a month at 110% of implementation goals. I stay calm under pressure, use data to spot trends, and fix the process behind the problem. Experienced in Excel, Word, and Outlook; remote since 2020.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Design and run automated workflows that keep client processes accurate and on schedule, with rubric-based quality checks on output.",
+        "Document every client interaction, timeline, and deliverable, keeping records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": []
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 partners, including agencies serving healthcare clients, retaining all but one (~94%).",
+        "Analyzed utilization metrics to catch problems early and recommend corrective interventions."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team, and rebuilt internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Directly managed and developed a team of onboarding specialists for 2 years (20, later 8): assigned daily workload, approved hours, PTO, and schedules, and oversaw scope and delivery.",
+        "Contributed to hiring, onboarding, and training new team members, and developed training for tenured account executives.",
+        "Standardized the CRM fields and documentation the team used, improving data consistency across workflows.",
+        "Delivered 25+ launches per month personally, holding 110% of implementation targets and 120% of sales targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Escalated account risk to leadership early and resolved technical challenges during client onboarding."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": []
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": []
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance, intake, and reporting systems from scratch in a licensed, state-regulated business, and managed new-hire paperwork and employee background checks."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Skills",
+      "items": [
+        "Team Leadership & Training",
+        "Workload Assignment",
+        "Performance Metrics",
+        "Quality Checks",
+        "Process Improvement",
+        "Excel (experienced)",
+        "Word",
+        "Outlook",
+        "Salesforce"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
