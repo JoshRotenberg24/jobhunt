@@ -9,6 +9,7 @@
 - **Link:** https://secure.dc4.pageuppeople.com/apply/1234/gateway/default.aspx?c=apply&lJobID=493356&lJobSourceTypeID=796&sLanguage=en-us
 - **Applications close:** 2026-10-07
 - **Date evaluated:** 2026-09-29
+- **Status:** Skipped by Josh (2026-09-29). Not applying. Materials kept for reference.
 
 ## Application-Form and Eligibility Check
 

@@ -6,6 +6,7 @@
 - **Comp:** $58,900 fixed salary + benefits
 - **Link:** https://smart-city-locating.breezy.hr/p/d7ee9124687e-client-success-operations-specialist
 - **Date evaluated:** 2026-09-29
+- **Status:** Skipped by Josh (2026-09-29). Not applying. Materials kept for reference.
 
 ## Application-Form and Eligibility Check
 
