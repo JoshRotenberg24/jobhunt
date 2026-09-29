@@ -1,5 +1,7 @@
 # Match Report: Garmin, Senior Content Marketing Specialist
 
+> **Status: Skipped by Josh (Sep 29, 2026).** Files kept for reference.
+
 - **Company:** Garmin (Garmin.com, TrainingPeaks, and TrainHeroic blogs)
 - **Role:** Senior Content Marketing Specialist. Owns blog stories ideation to publication, topic clusters, SEO/AEO optimization with SEO analyst, content audits, AP-style interviews, integrated campaigns (blog, PR, social, eblast), mentors junior writers.
 - **Location:** Greater Denver area (on-site/hybrid implied)
