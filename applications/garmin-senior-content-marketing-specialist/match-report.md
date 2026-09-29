@@ -7,6 +7,10 @@
 - **Deadline:** October 9, 2026
 - **Date evaluated:** 2026-09-29
 
+## Rescore (Sep 29): 53 → 61 after confirmations
+
+Josh confirmed: published writing samples exist (links still needed for the application), WordPress hands-on, AP style familiar. Sports: played basketball, genuine sports fan, runs as a workout; not an endurance athlete. All added to `profile/master-profile.md`. Must-haves 25 → 30, domain 3 → 4, differentiators 10 → 11, evidence 6 → 7. Now **Solid stretch (bottom of band)**; the portfolio links decide it.
+
 ## Application-Form and Eligibility Check
 
 | Item | Classification | Status |

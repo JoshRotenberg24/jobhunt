@@ -129,6 +129,17 @@ band.
 > experience, but a real, defensible answer to "can this candidate speak the language of our
 > audience."
 
+## Writing, publishing tools, and sports (confirmed Sep 2026)
+
+- **Published writing samples exist** (thought leadership, newsletters, guides). Links not
+  yet captured in this repo; ask Josh for URLs when a posting requires a portfolio.
+- **WordPress:** hands-on, confirmed.
+- **AP style:** familiar, confirmed.
+- **Sports:** played basketball growing up and is a genuine sports fan. Runs as a workout,
+  not as a sport; not an endurance athlete or coach. For endurance-sports employers
+  (Garmin, TrainingPeaks), represent this as general sports passion, never as endurance
+  experience.
+
 ## Outdoor recreation (confirmed Aug 2026)
 
 - **Camps and hikes.** Colorado-based, uses the state's outdoors recreationally.
@@ -597,7 +608,7 @@ operator talking, not like a candidate performing.
 | Customer Success | Onboarding Strategy, Churn Prevention, Time-to-Value Reduction, NPS, Retention, Upsell Identification, Success Plans |
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination, Agile/Scrum, Jira (user) |
-| Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
+| Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management, AP Style, WordPress |
 | Office & Finance Basics | Microsoft Word, Outlook, Excel (experienced); Basic bookkeeping, reconciliation, AP/AR *(confirmed by Josh, Sep 2026; which role(s) not yet captured, ask before writing a role-specific bullet)* |
 | Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
 
