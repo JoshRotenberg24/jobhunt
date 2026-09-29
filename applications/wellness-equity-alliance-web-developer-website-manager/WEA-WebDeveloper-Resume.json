@@ -1,0 +1,112 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Web Developer & Website Manager | HTML/CSS, Technical SEO, Schema & Analytics",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Website builder and manager who handles the whole stack a small team needs: page builds, HTML/CSS customization, technical SEO and schema, analytics tracking, forms and integrations, and the email follow-up behind them. I built and maintain my own business site directly in HTML/CSS, install Google Tag Manager and GA4 on every client site I build, and run technical SEO audits with fixes implemented inside client CMS platforms. At Wix, I launched 25+ client sites a month, building e-commerce storefronts for retail businesses, and advised on site architecture, navigation, and SEO. I explain web decisions in plain language to non-technical teams.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built and maintain the Solenzo website directly in HTML/CSS, and build client websites with Google Tag Manager and GA4 installed on every one.",
+        "Run technical SEO audits with Screaming Frog, keyword gap analysis, and competitor research, implementing fixes directly inside client CMS platforms.",
+        "Identify and implement schema/structured data as part of every technical SEO audit, and optimize Google Business Profiles for local discoverability.",
+        "Connect website forms to CRM and email automation (GoHighLevel, HubSpot) through webhooks and Zapier, Make, and n8n, including lead capture and follow-up sequences.",
+        "Diagnosed on-site conversion as a client's real bottleneck after cleaning up their paid traffic, and recommend usability and page-structure improvements from GA4 and Search Console data."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced landing pages, multi-touch email sequences, and conversion-focused copy for client campaigns, and ran Google keyword research to shape content direction."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded partners (including agencies serving healthcare clients) onto Birdeye's local-listings syndication solution, keeping every end customer's online presence accurate; retained all but one of 15-20 partners."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Managed client workflows and deliverables in ClickUp against deadlines, and rebuilt processes that reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Built and launched websites, including e-commerce storefronts for established retail businesses, onboarding 25+ clients per month at 110% of implementation targets.",
+        "Led digital growth consultations on site architecture, navigation, inbound marketing, and SEO, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Guided clients through Google Tag Manager setup and connected their Google Business Profiles alongside the site build."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations; built Zapier automations connecting client systems."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Web",
+      "items": [
+        "HTML / CSS",
+        "JavaScript (customization)",
+        "Wix Website Builder",
+        "Forms & Integrations",
+        "Information Architecture"
+      ]
+    },
+    {
+      "category": "SEO & Analytics",
+      "items": [
+        "Technical SEO",
+        "Schema / Structured Data",
+        "Google Analytics 4",
+        "Google Search Console",
+        "Google Tag Manager",
+        "Screaming Frog"
+      ]
+    },
+    {
+      "category": "Email & Tools",
+      "items": [
+        "Mailchimp",
+        "Marketo",
+        "HubSpot",
+        "Zapier / Make / n8n"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
