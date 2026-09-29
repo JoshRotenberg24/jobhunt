@@ -1,0 +1,90 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Automation & Email | HubSpot Workflows, Segmentation, Lead Scoring & Testing",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Hands-on marketing automation builder with 5+ years designing CRM and email automation, including HubSpot builds with segmentation, lifecycle stages, and data-hygiene rules. Built 20+ automated lifecycle workflows and a scoring workflow that rated 180+ prospects and triggered personalized outreach. Builds landing pages and forms, runs A/B tests, and turns results into clear next steps.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and implement CRM and automation systems in HubSpot and GoHighLevel, including contact segmentation, lifecycle stages, lead routing, and strict data-hygiene protocols.",
+        "Built and deployed 20+ automated email and SMS workflows spanning lead capture and tagging, qualification, booking, no-show recovery, onboarding nurture, reactivation, and review generation.",
+        "Built an automated scoring workflow that rated 180+ businesses on their digital footprint and triggered segmented, personalized email outreach based on the score.",
+        "Build landing pages, forms, and email sequences and write the copy; hands-on HTML/CSS on the company site and client tracking implementations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced complex email sequences, landing pages, and conversion-focused copy that improved lead generation.",
+        "Built campaign reporting on ROI, CAC, LTV, and conversion, ran A/B-tested campaigns, and delivered recommendations in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated product-training sequences and communication workflows for a 15-20 partner network, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts in HubSpot at a performance marketing agency, improving reporting accuracy and reducing handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Defined the Salesforce fields for outbound and onboarding workflows and advised on A/B test structure for a Salesforce workflow-automation effort."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Automation",
+      "items": [
+        "HubSpot Workflows & Email",
+        "Segmentation & Lifecycle Stages",
+        "Lead Scoring Logic",
+        "Landing Pages & Forms",
+        "A/B Testing"
+      ]
+    },
+    {
+      "category": "Platforms & Technical",
+      "items": [
+        "HubSpot, GoHighLevel, Marketo, Mailchimp, Salesforce",
+        "HTML/CSS, GA4, Google Tag Manager",
+        "Zapier, Make, n8n",
+        "SQL (working proficiency), Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
