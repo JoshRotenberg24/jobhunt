@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Success & Operations | Onboarding Coordination & Proactive Client Communication",
+  "contact": {
+    "location": "Arvada, CO (Denver metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client success and operations professional with 15+ years keeping clients informed and internal teams aligned from signed agreement through launch. Coordinated 25+ client onboardings a month at Wix, retained all but one of 15-20 partners at Birdeye, and now runs every client engagement at Solenzo, a digital marketing practice, tracking timelines, deliverables, and next steps so nothing falls through the cracks.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run discovery and onboarding for every client engagement, gathering goals, business details, and system access up front so work starts without delays.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping records auditable across concurrent engagements.",
+        "Built automated appointment confirmations, reminders, and follow-up sequences so clients always know what happens next."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments for multi-stakeholder digital marketing accounts, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners, retaining all but one (~94%), by spotting adoption gaps early and stepping in before they became churn.",
+        "Built communication workflows and automated training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, managing workflows and tasks in ClickUp and building processes that reduced handoff errors between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Coordinated 25+ client onboardings and launches per month from kickoff through go-live, delivering on time at 110% of implementation targets.",
+        "Led and trained a team of onboarding specialists (20, later 8) and standardized the CRM fields the team used to track every account."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients and handed them off cleanly to the implementation team, escalating risks early."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Success & Operations",
+      "items": [
+        "Client Onboarding & Kickoff Coordination",
+        "Proactive Follow-Up & Status Updates",
+        "Cross-Team Handoffs",
+        "SOPs, Templates & Workflow Design",
+        "Retention Risk Spotting"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "ClickUp, Asana, Monday.com, Notion",
+        "Google Workspace, Excel",
+        "HubSpot, GoHighLevel, Salesforce",
+        "Zapier, Make (automated reminders & workflows)"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
