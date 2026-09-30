@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Success Manager | Adoption, Health Scoring, Escalations & Business Reviews",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client success professional with 15+ years in B2B SaaS owning the post-launch relationship: driving adoption, reading usage data to flag risk early, handling escalations, and delivering business reviews. Retained all but one of 15-20 partners at Birdeye, including agencies serving healthcare clients, and fed prioritized customer feedback to Product. Led a team of 20 (later 8) at Wix.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the post-launch client relationship for a portfolio of service businesses, reporting performance on a regular cadence and flagging expansion opportunities that fit each client's goals.",
+        "Build dashboards tracking funnel progression and outcomes in GA4 and Power BI, and translate the data into prioritized recommendations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Delivered QBRs to client leadership on multi-stakeholder accounts, translating performance data into strategic recommendations.",
+        "Resolved client feedback and escalations promptly, coordinating internal teams to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Owned post-onboarding success for 15-20 reseller partners, including agencies focused on healthcare clients, retaining all but one (~94%).",
+        "Analyzed partner utilization and performance metrics in Salesforce to flag adoption gaps and churn risk, and recommended interventions.",
+        "Collaborated with Product and Engineering to deliver structured, prioritized Voice of Customer feedback that informed the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month at 110% of implementation targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8)."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding alongside implementation teams, escalating account risk early, and advised C-suite executives on operational system design."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Success",
+      "items": [
+        "Onboarding & Adoption Plans",
+        "Health Scoring & Risk Flagging",
+        "Escalation Ownership",
+        "QBRs / EBRs",
+        "Voice of Customer to Product",
+        "Expansion Signal Identification"
+      ]
+    },
+    {
+      "category": "Systems & Data",
+      "items": [
+        "Salesforce, HubSpot, Zendesk",
+        "Excel, Power BI, SQL (working proficiency)",
+        "Jira, Asana"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
