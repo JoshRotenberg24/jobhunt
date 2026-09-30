@@ -1,0 +1,89 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success | Onboarding, Product Enablement, Retention & AI Workflows",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success and onboarding professional with 15+ years in B2B SaaS and a current, hands-on AI practice. Retained all but one of 15-20 partners at Birdeye by tracking usage and stepping in on adoption gaps early, onboarded 25+ clients a month at Wix, and today builds and evaluates AI agents and automated workflows for clients, then teaches them to run the systems on their own.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Onboard and support clients on AI-driven and automated systems, delivering hands-on training so they can use the tools on their own.",
+        "Build AI agents and 20+ automated workflows, and grade AI-generated output against self-built rubric criteria before clients rely on it.",
+        "Identify opportunities to expand retainer scope with complementary services aligned to each client's goals.",
+        "Translate client feedback and loosely defined requests into precise system changes."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts, coordinating internal delivery teams and resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), including agencies serving healthcare clients, retaining all but one (~94%).",
+        "Monitored partner utilization and performance metrics to spot churn risk and adoption gaps, and led training that drove feature adoption.",
+        "Built automated product-training sequences that reduced onboarding friction.",
+        "Shared structured customer feedback with Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that reduced handoff errors between sales and delivery teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets and accelerating time-to-value.",
+        "Led and trained a team of onboarding specialists (20, later 8)."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding and escalated account risk to leadership early, resolving it with direct guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": ["Onboarding & Product Enablement", "Usage Monitoring & Churn Risk", "Escalation Handling", "Renewals & Upsell Identification", "NPS & Customer Feedback Loops"]
+    },
+    {
+      "category": "AI & Systems",
+      "items": ["AI Agents & Workflow Automation", "Claude, ChatGPT, Prompt Design", "HubSpot, Salesforce, GoHighLevel", "Zapier, Make, n8n"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
