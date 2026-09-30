@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Client Success Manager | SaaS Implementation, Adoption, Executive Engagement & Retention",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client success professional with 15+ years in B2B SaaS connecting operators' business goals to what the software can do. Retained all but one of 15-20 partners at Birdeye, led a team of 20 (later 8) onboarding specialists at Wix, and built implementation plans and advised C-suite leaders at Accelo. Translates business problems into technical configurations and routes client feedback to Product.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own client relationships with small-business operators, running discovery to surface goals and challenges and configuring CRM and automation systems to match.",
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and training client teams."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Delivered QBRs to client leadership on multi-stakeholder accounts, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners (deal sizes ~$10K-$45K) serving local businesses across health, home services, and retail, retaining all but one (~94%).",
+        "Analyzed partner utilization and performance data in Salesforce to identify adoption patterns and gaps, and recommended interventions for at-risk accounts.",
+        "Translated partner feedback into structured, prioritized input for Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams; led the sales team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led a team of onboarding specialists for 2 years (20, later 8) and drove process improvements for a new vertical that went from proof of concept to profitable.",
+        "Onboarded and launched 25+ clients per month at 110% of implementation targets and 120% of sales targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and implemented a CRM and project-management (PSA) platform, building sequenced implementation plans that ranked which client systems to change and in what order.",
+        "Built trusted-advisor relationships with C-suite executives, guiding onboarding, workflow design, and API integrations; ranked top three in sales."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Success",
+      "items": [
+        "Executive Engagement & Business Reviews",
+        "SaaS Implementation & Account Configuration",
+        "Adoption & Usage Pattern Analysis",
+        "At-Risk Account Escalation",
+        "Client Feedback to Product Requirements"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Google Workspace (Docs, Sheets, Slides)",
+        "Salesforce, HubSpot, GoHighLevel",
+        "Excel, Power BI"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
