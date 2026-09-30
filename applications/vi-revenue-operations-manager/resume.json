@@ -1,0 +1,96 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Revenue Operations & CRM Systems | Pipeline Data, Reporting, Automation & Retention",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Revenue operations and CRM systems builder with 15+ years in B2B SaaS sales, onboarding, and account management and 5+ years architecting CRM and automation. Worked in Salesforce at Birdeye, Wix, and Fivestars, architects HubSpot and GoHighLevel systems today, and writes SQL for Power BI and BigQuery reporting. Has carried both a quota (top three at Accelo) and a retention number (~94% at Birdeye).",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and implement CRM systems in HubSpot and GoHighLevel, including data structure, lifecycle stages, lead routing, and strict data-hygiene protocols.",
+        "Build performance dashboards tracking funnel progression, campaign ROI, and pipeline velocity, with SQL-based Power BI models and BigQuery pulls.",
+        "Integrate CRMs with other systems through Zapier, Make, and n8n, writing Python and JavaScript in custom code steps to remove manual data entry."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, and delivered recommendations to client leadership in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed a 15-20 reseller partner book (deal sizes ~$10K-$45K) in Salesforce, including agencies serving healthcare clients, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Defined and standardized the Salesforce fields for outbound sales and onboarding workflows, and advised on A/B test structure for a Salesforce workflow-automation effort.",
+        "Held 120% of sales targets and 110% of implementation targets; led a team of onboarding specialists (20, later 8)."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three on a team that scaled from 8 to 15 reps while quota roughly doubled, averaging ~$17,750/month in services bookings (~$213K annualized) plus new recurring revenue.",
+        "Sold and implemented a CRM and project-management (PSA) platform, building sequenced implementation plans for each client."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Revenue Operations",
+      "items": [
+        "CRM Architecture & Data Hygiene",
+        "Pipeline & Retention Reporting",
+        "Forecast Hygiene & Stage Tracking",
+        "GTM Automation & Integrations"
+      ]
+    },
+    {
+      "category": "Systems & Data",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel",
+        "Excel (experienced), SQL (working proficiency), Power BI",
+        "Zapier, Make, n8n, Python & JavaScript code steps",
+        "Gong, Salesloft, ZoomInfo"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
