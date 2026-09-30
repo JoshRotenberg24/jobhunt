@@ -1,0 +1,92 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Paid Media & Performance Marketing | Google Ads, Paid Social, Testing & Conversion Analysis",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Performance marketer who works inside the platforms and follows the data to the real bottleneck. Optimized a client's Google Ads account to cut spam and low-quality leads, then traced the remaining conversion problem to the site. Ran A/B-tested LinkedIn campaigns and advised on paid-media budgets at Level Agency, and holds the Meta Ads certification. Launched e-commerce storefronts for retail businesses at Wix.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click quality, then diagnosed on-site conversion as the remaining bottleneck.",
+        "Install Google Tag Manager and GA4 on every site built, so ad clicks, conversions, and funnel steps are tracked from the start.",
+        "Build landing pages and conversion-focused copy, and track acquisition and conversion across accounts to guide testing."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated paid media, inbound, and content strategies as strategic lead across client accounts.",
+        "Designed and ran LinkedIn ad campaigns against small, highly researched audiences with A/B-tested setups.",
+        "Advised clients on ad-spend budget planning and allocation across paid campaigns.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion, and ran Google keyword research and search-term analysis to shape targeting."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners across health, home services, and retail, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance at a performance marketing agency and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Built and launched e-commerce storefronts for established retail businesses, contributing to a 30% traffic increase and 25% conversion-rate improvement across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Paid Media",
+      "items": [
+        "Google Ads (search, keyword and search-term analysis)",
+        "Paid Social (Meta Ads certified, LinkedIn Ads)",
+        "Budget Allocation",
+        "A/B Testing",
+        "CAC, LTV, ROI & Conversion Analysis"
+      ]
+    },
+    {
+      "category": "Tracking & Tools",
+      "items": [
+        "GA4, Google Tag Manager, Google Search Console",
+        "Landing Pages & CRO",
+        "Excel, SQL (working proficiency), Power BI",
+        "ChatGPT, Claude"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
