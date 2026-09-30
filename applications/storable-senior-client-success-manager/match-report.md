@@ -3,7 +3,7 @@
 - **Company:** Storable (property-management and demand-generation SaaS for 33,000+ self-storage facilities)
 - **Role:** Senior Client Success Manager; key-client relationships, onboarding and account configuration, business reviews, executive engagement, health and escalations, feedback to Product
 - **Location:** Remote; Colorado is an eligible state
-- **Comp:** $120,000-$140,000 + up to 10% bonus
+- **Comp:** $120,000 to $140,000 + up to 10% bonus
 - **Link:** Built In Colorado
 - **Date evaluated:** 2026-09-30
 
@@ -14,7 +14,7 @@
 | Reside in listed state | Application-form requirement | CO listed. Eligible. |
 | U.S. work authorization | Application-form requirement | U.S. citizen. |
 | Travel to client sites; extended hours as needed | Candidate confirmation needed | OK? |
-| Salary | Application-form requirement | $120K-$140K. Suggest **$128,000**. |
+| Salary | Application-form requirement | $120K to $140K. Suggest **$128,000**. |
 
 No hard knockouts.
 
