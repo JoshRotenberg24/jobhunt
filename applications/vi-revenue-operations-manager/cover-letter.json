@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 30, 2026",
+  "company": "Vi",
+  "role": "Revenue Operations Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "\"Commercial truth\" is the right name for this job. Every forecast, renewal conversation, and board number depends on whether the CRM reflects what was actually sold, to whom, on what terms. I've spent 15+ years on both sides of that data: carrying a quota as an AE at Accelo (top three while quota roughly doubled), owning a retention number at Birdeye (all but one of 15-20 partners kept), and, for the last several years, building the systems that capture it.",
+    "At Solenzo I architect CRM systems in HubSpot and GoHighLevel from the data structure up, including lifecycle stages, routing, and hygiene rules, and connect them to other tools through Zapier, Make, and n8n, writing Python or JavaScript where the tools stop. I build dashboards on SQL-based Power BI models and BigQuery pulls. I've worked in Salesforce at Birdeye, Wix, and Fivestars, and at Wix I defined the fields the team used for outbound and onboarding. I'll be direct about the gaps: I haven't been a Salesforce administrator building Objects and Flows, and I haven't owned ARR, NRR, and GRR reporting inside a finance team. What I bring is a seller's and account manager's understanding of how deals and renewals really happen, a builder's habits, and the ability to write precise requirements for your Salesforce consultants.",
+    "I'd welcome a conversation about Vi's commercial infrastructure. I'm available at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Sincerely,"
+}

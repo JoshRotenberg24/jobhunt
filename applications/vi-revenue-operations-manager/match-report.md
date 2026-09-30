@@ -48,9 +48,11 @@ Compare: Invoca RevOps Manager scored 90 because it wanted AI and automation bui
 
 ## Cover letter
 
-Skipped. The gaps are core to the role, and a letter can't bridge Salesforce-admin depth.
+Built at Josh's request (2026-09-30). Opens on "commercial truth," maps quota + retention + systems building, names the Salesforce-admin and ARR/NRR gaps directly. A separate `personal-note.md` uses Josh's eight years managing a medical condition (general terms only, per profile) as a genuine reason for interest in patient-engagement health tech.
 
 ## Output files
 
 - `Rotenberg Resume - Vi - Revenue Operations Manager.pdf` / `.docx` (1 page)
-- `resume.json` / `resume.pdf` / `resume.docx`, `fit.json` / `fit.png`
+- `Rotenberg Cover Letter - Vi - Revenue Operations Manager.pdf` / `.docx`
+- `personal-note.md`
+- `resume.*` / `cover-letter.*` (working copies), `fit.json` / `fit.png`
