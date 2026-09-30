@@ -1,0 +1,86 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client-Facing Consultant | Executive Readouts, Data Storytelling & Clear Business Writing",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Consultant and client-facing operator with 15+ years turning complex systems and performance data into clear recommendations for executives and business owners. Runs Solenzo, a consulting practice, since 2024; delivered QBRs and strategic recommendations to client leadership at Level Agency; advised C-suite executives on operational system design at Accelo. Builds dashboards and reports in Power BI and GA4 and writes thought leadership and guides that explain technical topics in plain terms.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run client-facing consulting engagements end to end, from discovery that surfaces goals and challenges to regular performance readouts with actionable recommendations.",
+        "Build performance dashboards tracking funnel progression, ROI, and pipeline velocity, and present the insights to business owners and leadership.",
+        "Analyze complex marketing and operational data and turn it into structured, prioritized recommendations.",
+        "Write and publish thought leadership, newsletters, and educational guides that translate technical and operational topics for B2B audiences."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Delivered QBRs to client leadership, translating performance data (ROI, CAC, LTV, conversion) into strategic recommendations.",
+        "Served as strategic lead on multi-stakeholder accounts, coordinating execution across internal departments."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Advised 15-20 reseller partners on retention strategy and customer health metrics, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance at a performance marketing agency and translated results into optimization recommendations for clients."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations for clients on site architecture, inbound marketing, and SEO; built sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised C-suite executives at agencies and professional-services firms on operational system design, building sequenced implementation plans for each client."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Consulting & Communication",
+      "items": ["Executive Readouts & QBRs", "Storylining Recommendations", "Content Editing & Business Writing", "Translating Complex Topics"]
+    },
+    {
+      "category": "Data & Tools",
+      "items": ["Power BI, GA4, Excel, SQL (working proficiency)", "Dashboards & Data Visualization", "Google Workspace, Notion"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
