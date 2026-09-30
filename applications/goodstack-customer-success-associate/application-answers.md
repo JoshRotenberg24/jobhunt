@@ -2,7 +2,7 @@
 
 ## In a few words, how does your experience align with the requirements of this role?
 
-I've spent 15+ years in B2B SaaS doing exactly this job: onboarding customers, getting them to real use quickly, watching usage for churn risk, and handling escalations. At Birdeye I kept all but one of 15 to 20 partners by tracking usage and stepping in early, and at Wix I onboarded 25+ clients a month. Today I build AI workflows for my own clients and train them to run the systems on their own, which is the same self-sufficiency AgentPro customers need.
+I've spent 15+ years in B2B SaaS doing exactly this job, onboarding customers, getting them to real use quickly, watching usage for churn risk, and handling escalations. At Birdeye I kept all but one of 15 to 20 partners by tracking usage and stepping in early, and at Wix I onboarded 25+ clients a month. Today I build AI workflows for my own clients and train them to run the systems on their own, which is the same self-sufficiency AgentPro customers need.
 
 ## In a few words, what's the most useful prompt, automation, or AI workflow you've built for yourself?
 
