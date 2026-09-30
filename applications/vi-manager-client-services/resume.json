@@ -1,0 +1,91 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Services & Digital Media | Account Management, Performance Reporting & Audience Strategy",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client services and digital marketing professional with 15+ years managing multi-stakeholder accounts across agencies and B2B SaaS. Led paid, inbound, and content strategy for client accounts at Level Agency, advised on ad-spend allocation, ran audience-targeted campaigns, and turned performance data into QBR recommendations. Retained all but one of 15-20 partners at Birdeye, including agencies serving healthcare clients, by catching adoption issues before they reached the client. Meta Ads certified; hands-on in GA4, Power BI, and SQL.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the client relationship and digital marketing direction for service businesses, reporting performance on a regular cadence with clear recommendations.",
+        "Optimized a client's Google Ads account to cut spam and low-quality leads, then diagnosed on-site conversion as the remaining bottleneck.",
+        "Build dashboards tracking funnel progression, campaign ROI, and pipeline, using GA4, Power BI, and SQL."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts as strategic lead across paid media, inbound, and content, coordinating execution with internal teams.",
+        "Advised clients on ad-spend budget planning and allocation across paid campaigns.",
+        "Designed and ran LinkedIn ad campaigns against small, highly researched audiences with A/B-tested setups.",
+        "Built performance reporting on ROI, CAC, LTV, and conversion, and presented findings and recommendations in QBRs."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners, including agencies focused on healthcare clients, retaining all but one (~94%).",
+        "Monitored partner utilization and performance data to catch adoption gaps early and recommend interventions."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, analyzing campaign data and recommending optimizations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment; led a team of onboarding specialists (20, later 8)."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Services",
+      "items": [
+        "Multi-Account Management",
+        "Escalation & Risk Mitigation",
+        "QBRs & Data Storytelling",
+        "Account Roadmaps"
+      ]
+    },
+    {
+      "category": "Digital Media & Analytics",
+      "items": [
+        "Paid Social (Meta Ads certified, LinkedIn)",
+        "Paid Search (Google Ads)",
+        "Audience Targeting & Budget Allocation",
+        "GA4, Power BI, SQL, Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta"
+  ]
+}
