@@ -3,7 +3,7 @@
 - **Company:** Enterprise Health / Medical Informatics Engineering (occupational health EMR SaaS for enterprise employers)
 - **Role:** Client Success Manager, new function; post-go-live adoption, health scoring, VoC, escalations, QBRs/EBRs; no quota, no renewals, no contract negotiation
 - **Location:** Remote, U.S.; up to 10% travel
-- **Comp:** Not posted
+- **Comp:** Not posted (likely ~$70K-$85K per a job-board listing for a CSM role at the company)
 - **Link:** https://www.builtincolorado.com/company/medical-informatics-engineering
 - **Date evaluated:** 2026-09-30
 
@@ -13,7 +13,7 @@
 | :--- | :--- | :--- |
 | 3+ yrs CS/AM/client-facing ops, ideally healthcare or B2B SaaS | Resume-evidenced | Met via B2B SaaS. |
 | Travel up to 10% | Candidate confirmation needed | OK? |
-| Salary | Candidate confirmation needed | Not posted. Mid-level healthcare SaaS CSM likely ~$80K-$100K (estimate). Suggest **$90,000**. |
+| Salary | Candidate confirmation needed | Not posted. Web search (2026-09-30) surfaced a job-board listing for a CSM at Medical Informatics Engineering/Enterprise Health at **$70K-$85K**; health-tech CSM averages ~$83K. Suggest answering **$85,000** (top of their likely band, above Josh's $75K baseline). |
 
 No hard knockouts.
 
