@@ -1,0 +1,90 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Partner Success & Implementation | Channel Programs, Scalable Onboarding & Partner Growth",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Partner success and implementation professional with 15+ years in B2B SaaS. Ran a reseller channel of 15-20 partners at Birdeye, including agencies serving healthcare clients, onboarding and enabling them through repeatable training and communication workflows and retaining all but one. Led a team of 20 (later 8) onboarding specialists at Wix, building the processes that took a new business line from proof of concept to profitable. Builds the playbooks, templates, and automation that let high-touch onboarding scale, and advises executives on operational change.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary relationship for a portfolio of service-business clients, from discovery and onboarding through ongoing performance reviews and retainer expansion.",
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into configurations and integrations (Zapier, Make, n8n) and training client teams.",
+        "Build reusable templates, messaging frameworks, and automated onboarding workflows that keep a high-touch experience consistent as clients are added."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts as strategic lead, coordinating execution across internal departments and presenting performance and recommendations in QBRs."
+      ]
+    },
+    {
+      "title": "Partner Success (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed a channel of 15-20 reseller partners (deal sizes ~$10K-$45K) across health, home services, and retail, including agencies serving healthcare clients; retained all but one (~94%).",
+        "Built scalable communication workflows and automated partner-training sequences that reduced onboarding friction and helped partners represent the product confidently.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows for their own end customers.",
+        "Analyzed partner utilization and performance data in Salesforce to spot adoption gaps and recommend interventions that reduced churn.",
+        "Fed structured, prioritized partner feedback to Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Served a banking-industry client and was part of a finalist-stage pursuit of a major banking prospect; led the sales team and improved cross-team handoffs."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery, and helped hire and train new team members.",
+        "Drove process improvements for a new vertical that went from proof of concept to a profitable business line.",
+        "Onboarded and launched 25+ clients per month at 110% of implementation targets and 120% of sales targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients and advised C-suite executives on operational system design and API integrations; ranked top three in sales while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Partner Success",
+      "items": ["Channel & Partner Program Management", "Partner Onboarding & Enablement", "Success Plans & Business Reviews", "Expansion Opportunity Identification"]
+    },
+    {
+      "category": "Implementation & Operations",
+      "items": ["Implementation Frameworks & Playbooks", "Cross-Functional Project Coordination", "Salesforce, HubSpot", "Integrations (Zapier, Make, n8n, APIs)"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
