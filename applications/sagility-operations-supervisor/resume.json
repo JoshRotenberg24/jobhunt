@@ -1,0 +1,96 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Operations Supervisor | Team Coaching, KPI Management & Escalation Handling",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer operations leader with 15+ years in customer-facing roles and 2 years supervising a remote team of 20 (later 8) at Wix. Coached and developed specialists against monthly targets, handled escalations, trained new hires, and built the processes and data standards that let a new business line scale to profitability. Comfortable running a team from dashboards and metrics, and staying calm with frustrated customers.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own client relationships for service businesses, reporting performance on a regular cadence and building automated workflows that keep customer follow-up consistent."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback and issues promptly across multi-stakeholder accounts to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners, including agencies serving healthcare clients, retaining all but one (~94%) by tracking performance data and stepping in early."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team alongside an individual book, and built processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Supervised and developed a remote team of customer-facing onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery.",
+        "Coached the team against monthly targets while personally handling 25+ client launches a month, holding 110% of implementation and 120% of sales targets.",
+        "Contributed to hiring, onboarding, and training new team members, and built sales training for tenured account executives.",
+        "Drove process improvements for a new vertical that went from proof of concept to a profitable business line.",
+        "Standardized the CRM fields the team used, improving data capture and accuracy for reporting."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Escalated account risk to leadership early and resolved client issues with direct guidance; ranked top three in sales while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Team Leadership",
+      "items": [
+        "Coaching & Performance Management",
+        "KPI & Dashboard Management",
+        "Hiring, Onboarding & Training",
+        "Escalation & Conflict Resolution"
+      ]
+    },
+    {
+      "category": "Operations & Tools",
+      "items": [
+        "Process Improvement",
+        "Salesforce, HubSpot, Zendesk",
+        "Excel, Power BI, Google Workspace",
+        "Remote Team Management"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
