@@ -1,0 +1,94 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Account Manager | Workflow Design, Automation, AI Agents & Customer Success",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical customer success and implementation professional with 15+ years in B2B SaaS and a hands-on AI practice. Breaks customers' manual workflows into automated systems and AI agents, designs prompts and agent logic, and grades agent output against rubrics before rollout. Onboarded 25+ clients a month at Wix while leading a team of 20 (later 8), retained all but one of 15-20 partners at Birdeye by tracking utilization, and built sequenced implementation plans for professional-services firms at Accelo. Hands-on ClickUp user, plus Asana, Monday.com, and Jira.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Break down clients' manual workflows into agent architectures with custom logic, then build, test, and deploy the AI agents and automations.",
+        "Translate non-technical stakeholders' loosely defined ideas into precise prompts and agent instructions, bridging business intent and reliable LLM output.",
+        "Design self-improving loops and rubric-based evaluation frameworks to monitor agent output and improve results over time.",
+        "Architected 20+ automated workflows and integrations across GoHighLevel, HubSpot, Zapier, Make, and n8n, writing Python and JavaScript in custom code steps where needed.",
+        "Lead end-to-end onboarding for new technology stacks, translating requirements into configurations and training client teams to adopt them."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts as strategic lead, coordinating execution across internal teams and presenting performance and recommendations in QBRs."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94%).",
+        "Guided customers through complex technical setup of marketing automation tools, and tracked utilization to catch adoption gaps early.",
+        "Shared structured customer feedback with Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end, managing workflows and tasks in ClickUp, and built processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month at 110% of implementation targets and 120% of sales targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8) and drove process improvements for a new vertical that reached profitability."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and implemented a CRM and project-management (PSA) platform, building sequenced implementation plans that ranked which client processes to change and in what order.",
+        "Guided client onboarding, workflow design, and API integrations, advising C-suite leaders on operational system design; ranked top three in sales."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & Automation",
+      "items": ["AI Agent Design & Deployment", "Prompt Design & Agent Instructions", "Output Evaluation Rubrics", "Workflow Decomposition & Process Mapping", "Zapier, Make, n8n, Python & JavaScript code steps"]
+    },
+    {
+      "category": "Customer Success",
+      "items": ["Onboarding & Implementation", "Adoption & Account Health", "Change Management & Training", "Executive Account Reviews", "Expansion Identification"]
+    },
+    {
+      "category": "Platforms",
+      "items": ["ClickUp, Asana, Monday.com, Jira, Notion", "Salesforce, HubSpot, GoHighLevel"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
