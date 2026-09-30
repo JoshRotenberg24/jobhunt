@@ -1,0 +1,88 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations & Lifecycle Execution | Email, SMS, Landing Pages, QA & Automation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations professional who takes lifecycle campaigns from request to launch: building email and SMS journeys, landing pages, and automated workflows, checking the details, and reporting what worked. Built and deployed 20+ automated lifecycle workflows in GoHighLevel and HubSpot, hands-on in Marketo and Mailchimp, and runs projects in Asana, Jira, and ClickUp. Builds AI-assisted workflows and grades their output before anything goes out. Channel sales experience with agencies serving healthcare clients.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built and deployed 20+ automated lifecycle workflows in GoHighLevel and HubSpot, including email and SMS onboarding, appointment reminders, reactivation, and review-request journeys.",
+        "Build landing pages and forms, write member-friendly copy, and create reusable templates adapted to each client's brand.",
+        "Break down manual marketing workflows into AI-assisted processes, grading AI output against rubric criteria before it reaches customers.",
+        "Track engagement and conversion in GA4 and CRM reporting, and adjust content and timing based on results."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced email sequences, landing pages, and conversion copy, ran A/B tests, and summarized performance and recommendations in QBRs.",
+        "Coordinated campaign execution across internal departments for multi-stakeholder accounts."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners, including agencies serving healthcare clients, retaining all but one (~94%), and built automated training sequences for partners."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Managed client workflows and tasks in ClickUp at a performance marketing agency, building processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Coordinated 25+ client launches per month against a launch process, delivering on time at 110% of implementation targets, and led a team of onboarding specialists (20, later 8)."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Campaign Execution",
+      "items": [
+        "Email & SMS Journeys",
+        "Landing Pages & Forms",
+        "Pre-Launch QA",
+        "A/B Testing",
+        "Launch Checklists & Calendars"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "HubSpot, Marketo, Mailchimp, GoHighLevel",
+        "Asana, Jira, ClickUp, Notion",
+        "GA4, Google Tag Manager, Excel",
+        "Zapier, Make, n8n, AI-Assisted Workflows"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
