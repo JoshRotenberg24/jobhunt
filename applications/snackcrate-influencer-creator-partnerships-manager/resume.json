@@ -1,0 +1,91 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Partnerships & Growth | Partner Recruiting, Program Management, Negotiation & Performance Tracking",
+  "contact": {
+    "location": "Arvada, CO (Denver metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Partnerships and growth operator with 15+ years building and managing partner programs, negotiating deals, and measuring what actually drives customers. Recruited, onboarded, and managed a 15-20 partner reseller network at Birdeye, retaining all but one, and built the briefs, training, and communication workflows that kept partners productive. Launched e-commerce storefronts for retail brands at Wix, holds the Meta Ads certification, and tracks partner and campaign performance past vanity metrics to acquisition and revenue. Denver native.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built and ran outreach programs that identify, score, and contact prospects at scale; 180+ businesses enrolled, 2 converted to paying clients.",
+        "Build reusable briefs, templates, and messaging frameworks adapted to each client's brand.",
+        "Track acquisition and conversion in GA4 and CRM reporting, recommending where to invest next."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated campaigns across paid, inbound, and content from concept to completion, and reported ROI, CAC, and conversion to clients in QBRs.",
+        "Ran A/B-tested paid social campaigns on LinkedIn against highly researched audiences."
+      ]
+    },
+    {
+      "title": "Partner Account Management (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Recruited, onboarded, and managed 15-20 reseller partners (deal sizes ~$10K-$45K) across health, home services, and retail, retaining all but one (~94%).",
+        "Built partner training sequences and communication workflows so partners could represent the product well.",
+        "Tracked partner utilization and performance to spot adoption gaps and recommend interventions."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K at a performance marketing agency, and analyzed campaign results across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Built and launched e-commerce storefronts for established retail businesses, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Managed 25+ client launches per month at 110% of implementation targets."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Partnerships",
+      "items": [
+        "Partner Recruiting & Onboarding",
+        "Negotiation & Deal Structuring",
+        "Briefs & Program Playbooks",
+        "Partner Retention"
+      ]
+    },
+    {
+      "category": "Growth & Analytics",
+      "items": [
+        "Paid Social (Meta Ads certified, LinkedIn)",
+        "Performance Tracking (GA4, CRM)",
+        "E-commerce",
+        "HubSpot, GoHighLevel, Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta"
+  ]
+}
