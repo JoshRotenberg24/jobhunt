@@ -1,0 +1,136 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation & Key Account Leader | AI Agents and Workflow Automation",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation and account leader with 15+ years in B2B SaaS, owning customer relationships from signature through go-live, adoption, and expansion. Led an onboarding team of up to 20 at Wix while personally launching 25+ clients a month at 110% of implementation targets, and retained ~94% of a 15-20 partner reseller network at Birdeye. As founder of Solenzo, designs and tunes LLM-based agents and automation for home-services businesses (lead handling, booking, follow-up), evaluates AI output against rubric-based standards, and works directly in APIs, SQL, and code steps when an integration breaks. Equally comfortable in a C-suite review and a hands-on troubleshooting session.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Design where AI fits into home-services businesses (electrical, plumbing, HVAC), decomposing manual workflows into agent architectures with custom logic and deciding where a person stays in the loop.",
+        "Evaluate AI-generated responses in client automation systems and built rubric-based grading criteria for the SEO audit process, labeling data personally to score outputs against defined standards.",
+        "Architected a 20+ workflow GoHighLevel system covering lead capture and routing, qualification, appointment booking with reminders, no-show recovery, onboarding, reactivation, and review generation.",
+        "Integrate client CRMs and sites through Zapier, Make, and n8n, writing Python and JavaScript in custom code steps and SQL for BigQuery/GA4 and Power BI data models.",
+        "Translate business owners' loosely defined goals into precise prompts, agent instructions, and technical configurations, then train their teams hands-on.",
+        "Build performance dashboards tracking lead flow, funnel progression, and campaign ROI, and report results with clear recommendations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder accounts across marketing and technology channels, coordinating execution across internal departments as strategic lead.",
+        "Built performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Guided customers through complex technical setup of reputation and marketing-automation tools, including Birdeye's listings-syndication solution at the core of the channel offer.",
+        "Analyzed partner utilization and performance to find adoption gaps and recommend interventions that reduced churn.",
+        "Turned partner feedback into structured, prioritized input for Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end, covering execution, performance reporting, and cross-team communication, and led the sales team.",
+        "Built internal processes that improved reporting accuracy, reduced handoff errors, and tightened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery timelines for a high-value client portfolio.",
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets and 120% of sales targets.",
+        "Drove process improvements for a new Wix vertical that grew from proof of concept to a profitable business line, including hiring, onboarding, and training new team members.",
+        "Defined the CRM fields for outbound sales and onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive (Sales & Implementation Planning)",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute.",
+        "Guided client onboarding, workflow design, and API integrations, advising C-suite executives on operational system design.",
+        "Troubleshot workflow design and resolved technical issues during setup alongside implementation teams, escalating account risk to leadership early.",
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation & Account Leadership",
+      "items": [
+        "Discovery, Scoping & Go-Live Planning",
+        "Multi-Stakeholder Coordination",
+        "Executive Sponsor Management",
+        "Risk Escalation",
+        "Adoption & Retention",
+        "Expansion"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "LLM Agent Design",
+        "Prompt & Playbook Tuning",
+        "Rubric-Based Output Evaluation",
+        "Human-in-the-Loop Design",
+        "Zapier, Make, n8n",
+        "GoHighLevel"
+      ]
+    },
+    {
+      "category": "Technical & Data",
+      "items": [
+        "API Integrations",
+        "SQL (BigQuery, Power BI)",
+        "Python & JavaScript (automation code steps)",
+        "Power BI",
+        "Excel",
+        "GA4"
+      ]
+    },
+    {
+      "category": "Platforms",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Accelo (CRM/PSA)",
+        "Notion",
+        "ClickUp",
+        "Jira"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
