@@ -1,0 +1,118 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Website Marketing, SEO & Conversion Optimization",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Website and digital growth marketer with 15+ years across MarTech, e-commerce, agency, and B2B SaaS, including 4 years of hands-on SEO. Owns the full website conversion path: technical SEO audits and schema implementation, landing pages and CRO, GA4 and Google Tag Manager setup, and CRM and marketing-automation integrations behind lead capture. At Wix, contributed to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment. Builds LLM-based workflows daily, bringing a practical view of how AI systems read and surface content.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run technical SEO audits, keyword gap analyses, and competitor research with Screaming Frog, implementing fixes directly in client CMS platforms.",
+        "Identify and implement schema and structured data as part of every technical SEO audit, including full on-page schema implementation.",
+        "Install and configure Google Tag Manager on every site built, and implement GA4 tracking directly in client site HTML/CSS.",
+        "Architected lead capture, routing, and qualification flows across 20+ SMS and email automation workflows, integrated through Zapier, Make, and n8n.",
+        "Optimized a client's Google Ads account to cut spam leads and improve click quality, then diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Claim and optimize Google Business Profile listings as the first deliverable for every client, the base of each local SEO program.",
+        "Build performance dashboards tracking traffic, funnel progression, and conversion, and present recommendations backed by the data."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built landing pages, email sequences, and conversion-focused copy for integrated inbound, paid, and content campaigns.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting and content direction.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded partners on Birdeye's proprietary listings-syndication and data-aggregator solution, configuring local-search presence for every partner's end customers.",
+        "Managed 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency, turning results into optimization recommendations, including for a banking-industry client."
+      ]
+    },
+    {
+      "title": "Website Growth & E-commerce Launch (Account Manager, Onboarding Launch Specialist & Team Lead)",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Built and launched e-commerce sites for established retail businesses adding online storefronts alongside physical locations.",
+        "Guided clients through Google Tag Manager and Google Business Profile setup alongside their site builds.",
+        "Advised on A/B testing strategy for a Salesforce-based workflow effort, defining test structure and success criteria.",
+        "Onboarded and launched 25+ clients per month as primary contact while leading a team of onboarding specialists (20, later 8)."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Website & SEO",
+      "items": [
+        "Technical SEO Audits",
+        "Schema & Structured Data",
+        "Keyword & Topic Research",
+        "Local SEO",
+        "Landing Page Strategy",
+        "Conversion Rate Optimization",
+        "A/B Testing"
+      ]
+    },
+    {
+      "category": "Martech & Analytics",
+      "items": [
+        "GA4",
+        "Google Tag Manager",
+        "Google Search Console",
+        "HubSpot",
+        "Salesforce",
+        "Marketo",
+        "Zapier, Make, n8n",
+        "Power BI",
+        "SQL (BigQuery/GA4)"
+      ]
+    },
+    {
+      "category": "Technical",
+      "items": [
+        "HTML/CSS",
+        "JavaScript (automation code steps)",
+        "Screaming Frog",
+        "Ahrefs",
+        "Semrush",
+        "LLM Workflows & Prompt Design"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
