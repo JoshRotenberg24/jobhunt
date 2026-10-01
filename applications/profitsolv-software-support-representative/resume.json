@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Client-facing SaaS professional with 15+ years guiding customers through software setup, troubleshooting, and adoption by phone, email, and screen share. Sold and implemented Accelo's practice-management (PSA) and CRM platform for professional-services firms, walked 25+ Wix clients a month through launch, and resolved complex configuration issues for Birdeye partners. Explains technical problems in plain terms, documents every interaction, and spots the patterns worth sending to Product.",
+  "summary": "Client-facing SaaS professional with 15+ years guiding customers through software setup, troubleshooting, and adoption by phone, email, and screen share. Sold and scoped Accelo's practice-management (PSA) and CRM platform, walked 25+ Wix clients a month through launch, and resolved complex configuration issues for Birdeye partners. Documents every interaction and sends the patterns worth fixing to Product.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -16,8 +16,7 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Configure, troubleshoot, and support CRM and automation systems (GoHighLevel, HubSpot, Zapier, Make, n8n) for small-business clients, resolving integration and workflow issues directly.",
-        "Set up user roles, access, and permissions in client CRM platforms, and document every configuration change and client interaction."
+        "Configure, troubleshoot, and support CRM and automation systems (GoHighLevel, HubSpot, Zapier, Make, n8n) for small-business clients, including user roles and permissions, resolving integration and workflow issues directly."
       ]
     },
     {
@@ -55,8 +54,7 @@
       "location": "Remote",
       "dates": "Aug 2020 - Aug 2022",
       "bullets": [
-        "Walked 25+ small-business clients per month through platform setup and launch, holding 110% of implementation targets.",
-        "Guided clients through technical setup including Google Tag Manager and Google Business Profile connections."
+        "Walked 25+ small-business clients per month through platform setup and launch, holding 110% of implementation targets."
       ]
     },
     {
@@ -67,8 +65,7 @@
       "bullets": [
         "Sold and scoped a practice-management (PSA) and CRM platform for agencies and professional-services firms, running live product demos daily.",
         "Guided client onboarding, workflow design, and API integrations, troubleshooting technical challenges alongside the implementation team and escalating complex issues early.",
-        "Tracked and worked customer issues through Zendesk tickets, coordinating resolution with the implementation team.",
-        "Built Zapier automations connecting the platform to clients' other tools."
+        "Tracked and worked customer issues through Zendesk tickets, coordinating resolution with the implementation team."
       ]
     }
   ],
