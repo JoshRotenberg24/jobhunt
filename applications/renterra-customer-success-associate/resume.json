@@ -1,0 +1,96 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success & SaaS Onboarding",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success and onboarding professional with 15+ years in SaaS, MarTech, and agency environments, serving as the post-sale point of contact who gets customers live and keeps them successful. Onboarded 25+ clients a month at Wix (110% of implementation targets) and retained ~94% of a reseller partner network at Birdeye by spotting adoption gaps early. Writes clear training content and educational guides, works customer issues through Zendesk tickets, and turns customer feedback into structured input for Product. Works daily with small and mid-sized service businesses, including home-services trades.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the client relationship for a portfolio of service businesses (electrical, plumbing, HVAC), running onboarding and day-to-day support on complex SaaS platforms.",
+        "Write and publish educational guides and newsletters that explain CRM, automation, and operational systems to non-technical business owners.",
+        "Lead onboarding for new technology stacks, translating business requirements into configurations and training client teams hands-on.",
+        "Troubleshoot client issues across GoHighLevel, HubSpot, Zapier, Make, and n8n, resolving problems directly rather than handing them off."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback promptly and held delivery quality consistent across implementations to protect satisfaction and retention.",
+        "Delivered performance reporting and QBRs with clear recommendations for multi-stakeholder accounts."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention).",
+        "Built automated product-training sequences and communication workflows that reduced onboarding friction across a high-volume partner network.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing-automation tools.",
+        "Collected customer feedback and shared it with Product and Engineering as structured, prioritized roadmap input.",
+        "Analyzed partner utilization to catch adoption gaps early and recommend fixes that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end, covering execution, reporting, and cross-team communication, and improved internal processes to cut handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets and 120% of sales targets.",
+        "Led onboarding and launch as primary contact, delivering launches on time and shortening time-to-value.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive communication on client goals.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), including hiring, onboarding, and training new team members."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding and workflow design for agencies and professional-services firms adopting Accelo's CRM/PSA platform.",
+        "Troubleshot technical issues during setup alongside implementation teams, tracking customer issues through Zendesk tickets and escalating risk early."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": ["Post-Sale Support", "Onboarding & Training", "Expectation Management", "Churn Prevention", "Customer Feedback Loops", "Educational Content Writing"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Zendesk", "HubSpot", "Salesforce", "GoHighLevel", "Zapier, Make, n8n", "Notion", "Slack"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
