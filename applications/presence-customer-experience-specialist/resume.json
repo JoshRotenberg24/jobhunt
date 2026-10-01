@@ -1,0 +1,93 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Experience & SaaS Onboarding",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer experience and onboarding professional with 15+ years in SaaS, managing customer portfolios from onboarding and training through adoption, value realization, and retention. Retained ~94% of a 15-20 partner reseller network at Birdeye by tracking customer health and utilization and stepping in on adoption gaps before they became churn. Onboarded 25+ clients a month at Wix (110% of implementation targets) and led a team of up to 20 onboarding specialists. Builds automated workflows and KPI dashboards that make customer health visible and keep follow-up consistent.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the client relationship for a portfolio of service businesses, leading onboarding and tailored hands-on training on new technology stacks.",
+        "Run discovery to define each client's goals and build plans that tie platform usage to measurable outcomes.",
+        "Built 20+ automated SMS and email workflows covering onboarding, reminders, re-engagement, and follow-up, carrying systems initiatives from planning through launch.",
+        "Build dashboards in Power BI and GA4 tracking engagement, funnel progression, and ROI, and report results with clear recommendations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback promptly and held delivery quality consistent to protect satisfaction and retention, delivering QBRs with recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded, trained, and managed 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention).",
+        "Advised partners on retention strategy and customer health metrics, and analyzed utilization data to find adoption gaps and recommend interventions that reduced churn.",
+        "Built automated product-training sequences and communication workflows that reduced onboarding friction.",
+        "Turned customer insights into structured, prioritized feedback for Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets and 120% of sales targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), contributing to hiring, onboarding, and training new team members.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive communication on client goals."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding and workflow design for organizations adopting Accelo's CRM/PSA platform, building sequenced implementation plans.",
+        "Escalated account risk early and tracked customer issues in Zendesk."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Experience",
+      "items": ["Onboarding & Training", "Success Planning", "Customer Health Scoring", "Adoption & Engagement", "Retention & Churn Reduction", "Voice of the Customer"]
+    },
+    {
+      "category": "Systems & Data",
+      "items": ["KPI Design", "Power BI", "Excel", "Salesforce", "HubSpot", "Zendesk", "Zapier, Make, n8n"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
