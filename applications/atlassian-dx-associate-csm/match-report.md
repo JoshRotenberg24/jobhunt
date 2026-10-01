@@ -6,7 +6,7 @@
 - **Comp:** Zone A $97,920-$127,840 / B $88,128-$115,056 / C $81,274-$106,107 + possible bonus, commission, equity
 - **Link:** https://builtin.com/company/atlassian
 - **Date evaluated:** 2026-10-01
-- **Status:** Evaluated only. **Resume held pending Josh's call on the location knockout.**
+- **Status:** **Skipped (Josh, 2026-10-01).** Onsite SLC knockout; no resume built.
 
 ## Application-Form and Eligibility Check
 
