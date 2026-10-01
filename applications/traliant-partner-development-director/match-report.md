@@ -1,5 +1,7 @@
 # Match Report — Traliant, Partner Development Director
 
+> **Decision (Josh, 2026-10-01): Skip, not applying.** Resume kept on file.
+
 - **Company:** Traliant (compliance training SaaS: harassment, DEI, data privacy)
 - **Role:** Partner Development Director (senior strategic hunter, partner recruitment)
 - **Location:** Fully remote (US)
