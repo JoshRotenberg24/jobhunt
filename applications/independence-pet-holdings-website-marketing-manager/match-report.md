@@ -1,5 +1,7 @@
 # Match Report — Independence Pet Holdings (PTZ Pet Insurance), Website Marketing Manager
 
+> **Decision (Josh, 2026-10-01): Skip, not applying.** Resume kept on file.
+
 - **Company:** Independence Pet Holdings / PTZ Pet Insurance (ASPCA Pet Health Insurance, Figo, AKC Pet Insurance, Pets Plus Us)
 - **Role:** Website Marketing Manager (mid level), multi-brand website owner
 - **Location:** Hybrid NYC preferred, or Remote USA
