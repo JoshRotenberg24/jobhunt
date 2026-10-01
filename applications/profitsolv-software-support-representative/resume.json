@@ -16,7 +16,8 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Configure, troubleshoot, and support CRM and automation systems (GoHighLevel, HubSpot, Zapier, Make, n8n) for small-business clients, resolving integration and workflow issues directly."
+        "Configure, troubleshoot, and support CRM and automation systems (GoHighLevel, HubSpot, Zapier, Make, n8n) for small-business clients, resolving integration and workflow issues directly.",
+        "Set up user roles, access, and permissions in client CRM platforms, and document every configuration change and client interaction."
       ]
     },
     {
@@ -64,8 +65,9 @@
       "location": "Denver, CO",
       "dates": "Apr 2018 - Jul 2020",
       "bullets": [
-        "Sold and implemented a practice-management (PSA) and CRM platform for agencies and professional-services firms.",
+        "Sold and scoped a practice-management (PSA) and CRM platform for agencies and professional-services firms, running live product demos daily.",
         "Guided client onboarding, workflow design, and API integrations, troubleshooting technical challenges alongside the implementation team and escalating complex issues early.",
+        "Tracked and worked customer issues through Zendesk tickets, coordinating resolution with the implementation team.",
         "Built Zapier automations connecting the platform to clients' other tools."
       ]
     }
@@ -77,7 +79,8 @@
         "Phone & Email Client Support",
         "Troubleshooting & Escalation",
         "Case Documentation",
-        "Knowledge Base & Training Content",
+        "User Access & Permissions",
+        "Training Content & Product Guides",
         "Upsell & Cross-Sell Identification"
       ]
     },
