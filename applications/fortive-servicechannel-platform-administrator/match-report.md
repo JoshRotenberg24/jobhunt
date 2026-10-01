@@ -75,7 +75,7 @@ No knockouts.
 ## Output files
 - `Rotenberg Resume - Fortive - Customer Platform Administrator.pdf` / `.docx` (working copies `resume.*`)
 - `fit.json`, `fit.png`
-- No cover letter: not requested and nothing to explain that the resume doesn't already cover.
+- `Rotenberg Cover Letter - Fortive - Customer Platform Administrator.pdf` / `.docx` (added at Josh's request; frames the junior-level move around his preference for supporting existing customers, plus restaurant-operations familiarity)
 
 ## Readability / parse QA
 Modern style, 2 pages (last page 43%), selectable text, standard headings, chronology verified. Solenzo uses the composite title `CRM & Automation Platform Admin (Founder & Strategic / Marketing Operations Lead)`; real title fully present. Older roles (Fivestars, Senior Directory) omitted for relevance.

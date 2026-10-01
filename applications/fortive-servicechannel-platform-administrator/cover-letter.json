@@ -1,0 +1,19 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 1, 2026",
+  "company": "Fortive (ServiceChannel)",
+  "role": "Customer Platform Administrator",
+  "recipient": "Hiring Team",
+  "body": [
+    "The Customer Platform Administrator role is the part of SaaS work I like most: taking a platform a customer already depends on and keeping it configured to how their operation actually runs. Before my career in software I spent 15+ years cooking in restaurants, so the brands on ServiceChannel, and the store teams behind every work order, are people whose day I understand.",
+    "Most of my current work is platform administration. At Solenzo I configure and maintain GoHighLevel and HubSpot environments for B2B service clients, including pipelines, lifecycle stages, data-hygiene rules, and 20+ automated workflows, and I turn client change requests into accurate configurations, document every change, and troubleshoot integrations in Zapier, Make, and n8n when something breaks. Before that I onboarded 25+ clients a month at Wix at 110% of implementation targets, defined the CRM fields the team used for onboarding workflows, and at Birdeye guided customers through technical setup while routing structured feedback to Product and Engineering, retaining roughly 94% of my partner network.",
+    "I'm looking for a role centered on supporting existing customers and getting their configuration right, rather than starting new relationships from scratch, and this one fits. I'd welcome a conversation about how I can help ServiceChannel customers get more out of the platform."
+  ]
+}
