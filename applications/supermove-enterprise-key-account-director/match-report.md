@@ -75,8 +75,8 @@
 
 ## Output files
 - `Rotenberg Resume - Supermove - Enterprise Key Account Director.pdf` / `.docx`
-- `Rotenberg Cover Letter - Supermove - Enterprise Key Account Director.pdf` / `.docx` (worth sending: it makes the home-services to movers bridge explicit)
-- Working copies `resume.*`, `cover-letter.*`; `fit.json`, `fit.png`
+- No cover letter (Josh: resume only).
+- Working copies `resume.*`; `fit.json`, `fit.png`
 
 ## Readability / parse QA
-Modern style, resume 2 pages (last page 66%), cover letter 1 page, selectable text, standard headings, chronology verified. Accelo uses the composite title `Account Executive (Sales & Implementation Planning)`; real title fully present. All metrics keep their stated scope (Wix 25+/month is personal load, not team output).
+Modern style, resume 2 pages (last page 66%), selectable text, standard headings, chronology verified. Accelo uses the composite title `Account Executive (Sales & Implementation Planning)`; real title fully present. All metrics keep their stated scope (Wix 25+/month is personal load, not team output).
