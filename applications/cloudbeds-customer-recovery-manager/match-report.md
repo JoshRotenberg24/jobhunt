@@ -14,7 +14,7 @@
 | **Significant direct management experience in hotel/resort operations** | Resume-evidenced | **Not met.** Listed as a requirement. No hotel operations background (15+ yrs as a restaurant cook is hospitality-adjacent, not hotel management). Not a license/residency/language blocker, so the resume is built. |
 | Spanish | Application-form | Bonus only; English only per profile. Not a knockout. |
 | Work authorization | Application-form | U.S. citizen. |
-| Salary | Application-form | Not listed. CS manager roles at this level typically run ~$100K-$130K base; settle a number if the form asks. |
+| Salary | Application-form | **Answer $115K-$125K base, anchor $120,000; walk-away ~$108K.** Basis: Cloudbeds individual CSMs average ~$89K base ($81K-$124K total, Glassdoor) and ~$97K for US remote (Salary.com); a senior player-coach manager typically sits 20-30% above the IC band. Set Oct 2026. |
 
 ## Application Priority Score
 
