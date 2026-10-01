@@ -49,7 +49,7 @@ No knockouts.
 | Written & verbal communication | Strong | Client training, QBRs, published content |
 | Cross-functional stakeholders | Strong | Product/Engineering feedback at Birdeye, internal departments at Level |
 | ServiceChannel (pref) | Gap | |
-| Zendesk (pref) | Covered | In tools list; role attribution not captured |
+| Zendesk (pref) | Strong | Customer ticketing at Accelo and a few other roles (confirmed by Josh, Oct 2026) |
 | Facilities management workflows (pref) | Gap | |
 | Workflow automation / BPO (pref) | Strong | 20+ GHL workflows, Zapier/Make/n8n |
 | Enterprise customers (pref) | Gap | SMB/mid-market only |
@@ -65,7 +65,7 @@ No knockouts.
 
 ## Candidate confirmation needed
 1. **User access and permissions management:** have you set up user roles and permissions in GHL, HubSpot, or Salesforce for clients or a team? Likely yes; it's a named duty here.
-2. **Zendesk:** which role? Enough for a role-specific bullet?
+2. ~~Zendesk~~ **Resolved:** ticketing at Accelo plus a few other roles; Accelo bullet added.
 3. **Overqualification answer:** if asked "why a junior role," what's the honest reason? Better to settle it before a screen.
 
 ## Metrics needed

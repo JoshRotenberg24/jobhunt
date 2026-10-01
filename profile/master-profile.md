@@ -504,6 +504,11 @@ operator talking, not like a candidate performing.
 > **Zapier automation (confirmed by Josh, Sep 2026):** Josh built Zapier automations at
 > Accelo, making his hands-on automation-building history run from at least 2018-2020
 > through the present at Solenzo, not a skill that started recently.
+>
+> **Zendesk ticketing (confirmed by Josh, Oct 2026):** Josh used Zendesk for customer
+> tickets at Accelo, and at a few other roles as well (specific other employers not yet
+> captured, ask before naming one). Safe to write an Accelo bullet naming Zendesk ticket
+> handling, and to list Zendesk in any role-agnostic tools list.
 - Ranked **top three in sales** on a team that scaled from **8 to 15 reps**, holding that rank across all but the final few months of a **27-month tenure** (Apr 2018 - Jul 2020), while **quota roughly doubled** over the period.
 - Closed deals of **$20K and larger** later in tenure, mixed with a base of smaller wins.
 - Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.
@@ -512,6 +517,7 @@ operator talking, not like a candidate performing.
 - Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.
 - Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.
 - Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance.
+- Tracked and worked customer setup issues through Zendesk tickets, coordinating resolution with implementation teams. *(Confirmed by Josh, Oct 2026.)*
 - Consistently performed above commission floor into accelerator ("doubling") tiers — averaging **~$17,750/month in implementation/services bookings (~$213K annualized)** plus new recurring revenue, earning roughly **$9,300 in monthly performance commission**.
 
 ### Fivestars — Account Executive (2017 – 2018)

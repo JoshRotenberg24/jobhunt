@@ -74,22 +74,44 @@
       "dates": "Apr 2018 - Jul 2020",
       "bullets": [
         "Sold and scoped Accelo's CRM/PSA platform for agencies and professional-services firms, guiding onboarding, workflow design, and API integrations.",
-        "Troubleshot workflow design and resolved technical issues during setup alongside implementation teams, escalating account risk to leadership early."
+        "Troubleshot workflow design and resolved technical issues during setup alongside implementation teams, tracking customer issues through Zendesk tickets and escalating account risk to leadership early."
       ]
     }
   ],
   "competencies": [
     {
       "category": "Platform Administration",
-      "items": ["Workflow Configuration", "Dashboard Setup", "CRM Architecture & Data Hygiene", "Configuration Documentation", "Customer Change Requests", "Troubleshooting & Escalation"]
+      "items": [
+        "Workflow Configuration",
+        "Dashboard Setup",
+        "CRM Architecture & Data Hygiene",
+        "Configuration Documentation",
+        "Customer Change Requests",
+        "Troubleshooting & Escalation"
+      ]
     },
     {
       "category": "Platforms",
-      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Zendesk", "Accelo (CRM/PSA)", "Zapier, Make, n8n", "Notion", "ClickUp", "Jira"]
+      "items": [
+        "GoHighLevel",
+        "HubSpot",
+        "Salesforce",
+        "Zendesk",
+        "Accelo (CRM/PSA)",
+        "Zapier, Make, n8n",
+        "Notion",
+        "ClickUp",
+        "Jira"
+      ]
     },
     {
       "category": "Data & Reporting",
-      "items": ["Excel", "Power BI", "SQL (working proficiency)", "GA4"]
+      "items": [
+        "Excel",
+        "Power BI",
+        "SQL (working proficiency)",
+        "GA4"
+      ]
     }
   ],
   "education": [
