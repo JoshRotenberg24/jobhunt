@@ -61,7 +61,8 @@ No knockouts.
 ## Output files
 - `Rotenberg Resume - Gravity Global - Account Manager.pdf` (working copies `resume.*`)
 - `fit.json`, `fit.png`
-- No cover letter; available on request.
+- `Rotenberg Cover Letter - Gravity Global - Account Manager.pdf`
+- `personal-note.md` (LinkedIn connection note, follow-up DM, application note)
 
 ## Readability / parse QA
 Modern style, 2 pages (last page 50%), selectable text, standard headings. Renderer's chronology backstop reordered Birdeye above Fetch & Funnel (JSON had them swapped); bullets are role-specific so nothing shifted meaning. Fetch & Funnel uses composite title `Agency Account Management (Account Executive / Sales Operations)`; real title fully present.
