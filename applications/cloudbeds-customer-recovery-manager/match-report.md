@@ -60,7 +60,7 @@
 ## Output files
 - `Rotenberg Resume - Cloudbeds - Customer Recovery Manager.pdf` (working copies `resume.*`)
 - `fit.json`, `fit.png`
-- No cover letter; one could frame the restaurant-operations background honestly as frontline hospitality experience (not hotel management).
+- `Rotenberg Cover Letter - Cloudbeds - Customer Recovery Manager.pdf` (frames 15+ yrs restaurant work as frontline hospitality, states plainly it is not hotel management)
 
 ## Readability / parse QA
 Modern style, 2 pages (last page 43%), selectable text, standard headings, chronology verified. Birdeye uses composite title `Partner Success & Retention (Channel Partnerships & Customer Onboarding)`; real title fully present.
