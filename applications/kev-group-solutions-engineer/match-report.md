@@ -19,18 +19,18 @@
 ## Application Priority Score
 
 ```
-🟡 Application Priority Score: 62 / 100 — Solid stretch
-[████████████░░░░░░░░]  62%
+🟡 Application Priority Score: 68 / 100 — Solid stretch
+[██████████████░░░░░░]  68%
 ```
 *Internal decision aid, not a prediction of any employer's score or decision.* See `fit.png`.
 
 | Dimension | Score | Max | Why |
 | :--- | ---: | ---: | :--- |
-| Must-have requirements met | 25 | 40 | Communication, interpersonal, detail, time zones, big-picture solution design all land. Technical degree not met; 3+ yrs under an SE title not met (adjacent via Accelo); product demos not documented. |
+| Must-have requirements met | 30 | 40 | Communication, interpersonal, detail, time zones, solution design, and daily product demos (confirmed Oct 2026) all land. Technical degree not met; no SE title. |
 | Seniority & scope alignment | 10 | 15 | Individual SE supporting AEs; level fits, title history doesn't. |
 | Domain / industry alignment | 8 | 15 | Business/ops SaaS sold to organizations (Accelo PSA is close to "financial management" software). No K-12 or EdTech; personal family connection only (wife is a school VP). |
 | Differentiators / nice-to-haves | 10 | 15 | API integrations, SQL, scripting, automation, LLM workflows, product-feedback loop, sales training for AEs at Wix. |
-| Evidence strength | 9 | 15 | Accelo top-3 and implementation planning, Wix 120%/110%. No demo-to-close or win-rate metric. |
+| Evidence strength | 10 | 15 | Accelo top-3 and implementation planning, Wix 120%/110%. No demo-to-close or win-rate metric. |
 
 ## Requirement coverage
 
@@ -39,11 +39,11 @@
 | Technical bachelor's | Gap | B.A. Liberal Arts |
 | 3+ yrs SE / pre-sales | Adjacent | Accelo technical AE, Wix sales + implementation, Solenzo solution design |
 | SME across the sales cycle | Strong | Accelo scoping, implementation plans, C-suite advisory |
-| Product demos to technical and non-technical | Confirmation needed | Not documented |
+| Product demos to technical and non-technical | Strong | Daily demos at Fivestars, Accelo, Wix, Birdeye |
 | Product/engineering feedback loop | Strong | Birdeye |
 | AE territory and account planning | Adjacent | AE himself at Accelo, Fivestars, Fetch & Funnel |
 | Enable sales on new features | Strong | Developed sales training for tenured AEs at Wix |
-| Events / tradeshows | Confirmation needed | Not documented |
+| Events / tradeshows | Strong | Accelo, Birdeye, Level Agency |
 | Communication, detail | Strong | |
 
 ## Gaps
@@ -52,8 +52,7 @@
 - K-12 / EdTech industry.
 
 ## Candidate confirmation needed
-1. **Product demos:** did you run software demos at Accelo, Fivestars, Wix, or Birdeye? Likely yes as an AE; it's the core of this job, so it should be on the page.
-2. **Tradeshows/events:** worked any for an employer?
+None open. Demos and tradeshows confirmed Oct 2026 and added to profile.
 
 ## Output files
 - `Rotenberg Resume - KEV Group - Solutions Engineer.pdf` (working copies `resume.*`)

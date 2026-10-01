@@ -1,12 +1,32 @@
 {
-  "score": 62,
+  "score": 68,
   "band": "Solid stretch",
   "role": "Solutions Engineer - KEV Group",
   "breakdown": [
-    ["Must-have requirements met", 25, 40],
-    ["Seniority & scope alignment", 10, 15],
-    ["Domain / industry alignment", 8, 15],
-    ["Differentiators / nice-to-haves", 10, 15],
-    ["Evidence strength", 9, 15]
+    [
+      "Must-have requirements met",
+      30,
+      40
+    ],
+    [
+      "Seniority & scope alignment",
+      10,
+      15
+    ],
+    [
+      "Domain / industry alignment",
+      8,
+      15
+    ],
+    [
+      "Differentiators / nice-to-haves",
+      10,
+      15
+    ],
+    [
+      "Evidence strength",
+      10,
+      15
+    ]
   ]
 }

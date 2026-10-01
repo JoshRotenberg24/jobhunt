@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Technical sales and solutions professional with 15+ years in B2B SaaS, translating complex software into solutions that technical and non-technical buyers both understand. At Accelo, scoped CRM/PSA solutions for agencies and professional-services firms, built sequenced implementation plans, and guided API integrations as a trusted advisor to C-suite clients, ranking top three in sales while quota doubled. Designs CRM, automation, and LLM-based agent systems hands-on (APIs, SQL, Python and JavaScript code steps), and routes structured customer feedback into product roadmaps.",
+  "summary": "Technical sales and solutions professional with 15+ years in B2B SaaS, running live product demos daily and translating complex software into solutions that technical and non-technical buyers both understand. At Accelo, scoped CRM/PSA solutions for agencies and professional-services firms, built sequenced implementation plans, and guided API integrations as a trusted advisor to C-suite clients, ranking top three in sales while quota doubled. Designs CRM, automation, and LLM-based agent systems hands-on (APIs, SQL, Python and JavaScript code steps), and routes structured customer feedback into product roadmaps.",
   "experience": [
     {
       "title": "Solutions Design & Automation (Founder & Strategic / Marketing Operations Lead)",
@@ -30,7 +30,8 @@
       "dates": "Sep 2024 - Feb 2025",
       "bullets": [
         "Presented strategy and performance to multi-stakeholder client teams, translating data into recommendations and QBRs.",
-        "Coordinated execution across internal departments as strategic lead for integrated digital programs."
+        "Coordinated execution across internal departments as strategic lead for integrated digital programs.",
+        "Represented Level Agency at industry events."
       ]
     },
     {
@@ -39,6 +40,7 @@
       "location": "Remote",
       "dates": "Feb 2023 - Apr 2024",
       "bullets": [
+        "Ran daily product demos for prospective partners and customers, and represented Birdeye at tradeshows and events.",
         "Guided customers through complex technical setup and configuration of reputation and marketing-automation software.",
         "Onboarded and trained 15-20 reseller partners, equipping them to communicate product value to their own customers, and retained all but one (~94% retention).",
         "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
@@ -60,7 +62,7 @@
       "location": "Remote",
       "dates": "Aug 2020 - Aug 2022",
       "bullets": [
-        "Carried a combined sales and implementation load, holding 120% of sales targets and 110% of implementation targets while launching 25+ clients per month.",
+        "Ran daily product demos while carrying a combined sales and implementation load, holding 120% of sales targets and 110% of implementation targets and launching 25+ clients per month.",
         "Developed sales training for tenured account executives and trained new hires as team lead of onboarding specialists (20, later 8).",
         "Defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture."
       ]
@@ -71,26 +73,53 @@
       "location": "Denver, CO",
       "dates": "Apr 2018 - Jul 2020",
       "bullets": [
+        "Delivered live product demos daily to agency and professional-services buyers, tailoring each to the technical and operational stakeholders in the room.",
         "Sold and scoped Accelo's CRM and project-management platform to agencies and professional-services firms, with deep fluency in pipeline automation and workflow configuration.",
         "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team.",
         "Guided client onboarding, workflow design, and API integrations, advising C-suite executives on operational system design.",
         "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, closing deals of $20K and larger.",
-        "Built Zapier automations and tracked customer issues through Zendesk."
+        "Represented Accelo at tradeshows and events, built Zapier automations, and tracked customer issues through Zendesk."
       ]
     }
   ],
   "competencies": [
     {
       "category": "Solutions & Pre-Sales",
-      "items": ["Discovery & Solution Design", "Technical Scoping", "Proposals & SOWs", "Account Planning with AEs", "Sales Enablement & Training", "Product Feedback Loops"]
+      "items": [
+        "Live Product Demos",
+        "Discovery & Solution Design",
+        "Technical Scoping",
+        "Proposals & SOWs",
+        "Account Planning with AEs",
+        "Sales Enablement & Training",
+        "Product Feedback Loops",
+        "Tradeshows & Events"
+      ]
     },
     {
       "category": "Technical",
-      "items": ["API Integrations", "SQL", "Python & JavaScript (automation code steps)", "HTML/CSS", "Zapier, Make, n8n", "LLM Agent Workflows"]
+      "items": [
+        "API Integrations",
+        "SQL",
+        "Python & JavaScript (automation code steps)",
+        "HTML/CSS",
+        "Zapier, Make, n8n",
+        "LLM Agent Workflows"
+      ]
     },
     {
       "category": "Platforms",
-      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Accelo (CRM/PSA)", "Zendesk", "Gong", "Salesloft", "Power BI", "Excel"]
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Accelo (CRM/PSA)",
+        "Zendesk",
+        "Gong",
+        "Salesloft",
+        "Power BI",
+        "Excel"
+      ]
     }
   ],
   "education": [

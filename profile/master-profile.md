@@ -64,6 +64,14 @@
 > Birdeye, Fetch & Funnel, Level Agency, Solenzo). Safe to name in a bullet for any of
 > those roles.
 >
+> **Product demos (confirmed by Josh, Oct 2026, DO NOT RE-ASK):** ran live software demos
+> daily in every tech sales role (Fivestars, Accelo, Wix, Birdeye), to technical and
+> non-technical buyers. Treat demo delivery as a core, claimable skill for any sales,
+> pre-sales, SE, or onboarding posting.
+>
+> **Tradeshows / events (confirmed by Josh, Oct 2026):** represented the company at
+> tradeshows and events at Accelo, Birdeye, and Level Agency.
+>
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
 >
