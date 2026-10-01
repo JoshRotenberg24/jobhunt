@@ -1,0 +1,131 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success, Implementation & Marketing Operations | CRM, Automation & AI Workflows",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "B2B SaaS, MarTech, and agency professional with 15+ years across customer onboarding and implementation, account management, partnerships, and marketing operations. Led an onboarding team of up to 20 at Wix (110% of implementation and 120% of sales targets), retained ~94% of a 15-20 partner reseller channel at Birdeye, and ranked top three in sales at Accelo while quota doubled. As founder of Solenzo, builds CRM, SMS and email automation, and LLM-based agent systems for service businesses, and runs technical SEO, analytics, and conversion work hands-on. Comfortable with executives, operators, and engineers alike.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the client relationship for B2B service businesses (including home-services trades), running discovery, onboarding, delivery, and retainer expansion through proposals and SOWs.",
+        "Architected a 20+ workflow GoHighLevel system with SMS and email: lead capture and routing, qualification, booking with reminders, no-show recovery, onboarding, reactivation, and reviews.",
+        "Design LLM-based agent workflows and evaluate AI output, including rubric-based grading criteria for the SEO audit process, translating business intent into precise prompts.",
+        "Configure CRMs in GoHighLevel, HubSpot, and Salesforce (user roles and permissions, lifecycle stages, data hygiene) and integrate them through Zapier, Make, and n8n with Python and JavaScript code steps.",
+        "Run technical SEO audits with Screaming Frog, implement schema and structured data, set up GA4 and Google Tag Manager, and optimize Google Business Profile listings for every client.",
+        "Build dashboards in Power BI and GA4, writing SQL for BigQuery and data models, and report results with clear recommendations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated strategies across inbound, paid media, and content for multi-stakeholder accounts, coordinating execution across internal departments.",
+        "Advised clients on ad-spend budget planning and designed account-based LinkedIn campaigns with A/B-tested setups.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering QBRs and optimization recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Sold and onboarded partners on Birdeye's listings-syndication and data-aggregator solution, the backbone of the channel offer.",
+        "Built automated product-training sequences and communication workflows that reduced onboarding friction, and fed structured feedback to Product and Engineering.",
+        "Analyzed partner utilization to find adoption gaps and recommend interventions that reduced churn, managing the book in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K each (~$130K+ total bookings) and led the sales team alongside individual account work.",
+        "Ran client accounts end to end at a performance marketing agency, including a banking-industry client, and improved reporting accuracy and handoffs."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery, and helped build a new vertical from proof of concept to a profitable business line.",
+        "Contributed to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment through site architecture, SEO, and inbound guidance.",
+        "Defined CRM fields for outbound sales and onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps over 27 months while quota roughly doubled, closing deals of $20K and larger.",
+        "Averaged ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue.",
+        "Built sequenced implementation plans and guided onboarding, workflow design, and API integrations, advising C-suite clients and tracking issues through Zendesk."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle SMB sales for a loyalty and marketing-automation platform, from prospecting and qualification through close."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads, booking a steady flow of sales-ready meetings for regional sales representatives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success & Implementation",
+      "items": ["Onboarding & Implementation", "Account Management", "Retention & Churn Prevention", "Expansion", "QBRs", "Channel/Partner Management", "Proposals & SOWs"]
+    },
+    {
+      "category": "CRM & Automation",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Zapier", "Make", "n8n", "Marketo", "Mailchimp", "SMS & Email Lifecycle"]
+    },
+    {
+      "category": "AI",
+      "items": ["LLM Agent Workflows", "Prompt Design", "AI Output Evaluation", "ChatGPT", "Claude"]
+    },
+    {
+      "category": "Marketing & Analytics",
+      "items": ["Technical & Local SEO", "Schema", "CRO", "A/B Testing", "Paid Media (Meta certified)", "LinkedIn Ads", "GA4", "Google Tag Manager", "Power BI", "SQL", "Excel"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Zendesk", "Salesloft", "ZoomInfo", "Gong", "Asana", "Monday.com", "ClickUp", "Jira", "Notion", "HTML/CSS"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
