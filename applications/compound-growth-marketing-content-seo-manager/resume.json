@@ -1,0 +1,109 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SEO & Content Strategy | Technical SEO, AI Search, B2B",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SEO and content strategist with 4 years of hands-on SEO inside a 15+ year career across agency, MarTech, and B2B SaaS. Runs technical SEO audits in Screaming Frog, implements schema and structured data, and directs content against keyword gaps and buyer pain points for a multi-client book at Solenzo. Builds LLM-based workflows daily with Claude Code, Claude, and ChatGPT, and built rubric-based grading criteria to evaluate AI-assisted audit output, which is the practical foundation for AI-search visibility work. Led a team of up to 20 at Wix, including hiring and training.",
+  "experience": [
+    {
+      "title": "SEO & Content Strategy (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own SEO strategy across a portfolio of client accounts, running technical audits, keyword gap analyses, and competitor research with Screaming Frog, Ahrefs, and Semrush.",
+        "Identify and implement schema and structured data in every technical audit, and fix crawlability and on-page issues directly in client CMS platforms.",
+        "Direct content strategy from client discovery: translate business goals and buyer pain points into prioritized topics, landing pages, and educational guides.",
+        "Track organic performance and conversion in GA4, Google Search Console, and Google Tag Manager, and report results with next-step recommendations.",
+        "Use Claude Code, Claude, and ChatGPT daily to build LLM workflows, and built rubric-based grading criteria to score AI-assisted SEO audit output against defined standards.",
+        "Write and publish thought leadership, newsletters, and guides for B2B audiences on systems, CRM, and growth operations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated strategy across inbound, paid media, and content for multi-stakeholder agency clients, coordinating execution across internal departments.",
+        "Ran Google keyword research and search-term analysis to shape targeting and content direction.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion, delivering QBRs and recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded partners on Birdeye's listings-syndication and data-aggregator solution, using Whitespark's published research as sales-enablement material on citations and local search.",
+        "Managed 15-20 reseller partners, retaining all but one (~94% retention)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, analyzing paid and creative performance and turning results into recommendations."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations on site architecture, inbound marketing, and SEO, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), contributing to hiring, onboarding, and training, and developed sales training for tenured account executives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "SEO",
+      "items": [
+        "Technical SEO (crawlability, site architecture, schema)",
+        "Keyword & Topic Strategy",
+        "Content Strategy & Briefs",
+        "Local SEO",
+        "LLM Workflows & AI Output Evaluation"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Screaming Frog",
+        "Ahrefs",
+        "Semrush",
+        "Google Search Console",
+        "GA4",
+        "Google Tag Manager",
+        "Claude Code",
+        "ChatGPT",
+        "Power BI"
+      ]
+    },
+    {
+      "category": "Leadership",
+      "items": [
+        "Multi-Client Portfolio",
+        "Team Coaching & Training",
+        "Client Communication",
+        "Quality Standards"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
