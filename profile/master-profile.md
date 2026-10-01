@@ -52,6 +52,10 @@
 > Instantly, Smartlead, Apollo, HeyReach, and cold-email deliverability setup (domains,
 > warm-up, sender reputation) are **not yet confirmed either way**; ask before claiming.
 >
+> **Do not ask "why a junior/lower-level role" (Josh, Oct 2026):** never raise
+> overqualification as a question or prep item for Josh. Note it in the score if relevant,
+> then move on.
+>
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
 >
@@ -379,6 +383,7 @@ operator talking, not like a candidate performing.
 **Operations & Technical Setup**
 - Install and configure Google Tag Manager on every website built at Solenzo, and guided clients through GTM setup at Wix. *(Confirmed by Josh, Aug 2026.)*
 - Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and strict data-hygiene protocols.
+- Set up and manage user roles, access, and permissions in CRM platforms (GoHighLevel, HubSpot, Salesforce) for clients and teams. *(Confirmed by Josh, Oct 2026; per-platform/per-role attribution not captured.)*
 - Build reusable agent infrastructure and internal tooling integrating with client CRMs and CMS platforms for 24/7 automated growth engines.
 - Own post-sale value delivery for B2B clients, architecting onboarding and technical setup that drives product adoption at scale.
 - Design, implement, and optimize marketing automation and CRM systems for B2B service clients as a fractional success/implementation manager.

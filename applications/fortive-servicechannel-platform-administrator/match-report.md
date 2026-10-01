@@ -21,14 +21,14 @@ No knockouts.
 ## Application Priority Score
 
 ```
-🟡 Application Priority Score: 72 / 100 — Solid stretch
-[██████████████░░░░░░]  72%
+🟡 Application Priority Score: 73 / 100 — Solid stretch
+[███████████████░░░░░]  73%
 ```
 *Internal decision aid, not a prediction of any employer's score or decision.* See `fit.png`.
 
 | Dimension | Score | Max | Why |
 | :--- | ---: | ---: | :--- |
-| Must-have requirements met | 35 | 40 | All six required items land. User access/permissions administration is the one specific duty not documented. |
+| Must-have requirements met | 36 | 40 | All six required items land, including user access/permissions administration (confirmed Oct 2026). |
 | Seniority & scope alignment | 9 | 15 | Junior role; Josh is well above it (team lead, 15+ yrs). Overqualification is a real screening risk, not a blocker. |
 | Domain / industry alignment | 7 | 15 | No facilities-management or ServiceChannel experience. Some audience familiarity: Wix retail clients with physical stores, 15+ yrs as a restaurant cook (restaurants are a core ServiceChannel segment). |
 | Differentiators / nice-to-haves | 11 | 15 | Workflow automation and process optimization (strong), Zendesk (in tools list). No ServiceChannel, facilities workflows, or enterprise customers. |
@@ -64,9 +64,8 @@ No knockouts.
 - Enterprise customer support.
 
 ## Candidate confirmation needed
-1. **User access and permissions management:** have you set up user roles and permissions in GHL, HubSpot, or Salesforce for clients or a team? Likely yes; it's a named duty here.
+1. ~~User access/permissions~~ **Resolved:** confirmed, added to Solenzo bullet and competencies.
 2. ~~Zendesk~~ **Resolved:** ticketing at Accelo plus a few other roles; Accelo bullet added.
-3. **Overqualification answer:** if asked "why a junior role," what's the honest reason? Better to settle it before a screen.
 
 ## Metrics needed
 - Request turnaround or SLA numbers from any role.

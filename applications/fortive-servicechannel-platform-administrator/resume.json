@@ -16,7 +16,7 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Configure and maintain CRM platforms in GoHighLevel and HubSpot for B2B service clients, including contact segmentation, lifecycle stages, pipelines, and strict data-hygiene rules.",
+        "Configure and maintain CRM platforms in GoHighLevel and HubSpot for B2B service clients, including user roles and permissions, contact segmentation, lifecycle stages, pipelines, and data-hygiene rules.",
         "Built and maintain 20+ automated workflows covering lead routing, appointment booking with confirmations and reminders, no-show recovery, onboarding, and review requests.",
         "Translate client change requests into precise technical configurations, then train client teams hands-on on the updated setup.",
         "Document every configuration change, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping records auditable across concurrent clients.",
@@ -83,6 +83,7 @@
       "category": "Platform Administration",
       "items": [
         "Workflow Configuration",
+        "User Access & Permissions",
         "Dashboard Setup",
         "CRM Architecture & Data Hygiene",
         "Configuration Documentation",
