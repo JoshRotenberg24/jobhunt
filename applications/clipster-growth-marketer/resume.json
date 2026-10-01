@@ -1,0 +1,115 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Growth Marketer | SEO, Search Ads, Email & Copy",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Hands-on growth marketer and founder with 15+ years across agency, MarTech, and B2B SaaS, including 4 years of SEO done personally, not briefed out. As sole marketing owner at Solenzo, runs SEO, Google Ads, email and SMS, landing pages, and copy end to end, and measures what each channel produces. Built a free-audit offer promoted through LinkedIn organic content that enrolled 180+ businesses and converted 2 to paying clients. Writes direct-response copy that gets read and clicked, and is comfortable deciding what to build, what to measure, and what to stop.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own every marketing channel as the sole marketer: SEO, LinkedIn organic content, email and SMS, landing pages, and outbound, with no one above to check the work.",
+        "Built a free digital-footprint audit offer promoted through LinkedIn organic growth: 180+ businesses enrolled, 2 converted to paying clients.",
+        "Run technical SEO audits, keyword gap analyses, and competitor research with Screaming Frog, and implement fixes, schema, and on-page changes directly in the CMS.",
+        "Optimized a client's Google Ads account to cut spam and low-quality leads and improve click quality, then diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Write direct-response copy, email sequences, landing pages, newsletters, and educational guides for B2B audiences.",
+        "Built 20+ automated SMS and email lifecycle workflows (capture, nurture, reactivation) and track results in GA4, Google Tag Manager, and CRM dashboards."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran Google keyword research and search-term analysis to shape paid campaign targeting and content direction.",
+        "Produced landing pages, complex email sequences, and conversion-focused copy for integrated inbound, paid, and content campaigns.",
+        "Advised clients on ad-spend budget planning and built reporting tracking ROI, CAC, LTV, and conversion KPIs.",
+        "Designed account-based LinkedIn ad campaigns for small, highly researched audiences with A/B-tested setups."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded partners on Birdeye's listings-syndication and data-aggregator solution, the local-search backbone of the channel offer.",
+        "Managed 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency and turned results into optimization recommendations."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations on site architecture, inbound marketing, and SEO, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Launched 25+ clients per month at 120% of sales and 110% of implementation targets."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Channels",
+      "items": [
+        "SEO (technical, on-page, keyword & topic strategy)",
+        "Google Ads / Brand Search",
+        "Email & SMS Lifecycle",
+        "Organic Content",
+        "LinkedIn",
+        "Landing Pages & CRO"
+      ]
+    },
+    {
+      "category": "Writing",
+      "items": [
+        "Direct-Response Copy",
+        "Ad Copy",
+        "Email Copy",
+        "Product & Launch Messaging",
+        "Educational Content"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "GA4",
+        "Google Tag Manager",
+        "Search Console",
+        "Screaming Frog",
+        "Ahrefs",
+        "Semrush",
+        "HubSpot",
+        "GoHighLevel",
+        "Mailchimp",
+        "Zapier",
+        "HTML/CSS"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
