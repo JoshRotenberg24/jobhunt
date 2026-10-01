@@ -1,0 +1,103 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "B2B Key Account Marketing & Campaign Strategy",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "B2B marketing and account management professional with 15+ years across agency, MarTech, and SaaS, building account-specific marketing plans and multichannel campaigns that drive client retention and revenue. At Level Agency, led integrated campaigns for multi-stakeholder accounts, advised on ad-spend budgets, and delivered QBRs tracking ROI, CAC, LTV, and conversion. Retained ~94% of a 15-20 partner reseller network at Birdeye. Uses Salesforce, HubSpot, GA4, Power BI, and AI tools to turn large data sets into clear performance narratives and next steps.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary marketing relationship for a portfolio of B2B service clients, building account-specific plans from discovery into goals, market challenges, and revenue objectives.",
+        "Run multichannel programs across local SEO, Google Ads, email and SMS, landing pages, and LinkedIn, aligning messaging with business owners and sales teams.",
+        "Build performance dashboards in Power BI and GA4 tracking lead generation, funnel progression, and campaign ROI, and present insight-driven recaps with recommendations.",
+        "Use AI tools and LLM workflows daily to synthesize data and build personalized outreach, including an audit workflow that enrolled 180+ businesses.",
+        "Grow accounts by scoping complementary services through proposals and SOWs."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated B2B marketing strategies across inbound, paid media, and content for multi-stakeholder accounts, coordinating execution across internal departments.",
+        "Advised clients on ad-spend budget planning and allocation across paid campaigns.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering QBRs and optimization recommendations.",
+        "Designed account-based LinkedIn campaigns targeting small, highly researched audiences with A/B-tested setups.",
+        "Represented Level Agency at industry events."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Equipped partners to communicate product value to their own customers, and analyzed utilization data to recommend interventions that reduced churn.",
+        "Represented Birdeye at tradeshows and events, and managed the partner book in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, analyzing paid media and creative performance and translating results into optimization recommendations.",
+        "Closed 6 new-client deals averaging ~$22K each (~$130K+ total)."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery.",
+        "Held 120% of sales targets and 110% of implementation targets while launching 25+ clients per month."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built relationships with C-suite executives at agencies and professional-services firms as a trusted advisor, and represented Accelo at tradeshows and events.",
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Key Account Marketing",
+      "items": ["Account-Specific Marketing Plans", "Multichannel Campaigns", "Events & Tradeshows", "Budget Management", "Campaign ROI", "Client Retention & Growth"]
+    },
+    {
+      "category": "Data & Analytics",
+      "items": ["Salesforce", "HubSpot", "GA4", "Power BI", "Excel", "SQL", "AI-Assisted Analysis (Claude, ChatGPT)", "Data Storytelling"]
+    },
+    {
+      "category": "Channels",
+      "items": ["Paid Search & Paid Social (Meta certified)", "LinkedIn ABM", "Email & SMS", "SEO", "Landing Pages"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
