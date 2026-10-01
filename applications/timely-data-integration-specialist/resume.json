@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Data Integration & Customer Onboarding | APIs, SQL, Python Automation",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Integration and onboarding specialist with 15+ years in SaaS, moving customer data between systems and leading the technical conversations that make a rollout work. Connects CRMs, websites, and reporting tools through REST APIs, Zapier, Make, and n8n, writing Python and JavaScript in custom code steps, and writes SQL against BigQuery and Power BI data models. Guided API integrations for Accelo customers and onboarded 25+ clients a month at Wix. Uses Claude Code and LLM tools daily, and documents every configuration so the next person can pick it up.",
+  "experience": [
+    {
+      "title": "Integrations & Automation (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Move data between client CRMs, websites, and reporting tools through REST APIs, Zapier, Make, and n8n, writing Python and JavaScript in custom code steps when a standard connector falls short.",
+        "Write SQL for BigQuery/GA4 pulls and Power BI data models, and validate that records match across systems before clients rely on them.",
+        "Architect CRM data structures in GoHighLevel and HubSpot (fields, lifecycle stages, user permissions, data-hygiene rules) and document every configuration.",
+        "Lead onboarding for new technology stacks, gathering requirements from non-technical owners and translating them into technical configurations and hands-on training.",
+        "Use Claude Code, Claude, and ChatGPT daily to build scripts, workflows, and LLM-based automation."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments for multi-stakeholder accounts, and built reporting frameworks tracking ROI and conversion KPIs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded partners onto Birdeye's listings-syndication and data-aggregator solution, making sure each end customer's business data was configured correctly across listings.",
+        "Guided customers through complex technical setup and configuration, and shared structured issues with Product and Engineering.",
+        "Retained all but one of 15-20 reseller partners (~94% retention)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month at 110% of implementation targets.",
+        "Defined the CRM fields required for sales and onboarding workflows, standardizing data capture across the team.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), including onboarding and training new team members."
+      ]
+    },
+    {
+      "title": "Account Executive (Technical Pre-Sales & Implementation Planning)",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations for agencies and professional-services firms adopting Accelo's CRM/PSA platform.",
+        "Built sequenced implementation plans ranking which systems to change and in what order, and handed them to the implementation team.",
+        "Built Zapier automations connecting Accelo to clients' other tools, and tracked customer issues in Zendesk."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Integration & Data",
+      "items": ["REST APIs", "SQL", "BigQuery", "Excel", "Google Sheets", "Data Validation", "Import/Export Workflows"]
+    },
+    {
+      "category": "Scripting & Automation",
+      "items": ["Python & JavaScript (automation code steps)", "Claude Code", "Zapier", "Make", "n8n", "Power BI"]
+    },
+    {
+      "category": "Working Style",
+      "items": ["Technical Discovery", "Stakeholder Communication", "Documentation", "Onboarding & Training", "Process Improvement"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

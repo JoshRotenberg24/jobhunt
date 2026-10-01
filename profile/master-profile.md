@@ -612,6 +612,11 @@ operator talking, not like a candidate performing.
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
 | Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
 
+> **Claude Code (observed Oct 2026):** Josh runs his job search out of a git repository he
+> operates through Claude Code day to day (Python build scripts that render resumes, a
+> master profile, per-application folders, commits and pushes). Represent as hands-on,
+> regular use of Claude Code as an AI developer tool, not as software-engineering work.
+
 > **Excel, Power BI, SQL, Python/JS (confirmed by Josh, Sep 2026, updated Sep 2026):**
 > Excel is a genuine, experienced-level skill, not just baseline literacy. Power BI is
 > real, hands-on deployment for client businesses (not just viewing dashboards someone

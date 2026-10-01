@@ -1,0 +1,19 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 1, 2026",
+  "company": "Timely",
+  "role": "Data Integration Specialist",
+  "recipient": "Hiring Team",
+  "body": [
+    "I come from a family of educators. My wife is a vice principal at an elementary school, and I've heard plenty about how much of a school leader's time disappears into work that should be easier, scheduling included. A team using AI to give that time back is one I'd like to help scale.",
+    "I'll be direct about the gap: I haven't worked inside a Student Information System. What I bring is the rest of the job. I move data between systems every week, connecting CRMs, websites, and reporting tools through REST APIs, Zapier, Make, and n8n, and writing Python and JavaScript when a standard connector falls short. I write SQL against BigQuery and Power BI data models and check that records match across systems before anyone relies on them. I also use Claude Code day to day, so building and testing small scripts with your engineering team is a workflow I already know.",
+    "The other half of the role, leading technical conversations with people who aren't technical, is where I've spent my career. At Accelo I guided API integrations and implementation plans with agency and professional-services leaders, and at Wix I onboarded 25+ clients a month while leading a team of onboarding specialists. I'd learn PowerSchool or Infinite Campus fast, and I'd welcome a conversation about where your integrations function is headed."
+  ]
+}
