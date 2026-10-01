@@ -1,0 +1,19 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 1, 2026",
+  "company": "Akamai",
+  "role": "Strategy & Operations Analyst II",
+  "recipient": "Hiring Team",
+  "body": [
+    "Your team's mandate to standardize, automate, and govern reporting so the business can serve itself is the work I've been doing for the last several years. My path runs through operations and client-facing roles rather than a dedicated BI team, and that's why I'm effective at the part of analytics that usually breaks: getting from a stakeholder's loose question to a data model and a dashboard people actually use.",
+    "On the technical side, I write SQL against BigQuery and GA4 data and for Power BI data models, build the dashboards on top of them, and do QA and quick analysis in Excel at an experienced level. Systems integration is daily work. I connect CRMs, websites, and reporting through APIs, Zapier, Make, and n8n, and write Python and JavaScript in custom code steps when a standard connector won't do the job. I use Claude and ChatGPT every day to build and evaluate LLM-based workflows, including rubric-based grading criteria I built to score the output of my SEO audit process.",
+    "I also standardize the data before anyone reports on it. At Wix I defined the CRM fields our sales and onboarding teams used, so data capture was consistent across the team. At Solenzo I design CRM structures with lifecycle stages and strict data-hygiene rules so reports stay trustworthy, and at Birdeye I analyzed partner utilization data to find adoption gaps before they turned into churn. Network infrastructure and colocation metrics would be new to me, but learning a domain's key metrics from the people who run it is how every one of these projects started. I'd welcome the chance to talk about what Regional Planning and Capacity Planning need to see."
+  ]
+}

@@ -57,7 +57,7 @@ No knockouts.
 ## Output files
 - `Rotenberg Resume - Akamai - Strategy Operations Analyst II.pdf` (working copies `resume.*`)
 - `fit.json`, `fit.png`
-- No cover letter.
+- `Rotenberg Cover Letter - Akamai - Strategy Operations Analyst II.pdf`
 
 ## Readability / parse QA
 Modern style, 2 pages (last page 36%), selectable text, standard headings, chronology verified. Solenzo uses composite title `Analytics & Automation (Founder & Strategic / Marketing Operations Lead)`; real title fully present.
