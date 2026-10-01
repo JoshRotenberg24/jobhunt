@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Business Operations & Analytics | SQL, BigQuery, Power BI, Project Management",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Business operations and analytics professional with 15+ years across e-commerce, MarTech, agency, and B2B SaaS, equally comfortable building the dashboard and running the process that gets it shipped. Writes SQL against BigQuery and GA4 data, builds Power BI data models and dashboards, and validates data flowing between CRMs, sites, and reporting tools. Gathers requirements from non-technical stakeholders, scopes the work, tracks timelines and blockers, and keeps everyone informed. Led a team of up to 20 at Wix and contributed to a 30% traffic and 25% conversion lift across the e-commerce segment.",
+  "experience": [
+    {
+      "title": "Analytics & Automation (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build Power BI data models and dashboards for client businesses, writing SQL for the models and for BigQuery/GA4 queries.",
+        "Run discovery with stakeholders to understand what they need and why, then scope the work, document requirements, and track timelines and deliverables in Notion and the CRM.",
+        "Build dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, and present findings with clear recommendations.",
+        "Connect CRMs, sites, and reporting through APIs, Zapier, Make, and n8n, writing Python and JavaScript code steps and checking data quality between systems.",
+        "Architect CRM data structures with lifecycle stages and strict data-hygiene rules so reporting stays consistent, and document every configuration.",
+        "Use Claude and ChatGPT daily to build LLM workflows, and built rubric-based grading criteria to evaluate the SEO audit process output."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built marketing reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, turning data into recommendations and QBRs.",
+        "Coordinated execution across internal departments for multi-stakeholder accounts, and advised on ad-spend budget planning."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Analyzed partner utilization and performance data to find adoption gaps and recommend interventions that reduced churn (~94% retention across 15-20 partners).",
+        "Coordinated with Product and Engineering on structured, prioritized issues and tracked accounts in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment, managing work in ClickUp.",
+        "Analyzed paid media and creative performance data and turned results into optimization recommendations."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Contributed to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment, including retail businesses adding online stores.",
+        "Defined the CRM fields required for sales and onboarding workflows, standardizing data capture across the team.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery timelines."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans ranking which systems to change and in what order, and handed them to the implementation team to execute.",
+        "Guided workflow design and API integrations for agencies and professional-services firms, and built Zapier automations."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Analytics",
+      "items": ["SQL", "BigQuery", "Power BI", "GA4", "Excel", "Dashboard Design", "Data Validation & QA"]
+    },
+    {
+      "category": "Operations & Project Management",
+      "items": ["Requirements Gathering", "Request Triage & Scoping", "Timelines, Dependencies & Blockers", "Stakeholder Updates", "Documentation"]
+    },
+    {
+      "category": "Integration & AI",
+      "items": ["API Integrations", "Zapier, Make, n8n", "Python & JavaScript (automation code steps)", "Claude", "ChatGPT", "Salesforce", "HubSpot"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

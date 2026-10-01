@@ -1,0 +1,19 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 1, 2026",
+  "company": "Javvy",
+  "role": "Senior Business Operations Analyst",
+  "recipient": "Hiring Team",
+  "body": [
+    "You described someone who likes both building a dashboard and running the process that gets it shipped. That's how I've worked for years. Most of my career has been in client-facing operations roles where I was the one translating what a business needed into something the data and systems could deliver, then keeping the project on track until it did.",
+    "On the analytics side, I write SQL against BigQuery and GA4 data, build Power BI data models and dashboards, and connect CRMs, websites, and reporting tools through APIs, Zapier, Make, and n8n, checking that the data matches between systems before anyone relies on it. Marketing is the function I know best: I've built reporting on ROI, CAC, LTV, and conversion, and at Wix I worked an e-commerce segment that saw a 30% traffic increase and a 25% conversion improvement, including retail businesses adding online stores.",
+    "On the operations side, I run discovery before anything gets scoped, track timelines and blockers, follow up for missing inputs, and keep stakeholders informed. I led a team of up to 20 at Wix and built sequenced implementation plans at Accelo that other teams executed against, so handing clear scope to a partner and holding them to it is familiar. I'd welcome a conversation about the request queue and the data agency relationship this role would own."
+  ]
+}
