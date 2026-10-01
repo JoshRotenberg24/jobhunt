@@ -1,0 +1,94 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Campaign & Marketing Operations Manager",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations and campaign manager with 15+ years across agency, MarTech, and B2B SaaS, owning campaigns from planning and asset development through launch, reporting, and optimization. Builds the repeatable infrastructure campaigns run on: templates, messaging frameworks, launch workflows, and 20+ automated lifecycle sequences covering booking, reminders, onboarding, and re-engagement. Experienced coordinating partner-facing programs, including channel sales to healthcare-focused agencies at Birdeye, and writing email, landing-page, and outreach copy that drives engagement.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected and deployed 20+ automated lifecycle workflows covering lead capture and routing, appointment booking with confirmations and reminders, no-show recovery, onboarding nurture, long-term reactivation, and review requests.",
+        "Build reusable marketing assets and messaging frameworks, adapting a shared template base to each client's brand and audience instead of starting from scratch.",
+        "Write and publish email sequences, landing pages, newsletters, and educational guides that explain complex systems to non-technical audiences.",
+        "Run segmented outreach campaigns end to end, including an automated audit workflow that enrolled 180+ businesses and converted 2 to paying clients.",
+        "Document every campaign timeline, deliverable, and change in HubSpot, GoHighLevel, and Notion, keeping project records auditable across concurrent engagements.",
+        "Build dashboards and regular performance reports tracking funnel progression and campaign ROI, with clear optimization recommendations."
+      ]
+    },
+    {
+      "title": "Campaign Strategy Lead (Account Executive / Client Strategist)",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated campaigns across inbound, paid media, and content as strategic lead, coordinating execution across internal departments.",
+        "Produced campaign assets including landing pages, multi-step email sequences, and conversion-focused copy.",
+        "Designed account-based LinkedIn campaigns for small, highly researched audiences with A/B-tested setups.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Partner Enablement (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail, including channel sales to healthcare-focused agencies, retaining all but one (~94%).",
+        "Built automated product-training sequences and communication workflows that reduced onboarding friction across the partner network.",
+        "Equipped partners to communicate product value to their own customers, advising on retention strategy and automated workflows.",
+        "Shared structured, prioritized partner feedback with Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client campaigns end to end at a performance marketing agency, covering execution, reporting, and cross-team communication in ClickUp.",
+        "Built internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets and 120% of sales targets.",
+        "Contributed to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and launch timelines."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Campaign Management",
+      "items": ["Campaign Planning & Launch Readiness", "Project Plans, Timelines & Checklists", "Cross-Functional Coordination", "Partner-Customized Materials", "Templates & Asset Libraries", "Reporting & Optimization"]
+    },
+    {
+      "category": "Channels & Content",
+      "items": ["Email & Lifecycle", "Landing Pages & Website Content", "Copywriting & Editing", "Paid Media", "SEO"]
+    },
+    {
+      "category": "Platforms",
+      "items": ["HubSpot", "GoHighLevel", "Marketo", "Mailchimp", "Salesforce", "Asana", "Monday.com", "Notion", "GA4", "Excel"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
