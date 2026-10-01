@@ -1,0 +1,102 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Solutions Engineering & Technical Pre-Sales | B2B SaaS",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical sales and solutions professional with 15+ years in B2B SaaS, translating complex software into solutions that technical and non-technical buyers both understand. At Accelo, scoped CRM/PSA solutions for agencies and professional-services firms, built sequenced implementation plans, and guided API integrations as a trusted advisor to C-suite clients, ranking top three in sales while quota doubled. Designs CRM, automation, and LLM-based agent systems hands-on (APIs, SQL, Python and JavaScript code steps), and routes structured customer feedback into product roadmaps.",
+  "experience": [
+    {
+      "title": "Solutions Design & Automation (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run discovery with business owners to surface goals and operational problems, then design and scope the CRM and automation solution, writing proposals and SOWs.",
+        "Architected a 20+ workflow GoHighLevel system with SMS and email covering lead routing, qualification, booking, reminders, onboarding, and reactivation.",
+        "Integrate client CRMs and sites through Zapier, Make, and n8n, writing Python and JavaScript in custom code steps and SQL against BigQuery and Power BI data models.",
+        "Design LLM-based agent workflows and translate non-technical stakeholders' ideas into precise prompts, agent logic, and technical configurations.",
+        "Lead onboarding for new technology stacks, translating business requirements into configurations and training client teams hands-on."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Presented strategy and performance to multi-stakeholder client teams, translating data into recommendations and QBRs.",
+        "Coordinated execution across internal departments as strategic lead for integrated digital programs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing-automation software.",
+        "Onboarded and trained 15-20 reseller partners, equipping them to communicate product value to their own customers, and retained all but one (~94% retention).",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K each (~$130K+ total) and led the sales team.",
+        "Pursued a major northeastern U.S. banking prospect through to finalist stage."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Carried a combined sales and implementation load, holding 120% of sales targets and 110% of implementation targets while launching 25+ clients per month.",
+        "Developed sales training for tenured account executives and trained new hires as team lead of onboarding specialists (20, later 8).",
+        "Defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture."
+      ]
+    },
+    {
+      "title": "Account Executive (Technical Pre-Sales & Implementation Planning)",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped Accelo's CRM and project-management platform to agencies and professional-services firms, with deep fluency in pipeline automation and workflow configuration.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team.",
+        "Guided client onboarding, workflow design, and API integrations, advising C-suite executives on operational system design.",
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, closing deals of $20K and larger.",
+        "Built Zapier automations and tracked customer issues through Zendesk."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Solutions & Pre-Sales",
+      "items": ["Discovery & Solution Design", "Technical Scoping", "Proposals & SOWs", "Account Planning with AEs", "Sales Enablement & Training", "Product Feedback Loops"]
+    },
+    {
+      "category": "Technical",
+      "items": ["API Integrations", "SQL", "Python & JavaScript (automation code steps)", "HTML/CSS", "Zapier, Make, n8n", "LLM Agent Workflows"]
+    },
+    {
+      "category": "Platforms",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Accelo (CRM/PSA)", "Zendesk", "Gong", "Salesloft", "Power BI", "Excel"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
