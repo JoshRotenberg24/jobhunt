@@ -1,0 +1,118 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Channel Partnerships & B2B SaaS Business Development",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Partnerships and business development leader with 13+ years sourcing, qualifying, and closing B2B SaaS opportunities, from BDR prospecting through C-suite consultative sales and reseller channel management. Built and retained a 15-20 partner reseller channel at Birdeye (~94% retention, deals ~$10K-$45K), ranked top three of up to 15 reps at Accelo while quota doubled, and closed ~$130K+ in new agency bookings at Fetch & Funnel. Builds a tailored value case for each prospect, runs disciplined pipeline in Salesforce, and uses automation to research and prioritize target accounts at scale.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built an automated prospect-research and outbound engine that scores a business's digital footprint and triggers personalized, segmented outreach, enrolling 180+ target businesses.",
+        "Run discovery directly with business owners to surface goals, market challenges, and fit before scoping an engagement, then expand retainer scope with complementary services.",
+        "Promoted a free audit offer through LinkedIn organic growth as a top-of-funnel motion, converting 2 of 180+ enrolled businesses into paying clients.",
+        "Architect CRM pipelines in GoHighLevel and HubSpot (segmentation, lifecycle stages, lead routing, data hygiene) and integrate them with Zapier, Make, and n8n."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Designed account-based LinkedIn campaigns targeting small, highly researched audiences of specific accounts and contacts, with A/B-tested setups.",
+        "Managed multi-stakeholder accounts across marketing and technology channels, translating performance data into strategic recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail verticals, retaining all but one (~94% retention).",
+        "Sold the partner value proposition around Birdeye's proprietary listings-syndication solution, the backbone of the channel offer, including channel sales to healthcare-focused agencies.",
+        "Equipped partners to sell and communicate product value to their own customers, advising on retention strategy, customer health metrics, and automated workflows.",
+        "Analyzed partner utilization and performance to find adoption gaps, and fed structured partner feedback to Product and Engineering to inform the roadmap.",
+        "Maintained partner records, pipeline, and account status in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K each (several above $25K), roughly $130K+ in total bookings in under six months.",
+        "Pursued a major northeastern U.S. banking prospect through to finalist stage, and led the sales team alongside individual account work."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Held 120% of sales targets and 110% of implementation targets while onboarding and launching 25+ clients per month.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), helping build a new vertical from proof of concept to a profitable business line and developing sales training for tenured AEs."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps across 27 months, sustained while quota roughly doubled.",
+        "Built relationships with agency and professional-services C-suite executives as a trusted advisor on operational system design, closing deals of $20K and larger.",
+        "Averaged ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue, consistently into accelerator tiers."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle new-business sales for an SMB loyalty and marketing-automation platform, from high-volume prospecting and qualification through close."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified new opportunities, booking a steady flow of sales-ready meetings for regional sales representatives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Partnerships & Business Development",
+      "items": ["Reseller / Channel Partner Management", "Partner Value Proposition", "New-Business Hunting & Qualification", "Executive & C-Suite Discovery", "Account-Based Targeting", "Partner Retention"]
+    },
+    {
+      "category": "Pipeline & Research Tools",
+      "items": ["Salesforce", "ZoomInfo", "HubSpot", "Salesloft", "Gong", "GoHighLevel", "Zapier / Make / n8n"]
+    },
+    {
+      "category": "Operations",
+      "items": ["Pipeline Stage Tracking & Forecast Hygiene", "CRM Data Hygiene", "Partner Utilization Analysis", "Cross-Functional Feedback Loops"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
