@@ -50,10 +50,15 @@ he hasn't told you otherwise.
 
 Every resume and cover letter file gets the job name in the filename, no generic
 `resume.pdf` as the only deliverable. Pattern: `<Company>-<RoleShort>-Resume.pdf` /
-`-CoverLetter.pdf` (and matching `.docx`). Employers with multiple postings evaluated
+`-CoverLetter.pdf`. Employers with multiple postings evaluated
 here (e.g. micro1) use a labeled copy like `Rotenberg Resume - micro1 - <Role>.pdf`
 alongside the working `resume.json`/`.pdf` — match whichever convention the company's
 existing folder already uses for consistency within that employer.
+
+**PDF only (Josh, Oct 2026):** the deliverable is the labeled PDF. Don't make a labeled
+`.docx` copy or send Josh a `.docx` unless he asks for one or a posting requires Word.
+(The renderer still writes a working `resume.docx` as a side effect; leave it, just don't
+ship it.)
 
 ## Interview prep
 

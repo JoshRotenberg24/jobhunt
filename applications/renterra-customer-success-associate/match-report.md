@@ -59,7 +59,7 @@ No knockouts.
 2. **QuickBooks Online:** used it (Standing Akimbo, Solenzo's own books, client integrations)?
 
 ## Output files
-- `Rotenberg Resume - Renterra - Customer Success Associate.pdf` / `.docx` (working copies `resume.*`)
+- `Rotenberg Resume - Renterra - Customer Success Associate.pdf` (working copies `resume.*`)
 - `fit.json`, `fit.png`
 - No cover letter built; available on request.
 
