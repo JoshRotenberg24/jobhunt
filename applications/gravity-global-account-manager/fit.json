@@ -1,12 +1,32 @@
 {
-  "score": 74,
+  "score": 76,
   "band": "Solid stretch",
   "role": "Account Manager - Gravity Global",
   "breakdown": [
-    ["Must-have requirements met", 31, 40],
-    ["Seniority & scope alignment", 12, 15],
-    ["Domain / industry alignment", 11, 15],
-    ["Differentiators / nice-to-haves", 10, 15],
-    ["Evidence strength", 10, 15]
+    [
+      "Must-have requirements met",
+      33,
+      40
+    ],
+    [
+      "Seniority & scope alignment",
+      12,
+      15
+    ],
+    [
+      "Domain / industry alignment",
+      11,
+      15
+    ],
+    [
+      "Differentiators / nice-to-haves",
+      10,
+      15
+    ],
+    [
+      "Evidence strength",
+      10,
+      15
+    ]
   ]
 }

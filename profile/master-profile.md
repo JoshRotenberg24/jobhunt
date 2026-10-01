@@ -56,6 +56,14 @@
 > overqualification as a question or prep item for Josh. Note it in the score if relevant,
 > then move on.
 >
+> **Travel (confirmed by Josh, Oct 2026):** open to occasional travel for client meetings
+> and customer onsites. Not a knockout; don't re-ask.
+>
+> **Proposals, estimates, and SOWs (confirmed by Josh, Oct 2026):** has written formal
+> proposals / statements of work at every sales role from Accelo onward (Accelo, Wix,
+> Birdeye, Fetch & Funnel, Level Agency, Solenzo). Safe to name in a bullet for any of
+> those roles.
+>
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
 >

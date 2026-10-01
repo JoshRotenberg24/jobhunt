@@ -12,7 +12,7 @@
 
 | Item | Classification | Status |
 | :--- | :--- | :--- |
-| Travel for onsite working sessions | Application-form | **Candidate confirmation needed.** Posting expects onsites at large customers; % not stated. |
+| Travel for onsite working sessions | Application-form | Yes, open to travel (confirmed Oct 2026). |
 | Salary expectation | Application-form | **Needs Josh's number.** Not posted; baseline $75K does not apply to a Director role. |
 | Work authorization / sponsorship | Application-form | U.S. citizen, no sponsorship. |
 | Remote USA | Application-form | Colorado-compatible. |
@@ -65,7 +65,7 @@
 ## Candidate confirmation needed
 1. **Webhooks:** have you configured webhooks (e.g., GHL or Zapier/Make/n8n webhook triggers)? Likely yes; confirm before it goes on the resume.
 2. **Voice AI agents:** have you configured or tested a voice agent (GHL Voice AI or similar)? Huge hit for this role if yes.
-3. **Onsite travel:** comfortable with periodic customer onsites?
+3. ~~Onsite travel~~ **Resolved:** yes.
 4. **Salary number** for a Director-titled, mid-level post-sale role.
 5. **Have you ever read or written an integration spec / API docs** for a client build? Good case-exercise and interview material.
 

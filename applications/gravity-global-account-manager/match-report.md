@@ -11,7 +11,7 @@
 
 | Item | Classification | Status |
 | :--- | :--- | :--- |
-| Some travel for client meetings | Application-form | **Candidate confirmation needed** (same open item as Supermove). |
+| Some travel for client meetings | Application-form | Yes, confirmed Oct 2026. |
 | Salary expectation | Application-form | Mid-level agency AM; the $75K associate baseline is a floor here, not the answer. Needs Josh's number. |
 | Work authorization | Application-form | U.S. citizen, no sponsorship. |
 | Remote US | Application-form | Colorado-compatible. |
@@ -21,14 +21,14 @@ No knockouts.
 ## Application Priority Score
 
 ```
-🟡 Application Priority Score: 74 / 100 — Solid stretch
-[███████████████░░░░░]  74%
+🟡 Application Priority Score: 76 / 100 — Solid stretch
+[███████████████░░░░░]  76%
 ```
 *Internal decision aid, not a prediction of any employer's score or decision.* See `fit.png`.
 
 | Dimension | Score | Max | Why |
 | :--- | ---: | ---: | :--- |
-| Must-have requirements met | 31 | 40 | Client-facing strategy, scopes/budgets/timelines, senior stakeholders, delegation (Wix team lead), project tools all land. "3-5 yrs agency managing integrated campaigns across digital, creative, media" is partial: Level + Fetch & Funnel are ~10 months combined; Solenzo adds ~2.5 yrs of agency-style client work, but solo, not leading an agency account team with creative/media departments. |
+| Must-have requirements met | 33 | 40 | Travel and proposals/SOWs confirmed Oct 2026. Client-facing strategy, scopes/budgets/timelines, senior stakeholders, delegation (Wix team lead), project tools all land. "3-5 yrs agency managing integrated campaigns across digital, creative, media" is partial: Level + Fetch & Funnel are ~10 months combined; Solenzo adds ~2.5 yrs of agency-style client work, but solo, not leading an agency account team with creative/media departments. |
 | Seniority & scope alignment | 12 | 15 | Mid-level AM is a natural level. |
 | Domain / industry alignment | 11 | 15 | Agency and B2B marketing yes. No brand-campaign or large-agency creative production background. |
 | Differentiators / nice-to-haves | 10 | 15 | HubSpot (bonus), Asana/Monday.com, LinkedIn ABM, Meta certified, analytics. |
@@ -48,16 +48,15 @@ No knockouts.
 | Communication, senior stakeholders | Strong | QBRs, Accelo C-suite |
 | Monday.com / Asana / Airtable; HubSpot bonus | Strong | Asana, Monday.com, HubSpot |
 | Delegation, cross-functional | Strong | Wix team of 20/8, Level internal departments |
-| Estimates & proposals | Adjacent | Solenzo retainer scoping, Accelo scoping |
+| Estimates & proposals | Strong | Proposals/SOWs at every sales role since Accelo (confirmed Oct 2026) |
 | QA / proofing | Adjacent | Copywriting and published content |
 
 ## Gaps
 - Multi-year tenure inside a full-service agency leading creative and media teams on brand campaigns.
 
 ## Candidate confirmation needed
-1. **Travel:** OK with occasional client travel?
-2. **Proposals/estimates:** have you written formal proposals or SOWs (Solenzo, Accelo, Level)? A yes strengthens a bullet.
-3. **Level Agency account load:** how many accounts and roughly what spend (already on Numbers Worth Capturing).
+1. ~~Travel~~ and ~~proposals/SOWs~~ **resolved** (both yes; added to profile and resume).
+2. **Level Agency account load:** how many accounts and roughly what spend (already on Numbers Worth Capturing).
 
 ## Output files
 - `Rotenberg Resume - Gravity Global - Account Manager.pdf` (working copies `resume.*`)
