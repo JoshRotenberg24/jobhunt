@@ -1,0 +1,101 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SaaS Platform Administration & Customer Configuration",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer-facing SaaS administrator and implementation specialist with 15+ years configuring platforms to match how a customer actually runs. Builds and maintains workflows, dashboards, CRM structures, and automation in GoHighLevel, HubSpot, and Salesforce environments, translating customer requests into accurate configurations and documenting every change. Onboarded 25+ clients a month at Wix (110% of implementation targets) and retained ~94% of a reseller partner network at Birdeye by catching adoption gaps early and routing feedback to Product.",
+  "experience": [
+    {
+      "title": "CRM & Automation Platform Admin (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Configure and maintain CRM platforms in GoHighLevel and HubSpot for B2B service clients, including contact segmentation, lifecycle stages, pipelines, and strict data-hygiene rules.",
+        "Built and maintain 20+ automated workflows covering lead routing, appointment booking with confirmations and reminders, no-show recovery, onboarding, and review requests.",
+        "Translate client change requests into precise technical configurations, then train client teams hands-on on the updated setup.",
+        "Document every configuration change, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping records auditable across concurrent clients.",
+        "Build performance dashboards tracking lead flow, funnel progression, and ROI, and report results with clear recommendations.",
+        "Troubleshoot broken integrations across Zapier, Make, and n8n, writing custom code steps and SQL where a point-and-click fix falls short."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments for multi-stakeholder accounts, resolving client feedback promptly to protect satisfaction and retention.",
+        "Built performance reporting frameworks tracking ROI and conversion KPIs, delivering recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing-automation tools, including Birdeye's listings-syndication solution for every partner's end customers.",
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention).",
+        "Analyzed partner utilization data to find adoption gaps and recommend fixes that reduced churn.",
+        "Passed structured, prioritized customer feedback to Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy, reduced handoff errors, and tightened cross-team alignment, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets and 120% of sales targets.",
+        "Built and launched e-commerce sites for established retail businesses with physical store locations.",
+        "Defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), overseeing scope and delivery timelines."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped Accelo's CRM/PSA platform for agencies and professional-services firms, guiding onboarding, workflow design, and API integrations.",
+        "Troubleshot workflow design and resolved technical issues during setup alongside implementation teams, escalating account risk to leadership early."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Platform Administration",
+      "items": ["Workflow Configuration", "Dashboard Setup", "CRM Architecture & Data Hygiene", "Configuration Documentation", "Customer Change Requests", "Troubleshooting & Escalation"]
+    },
+    {
+      "category": "Platforms",
+      "items": ["GoHighLevel", "HubSpot", "Salesforce", "Zendesk", "Accelo (CRM/PSA)", "Zapier, Make, n8n", "Notion", "ClickUp", "Jira"]
+    },
+    {
+      "category": "Data & Reporting",
+      "items": ["Excel", "Power BI", "SQL (working proficiency)", "GA4"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
