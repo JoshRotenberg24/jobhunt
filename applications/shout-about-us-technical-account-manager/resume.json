@@ -1,0 +1,128 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Account Manager | Reviews & Reputation, APIs, Integrations",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical account and partner manager with 15+ years in SaaS, including direct experience in the review and reputation space at Birdeye and Fivestars. Retained ~94% of a 15-20 reseller partner book at Birdeye by guiding technical setup, catching adoption gaps early, and feeding structured issues to Product and Engineering. As a solo founder, builds review-generation and automation systems hands-on, connecting platforms through REST APIs, Zapier, Make, and n8n and writing JavaScript and Python in custom code steps. Explains the same issue to a developer and a business owner, and owns problems through to resolution.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built automated review-generation sequences inside a 20+ workflow GoHighLevel system with SMS and email, alongside booking, reminder, and reactivation flows.",
+        "Connect client CRMs, websites, and reporting tools through REST APIs, Zapier, Make, and n8n, writing JavaScript and Python in custom code steps when a standard connector falls short.",
+        "Troubleshoot broken integrations end to end as a one-person shop with no support team behind me, then document the fix.",
+        "Design LLM-based workflows that generate personalized outreach, and evaluate AI output against rubric-based standards.",
+        "Lead onboarding for new technology stacks, turning requirements into configurations and training client teams hands-on."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts and coordinated execution across internal departments, delivering QBRs with clear recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Owned the technical relationship for 15-20 reseller partners (deals ~$10K-$45K) on Birdeye's reputation-management and review platform, retaining all but one (~94% retention).",
+        "Ran daily product demos and guided partners through complex technical setup and configuration of reputation and marketing-automation tools.",
+        "Sold and onboarded partners on Birdeye's listings-syndication and data-aggregator solution, the backbone of the channel offer.",
+        "Shared structured, prioritized partner issues and feedback with Product and Engineering to inform the roadmap.",
+        "Built automated product-training sequences that reduced onboarding friction across the partner network."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end and built processes that reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month at 110% of implementation targets and 120% of sales targets.",
+        "Guided clients through technical setup including Google Tag Manager and Google Business Profile connections."
+      ]
+    },
+    {
+      "title": "Account Executive (Technical Pre-Sales & Implementation Planning)",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations through setup, advising C-suite clients on operational system design.",
+        "Built sequenced implementation plans and handed them to the implementation team, and built Zapier automations connecting Accelo to clients' tools.",
+        "Ran daily product demos and tracked customer issues through Zendesk."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Sold a loyalty and marketing-automation platform to SMBs, running demos and full-cycle sales."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical",
+      "items": [
+        "REST APIs",
+        "JSON",
+        "API Integrations",
+        "JavaScript & Python (automation code steps)",
+        "Zapier, Make, n8n",
+        "SQL",
+        "Claude Code"
+      ]
+    },
+    {
+      "category": "Account & Partner Management",
+      "items": [
+        "Technical Discovery",
+        "Implementation Planning",
+        "Partner Onboarding",
+        "Troubleshooting & Escalation",
+        "Expansion & Cross-Sell",
+        "Product Feedback Loops"
+      ]
+    },
+    {
+      "category": "Reviews & Reputation",
+      "items": [
+        "Review Generation Workflows",
+        "Reputation Management Platforms",
+        "Listings Syndication",
+        "Google Business Profile"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

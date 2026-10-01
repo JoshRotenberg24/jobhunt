@@ -1,0 +1,19 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 1, 2026",
+  "company": "Shout About Us",
+  "role": "Technical Account Manager, API Partnerships",
+  "recipient": "Hiring Team",
+  "body": [
+    "I've spent the last few years on both sides of the problem you're solving. At Birdeye I managed a reseller partner book on a reputation and review platform, and at Solenzo I build review-generation workflows for contractors and other home-services businesses, the exact kind of providers whose reviews your platform partners host. Helping marketplaces own that signal instead of renting it from Google or Yelp is a product I understand and believe in.",
+    "The partner side of this role is work I've done well. At Birdeye I owned the technical relationship with 15 to 20 reseller partners, ran demos, guided them through complex setup, and retained all but one, roughly 94%, largely by spotting adoption gaps early and getting clear, prioritized issues in front of Product and Engineering. At Accelo I advised C-suite buyers while guiding onboarding, workflow design, and API integrations through setup, so I've worked the gap your posting describes between the buyer who signed and the team that deploys.",
+    "On the technical side, I connect platforms through REST APIs, Zapier, Make, and n8n, and write JavaScript and Python in code steps when a connector can't handle the data. As a solo founder there's no support team behind me, so I dig in, fix it, and document it. I'd welcome the chance to talk about your partner portfolio and how I'd approach the first few implementations."
+  ]
+}
