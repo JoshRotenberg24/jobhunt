@@ -6,7 +6,7 @@
 - **Comp:** $60,000-$90,000 base (range spans geographic zones)
 - **Link:** https://www.builtincolorado.com/company/commandlink
 - **Date evaluated:** 2026-10-01
-- **Status:** Evaluated only. **Resume held pending Josh's call on the residency knockout.**
+- **Status:** **Skipped (Josh, 2026-10-01).** Residency knockout; no resume built.
 
 ## Application-Form and Eligibility Check
 
