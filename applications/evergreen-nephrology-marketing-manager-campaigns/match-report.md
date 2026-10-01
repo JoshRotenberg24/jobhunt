@@ -24,14 +24,14 @@ No knockouts.
 ## Application Priority Score
 
 ```
-🟡 Application Priority Score: 77 / 100 — Solid stretch
-[███████████████░░░░░]  77%
+🟡 Application Priority Score: 79 / 100 — Solid stretch
+[████████████████░░░░]  79%
 ```
 *Internal decision aid, not a prediction of any employer's score or decision.* See `fit.png`.
 
 | Dimension | Score | Max | Why |
 | :--- | ---: | ---: | :--- |
-| Must-have requirements met | 35 | 40 | 4+ yrs marketing/campaign ops, multi-campaign launches, PM and writing, email and multi-channel materials, remote, MS Office. SMS and patient/provider materials not documented. |
+| Must-have requirements met | 37 | 40 | 4+ yrs marketing/campaign ops, multi-campaign launches, PM and writing, email and SMS, remote, MS Office. Patient/provider materials not documented. |
 | Seniority & scope alignment | 12 | 15 | Mid-level campaign manager is a natural fit. |
 | Domain / industry alignment | 7 | 15 | Healthcare-adjacent only: Birdeye channel sales to healthcare-focused agencies. No patient marketing, compliance/regulated-content review, or value-based care. |
 | Differentiators / nice-to-haves | 13 | 15 | CRM, marketing automation, email platforms, PM tools, analytics, templates/playbooks: nearly the full preferred list. |
@@ -47,7 +47,7 @@ No knockouts.
 | 4+ yrs marketing / campaign / ops / partner marketing | Strong | Solenzo, Level, Fetch & Funnel, Birdeye |
 | Multiple campaigns, planning through post-launch | Strong | Level integrated campaigns, Solenzo lifecycle builds |
 | PM, stakeholders, writing, editing, detail | Strong | Notion/HubSpot documentation, published content |
-| Patient/provider/partner/email/SMS materials | Adjacent | Email, landing pages, partner training sequences. SMS and patient-facing materials unconfirmed. |
+| Patient/provider/partner/email/SMS materials | Strong | SMS and email lifecycle workflows, landing pages, partner training sequences. Patient-facing materials not documented. |
 | Remote, evolving infrastructure | Strong | Remote since 2020; founder |
 | Healthcare / regulated content (pref) | Adjacent | Healthcare agency channel at Birdeye |
 | Platforms, automation, PM tools (pref) | Strong | HubSpot, GHL, Marketo, Mailchimp, Asana, Monday.com |
@@ -57,7 +57,7 @@ No knockouts.
 - Patient-facing healthcare marketing and compliance/regulatory review workflows.
 
 ## Candidate confirmation needed
-1. **SMS campaigns:** do your GHL booking/reminder/no-show workflows send SMS? Likely yes; SMS is named twice in this posting.
+1. ~~SMS~~ **Resolved** (yes; now in profile as do-not-re-ask).
 2. **Contract term:** OK with a 6-month contract?
 
 ## Output files

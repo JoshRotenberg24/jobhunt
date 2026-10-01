@@ -1,12 +1,32 @@
 {
-  "score": 77,
+  "score": 79,
   "band": "Solid stretch",
   "role": "Marketing Manager, Campaigns - Evergreen Nephrology",
   "breakdown": [
-    ["Must-have requirements met", 35, 40],
-    ["Seniority & scope alignment", 12, 15],
-    ["Domain / industry alignment", 7, 15],
-    ["Differentiators / nice-to-haves", 13, 15],
-    ["Evidence strength", 10, 15]
+    [
+      "Must-have requirements met",
+      37,
+      40
+    ],
+    [
+      "Seniority & scope alignment",
+      12,
+      15
+    ],
+    [
+      "Domain / industry alignment",
+      7,
+      15
+    ],
+    [
+      "Differentiators / nice-to-haves",
+      13,
+      15
+    ],
+    [
+      "Evidence strength",
+      10,
+      15
+    ]
   ]
 }

@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Marketing operations and campaign manager with 15+ years across agency, MarTech, and B2B SaaS, owning campaigns from planning and asset development through launch, reporting, and optimization. Builds the repeatable infrastructure campaigns run on: templates, messaging frameworks, launch workflows, and 20+ automated lifecycle sequences covering booking, reminders, onboarding, and re-engagement. Experienced coordinating partner-facing programs, including channel sales to healthcare-focused agencies at Birdeye, and writing email, landing-page, and outreach copy that drives engagement.",
+  "summary": "Marketing operations and campaign manager with 15+ years across agency, MarTech, and B2B SaaS, owning campaigns from planning and asset development through launch, reporting, and optimization. Builds the repeatable infrastructure campaigns run on: templates, messaging frameworks, launch workflows, and 20+ automated SMS and email lifecycle sequences covering booking, reminders, onboarding, and re-engagement. Experienced coordinating partner-facing programs, including channel sales to healthcare-focused agencies at Birdeye, and writing email, landing-page, and outreach copy that drives engagement.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -16,7 +16,7 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Architected and deployed 20+ automated lifecycle workflows covering lead capture and routing, appointment booking with confirmations and reminders, no-show recovery, onboarding nurture, long-term reactivation, and review requests.",
+        "Architected and deployed 20+ automated SMS and email lifecycle workflows covering lead capture and routing, appointment booking with confirmations and reminders, no-show recovery, onboarding nurture, long-term reactivation, and review requests.",
         "Build reusable marketing assets and messaging frameworks, adapting a shared template base to each client's brand and audience instead of starting from scratch.",
         "Write and publish email sequences, landing pages, newsletters, and educational guides that explain complex systems to non-technical audiences.",
         "Run segmented outreach campaigns end to end, including an automated audit workflow that enrolled 180+ businesses and converted 2 to paying clients.",
@@ -73,15 +73,39 @@
   "competencies": [
     {
       "category": "Campaign Management",
-      "items": ["Campaign Planning & Launch Readiness", "Project Plans, Timelines & Checklists", "Cross-Functional Coordination", "Partner-Customized Materials", "Templates & Asset Libraries", "Reporting & Optimization"]
+      "items": [
+        "Campaign Planning & Launch Readiness",
+        "Project Plans, Timelines & Checklists",
+        "Cross-Functional Coordination",
+        "Partner-Customized Materials",
+        "Templates & Asset Libraries",
+        "Reporting & Optimization"
+      ]
     },
     {
       "category": "Channels & Content",
-      "items": ["Email & Lifecycle", "Landing Pages & Website Content", "Copywriting & Editing", "Paid Media", "SEO"]
+      "items": [
+        "Email, SMS & Lifecycle",
+        "Landing Pages & Website Content",
+        "Copywriting & Editing",
+        "Paid Media",
+        "SEO"
+      ]
     },
     {
       "category": "Platforms",
-      "items": ["HubSpot", "GoHighLevel", "Marketo", "Mailchimp", "Salesforce", "Asana", "Monday.com", "Notion", "GA4", "Excel"]
+      "items": [
+        "HubSpot",
+        "GoHighLevel",
+        "Marketo",
+        "Mailchimp",
+        "Salesforce",
+        "Asana",
+        "Monday.com",
+        "Notion",
+        "GA4",
+        "Excel"
+      ]
     }
   ],
   "education": [

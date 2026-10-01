@@ -340,6 +340,10 @@ operator talking, not like a candidate performing.
 - Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.
 
 **Marketing & Growth Systems**
+> **SMS is a core channel in every GHL workflow (confirmed by Josh repeatedly, recorded
+> Oct 2026, DO NOT RE-ASK):** the booking confirmations, reminders, no-show recovery,
+> nurture, and reactivation workflows send SMS as well as email. Claim SMS campaign
+> build/deployment directly for any posting that names SMS or text messaging.
 > **Automation platform breadth beyond GoHighLevel (confirmed by Josh, Sep 2026):** Josh
 > builds automations in Zapier, Make, and n8n at Solenzo, in addition to native
 > GoHighLevel workflows, not siloed to one platform. He has built Zapier automations
@@ -383,7 +387,7 @@ operator talking, not like a candidate performing.
 - Break down manual marketing workflows into agent architectures with custom logic that scores a business's digital footprint and generates hyper-personalized outreach.
 - Translate non-technical stakeholders' generalized ideas and feedback into precise, structured AI prompts and agent instructions — acting as the bridge between business intent and reliable LLM output.
 - Design and deploy automated lifecycle sequences, onboarding workflows, and CRM architectures that activate, nurture, and retain high-value users at scale.
-- Architected and deployed a **complete GoHighLevel marketing-automation system — 20+ workflows** spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.
+- Architected and deployed a **complete GoHighLevel marketing-automation system — 20+ SMS and email workflows** spanning lead capture/tagging/routing, lead qualification, appointment booking with confirmation and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture/reactivation, and automated review-generation sequences.
 - Built segmented cold-email outreach engines in GHL (website-visibility, missed-calls, and low-reviews campaigns) plus an automated **prospect "audit" workflow that enrolled 180+ contacts**, scoring a business's digital footprint to trigger personalized outreach.
 - Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.
 - Identify and implement schema/structured data as part of technical SEO audits, pulling full on-page schema implementation. *(Confirmed by Josh, Aug 2026.)*
