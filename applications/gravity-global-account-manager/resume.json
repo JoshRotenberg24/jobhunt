@@ -1,0 +1,125 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Agency Account Manager | Integrated Digital Marketing",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Account manager with 15+ years in agency, MarTech, and B2B SaaS environments, serving as the primary client contact and turning business goals into integrated plans across paid media, content, creative, and web. At Level Agency led multi-stakeholder accounts as strategic lead, coordinating execution across internal departments and delivering QBRs and budget recommendations. Led a team of up to 20 at Wix, overseeing budgets, scope, and timelines, and grows accounts by scoping complementary services that fit each client's objectives.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary relationship for a portfolio of B2B service clients, running discovery to surface goals and market challenges and turning them into marketing plans.",
+        "Expand retainer scope by recommending and scoping complementary services aligned with each client's objectives.",
+        "Deliver programs across local SEO, Google Ads, email, landing pages, and automation, aligning messaging and lead flow directly with business owners and sales teams.",
+        "Write direct-response copy, outreach sequences, and landing pages, and build reusable messaging frameworks adapted to each client's brand.",
+        "Report performance on a regular cadence with clear recommendations, tracking timelines and deliverables in HubSpot and Notion."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated digital strategies across inbound, paid media, and content as strategic lead, coordinating execution across internal departments.",
+        "Managed multi-stakeholder client accounts, translating performance data into strategic recommendations and QBRs.",
+        "Advised clients on ad-spend budget planning and allocation across paid campaigns.",
+        "Designed account-based LinkedIn campaigns targeting small, highly researched audiences with A/B-tested setups.",
+        "Produced campaign assets including landing pages, email sequences, and conversion-focused copy.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Advised partners on retention strategy and customer health, equipping them to communicate product value to their own clients."
+      ]
+    },
+    {
+      "title": "Agency Account Management (Account Executive / Sales Operations)",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, reporting, and cross-team communication, with workflows managed in ClickUp.",
+        "Analyzed campaign data and turned results into optimization recommendations across paid media and creative.",
+        "Closed 6 new-client deals averaging ~$22K each (~$130K+ total) and served a banking-industry client."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Managed accounts across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Held 120% of sales targets and 110% of implementation targets while launching 25+ clients per month."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped CRM and project-management software to agencies and professional-services firms, advising C-suite executives on operational system design.",
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Account Management",
+      "items": [
+        "Primary Client Contact",
+        "Integrated Campaign Planning",
+        "Scope, Budget & Timeline Management",
+        "Estimates & Scoping",
+        "Account Growth",
+        "QBRs & Senior Stakeholder Presentations"
+      ]
+    },
+    {
+      "category": "Channels",
+      "items": [
+        "Paid Search & Paid Social (Meta Ads certified)",
+        "LinkedIn Ads",
+        "SEO & Local SEO",
+        "Email & Lifecycle",
+        "Landing Pages & Copy"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "HubSpot",
+        "Asana",
+        "Monday.com",
+        "ClickUp",
+        "Notion",
+        "GA4",
+        "Salesforce"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
