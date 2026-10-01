@@ -104,6 +104,10 @@ band.
 - Set during the Jama Software Associate Deal Desk Analyst application (Sep 2026),
   anchored against comparable posted ranges (CerebriOS Sales Operations Coordinator,
   $55K-$72K) rather than inflated national averages skewed by large enterprise data.
+- **Mid-level agency Account Manager** (3-5 yrs stated, e.g. Gravity Global, Oct 2026):
+  target **$82,000-$88,000 base**, anchor **$85,000**, walk-away ~$78K. Anchored to
+  Gravity's own AM data (Glassdoor $64K-$93K; posted $60K-$75K and $75K-$85K NYC) and
+  mid-level agency AM market (~$75K-$95K). Re-check per employer.
 - **Does not apply directly** to senior IC, team-lead, strategic, or founder-scope roles —
   those need their own market-data pull and a real number from Josh, not this baseline.
 

@@ -12,7 +12,7 @@
 | Item | Classification | Status |
 | :--- | :--- | :--- |
 | Some travel for client meetings | Application-form | Yes, confirmed Oct 2026. |
-| Salary expectation | Application-form | Mid-level agency AM; the $75K associate baseline is a floor here, not the answer. Needs Josh's number. |
+| Salary expectation | Application-form | **Answer $82K-$88K base, anchor $85K; walk-away ~$78K.** Basis: Gravity Global AM Glassdoor range $64K-$93K (55 US salaries, Aug 2026); recent Gravity AM postings listed $60K-$75K and $75K-$85K (NYC); mid-level agency AM market ~$75K-$95K. Set Oct 2026. |
 | Work authorization | Application-form | U.S. citizen, no sponsorship. |
 | Remote US | Application-form | Colorado-compatible. |
 
