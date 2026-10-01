@@ -63,7 +63,7 @@ No knockouts.
 ## Output files
 - `Rotenberg Resume - Evergreen Nephrology - Marketing Manager Campaigns.pdf` (working copies `resume.*`)
 - `fit.json`, `fit.png`
-- No cover letter yet. If wanted, the profile's personal healthcare experience (8 years navigating private-payer insurance as a patient) is genuine motivation material for a patient-engagement role.
+- `Rotenberg Cover Letter - Evergreen Nephrology - Marketing Manager Campaigns.pdf` (opens with Josh's patient/insurance experience at the general level the profile allows; no diagnosis or body part named)
 
 ## Readability / parse QA
 Modern style, 2 pages (last page 42%), selectable text, standard headings, chronology verified. Composite titles: Level Agency `Campaign Strategy Lead (Account Executive / Client Strategist)`, Birdeye `Partner Enablement (Channel Partnerships & Customer Onboarding)`; real titles fully present. Accelo, Fivestars, Senior Directory omitted for relevance.
