@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Strategic Account Management & Customer Success | Technology Clients",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Account manager and consultative seller with 15+ years in B2B SaaS and technology, growing revenue inside existing accounts through account planning, business reviews, and renewal proposals. Ranked top three in sales at Accelo while quota doubled, advising C-suite clients on complex software solutions, and retained ~94% of a 15-20 partner reseller book at Birdeye (deals ~$10K-$45K). Has written proposals and statements of work in every sales role since 2018, and coordinates operations and technical teams to keep service levels on track.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the strategic relationship for a portfolio of B2B clients, documenting goals, timelines, and deliverables for each account in the CRM and Notion.",
+        "Grow existing accounts by identifying complementary services and writing proposals and SOWs with clear scope, cost, and expectations.",
+        "Report performance on a regular cadence with trend analysis and recommendations, using dashboards built in Power BI and GA4."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts, delivering quarterly business reviews that translated performance data into strategic recommendations.",
+        "Drafted proposals and statements of work and advised clients on budget planning and allocation.",
+        "Coordinated execution across internal departments and resolved client issues promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed a named book of 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Analyzed partner utilization and performance trends to find adoption gaps and recommend interventions that reduced churn.",
+        "Wrote proposals and SOWs, ran daily product demos, and coordinated with Product and Engineering on high-priority customer issues.",
+        "Managed the account book and pipeline in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K each (~$130K+ total) and led the sales team.",
+        "Pursued a major northeastern U.S. banking prospect through to finalist stage."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, holding 120% of sales targets and 110% of implementation targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery.",
+        "Contributed to a 25% improvement in conversion rates across supported accounts through proactive communication on client goals."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps over 27 months, sustained while quota roughly doubled.",
+        "Sold and scoped complex CRM and project-management software, building relationships with C-suite executives as a trusted advisor and closing deals of $20K and larger.",
+        "Averaged ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue, consistently into accelerator tiers.",
+        "Escalated account risk to leadership early and mitigated it with direct strategic guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Account Management",
+      "items": ["Strategic Account Planning", "Quarterly & Annual Business Reviews", "Renewals & Expansion", "Proposals, SOWs & Contract Renewals", "C-Suite Relationships", "Root-Cause Issue Resolution"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Salesforce", "HubSpot", "Excel", "PowerPoint", "Word", "Power BI", "Zendesk"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
