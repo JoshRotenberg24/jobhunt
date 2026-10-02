@@ -1,0 +1,100 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Onboarding & Implementation Manager",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Onboarding and implementation manager with 15+ years in SaaS, owning the path from signed contract to a customer running confidently on the product. Onboarded and launched 25+ clients a month at Wix at 110% of implementation targets while leading a team of up to 20 onboarding specialists, and retained ~94% of a 15-20 partner book at Birdeye. Brings first-hand understanding of outpatient therapy from the patient side, including years of navigating physical therapy approvals with insurers.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead onboarding for new technology stacks end to end, translating each client's workflow into platform configuration and training their team hands-on.",
+        "Built automated booking, confirmation, reminder, and no-show recovery workflows for service businesses, the front-desk side of how appointments actually run.",
+        "Configure CRM platforms including user roles and permissions, and document every configuration and client interaction."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback promptly to protect satisfaction and retention across implementations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention).",
+        "Guided customers through complex technical setup and built automated training sequences that reduced onboarding friction.",
+        "Relayed prioritized client friction points to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built processes that reduced handoff errors between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month against defined timelines, holding 110% of implementation targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), contributing to hiring, onboarding, and training new team members."
+      ]
+    },
+    {
+      "title": "Account Executive (Implementation Planning)",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients and guided onboarding, workflow design, and API integrations, tracking issues in Zendesk."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Onboarding",
+      "items": [
+        "Kickoff to Go-Live",
+        "Role-Based Training",
+        "Timeline & Risk Management",
+        "Handoff to Support",
+        "Voice of the Client"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Zendesk",
+        "Asana",
+        "Notion",
+        "Slack"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": []
+}
