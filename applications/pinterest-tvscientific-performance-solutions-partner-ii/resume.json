@@ -1,0 +1,110 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Performance Strategy & Account Optimization | Paid Media, Experimentation & AI-Driven Analysis",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Performance and account strategist with 15+ years across MarTech, SaaS, and agency environments, including agency-side paid media strategy (Google Ads, LinkedIn Ads, Meta Ads certified), A/B-tested campaign builds, and performance reporting through weekly reviews and QBRs. Diagnoses where a funnel is actually breaking, from lead quality to on-site conversion, and turns the finding into a test or a fix. Builds AI-assisted analysis and evaluation frameworks that speed up diagnostics and keep outputs explainable to clients. A decade owning B2B accounts, including ~94% partner retention at Birdeye, means performance work stays tied to adoption and revenue.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click-through quality, then diagnosed on-site CRO as the remaining conversion bottleneck.",
+        "Built AI-driven agent logic that scores a business's digital footprint and generates personalized outreach, run through an audit workflow that enrolled 180+ businesses.",
+        "Design self-improving loops and rubric-based evaluation frameworks to monitor AI-generated outputs and continuously optimize conversion rates, keeping results accurate and explainable to clients.",
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, using GA4, GTM, and CRM analytics.",
+        "Report performance on a regular cadence with actionable recommendations, translating non-technical owners' goals into structured tests and system changes.",
+        "Architected 20+ marketing-automation workflows (capture, qualification, booking, no-show recovery, nurture, reactivation) that turn optimization findings into repeatable playbooks."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated digital strategy across paid media, inbound, and content for client accounts, coordinating execution across internal departments.",
+        "Designed and ran LinkedIn ad campaigns using an account-based approach, targeting small, highly researched audiences with A/B-tested setups.",
+        "Advised clients on ad-spend budget planning and allocation across paid campaigns.",
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, and delivered optimization recommendations and QBRs.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting, and translated performance data into recommendations for multi-stakeholder accounts."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Partnered with Product and Engineering, delivering structured, high-priority customer feedback that informed the roadmap.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows so they could communicate product value."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors; closed 6 new-client deals averaging ~$22K (~$130K+ total)."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), building training and process improvements for a new vertical that grew from proof of concept to a profitable business line."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps while quota roughly doubled, advising C-suite clients at agencies and professional-services firms on operational system design."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Performance & Paid Media",
+      "items": ["Google Ads", "LinkedIn Ads", "Meta Ads (certified)", "Budget Planning & Allocation", "Search-Term Analysis", "CRO"]
+    },
+    {
+      "category": "Experimentation & Analysis",
+      "items": ["A/B Testing", "Funnel Diagnostics", "GA4", "Google Tag Manager", "Excel", "Power BI", "SQL (working)"]
+    },
+    {
+      "category": "AI-Assisted Analysis",
+      "items": ["Claude", "ChatGPT", "Agentic Workflows", "Evaluation Frameworks", "Prompt Design"]
+    },
+    {
+      "category": "Account Strategy",
+      "items": ["Performance Dashboards", "Weekly Reviews & QBRs", "Playbook Development", "Cross-functional Partnership", "Retention & Adoption"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
