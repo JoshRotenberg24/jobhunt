@@ -1,0 +1,116 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Business Development & Outbound | AI-Assisted Prospecting",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Business developer with 15+ years in B2B SaaS, starting as a BDR and growing into full-cycle sales, now building AI-driven outbound systems as a founder. Booked a steady flow of sales-ready meetings as a BDR for four years, ranked top three in sales at Accelo while quota doubled, and closed ~$130K+ in new business at Fetch & Funnel. At Solenzo, built an AI-assisted prospecting engine that scores a business's online footprint and generates personalized outreach, enrolling 180+ prospects. Uses Claude and ChatGPT daily.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built an AI-assisted prospecting engine that researches and scores each target business's digital footprint, then generates hyper-personalized outreach; 180+ prospects enrolled.",
+        "Run segmented cold-email campaigns by pain point (website visibility, missed calls, low reviews), testing messaging and targeting to improve engagement.",
+        "Prospect, run discovery, and close my own deals, logging every touch in the CRM."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Designed account-based LinkedIn campaigns targeting small, highly researched audiences of specific accounts and contacts, with A/B-tested messaging."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Pitched and onboarded 15-20 reseller partners, running daily demos and retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K each (~$130K+ total)."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Held 120% of sales targets while launching 25+ clients per month, and developed sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, running daily demos and closing deals of $20K and larger with agency and professional-services buyers."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran high-volume prospecting and full-cycle sales for an SMB marketing-automation platform."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads for four years, booking a steady flow of sales-ready meetings for regional sales representatives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Outbound",
+      "items": [
+        "Account Research",
+        "Personalized Outreach",
+        "Sequence Testing",
+        "Meeting Setting",
+        "Discovery & Closing"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Salesloft",
+        "ZoomInfo",
+        "Gong",
+        "Claude",
+        "ChatGPT"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": []
+}
