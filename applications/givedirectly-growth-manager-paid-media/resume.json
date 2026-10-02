@@ -1,0 +1,111 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Performance Marketing & Paid Media | Tracking, Attribution, Testing",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Hands-on performance marketer with 15+ years across agency, MarTech, and B2B SaaS, building and running paid programs inside the platforms rather than through an agency. Runs Google Ads campaigns hands-on, is Meta Ads certified, designed A/B-tested LinkedIn campaigns for small, researched audiences, and advised clients on ad-spend budget planning. Builds the tracking behind the numbers: Google Tag Manager, GA4, CRM integrations, and dashboards that report CAC, LTV, ROI, and conversion outside the ad platforms. Writes ad copy, landing pages, and email sequences, and trusts the data over platform recommendations.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Optimized a client's Google Ads account to cut spam and low-quality leads and improve click quality, then diagnosed on-site conversion as the remaining bottleneck rather than spending more on traffic.",
+        "Install Google Tag Manager on every site built and implement GA4 tracking directly in site code, so campaign results can be measured outside the ad platforms.",
+        "Build dashboards in Power BI and GA4 tracking lead generation, funnel progression, and campaign ROI, writing SQL for BigQuery/GA4 pulls.",
+        "Write direct-response ad copy, landing pages, and email and SMS sequences, and built 20+ automated lifecycle workflows that convert and retain leads.",
+        "Grew a free audit offer through LinkedIn organic content: 180+ businesses enrolled, 2 converted to paying clients."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Advised clients on ad-spend budget planning and allocation across paid campaigns.",
+        "Designed account-based LinkedIn ad campaigns targeting small, highly researched audiences with A/B-tested setups.",
+        "Built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering QBRs and optimization recommendations to senior stakeholders.",
+        "Led integrated strategy across inbound, paid media, and content, and produced landing pages and conversion-focused copy."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention), and tracked the book in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency and turned results into optimization recommendations.",
+        "Closed 6 new-client deals averaging ~$22K each (~$130K+ total)."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Contributed to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led a team of onboarding specialists for 2 years (20, later 8)."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Paid Media",
+      "items": [
+        "Google Ads",
+        "Meta Ads (certified)",
+        "LinkedIn Ads",
+        "Budget Planning & Pacing",
+        "A/B Testing",
+        "Ad Copy & Creative Direction",
+        "Landing Pages"
+      ]
+    },
+    {
+      "category": "Measurement",
+      "items": [
+        "GA4",
+        "Google Tag Manager",
+        "Conversion Tracking Setup",
+        "Power BI",
+        "SQL (BigQuery)",
+        "Excel"
+      ]
+    },
+    {
+      "category": "Stack",
+      "items": [
+        "Salesforce",
+        "Zendesk",
+        "Ahrefs",
+        "CMS Implementation",
+        "HubSpot",
+        "Zapier, Make, n8n"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
