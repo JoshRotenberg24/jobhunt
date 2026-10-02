@@ -1,0 +1,100 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Success & Account Analytics | Agency Partnerships",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client success and account professional with 15+ years supporting agencies and their clients, from inside two performance marketing agencies and from the vendor side managing reseller partners, including agencies. Retained ~94% of a 15-20 reseller partner book at Birdeye, built reporting frameworks on ROI, CAC, LTV, and conversion at Level Agency, and runs Google Ads and paid campaigns hands-on. Turns data from multiple sources into clear recommendations using Excel, Power BI, GA4, HubSpot, and Claude, and keeps account data clean and current.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Optimized a client's Google Ads account to cut spam leads and improve click quality, then diagnosed on-site conversion as the remaining bottleneck.",
+        "Build Power BI and GA4 dashboards tracking lead generation, funnel progression, and campaign ROI, writing SQL for BigQuery pulls, and present findings with recommendations.",
+        "Use Claude and ChatGPT daily to work through data and build automated workflows."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built reporting tracking ROI, CAC, LTV, and conversion across paid campaigns, delivering QBRs, budget recommendations, and optimization plans."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners, including agencies, as their liaison to internal teams, retaining all but one (~94% retention).",
+        "Analyzed partner utilization and performance data to find adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, analyzing paid media and creative performance and turning results into recommendations."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio, contributing to a 30% increase in traffic and 25% improvement in conversion across the e-commerce segment, at 120% of sales targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped CRM and project-management software to agencies, ranking top three in sales while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Success & Analytics",
+      "items": [
+        "Agency Partnerships",
+        "Performance Reporting",
+        "PPC / CPA / CAC Analysis",
+        "Data Synthesis & Recommendations",
+        "Upsell Identification",
+        "Onboarding"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "HubSpot",
+        "Excel",
+        "Google Workspace",
+        "Claude",
+        "Power BI",
+        "GA4",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": []
+}
