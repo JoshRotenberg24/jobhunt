@@ -1,0 +1,118 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Strategy & Sales Enablement | Pitch Materials That Close",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing strategist and seller with 15+ years across agency, MarTech, and B2B SaaS, building the proposals, messaging, and pitch materials behind real revenue and then taking them into the room. Has written proposals and statements of work in every sales role since 2018, ranked top three in sales at Accelo while quota doubled, and closed ~$130K+ in new agency business at Fetch & Funnel. Writes across formats, from direct-response copy and landing pages to thought leadership and educational guides, and adapts one story for buyers, partners, and executives. Comfortable as the face of an organization in client conversations.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build reusable messaging frameworks and marketing assets, adapting a shared base to each client's brand, audience, and vertical.",
+        "Write proposals and SOWs that turn discovery into a clear scope, cost, and value story, and expand accounts through new service proposals.",
+        "Write and publish thought leadership, newsletters, and educational guides for B2B audiences.",
+        "Write direct-response copy, landing pages, and outreach sequences that drive engagement and pipeline.",
+        "Pitch and close Solenzo clients directly as founder, from first conversation through signed engagement."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led integrated strategy across inbound, paid media, and content for multi-stakeholder clients, coordinating execution across internal departments.",
+        "Drafted proposals and statements of work, and delivered QBRs that turned performance data into strategic recommendations.",
+        "Produced landing pages, email sequences, and conversion-focused copy, and represented the agency at industry events."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Pitched and onboarded 15-20 reseller partners (deals ~$10K-$45K), using third-party industry research as sales-enablement material, and retained all but one (~94%).",
+        "Equipped partners with messaging and training sequences to communicate product value to their own customers.",
+        "Ran daily demos and represented Birdeye at tradeshows and events."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K each (~$130K+ total bookings) and led the sales team.",
+        "Pursued a major northeastern U.S. banking prospect as part of the team that reached finalist stage."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Held 120% of sales targets while launching 25+ clients per month, and developed sales training for tenured account executives.",
+        "Led a team of onboarding specialists for 2 years (20, later 8)."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, closing deals of $20K and larger.",
+        "Wrote proposals and SOWs, ran daily demos, built relationships with C-suite buyers, and represented Accelo at tradeshows."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Strategy & Enablement",
+      "items": [
+        "Sales Collateral & Proposals",
+        "Brand & Product Narratives",
+        "Audience-Specific Messaging",
+        "Client Pitching",
+        "Events & Tradeshows"
+      ]
+    },
+    {
+      "category": "Writing",
+      "items": [
+        "Persuasive & Direct-Response Copy",
+        "Thought Leadership",
+        "Newsletters",
+        "Educational Content",
+        "Editing"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Google Workspace",
+        "HubSpot",
+        "Salesforce",
+        "Notion",
+        "Claude",
+        "ChatGPT"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
