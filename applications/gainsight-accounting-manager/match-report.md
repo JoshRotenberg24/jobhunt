@@ -6,7 +6,7 @@
 - **Comp:** $145,000-$160,000 base + commission + equity
 - **Link:** https://jobs.ashbyhq.com/gainsight/3c96b113-426d-46b6-a4d9-de9c5eefb2cb
 - **Date evaluated:** 2026-10-02
-- **Status:** Evaluated only. **Resume held pending Josh's call** (possible California location requirement plus a full functional mismatch).
+- **Status:** **Skipped (Josh, 2026-10-02).** No resume built.
 
 ## Application-Form and Eligibility Check
 
