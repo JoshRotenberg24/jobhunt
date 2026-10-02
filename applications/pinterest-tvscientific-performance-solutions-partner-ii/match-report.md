@@ -4,6 +4,7 @@
 **Link:** pinterestcareers.com (tvScientific department)
 **Location:** Remote US (New York listed); in office 1-2x per 6 months, anywhere in US
 **Comp:** $81,921-$168,660 base + equity
+- **Status:** Skipped by Josh (2026-10-02). Not applying. Materials kept for reference.
 
 ## Application-Form and Eligibility Check
 
