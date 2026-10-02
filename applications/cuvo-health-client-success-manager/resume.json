@@ -1,0 +1,121 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Success, Implementation & Account Management",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client success and implementation professional with 15+ years in B2B SaaS, owning the client lifecycle from contract through launch, ongoing service, and renewal. Onboarded and launched 25+ clients a month at Wix at 110% of implementation targets while leading a team of up to 20, and retained ~94% of a 15-20 partner book at Birdeye, including channel sales to healthcare-focused agencies. Builds implementation plans, onboarding documentation, and status reporting, coordinates product, engineering, and operations teams to hit launch dates, and runs business reviews that tie performance to growth. Earlier built compliance and customer-management systems from scratch as co-owner of a licensed medical marijuana dispensary.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the client relationship from signed proposal through onboarding, launch, and ongoing service for a portfolio of B2B clients.",
+        "Lead onboarding for new technology stacks, translating business requirements into platform configuration and training client teams hands-on.",
+        "Document every client interaction, timeline, and deliverable in HubSpot, GoHighLevel, and Notion, keeping status reporting current across concurrent engagements.",
+        "Configure CRM platforms including user roles and permissions, lifecycle stages, and data-hygiene rules, and build AI-assisted client workflows.",
+        "Grow accounts through monthly reporting and proposals for complementary services."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts, delivering QBRs on performance and growth opportunities.",
+        "Held delivery quality consistent across implementations and resolved client issues promptly to protect retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, including healthcare-focused agencies, retaining all but one (~94% retention).",
+        "Guided partners through complex technical setup and configuration, and coordinated with Product and Engineering to resolve high-priority issues.",
+        "Built automated training sequences and communication workflows that reduced onboarding friction across concurrent partner launches.",
+        "Maintained partner records and status in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end and built processes that reduced handoff errors and improved reporting accuracy, managing work in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month against defined timelines, holding 110% of implementation targets and 120% of sales targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), overseeing budgets, scope, and delivery for a high-value portfolio.",
+        "Defined the CRM fields for sales and onboarding workflows, standardizing data capture."
+      ]
+    },
+    {
+      "title": "Account Executive (Implementation Planning)",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team.",
+        "Guided onboarding, workflow design, and API integrations, advising C-suite clients and escalating account risk early; tracked issues in Zendesk."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance and customer-management systems from scratch in a licensed medical marijuana dispensary, including intake processes and reporting.",
+        "Built customer, vendor, and supplier workflows from the ground up, scaling the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation & Accounts",
+      "items": [
+        "Kickoff to Launch",
+        "Timeline & Milestone Management",
+        "Onboarding Documentation",
+        "Monthly Business Reviews",
+        "Renewals & Expansion",
+        "Regulated-Industry Compliance Systems"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "Slack",
+        "Asana",
+        "Monday.com",
+        "Notion",
+        "Zendesk",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
