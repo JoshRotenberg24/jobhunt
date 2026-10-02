@@ -1,0 +1,103 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success Manager | B2B SaaS",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success and account management professional with 15+ years in SaaS, owning the post-sale relationship from onboarding through adoption, renewal, and growth. Retained ~94% of a 15-20 partner book at Birdeye by monitoring utilization, catching risk early, and running remediation with Product and Engineering. Onboarded 25+ clients a month at Wix at 110% of implementation targets while leading a team of up to 20. Runs business reviews, builds success plans, manages escalations, and represents the company at customer meetings and industry events, with disciplined documentation in Salesforce and HubSpot.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the strategic relationship for a portfolio of B2B clients, running discovery to align goals with measurable outcomes and expanding scope through proposals and SOWs.",
+        "Lead onboarding and hands-on training for new technology stacks.",
+        "Report performance on a regular cadence with dashboards and clear recommendations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts, delivering QBRs and resolving escalations promptly to protect retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94% retention).",
+        "Analyzed utilization and performance data to identify adoption gaps and at-risk accounts, recommending interventions that reduced churn.",
+        "Advised partners on retention strategy and customer health metrics, and escalated high-priority issues to Product and Engineering.",
+        "Ran daily demos, represented Birdeye at tradeshows, and kept account records current in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end and closed 6 new-client deals averaging ~$22K each."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation and 120% of sales targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8)."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built C-suite relationships as a trusted advisor, escalated account risk early, and ranked top three in sales while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": [
+        "Business Reviews",
+        "Success Plans",
+        "Renewals & Cross-Sell",
+        "Account Health & Risk",
+        "Escalation Management",
+        "Customer Onboarding & Training",
+        "Executive Relationships"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Zendesk",
+        "Power BI",
+        "Excel",
+        "Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": []
+}
