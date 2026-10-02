@@ -1,0 +1,100 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Onboarding | SaaS for HVAC & Home Services",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer onboarding specialist with 15+ years in SaaS, owning the journey from sales handoff to go-live. Onboarded and launched 25+ clients a month at Wix at 110% of implementation targets, and retained ~94% of a 15-20 partner book at Birdeye, including home-services businesses. As founder of Solenzo, builds CRM and automation systems for HVAC, plumbing, and electrical businesses, so the dealers on the other end of an HVAC sales platform are familiar ground.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Onboard HVAC, plumbing, electrical, and other home-services businesses onto CRM and automation systems, from setup and configuration through training and launch.",
+        "Built a 20+ workflow GoHighLevel system with SMS and email covering lead routing, booking, reminders, onboarding, and review requests.",
+        "Document every client interaction, timeline, and deliverable in HubSpot, GoHighLevel, and Notion, keeping records current across concurrent clients."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Held delivery quality consistent across implementations, resolving client issues promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and trained 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention).",
+        "Guided customers through complex technical setup and configuration, and built automated training sequences that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built processes that reduced handoff errors between sales and delivery, serving clients including home-services businesses."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month against defined timelines, holding 110% of implementation targets.",
+        "Led a team of onboarding specialists for 2 years (20, later 8), contributing to training new team members."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients and handed them to the implementation team, guiding onboarding and workflow setup and tracking issues in Zendesk."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Onboarding",
+      "items": [
+        "Sales Handoff Review",
+        "Setup & Configuration",
+        "Customer Training",
+        "Go-Live Readiness",
+        "Handoff to Customer Success",
+        "SOPs & Templates"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel",
+        "Zendesk",
+        "Zapier, Make, n8n",
+        "Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": []
+}
