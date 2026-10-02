@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Support & Account Coordination | Salesforce, Zendesk",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer-facing SaaS professional with 15+ years resolving customer issues by phone, email, and screen share, guiding product choices, and keeping sales teams and customers aligned. Tracked and worked customer issues in Zendesk at Accelo, managed partner accounts in Salesforce at Birdeye (~94% retention), and onboarded 25+ clients a month at Wix. Detail-oriented with CRM data, documents every interaction, and writes proposals that match exactly what was promised.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Support small-business clients on CRM and automation platforms, identifying the cause of issues and resolving them directly.",
+        "Document every client interaction, timeline, and deliverable in the CRM and Notion, keeping records accurate across concurrent clients.",
+        "Write proposals and SOWs with clear scope, cost, and expectations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback and issues promptly across multi-stakeholder accounts to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Supported 15-20 reseller partners through technical setup, product questions, and issue resolution, retaining all but one (~94% retention).",
+        "Coordinated with Product and Engineering on customer issues and kept account records current in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built processes that improved reporting accuracy and reduced handoff errors between sales and delivery teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, guiding them through platform setup and e-commerce storefronts, at 110% of implementation targets.",
+        "Defined CRM fields for sales and onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Tracked and worked customer issues through Zendesk tickets, coordinating resolution with the implementation team.",
+        "Guided clients to the right configuration through daily product demos, and wrote proposals and SOWs."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Support",
+      "items": [
+        "Phone & Email Support",
+        "Root-Cause Troubleshooting",
+        "Proposal & Data Accuracy",
+        "Customer Follow-Up",
+        "Cross-Team Coordination"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "Zendesk",
+        "Google Workspace",
+        "HubSpot",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": []
+}
