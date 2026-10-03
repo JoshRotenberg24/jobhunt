@@ -1,0 +1,104 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "AI Creative Strategist | Direct-Response Copy, Audience Messaging & AI Content Systems",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Direct-response copywriter and AI systems builder with 15+ years in MarTech, SaaS, and agency marketing. Writes the hooks, outreach sequences, and landing pages, then builds the AI and automation systems that produce them at volume, adapting one messaging framework to each audience and vertical instead of starting from scratch. Grew a free offer through organic LinkedIn content to 180+ enrolled businesses and paying clients. Meta Ads certified, A/B tests by default, and has trained teams and built sales training, so what works gets turned into a playbook others can run.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Write clean, specific direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline for service-business clients.",
+        "Grew a free digital-footprint audit offer through organic LinkedIn content to 180+ enrolled businesses, converting 2 into paying clients: useful content first, the offer second.",
+        "Built AI agent logic that scores each business's digital footprint and generates hyper-personalized outreach, matching the message to the specific prospect instead of one generic script.",
+        "Built segmented campaigns by angle (website visibility, missed calls, low reviews), each with its own hook and message for a different pain point.",
+        "Build reusable messaging frameworks and boilerplate assets, adapting a shared template base to each client's brand, voice, and vertical.",
+        "Translate loosely formed ideas into precise, structured AI prompts and agent instructions, and score AI output against rubric-based grading criteria to keep quality consistent at volume.",
+        "Write and publish thought leadership, newsletters, and educational guides for B2B audiences."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced campaign assets including landing pages, multi-step email sequences, and conversion-focused copy that supported lead generation and pipeline.",
+        "Designed LinkedIn ad campaigns for small, highly researched audiences with A/B-tested setups, tailoring message to each audience segment.",
+        "Built campaign performance reporting tracking ROI, CAC, LTV, and conversion KPIs, and turned results into optimization recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated product-training sequences and partner communication workflows for a network of 15-20 reseller partners, retaining all but one (~94%).",
+        "Partnered with Product and Engineering, delivering structured, high-priority user feedback that informed the product roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data at a performance marketing agency and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Contributed to a 25% improvement in conversion rates and a 30% increase in website traffic across the e-commerce segment, including retail businesses launching online storefronts.",
+        "Led a team of onboarding specialists for 2 years (20, later 8) and developed sales training for tenured account executives, turning what worked into repeatable training.",
+        "Drove team initiatives for a new vertical that grew from proof of concept to a profitable business line, including hiring, onboarding, and training new team members."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Creative & Copy",
+      "items": ["Direct-Response Copywriting", "Hooks & Angles", "Messaging Frameworks", "Audience Segmentation", "Landing Pages", "Email Sequences"]
+    },
+    {
+      "category": "AI & Systems",
+      "items": ["ChatGPT", "Claude", "Prompt Design", "Agentic Workflows", "Rubric-Based Output QA", "Zapier, Make, n8n"]
+    },
+    {
+      "category": "Testing & Performance",
+      "items": ["A/B Testing", "Meta Ads (certified)", "LinkedIn Ads", "Organic LinkedIn Growth", "Performance Analysis"]
+    },
+    {
+      "category": "Team & Training",
+      "items": ["Team Leadership", "Sales Training Development", "Playbook Building", "Product Feedback Loops"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
