@@ -4,6 +4,7 @@
 **Location:** Remote, United States, full-time
 **Comp:** not listed
 **Application format:** screening questions + Loom video (no cover letter field)
+- **Status:** Skipped by Josh (2026-10-03). Not applying. Materials kept for reference.
 
 ## Application-Form and Eligibility Check
 
