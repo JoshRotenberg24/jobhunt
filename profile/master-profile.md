@@ -57,6 +57,16 @@
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
 >
+> **Travel (confirmed by Josh, Oct 2026):** up to 20% travel, domestic or international, is
+> fine. Answer yes on application forms at 20% or below; ask for anything higher. Passport
+> status not yet confirmed.
+>
+> **Enterprise clients (confirmed by Josh, Oct 2026, do not re-ask):** has come close but
+> has not directly implemented for or managed enterprise-level (Fortune 500/1000) clients.
+> Record as a real gap when a posting requires enterprise implementation. His stated view,
+> usable in cover letters and interviews: the core skill is figuring out how each
+> stakeholder needs to be communicated with, regardless of company size.
+>
 > **Colorado MED Agent Badge (confirmed by Josh, Sep 2026):** does not currently hold a
 > Colorado Marijuana Enforcement Division occupational license ("Agent Badge"). This is
 > commonly a required, direct application question for cannabis retail/field roles that
@@ -517,7 +527,8 @@ operator talking, not like a candidate performing.
 > call; scoped multi-session production plans for complex builds"), never as a day count.
 >
 > **Training cadence (supplied by Josh, Oct 2026):** ran weekly team training sessions plus
-> individual 1:1 coaching. No session or headcount totals.
+> individual 1:1 coaching. No session or headcount totals. Also ran workshops for the teams
+> he trained, especially when rolling out new initiatives.
 >
 > **Team size, resolved (Josh, Oct 2026):** he led multiple different teams over the two
 > years because Wix was testing different team structures for the new vertical, so sizes
@@ -556,6 +567,11 @@ operator talking, not like a candidate performing.
 - Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives. *(Corroborated by direct manager's written LinkedIn recommendation — see References.)*
 
 ### Accelo — Account Executive (Apr 2018 – Jul 2020)
+> **Client team workshops and events (confirmed by Josh, Oct 2026):** held workshops for
+> specific client teams showing how individual parts of the product would work for them.
+> Also did events for Accelo (details, type, and his role not yet captured; his answer was
+> cut off). Don't describe the events beyond "supported Accelo events" until he fills it in.
+>
 > **Zapier automation (confirmed by Josh, Sep 2026):** Josh built Zapier automations at
 > Accelo, making his hands-on automation-building history run from at least 2018-2020
 > through the present at Solenzo, not a skill that started recently.
