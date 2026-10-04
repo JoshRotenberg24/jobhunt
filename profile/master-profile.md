@@ -50,7 +50,9 @@
 > here Sep 2026 so it stops living only in a match report):** no hands-on time with any of
 > these. Record as a real gap, not a confirmation item, when a posting names them.
 > Instantly, Smartlead, Apollo, HeyReach, and cold-email deliverability setup (domains,
-> warm-up, sender reputation) are **not yet confirmed either way**; ask before claiming.
+> warm-up, sender reputation): Josh said (Oct 2026) "yes, I've used tools like those," but
+> hasn't named which ones. Claim "cold-email outreach tooling" generically; don't name a
+> specific platform or claim deliverability setup until he confirms that one by name.
 >
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
@@ -406,10 +408,12 @@ operator talking, not like a candidate performing.
 > conversation, never volunteered by default.
 >
 > **Ad-spend budget planning (confirmed Sep 2026):** Josh helped client businesses with
-> budget planning for paid ad campaigns at Level Agency. No specific dollar figure or range
-> captured yet — ask Josh for a real number (even a bracketed estimate) before claiming a
-> specific ad-spend scale in a resume; until then, represent this qualitatively as budget
-> planning and allocation experience, not a dollar amount.
+> budget planning for paid ad campaigns at Level Agency.
+>
+> **Portfolio size and spend (supplied by Josh, Oct 2026, self-estimated):** about 3 client
+> accounts, each $20K+/month in ad spend, with some months reaching $100K+/month. Claim as
+> "~3 accounts at $20K+/month ad spend each, peaking above $100K/month." Don't sum it into
+> a total managed-spend figure; he didn't give one.
 >
 > **LinkedIn Ads — ABM-style targeting with A/B testing (confirmed Sep 2026):** Josh set up
 > LinkedIn ad campaigns at Level Agency using an account-based-marketing approach: small,
@@ -418,7 +422,7 @@ operator talking, not like a candidate performing.
 > media experience, distinct from organic LinkedIn use, safe to claim directly against a JD
 > asking for LinkedIn Ads experience.
 - Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.
-- Advised client businesses on ad-spend budget planning and allocation across paid campaigns.
+- Advised client businesses on ad-spend budget planning and allocation across paid campaigns, managing ~3 accounts at $20K+/month in ad spend each, with peaks above $100K/month.
 - Designed and ran LinkedIn ad campaigns using an account-based-marketing approach, targeting small, highly researched audiences with A/B-tested setups rather than broad targeting.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
@@ -427,6 +431,14 @@ operator talking, not like a candidate performing.
 - Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.
 
 ### Birdeye — Channel Partnerships & Customer Onboarding (Feb 2023 – Apr 2024)
+> **Cold-sales activity level (supplied by Josh, Oct 2026):** the role was mostly cold,
+> outbound sales. Up to 150 dials/day and up to 10 deals closed/month. Strong evidence for
+> outbound, SDR/AE, and high-activity roles. This is hunting-style work, which sits outside
+> his preferred role shape (see Target role shape), so it's proof of capability, not a
+> signal he wants more of it. **Open question:** how "up to 10 deals/month" relates to the
+> 15-20 reseller partners total (end-customer deals sold through partners vs. partner
+> sign-ups). Use "up to 150 dials/day" freely; hold the deals/month figure until clarified.
+>
 > **Partner vertical breadth (added Aug 2026, confirmed by Josh):** the 15-20 reseller partners spanned a variety of verticals, including health, home services, and retail — not a single-industry book. Useful evidence of cross-vertical partner-network management, but not a dedicated multi-year home-services/trade-contractor tenure; represent it as "including home services" rather than as home-services specialization.
 >
 > **Healthcare-vertical channel sales (confirmed by Josh, Sep 2026):** a meaningful share of that partner book was channel sales specifically to agencies focused on healthcare clients — B2B channel/reseller sales into the healthcare vertical, not direct patient-facing or clinical healthcare work (no claims, EMR, or payer-side experience). Genuine healthcare-adjacent industry exposure, honestly scoped as B2B marketing-technology sales to healthcare-focused agencies, not healthcare operations.
@@ -473,6 +485,20 @@ operator talking, not like a candidate performing.
 - Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
 
 ### Wix.com — Account Manager, Onboarding Launch Specialist & Team Lead (Aug 2020 – Aug 2022)
+> **Time to launch (supplied by Josh, Oct 2026):** no exact duration remembered. His aim
+> was to launch the client on a single call; more complex builds needed planned website
+> production across multiple sessions. Claim qualitatively ("aimed to launch on the first
+> call; scoped multi-session production plans for complex builds"), never as a day count.
+>
+> **Training cadence (supplied by Josh, Oct 2026):** ran weekly team training sessions plus
+> individual 1:1 coaching. No session or headcount totals.
+>
+> **Team size conflict (Oct 2026, unresolved):** asked how many people he hired/trained,
+> Josh said "a team of about 15-30, depending on when during the tenure." The existing
+> confirmed figure is "a team of 20, later a team of 8." Possibly 15-30 is the broader team
+> he trained and 20/8 his direct reports, but that's not confirmed. Keep using 20/8 until
+> he clarifies.
+>
 > **Retail vertical e-commerce experience (confirmed Sep 2026):** a meaningful share of
 > Josh's Wix account portfolio was established retail businesses (physical retail
 > locations) that needed a bigger e-commerce presence as a secondary revenue line. Josh
@@ -606,7 +632,10 @@ operator talking, not like a candidate performing.
 - **Accelo deal sizes of $20K+** later in tenure, alongside a base of smaller wins
 - **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure (per-deal contract value, confirmed by Josh)
 - **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
-- **2 years as team lead at Wix, managing a team of 20 and later a team of 8** onboarding specialists (confirmed by Josh, Aug 2026)
+- **2 years as team lead at Wix, managing a team of 20 and later a team of 8** onboarding specialists (confirmed by Josh, Aug 2026; see the Oct 2026 team size conflict note under Wix)
+- **Up to 150 dials/day** in a cold outbound sales motion at Birdeye (supplied by Josh, Oct 2026)
+- **Level Agency: ~3 client accounts at $20K+/month ad spend each, some peaking above $100K/month** (self-estimated, Oct 2026)
+- **CRM cleanup of 1,400+ contacts** (most recent CRM he cleaned out; supplied by Josh, Oct 2026). Employer/client and tool not captured, so state it without attributing it to a specific role unless Josh confirms where.
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
 - **Free digital-footprint audit offer (Solenzo), promoted via LinkedIn organic growth: 180+ businesses enrolled, 2 converted to paying clients** (~1.1% audit-to-client conversion) — confirmed by Josh, Aug 2026. This is Josh's own product-marketing / PLG-style motion: a free offer as top-of-funnel, distributed through his own LinkedIn growth, converting a share of free users to paid. Track record still early; do not overstate the conversion rate, state it plainly.
 - **Up to 3 concurrent clients at Solenzo** at peak, while personally building the outbound automation system and running outbound himself (confirmed by Josh, Sep 2026). This is a solo-founder scale number, real and specific, not a large book, state it plainly rather than rounding up. Monthly lead volume at Solenzo is not reliably capturable as a metric (see private note below) — do not estimate one.
@@ -624,23 +653,21 @@ isolation. When a number gets captured, move it up into **Verified Quantified Me
 with its scope and delete the line here.
 
 **Highest leverage (recurs across role types):**
-- **Concurrent workload at Birdeye.** How many partner accounts he actively managed at
-  once (distinct from the 15-20 total onboarded/managed over the full tenure). Wix is
-  covered (25+/month) and Solenzo is covered (up to 3 concurrent clients), see Verified
-  Metrics. Birdeye is the remaining gap.
-- **Time-to-launch / time-to-value.** Typical onboarding duration at Wix and Birdeye,
-  and whether it improved during his tenure (from what, to what).
-- **Wix hiring/training counts.** Team size and duration are now captured (2 years, 20 then
-  8). Still unrecorded: how many people he personally hired and trained.
+- **Birdeye deals/month scope.** What "up to 10 deals/month" counted (partner sign-ups vs.
+  end-customer deals through partners). Birdeye was mostly cold sales (Oct 2026), so
+  "concurrent partner workload" is the wrong question; dropped.
+- **Wix team size reconciliation.** "15-30 depending on when" (Oct 2026) vs. confirmed
+  "20, later 8." Time-to-launch is captured qualitatively only (no number exists; don't
+  re-ask). Training cadence is captured (weekly sessions + 1:1 coaching; totals not known,
+  don't re-ask).
 
 **Role-specific:**
-- **Data volume.** Records or contacts in the largest migration or import he has run, and
-  what tool he cleaned it in. Directly requested by implementation JDs (Excel is named
-  explicitly in several) and currently unevidenced.
-- **Training delivery.** Number of sessions run and people trained, at Wix and Birdeye.
-- **Solenzo retainer range.** Concurrent client count is now captured (up to 3, see Verified
-  Metrics); typical retainer/contract value per client is still unrecorded.
-- **Level Agency accounts.** Portfolio size and spend under management.
+- **Outbound tools by name.** Which of Instantly, Smartlead, Apollo, HeyReach, etc. he has
+  actually used, and whether he set up deliverability himself.
+- **1,400+ contact CRM cleanup context.** Which client/role and which CRM. Josh says he's
+  worked with many data sets and a single "largest" number is hard to give; don't push for
+  one.
+- **Solenzo retainer range.** Typical retainer/contract value per client is still unrecorded.
 - **Accelo implementation scope.** Typical implementation size in seats or hours.
 
 **Rules for filling these:** the number comes from Josh, never from inference. Ranges are
