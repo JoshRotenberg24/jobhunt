@@ -1,0 +1,89 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Operations & Systems | CRM Administration, Zapier Automation, Process Documentation & Training",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client operations and systems builder who looks at how a small team actually works, finds where time leaks out, and fixes it with clean processes, a well-kept CRM, and automation. Has built 20+ automated workflows and Zapier automations since 2018, administered CRMs (HubSpot, Salesforce, GoHighLevel), and trained onboarding teams of up to 30 on documented processes so new people got the same result as experienced ones. Learns new software fast, works fully remote, and keeps records organized enough to hold up to review.",
+  "experience": [
+    {
+      "title": "Client Operations & Systems (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Map how small service businesses run day to day, then redesign the workflow with CRM structure and automation so owners spend less time on admin and more with clients.",
+        "Administer client CRMs (HubSpot, GoHighLevel) with clear segmentation, lifecycle stages, and data-hygiene rules, keeping every client, prospect, and past-client record current.",
+        "Built 20+ automated workflows across intake, booking, reminders, onboarding, and follow-up, connecting tools through Zapier, Make, and n8n.",
+        "Document every interaction, timeline, and deliverable in HubSpot, GoHighLevel, and Notion so records stay auditable, and build reusable templates so each new engagement starts from a proven base."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners, retaining all but one (~94%), and built automated training sequences that cut onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors, and served a banking-industry client."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Trained onboarding teams of up to 30 through weekly sessions, 1:1 coaching, and workshops, so new specialists could run the process the same way experienced ones did.",
+        "Defined the CRM fields required for onboarding and sales workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and implemented a client-work management platform (CRM, projects, billing) for professional-services firms, and built Zapier automations for clients."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Operations & Systems",
+      "items": [
+        "Workflow Mapping & Redesign",
+        "CRM Administration",
+        "Process Documentation",
+        "Staff Training",
+        "Client Records & Privacy Discipline"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Zapier, Make, n8n",
+        "Google Workspace (Docs, Sheets, Forms, Drive)",
+        "HubSpot, Salesforce, GoHighLevel",
+        "Excel, Power BI",
+        "Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
