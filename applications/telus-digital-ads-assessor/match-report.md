@@ -34,4 +34,5 @@
 ## Output files
 
 - `TELUS-AdsAssessor-Resume.pdf` / `.docx` (1 page)
+- `TELUS-AdsAssessor-CoverLetter.pdf` / `.docx` (1 page)
 - `fit.json`
