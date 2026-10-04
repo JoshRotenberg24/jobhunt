@@ -13,7 +13,8 @@
 | **"Remote EST or Central"** | Application-form | **Unclear: hours vs. residency.** Josh is in Mountain time. If it requires living in EST/Central, it's a knockout under his CO/remote rule. If it's hours: confirmed, Josh can work Eastern/Central hours (Oct 2026). |
 | HS diploma / 0-2 yrs customer service | Resume-evidenced | Met, far over |
 | Salesforce daily | Resume-evidenced | Met (Birdeye, Wix, Fivestars) |
-| Salary expectation (if asked) | Application-form | Not posted. Suggested **$55,000-$60,000** base for an associate retention role; Josh's call |
+| Desired salary | Application-form | Glassdoor (Oct 2026): base ~$24-$36/hr, median ~$30/hr (~$62K), plus bonus and commission. Answer: **$62,000** |
+| Military experience | Application-form | None. Answer: **N/A** |
 
 ## Application Priority Score
 
