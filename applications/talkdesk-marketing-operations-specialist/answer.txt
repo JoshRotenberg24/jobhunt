@@ -1,0 +1,5 @@
+I start where the lead was last seen. First, the form submission log in the marketing automation platform: did the record get created with a valid email and the fields routing depends on? Next, the MAP-to-CRM sync error log. Most lost demo requests die there, usually on a required CRM field the form doesn't populate, a picklist mismatch, or a duplicate rule blocking the insert. If the record did reach the CRM, I check the routing audit history: which rule fired, who it assigned, and whether that SDR was inactive or missing from the round robin.
+
+I fix the root cause, then push test records through the edge cases (new contact, existing contact, existing account with a different owner) and confirm each lands with the right SDR. The fix goes in the routing change log, and I add an alert on sync exceptions so the next one surfaces before Sales notices.
+
+For the agentic step, a webhook sends the form notes and firmographics to an LLM with a structured prompt that returns JSON: urgency, buying signals, and a reason. High urgency triggers priority routing and an instant SDR alert. Every score is logged and checked against conversion.

@@ -1,0 +1,117 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations & GTM Systems | MAP-to-CRM Integrations, Lead Routing & Agentic AI Workflows",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations and GTM systems builder who owns the stack end to end: CRM and marketing automation administration, the webhooks and REST/LLM API calls that connect it, and the routing and scoring logic that decides who a lead reaches and how fast. Designs agentic AI workflows that score unstructured prospect signals and trigger personalized follow-up, running in production for clients today. Brings 15+ years inside B2B SaaS sales, onboarding, and partner teams (Salesforce, HubSpot), so the systems get built around how marketers and SDRs actually work, then documented and taught so the team can run them without filing a ticket.",
+  "experience": [
+    {
+      "title": "Marketing Operations & GTM Systems (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build and deploy production automations in Zapier, Make, n8n, and GoHighLevel that call external APIs: inbound and outbound webhooks, REST calls, and direct LLM API calls (OpenAI, Claude), writing Python and JavaScript in custom code steps and debugging JSON payloads when an integration breaks.",
+        "Built an agentic scoring workflow that evaluates unstructured signals from a prospect's web presence and digital footprint, then routes each one into personalized, sequenced outreach; 180+ businesses enrolled, 2 converted to paying clients.",
+        "Architected 20+ GoHighLevel workflows across lead capture, tagging and routing, qualification, booking, no-show recovery, onboarding, and reactivation, keeping source, status, and lifecycle stage clean on every record.",
+        "Configure and maintain syncs between marketing automation and CRM (GoHighLevel, HubSpot), owning field mapping, lifecycle stage definitions, lead scoring and qualification criteria, and data-hygiene rules.",
+        "Build dashboards tracking lead flow, funnel progression, campaign ROI, and pipeline velocity in GA4, Power BI, and CRM reporting, and grade AI-generated output against rubric-based evaluation criteria.",
+        "Translate non-technical stakeholders' loosely defined ideas into structured prompts, agent logic, and documented workflows they can run and troubleshoot on their own."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed ~3 client accounts at $20K+/month in ad spend each (peaking above $100K/month), and ran account-based LinkedIn campaigns against small, highly researched target-account lists with A/B-tested setups.",
+        "Built campaign reporting tracking ROI, CAC, LTV, and conversion KPIs, and turned the data into optimization recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Ran 50+ partner activities a day across channel sales and onboarding in a Salesforce-centered stack with ZoomInfo, intent, and routing data synced in.",
+        "Onboarded and trained 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94%), and built automated product-training sequences that cut onboarding friction.",
+        "Fed structured, prioritized customer feedback to Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery, managing workflows in HubSpot and ClickUp.",
+        "Closed 6 new-client deals averaging ~$22K (~$130K+ total bookings) while leading the sales team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Advised on A/B testing strategy for a Salesforce workflow-automation effort, defining test structure and success criteria.",
+        "Led multiple onboarding teams of up to 30 specialists, running weekly training and 1:1 coaching, while personally onboarding 25+ clients per month at 120% of sales and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Co-built the team's lead qualification system with sales leadership; built Zapier automations and guided client API integrations during onboarding.",
+        "Ranked top three in sales on a team of 8 to 15 reps while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Ops & CRM",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel",
+        "MAP-to-CRM Sync & Field Mapping",
+        "Lead Scoring, Routing & Lifecycle Stages",
+        "MQL Definitions & Funnel Mechanics",
+        "Account-Based Marketing, ZoomInfo, Salesloft, Apollo"
+      ]
+    },
+    {
+      "category": "Integrations & AI",
+      "items": [
+        "Zapier, Make, n8n",
+        "Webhooks, REST APIs, JSON",
+        "LLM API Workflows (OpenAI, Claude)",
+        "Python & JavaScript (automation code steps)",
+        "Prompt Design & Output Evaluation"
+      ]
+    },
+    {
+      "category": "Reporting & Enablement",
+      "items": [
+        "Self-Service Dashboards (GA4, Power BI)",
+        "Campaign Attribution & ROI Reporting",
+        "SQL (working proficiency), Excel",
+        "Workflow Documentation & Stakeholder Training"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate (2024)"
+  ]
+}

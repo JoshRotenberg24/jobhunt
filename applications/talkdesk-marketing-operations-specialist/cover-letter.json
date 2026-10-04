@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 4, 2026",
+  "company": "Talkdesk",
+  "role": "Marketing Operations Specialist",
+  "recipient": "Hiring Team",
+  "body": [
+    "Your posting names the failure I spent years on the receiving end of: a high-intent request that sits too long before it reaches the rep. I was that rep for years, as a BDR at Senior Directory and an AE at Fivestars and Accelo, working out of HubSpot and Salesforce. Now I build the systems that prevent it. At Solenzo I run the full operational surface for clients: CRM and marketing automation administration, field mapping and lifecycle stages, and the webhooks, REST calls, and LLM API calls that connect it all, in Zapier, Make, n8n, and GoHighLevel.",
+    "The agentic AI work in this role is the work I already ship. I built a scoring workflow that reads unstructured signals from a prospect's web presence, scores it, and routes each lead into personalized outreach, running in production with 180+ businesses enrolled. I document what I build and teach people to run it, a habit from leading onboarding teams of up to 30 at Wix. To be direct about the gap: I've worked with intent and routing data synced into Salesforce, but haven't administered a platform like 6sense or Demandbase, and my recent systems work has been at small-business scale. That's the part I'd close first.",
+    "I'd welcome a conversation about where Talkdesk's routing and ABM orchestration should be in 90 days. I'm at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Sincerely,"
+}

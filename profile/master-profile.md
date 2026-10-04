@@ -86,6 +86,9 @@ re-litigated from scratch every time. Scale it by role level and real market dat
 application; don't just restate the anchor blindly for a role well above or below this
 band.
 
+- **Flexibility (Josh, Oct 2026):** open to wherever a role's posted range lands; prioritizes
+  landing a role over maximizing base. Default to roughly the lower-middle of the posted
+  range rather than the top.
 - **Associate / entry-to-mid IC support roles** (e.g., deal desk associate, coordinator-
   level titles, 2-4 years' stated requirement): target **$72,000-$78,000 base**, anchor
   point **$75,000**. Use the same figure for "OTE" unless the posting shows a genuine
@@ -339,7 +342,31 @@ operator talking, not like a candidate performing.
 > ask Josh which role(s) before writing a role-specific bullet naming one of them; safe
 > to use in a role-agnostic competencies/tools list today.
 >
-> **Email service providers — Marketo and Mailchimp (confirmed by Josh, Sep 2026):** Josh
+> **APIs, webhooks, LLM endpoints, JSON (confirmed by Josh, Oct 2026):** in production
+> client workflows (Zapier, Make, n8n, GoHighLevel) Josh has configured inbound and
+> outbound webhooks, made HTTP/REST calls to external APIs, and called LLM APIs directly
+> (OpenAI/Claude). Reads and edits JSON payloads and debugs integration errors himself,
+> using AI assistance as part of the workflow. Safe to claim against a JD's "built and
+> deployed an automated workflow that calls external APIs in production" requirement.
+>
+> **MAP-to-CRM syncs (confirmed by Josh, Oct 2026):** has set up and maintained syncs
+> between marketing automation and CRM systems. Specific tool pair not named; Solenzo
+> (GoHighLevel/HubSpot via Zapier/Make/n8n) is the default attribution. Confirm the exact
+> pair before an interview leans on it.
+>
+> **Lead scoring / MQL / lifecycle definitions (confirmed by Josh, Oct 2026):** helped
+> leadership build the lead qualification system at Accelo while a rep, and built lead
+> scoring, qualification criteria, and lifecycle stages himself for Solenzo.
+>
+> **Intent data and routing tools at Birdeye (confirmed by Josh, Oct 2026):** worked with
+> intent/enrichment and routing tools synced to Salesforce at Birdeye, as a user, not an
+> admin. Which specific platforms (from ZoomInfo, 6sense, Demandbase, Bombora, Chili Piper)
+> isn't confirmed. Name ZoomInfo + Salesforce only; describe the rest generically.
+>
+> **Email service providers — Marketo and Mailchimp (confirmed by Josh, Sep 2026):**
+> **Marketo attribution (Oct 2026):** Marketo use was a test/evaluation at Fetch & Funnel,
+> not ongoing admin. Don't claim Marketo administration; omit it from MOPs-admin resumes
+> where a hiring manager would probe for program/scoring/sync admin depth. Josh
 > has hands-on ESP/marketing-automation-platform experience with Marketo (enterprise-tier,
 > comparable to Adobe Campaign/Journey Optimizer) and Mailchimp (SMB/mid-market tier).
 > Exact employer/role attribution not yet captured, ask before writing a role-specific
