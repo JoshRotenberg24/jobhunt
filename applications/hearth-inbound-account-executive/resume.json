@@ -1,0 +1,103 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Inbound Account Executive | Short-Cycle SaaS Closing, Live Demos & Home Improvement Contractor Expertise",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SaaS closer with real numbers: up to 10 deals a month selling to small businesses at Fivestars, 120% of sales target at Wix, top three on a team of 8 to 15 at Accelo while quota roughly doubled (~$213K/year in services bookings), and ~$130K+ from 6 deals at Fetch & Funnel. Today I build AI-driven lead capture, follow-up, and appointment booking systems for home service contractors (electrical, plumbing, HVAC), so I already speak the contractor's language and know exactly why a missed lead costs them a job.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Sell and build AI-driven growth systems for home service contractors: automated lead capture and routing, instant follow-up, appointment booking with reminders, no-show recovery, and review generation.",
+        "Run my own sales cycle from first conversation and demo to close, including a free audit offer that enrolled 180+ businesses and converted 2 to paying clients."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed accounts at $20K+/month in ad spend, presenting results and recommendations to client stakeholders."
+      ]
+    },
+    {
+      "title": "Account Executive (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Signed and onboarded 15-20 reseller partners (deals ~$10K-$45K), including home services, across 50+ activities a day, logging pipeline in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K (several $25K+), ~$130K+ in total bookings, while leading the sales team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Hit 120% of sales targets selling to small businesses while personally onboarding 25+ new clients a month."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for most of a 27-month tenure while quota roughly doubled.",
+        "Averaged ~$17,750/month in services bookings (~$213K annualized), consistently in accelerator commission tiers."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Closed up to 10 deals a month on up to 150 calls a day selling a loyalty and marketing platform to local small businesses."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales",
+      "items": [
+        "Short-Cycle Closing",
+        "Discovery & Live Demos",
+        "Inbound Pipeline Management",
+        "Quota Attainment",
+        "Clean Handoff to Customer Success"
+      ]
+    },
+    {
+      "category": "Tools & Domain",
+      "items": [
+        "Salesforce, HubSpot",
+        "Home Service Contractors",
+        "AI Lead Follow-Up & Booking Workflows"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
