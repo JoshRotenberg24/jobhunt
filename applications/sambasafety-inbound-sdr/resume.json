@@ -1,0 +1,111 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Inbound Sales Development | Lead Qualification, Speed-to-Lead, Meeting Booking & Salesforce",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Software sales professional who qualifies fast and books meetings that hold. Four years as a BDR booking sales-ready meetings for regional reps, then SaaS sales at Fivestars (up to 150 calls a day, up to 10 deals a month) and Accelo (top three on a team of 8 to 15 while quota doubled). Builds automated lead capture and follow-up systems, so I know what fast, consistent inbound response looks like. Works in Salesforce, HubSpot, ZoomInfo, Salesloft, and Apollo.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built automated lead capture, tagging, routing, and qualification workflows in GoHighLevel so every inbound lead gets an immediate response and a next step.",
+        "Run my own outbound pipeline end to end, from first touch to booked meeting, with segmented email sequences by trigger."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed accounts at $20K+/month in ad spend and built reporting on lead flow, CAC, and conversion to show which campaigns produced quality leads."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded 15-20 reseller partners (deals ~$10K-$45K) across 50+ activities a day, retaining all but one, tracking pipeline in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K (~$130K+ total bookings) and led the sales team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Hit 120% of sales targets and 110% of implementation targets while onboarding 25+ clients per month."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for most of a 27-month tenure while quota roughly doubled, with deals of $20K+."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Made up to 150 calls a day and closed up to 10 deals a month selling a loyalty and marketing platform to small businesses."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Qualified leads and booked a steady flow of sales-ready meetings for regional sales representatives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales Development",
+      "items": [
+        "Inbound Lead Qualification",
+        "Needs Discovery",
+        "Speed-to-Lead & Follow-Up",
+        "Meeting Booking",
+        "Lead Nurture"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "ZoomInfo, Salesloft, Apollo"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
