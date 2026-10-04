@@ -14,7 +14,7 @@
 | :--- | :--- | :--- |
 | Associate degree or 2+ yrs software support / customer service | Resume-evidenced | B.A. plus 15+ yrs customer-facing SaaS. No "support" title; troubleshooting evidenced inside onboarding roles. |
 | MS Suite including MS Graph | Candidate confirmation needed | Excel confirmed. MS Graph (Microsoft 365 API) not in profile. |
-| Salary expectation | Application-form requirement | Not posted. Support-rep roles commonly run below Josh's $75K anchor. If asked, answer **$75,000** and see how they respond. |
+| Salary expectation | Application-form requirement | Not posted. Market data (Oct 2026): Glassdoor estimates $43K-$59K for this title at ProfitSolv; Software Support Specialist $51K-$72K. Updated recommendation: **$60,000** (range answer: $58K-$62K). |
 | Remote U.S., work authorization | Application-form requirement | Eligible; U.S. citizen. |
 | Lift 15 lbs, travel as needed | Application-form requirement | Standard. |
 
