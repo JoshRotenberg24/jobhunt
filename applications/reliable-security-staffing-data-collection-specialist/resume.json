@@ -1,0 +1,78 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Data Collection, Validation & Reporting | Excel, SQL, Power BI, Audit-Ready Documentation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Detail-driven data and operations professional who collects, validates, and documents data before anyone downstream relies on it. Runs data imports into Salesforce, HubSpot, and GoHighLevel and re-checks every load, has cleaned up a 1,400+ contact CRM, and grades output against written quality standards. Builds reports and dashboards in Excel, Power BI, and GA4, writes working SQL, and keeps clear records of every step so the work holds up to review.",
+  "experience": [
+    {
+      "title": "Data & Operations (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Collect and import data into Salesforce, HubSpot, and GoHighLevel, validating every record after load and resolving discrepancies before the data is used.",
+        "Built rubric-based grading criteria for an audit process and personally labeled and scored outputs against those standards.",
+        "Prepare datasets and build dashboards and summaries in Excel, Power BI, and GA4, querying data with SQL (BigQuery) to answer specific questions.",
+        "Document every engagement's data sources, timelines, and processing steps in Notion and HubSpot, keeping records auditable."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built performance reporting tracking ROI, CAC, LTV, and conversion KPIs, and summarized findings for client stakeholders."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Analyzed partner utilization and performance data to flag anomalies and adoption gaps early, supporting ~94% partner retention.",
+        "Set up customers on Birdeye's listings-syndication solution, where accurate, consistent business data across directories was the core of the product."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Defined and labeled the CRM fields required for sales and onboarding workflows in Salesforce, standardizing data capture across a team of up to 30.",
+        "Managed about 25 concurrent onboardings at peak while launching 25+ clients per month."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Data",
+      "items": ["Data Collection & Entry", "Validation & Discrepancy Resolution", "Audit-Ready Documentation", "QA Against Written Standards", "Dataset Preparation"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Excel, Word", "SQL (working proficiency)", "Power BI, GA4", "Salesforce, HubSpot", "Notion"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,111 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Onboarding & Implementation | Program Launches, Stakeholder Management & Data Setup",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client onboarding and implementation professional who owns launches end to end: discovery, configuration and testing, data setup, training, and the post-launch read on what's working. Onboarded 25+ clients a month at Wix at 110% of implementation targets while leading teams of up to 30, retained all but one of 15-20 partners at Birdeye, and has advised C-suite executives on system design. Healthcare exposure includes senior-focused healthcare at Senior Directory and channel sales to healthcare-focused agencies at Birdeye.",
+  "experience": [
+    {
+      "title": "Client Onboarding & Implementation (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for each client: discovery sessions on goals and constraints, a tailored plan, configuration and testing of their systems, and hands-on training.",
+        "Set up and validate data feeds into Salesforce, HubSpot, and GoHighLevel, re-checking every import and integration (Zapier, Make, n8n, webhooks, JSON) before go-live.",
+        "Analyze client data before and after launch in GA4, Power BI, and Excel, and turn it into reports and recommendations clients act on.",
+        "Built reusable templates for client deliverables so each new engagement starts from a proven base, documenting timelines and deliverables in Notion and HubSpot."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts (~3 at $20K+/month in ad spend each), coordinating execution across internal departments and presenting results in QBR slide decks."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners, including agencies focused on healthcare clients, retaining all but one (~94%).",
+        "Configured partners' end customers on Birdeye's listings solution and guided complex setup of reputation and automation tools.",
+        "Tracked partner utilization to flag risk early, built automated training sequences, and fed client feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built processes that improved reporting accuracy and reduced handoff errors between sales and delivery, managing projects in Monday.com and ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month at 110% of implementation targets, scoping multi-session production plans for complex launches.",
+        "Led onboarding teams of up to 30 through weekly training, 1:1 coaching, and workshops for new initiatives.",
+        "Drove process improvements for a new vertical that went from proof of concept to a profitable business line."
+      ]
+    },
+    {
+      "title": "Implementation Planning & Client Onboarding (Account Executive)",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients and handed them to the implementation team, advising C-suite executives on operational system design.",
+        "Ran client team workshops, escalated risks early, and supported client events and industry conventions."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Qualified leads and booked meetings for regional sales reps at a company focused on healthcare services for seniors."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Onboarding & Project Management",
+      "items": [
+        "End-to-End Client Onboarding",
+        "Discovery Sessions",
+        "Configuration & Testing",
+        "Project Plans & Status Reporting",
+        "Reusable Templates & Process Design",
+        "Risk & Escalation Management"
+      ]
+    },
+    {
+      "category": "Data & Tools",
+      "items": [
+        "CRM Data Feeds & Validation",
+        "Salesforce, HubSpot, GoHighLevel",
+        "Google Workspace, Excel, Power BI",
+        "Monday.com, ClickUp, Asana, Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

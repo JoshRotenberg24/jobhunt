@@ -1,0 +1,96 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success | Restaurant, Retail & Loyalty Tech, Client Reporting & Retention",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success professional from martech and adtech: a loyalty platform for small businesses (Fivestars), a local-listings data platform (Birdeye), and a performance agency managing $20K+/month ad budgets. Retained all but one of 15-20 partners at Birdeye, onboarded 25+ clients a month at Wix, and turns dashboards into plain-English summaries and QBR decks. Spent 15+ years cooking in restaurants before SaaS, so I know how an operator thinks about guests, margins, and time.",
+  "experience": [
+    {
+      "title": "Client Success & Marketing Operations (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own client relationships from onboarding through ongoing support, documenting every request and deliverable in HubSpot, GoHighLevel, and Notion.",
+        "Build dashboards tracking lead flow, funnel progression, and campaign ROI in GA4, Power BI, and Excel, and summarize what the numbers mean in recurring client reports."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed ~3 client accounts at $20K+/month in ad spend each (peaking above $100K/month), building ROI, CAC, LTV, and conversion reporting and presenting it in client QBRs."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail on Birdeye's proprietary data-aggregator and listings solution, retaining all but one (~94%).",
+        "Monitored partner utilization data to flag adoption risk early and recommend fixes that reduced churn, and passed prioritized client issues to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded 25+ clients per month at 110% of implementation targets, including established retail businesses launching e-commerce as a second revenue line.",
+        "Contributed to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding alongside the implementation team and escalated account risk early."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Sold a customer loyalty and marketing platform to local small businesses."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": [
+        "Account Management & Retention",
+        "Onboarding",
+        "Usage Monitoring & Risk Flags",
+        "QBRs & Performance Summaries",
+        "Cross-Functional Escalation"
+      ]
+    },
+    {
+      "category": "Data & Tools",
+      "items": [
+        "Loyalty & First-Party Data Platforms",
+        "Data Aggregators, ZoomInfo",
+        "GA4, Power BI, Excel, Google Slides",
+        "Jira, Salesforce, HubSpot"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

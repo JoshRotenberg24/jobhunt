@@ -1,0 +1,107 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Success & Technical Support | Account Ownership, Issue Diagnosis, Training & AI-Assisted Support",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client success specialist who owns a client's problem until they say it's fixed. Retained all but one of 15-20 reseller partners at Birdeye, onboarded 25+ clients a month at Wix, and trains less technical users until they're confident on their own. Technically hands-on: works in HTML, CSS, and JSON, traces integration errors, and configures and evaluates AI-generated responses against written standards, the same work as tuning an AI support agent. Came to SaaS after 15+ years in restaurant kitchens, where taking care of people is the whole job.",
+  "experience": [
+    {
+      "title": "Client Success & Implementation (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own every client relationship end to end, from discovery and onboarding through day-to-day support, keeping a written record of every interaction, open item, and deliverable in HubSpot, GoHighLevel, and Notion.",
+        "Diagnose and fix broken workflows and integrations across client websites, CRMs, and automation tools, reading error output and JSON payloads to find where a problem lives before changing anything.",
+        "Configure and evaluate AI-generated responses for client automation systems, scoring output against rubric-based criteria and rewriting the instructions behind it when it misses.",
+        "Write and publish educational guides on CRM and systems setup, and build reusable templates so recurring questions get a documented answer.",
+        "Spot services clients aren't using yet and recommend them where they fit the client's goals, expanding retainer scope.",
+        "Build and maintain client websites in HTML/CSS with Google Tag Manager and GA4 tracking."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts, resolving client feedback quickly to protect satisfaction and retention, and delivered recurring performance reviews (QBRs)."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and supported 15-20 reseller partners across health, home services, and retail, retaining all but one (~94%) through the full tenure.",
+        "Used partner utilization and performance data to spot accounts not getting full value, then stepped in with recovery plans that reduced churn.",
+        "Guided clients through complex technical setup of listings, reputation, and marketing automation tools, and built automated training sequences that cut onboarding friction.",
+        "Fed structured, prioritized client issues and feedback to Product and Engineering to inform fixes and the roadmap."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, aiming to get each one live on the first call and building multi-session plans for complex builds; held 110% of implementation targets.",
+        "Trained and coached onboarding teams of up to 30 through weekly sessions, 1:1 coaching, and workshops whenever a new initiative rolled out.",
+        "Walked small-business owners through website, e-commerce, and Google Business Profile setup, contributing to a 25% improvement in conversion rates across supported accounts."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ran workshops for client teams on how each part of the platform fit their workflow, and troubleshot workflow design and technical setup alongside the implementation team.",
+        "Escalated risks to leadership early and built Zapier automations and API integrations for clients."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Success",
+      "items": [
+        "Account Ownership & Recovery",
+        "Onboarding & Training",
+        "Client Communication & Follow-Through",
+        "Usage-Based Health Monitoring",
+        "Expansion & Renewal Signals"
+      ]
+    },
+    {
+      "category": "Support & Tools",
+      "items": [
+        "Jira",
+        "Zendesk",
+        "HubSpot",
+        "Salesforce",
+        "Notion, Slack, Asana",
+        "Issue Reproduction & Escalation"
+      ]
+    },
+    {
+      "category": "Technical & AI",
+      "items": [
+        "HTML & CSS",
+        "JSON, Webhooks, REST APIs",
+        "Claude, ChatGPT",
+        "AI Output Evaluation & Prompt Design",
+        "Zapier, Make, n8n"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

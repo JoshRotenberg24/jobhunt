@@ -1,0 +1,107 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SaaS Implementation & Solution Consultant | Requirements, Platform Configuration & Client Admin Training",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SaaS implementation consultant who delivers through platform configuration, not custom development. Runs discovery and workshops to pull out requirements, turns them into sequenced implementation plans and configured systems, and trains client teams until they run the platform themselves. Onboarded 25+ clients per month at Wix at 110% of implementation targets while leading onboarding teams of up to 30, and has configured CRM, marketing automation, and integration stacks across Salesforce, HubSpot, GoHighLevel, and Accelo. Works in HTML, CSS, SQL, and JSON when a configuration needs it.",
+  "experience": [
+    {
+      "title": "Implementation & Solution Consulting (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end implementations for new client technology stacks, running discovery, translating business requirements into platform configurations, and training client teams hands-on.",
+        "Configure CRM and marketing automation platforms (GoHighLevel, HubSpot) through native settings and workflows: contact segmentation, lifecycle stages, field mapping, and data-hygiene rules.",
+        "Architected 20+ configured workflows spanning lead capture and routing, qualification, booking, onboarding, and reactivation, replacing manual follow-up with repeatable processes.",
+        "Connect client systems through Zapier, Make, and n8n, working in webhooks, REST APIs, and JSON, and implement tracking in HTML/CSS with Google Tag Manager.",
+        "Document requirements, timelines, and deliverables for every engagement in GoHighLevel, HubSpot, and Notion, and publish guides on systems architecture and CRM design for B2B audiences."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts (~3 clients at $20K+/month in ad spend each, peaking above $100K/month), coordinating execution across internal departments as strategic lead.",
+        "Built performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, and delivered recommendations and QBRs to client stakeholders."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and trained 15-20 reseller partners (deals ~$10K-$45K, across health, home services, and retail), retaining all but one (~94%).",
+        "Configured partners' end customers on Birdeye's listings-syndication solution, the backbone of the channel offer, and guided complex setup of reputation and marketing automation tools.",
+        "Measured adoption by analyzing partner utilization and performance data, then recommended interventions that closed adoption gaps and reduced churn.",
+        "Built automated product-training sequences that cut onboarding friction, and fed prioritized client feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Redesigned internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery, tracking work in ClickUp.",
+        "Led the sales team while running client accounts end to end, including a banking-industry client."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month at 120% of sales and 110% of implementation targets, aiming to go live on the first call and scoping multi-session production plans for complex builds.",
+        "Led multiple onboarding teams of up to 30 specialists, running weekly training, 1:1 coaching, and workshops to roll out new initiatives.",
+        "Drove process improvements for a new Wix vertical that went from proof of concept to a profitable business line, and built sales training for tenured account executives.",
+        "Defined the CRM fields required for onboarding and sales workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Implementation Scoping & Solution Consulting (Account Executive)",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Ran workshops for client teams showing how each part of the CRM/PSA platform would fit their workflows, and guided onboarding, workflow design, and API integrations.",
+        "Advised C-suite executives on operational system design, and escalated risks to leadership early to keep implementations on track.",
+        "Averaged ~$17,750/month in implementation/services bookings (~$213K annualized), ranking top three on a team of 8 to 15 reps while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation & Consulting",
+      "items": ["Requirements Gathering & Discovery Workshops", "Solution Design & Implementation Planning", "SaaS Platform Configuration", "Client Admin Training & Enablement", "Adoption Measurement", "Risk Identification & Escalation"]
+    },
+    {
+      "category": "Platforms & Integrations",
+      "items": ["Salesforce", "HubSpot", "GoHighLevel", "Accelo (CRM/PSA)", "Zapier, Make, n8n", "Notion, ClickUp, Asana, Jira"]
+    },
+    {
+      "category": "Technical",
+      "items": ["HTML & CSS", "SQL (working proficiency)", "JSON, Webhooks, REST APIs", "Google Tag Manager, GA4"]
+    },
+    {
+      "category": "Leadership",
+      "items": ["Team Lead (onboarding teams up to 30)", "Peer Training & Coaching", "Process & Template Design"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate (2024)"
+  ]
+}

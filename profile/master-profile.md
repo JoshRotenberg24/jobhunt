@@ -49,11 +49,28 @@
 > **Clay, LeanData, Snowflake, Hightouch (confirmed by Josh in an earlier session, moved
 > here Sep 2026 so it stops living only in a match report):** no hands-on time with any of
 > these. Record as a real gap, not a confirmation item, when a posting names them.
-> Instantly, Smartlead, Apollo, HeyReach, and cold-email deliverability setup (domains,
-> warm-up, sender reputation) are **not yet confirmed either way**; ask before claiming.
+> **Apollo and HeyReach: confirmed hands-on (Oct 2026)**, alongside Salesloft, Marketo,
+> and Mailchimp (already confirmed Sep 2026). Instantly and Smartlead were not on his list,
+> so don't claim them. Cold-email deliverability setup (domains, warm-up, sender
+> reputation) is still unconfirmed; ask before claiming.
 >
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
+>
+> **Video-answer applications (Josh, Oct 2026):** holding off for now on postings that
+> require a Loom or recorded video answer. Not a filter: still run the fit check and build
+> when asked, but flag the video requirement at the top of the fit check so he can decide
+> early.
+>
+> **Travel (confirmed by Josh, Oct 2026):** up to 20% travel, domestic or international, is
+> fine. Answer yes on application forms at 20% or below; ask for anything higher. Passport
+> status not yet confirmed.
+>
+> **Enterprise clients (confirmed by Josh, Oct 2026, do not re-ask):** has come close but
+> has not directly implemented for or managed enterprise-level (Fortune 500/1000) clients.
+> Record as a real gap when a posting requires enterprise implementation. His stated view,
+> usable in cover letters and interviews: the core skill is figuring out how each
+> stakeholder needs to be communicated with, regardless of company size.
 >
 > **Colorado MED Agent Badge (confirmed by Josh, Sep 2026):** does not currently hold a
 > Colorado Marijuana Enforcement Division occupational license ("Agent Badge"). This is
@@ -84,6 +101,9 @@ re-litigated from scratch every time. Scale it by role level and real market dat
 application; don't just restate the anchor blindly for a role well above or below this
 band.
 
+- **Flexibility (Josh, Oct 2026):** open to wherever a role's posted range lands; prioritizes
+  landing a role over maximizing base. Default to roughly the lower-middle of the posted
+  range rather than the top.
 - **Associate / entry-to-mid IC support roles** (e.g., deal desk associate, coordinator-
   level titles, 2-4 years' stated requirement): target **$72,000-$78,000 base**, anchor
   point **$75,000**. Use the same figure for "OTE" unless the posting shows a genuine
@@ -337,7 +357,56 @@ operator talking, not like a candidate performing.
 > ask Josh which role(s) before writing a role-specific bullet naming one of them; safe
 > to use in a role-agnostic competencies/tools list today.
 >
-> **Email service providers — Marketo and Mailchimp (confirmed by Josh, Sep 2026):** Josh
+> **Solenzo blog (supplied by Josh, Oct 2026, captured from getsolenzo.com/blog):** 18
+> published posts by Josh, Mar 2025 to Mar 2026. Two clusters:
+> - **Semantic SEO / AI search (Oct 2025 to Mar 2026, 10 posts):** a 9-dimension site-trust
+>   framework (entity clarity, topical coverage, content clusters, internal linking, schema,
+>   information gain, query networks, trust signals, GEO/AI visibility), "How We Audit a
+>   Website," "Schema Markup Explained for People Who Aren't Developers," Google AI
+>   Overviews, why ChatGPT won't recommend a business, entity clarity, internal linking.
+> - **Automation and small-business operations (Mar to Sep 2025, 8 posts):** GoHighLevel
+>   setup mistakes (database, automation overload, integrations, compliance), marketing
+>   attribution and ROI tracking, automated re-engagement of lapsed customers, automated
+>   booking, AI assistants for scheduling, reviews and local SEO, getting started with AI
+>   and paid ads.
+> **How to use it:** real, public evidence of plain-language technical writing for
+> non-technical readers. Use it for knowledge base / help center, documentation,
+> enablement, and "explain complex ideas clearly" requirements. Claim it as "published 18
+> articles," never with view counts (low, don't cite). The 9-dimension framework is the
+> same audit rubric behind the rubric-based grading bullet. Posts link to an audit tool at
+> solenzoaudit.vercel.app; **whether Josh built that tool himself is not confirmed, so ask
+> before claiming it.**
+>
+> **APIs, webhooks, LLM endpoints, JSON (confirmed by Josh, Oct 2026):** in production
+> client workflows (Zapier, Make, n8n, GoHighLevel) Josh has configured inbound and
+> outbound webhooks, made HTTP/REST calls to external APIs, and called LLM APIs directly
+> (OpenAI/Claude). Reads and edits JSON payloads and debugs integration errors himself,
+> using AI assistance as part of the workflow. Safe to claim against a JD's "built and
+> deployed an automated workflow that calls external APIs in production" requirement.
+>
+> **Data feeds into CRMs (confirmed by Josh, Oct 2026):** has set up and run data feeds into
+> Salesforce, HubSpot, and GoHighLevel, and validates every import by re-checking the
+> results. No volume figures available (don't ask again). SFTP setup, file encryption (PGP),
+> and formal file-layout specs are NOT confirmed; treat as gaps.
+>
+> **MAP-to-CRM syncs (confirmed by Josh, Oct 2026):** has set up and maintained syncs
+> between marketing automation and CRM systems. Specific tool pair not named; Solenzo
+> (GoHighLevel/HubSpot via Zapier/Make/n8n) is the default attribution. Confirm the exact
+> pair before an interview leans on it.
+>
+> **Lead scoring / MQL / lifecycle definitions (confirmed by Josh, Oct 2026):** helped
+> leadership build the lead qualification system at Accelo while a rep, and built lead
+> scoring, qualification criteria, and lifecycle stages himself for Solenzo.
+>
+> **Intent data and routing tools at Birdeye (confirmed by Josh, Oct 2026):** worked with
+> intent/enrichment and routing tools synced to Salesforce at Birdeye, as a user, not an
+> admin. Which specific platforms (from ZoomInfo, 6sense, Demandbase, Bombora, Chili Piper)
+> isn't confirmed. Name ZoomInfo + Salesforce only; describe the rest generically.
+>
+> **Email service providers — Marketo and Mailchimp (confirmed by Josh, Sep 2026):**
+> **Marketo attribution (Oct 2026):** Marketo use was a test/evaluation at Fetch & Funnel,
+> not ongoing admin. Don't claim Marketo administration; omit it from MOPs-admin resumes
+> where a hiring manager would probe for program/scoring/sync admin depth. Josh
 > has hands-on ESP/marketing-automation-platform experience with Marketo (enterprise-tier,
 > comparable to Adobe Campaign/Journey Optimizer) and Mailchimp (SMB/mid-market tier).
 > Exact employer/role attribution not yet captured, ask before writing a role-specific
@@ -372,7 +441,7 @@ operator talking, not like a candidate performing.
 - Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.
 - Identify and implement schema/structured data as part of technical SEO audits, pulling full on-page schema implementation. *(Confirmed by Josh, Aug 2026.)*
 - Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
-- Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.
+- Wrote and published 18 articles on the Solenzo blog (Mar 2025 to Mar 2026) explaining semantic SEO, schema, AI search visibility, CRM setup, attribution, and automation in plain language for non-technical business owners.
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
 - Build reusable, boilerplate marketing assets and messaging frameworks as needed for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.
 
@@ -406,10 +475,12 @@ operator talking, not like a candidate performing.
 > conversation, never volunteered by default.
 >
 > **Ad-spend budget planning (confirmed Sep 2026):** Josh helped client businesses with
-> budget planning for paid ad campaigns at Level Agency. No specific dollar figure or range
-> captured yet — ask Josh for a real number (even a bracketed estimate) before claiming a
-> specific ad-spend scale in a resume; until then, represent this qualitatively as budget
-> planning and allocation experience, not a dollar amount.
+> budget planning for paid ad campaigns at Level Agency.
+>
+> **Portfolio size and spend (supplied by Josh, Oct 2026, self-estimated):** about 3 client
+> accounts, each $20K+/month in ad spend, with some months reaching $100K+/month. Claim as
+> "~3 accounts at $20K+/month ad spend each, peaking above $100K/month." Don't sum it into
+> a total managed-spend figure; he didn't give one.
 >
 > **LinkedIn Ads — ABM-style targeting with A/B testing (confirmed Sep 2026):** Josh set up
 > LinkedIn ad campaigns at Level Agency using an account-based-marketing approach: small,
@@ -418,7 +489,7 @@ operator talking, not like a candidate performing.
 > media experience, distinct from organic LinkedIn use, safe to claim directly against a JD
 > asking for LinkedIn Ads experience.
 - Managed integrated digital marketing strategies across inbound, paid media, and content, acting as strategic lead and coordinating execution across internal departments.
-- Advised client businesses on ad-spend budget planning and allocation across paid campaigns.
+- Advised client businesses on ad-spend budget planning and allocation across paid campaigns, managing ~3 accounts at $20K+/month in ad spend each, with peaks above $100K/month.
 - Designed and ran LinkedIn ad campaigns using an account-based-marketing approach, targeting small, highly researched audiences with A/B-tested setups rather than broad targeting.
 - Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs.
 - Produced high-converting campaign assets — landing pages, complex email sequences, conversion-focused copy — improving lead generation and pipeline.
@@ -427,6 +498,13 @@ operator talking, not like a candidate performing.
 - Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.
 
 ### Birdeye — Channel Partnerships & Customer Onboarding (Feb 2023 – Apr 2024)
+> **Role focus and activity level (corrected by Josh, Oct 2026):** channel sales plus
+> onboarding with those partners to get their clients up and running. Around 50+
+> activities/day. NOT a cold-dialing role; the 150 dials/day and 10 deals/month figures
+> belong to Fivestars, not Birdeye. Lead Birdeye with the partner onboarding and ~94%
+> retention numbers; add "50+ daily partner activities" where a posting values activity
+> volume.
+>
 > **Partner vertical breadth (added Aug 2026, confirmed by Josh):** the 15-20 reseller partners spanned a variety of verticals, including health, home services, and retail — not a single-industry book. Useful evidence of cross-vertical partner-network management, but not a dedicated multi-year home-services/trade-contractor tenure; represent it as "including home services" rather than as home-services specialization.
 >
 > **Healthcare-vertical channel sales (confirmed by Josh, Sep 2026):** a meaningful share of that partner book was channel sales specifically to agencies focused on healthcare clients — B2B channel/reseller sales into the healthcare vertical, not direct patient-facing or clinical healthcare work (no claims, EMR, or payer-side experience). Genuine healthcare-adjacent industry exposure, honestly scoped as B2B marketing-technology sales to healthcare-focused agencies, not healthcare operations.
@@ -454,6 +532,8 @@ operator talking, not like a candidate performing.
 - Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.
 
 ### Fetch & Funnel — Account Executive / Sales Operations (Sep 2022 – Feb 2023)
+> **Monday.com (confirmed by Josh, Oct 2026):** used Monday.com at Fetch & Funnel, and sold
+> against it at Accelo, so he knows the product from both the user and competitor side.
 > **Home-services clients (confirmed by Josh, Sep 2026):** the agency's client roster included home-services businesses among its accounts, additional (if less specified) demand-side exposure to the trades, consistent with the pattern at Solenzo.
 >
 > **Sales team lead (confirmed by Josh, Sep 2026):** Josh took on team lead for the sales team at Fetch & Funnel, in addition to his individual account work. Team size and exact scope not yet captured — ask Josh if a posting needs the specifics. Usable as evidence of people-leadership experience earlier than the Wix team-lead tenure suggested; the two roles sit back-to-back (Wix team lead through Aug 2022, Fetch & Funnel team lead Sep 2022–Feb 2023), showing continuous leadership responsibility across that period rather than an isolated instance.
@@ -473,6 +553,23 @@ operator talking, not like a candidate performing.
 - Closed **6 new-client deals** during tenure, averaging **~$22K each (several exceeding $25K) — roughly $130K+ in total bookings**.
 
 ### Wix.com — Account Manager, Onboarding Launch Specialist & Team Lead (Aug 2020 – Aug 2022)
+> **Time to launch (supplied by Josh, Oct 2026):** no exact duration remembered. His aim
+> was to launch the client on a single call; more complex builds needed planned website
+> production across multiple sessions. Claim qualitatively ("aimed to launch on the first
+> call; scoped multi-session production plans for complex builds"), never as a day count.
+>
+> **Training cadence (supplied by Josh, Oct 2026):** ran weekly team training sessions plus
+> individual 1:1 coaching. No session or headcount totals. Also ran workshops for the teams
+> he trained, especially when rolling out new initiatives.
+>
+> **Team size, resolved (Josh, Oct 2026):** he led multiple different teams over the two
+> years because Wix was testing different team structures for the new vertical, so sizes
+> ranged from 8 up to about 30. All earlier figures (20, 8, 15-30) are true for different
+> teams. Josh's instruction: use a range or floor, chosen to read strongest. **Default
+> phrasing:** "led multiple onboarding teams of up to 30 specialists" (or "20+" where a
+> floor reads better). The testing context is itself a good story: piloting team models
+> while the vertical went from proof of concept to profitable. Don't re-ask.
+>
 > **Retail vertical e-commerce experience (confirmed Sep 2026):** a meaningful share of
 > Josh's Wix account portfolio was established retail businesses (physical retail
 > locations) that needed a bigger e-commerce presence as a secondary revenue line. Josh
@@ -492,7 +589,8 @@ operator talking, not like a candidate performing.
 - Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it.
 - Built and launched e-commerce websites for established retail businesses adding a bigger online storefront as a secondary revenue line alongside their physical retail locations.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
-- Directly managed and developed a team of onboarding specialists for **2 years — a team of 20, later a team of 8** — overseeing budgets, scope, and delivery for a high-value client portfolio. *(Scale and duration confirmed by Josh, Aug 2026.)*
+- Led and developed multiple onboarding teams of **up to 30 specialists** over **2 years**, piloting different team structures as the vertical scaled, while overseeing budgets, scope, and delivery for a high-value client portfolio. *(Confirmed by Josh, Aug/Oct 2026.)*
+- Ran weekly team training sessions and individual 1:1 coaching for onboarding specialists.
 - Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team. *(Confirmed by Josh, Sep 2026.)*
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion, including connecting and setting up clients' Google Business Profile alongside their site build. *(Confirmed by Josh, Sep 2026.)*
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
@@ -501,6 +599,12 @@ operator talking, not like a candidate performing.
 - Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, contributing to hiring, onboarding, and training of new hires and developing sales training for tenured account executives. *(Corroborated by direct manager's written LinkedIn recommendation — see References.)*
 
 ### Accelo — Account Executive (Apr 2018 – Jul 2020)
+> **Client team workshops and events (confirmed by Josh, Oct 2026):** held workshops for
+> specific client teams showing how individual parts of the product would work for them.
+> **Events (confirmed by Josh, Oct 2026):** helped set up client events and attended
+> conventions for Accelo. Claim as "supported client events and industry conventions";
+> don't claim he planned or ran them.
+>
 > **Zapier automation (confirmed by Josh, Sep 2026):** Josh built Zapier automations at
 > Accelo, making his hands-on automation-building history run from at least 2018-2020
 > through the present at Solenzo, not a skill that started recently.
@@ -515,10 +619,18 @@ operator talking, not like a candidate performing.
 - Consistently performed above commission floor into accelerator ("doubling") tiers — averaging **~$17,750/month in implementation/services bookings (~$213K annualized)** plus new recurring revenue, earning roughly **$9,300 in monthly performance commission**.
 
 ### Fivestars — Account Executive (2017 – 2018)
-- Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs — high-volume prospecting, lead qualification, and customer acquisition.
+> **Activity and close rate (supplied by Josh, Oct 2026):** cold outbound sales, up to 150
+> dials/day and up to 10 deals closed/month. Lead with these for sales, SDR/AE, and
+> customer-service roles. Hunting-style work sits outside his preferred role shape, so
+> it's proof of capability, not a signal he wants more of it.
+- Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs, making up to **150 dials/day** and closing up to **10 deals/month**.
 - Built the consultative approach to customer retention and technology adoption that carried into later SaaS roles.
 
 ### Senior Directory — Business Development Representative (2012 – 2016)
+> **Healthcare for seniors (confirmed by Josh, Oct 2026):** Senior Directory's work had a
+> heavy focus on healthcare for seniors. Genuine professional healthcare-vertical exposure
+> (alongside Birdeye's healthcare-focused agencies), though BDR-side, not clinical, payer,
+> or benefits administration. Use for health/wellness/senior-care postings, scoped honestly.
 - Prospected and qualified leads as a Business Development Representative, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings.
 - Built the outreach, qualification, and pipeline fundamentals that carried into later SaaS Account Executive roles.
 
@@ -565,7 +677,7 @@ operator talking, not like a candidate performing.
 | Category | Competencies |
 | :--- | :--- |
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing, Zapier, Make, n8n |
-| Sales Engagement & Enrichment | Salesloft, ZoomInfo, Gong (confirmed hands-on, Sep 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
+| Sales Engagement & Enrichment | Salesloft, Apollo, HeyReach, ZoomInfo, Gong (confirmed hands-on, Sep/Oct 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | Data & BI Tools | Excel (experienced), Power BI (hands-on setup for client businesses), SQL (working proficiency — Power BI data modeling, BigQuery/GA4 queries), Python & JavaScript (custom code steps in Zapier/Make/n8n automation workflows) *(confirmed by Josh, Sep 2026 — see note below)* |
@@ -606,9 +718,14 @@ operator talking, not like a candidate performing.
 - **Accelo deal sizes of $20K+** later in tenure, alongside a base of smaller wins
 - **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure (per-deal contract value, confirmed by Josh)
 - **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
-- **2 years as team lead at Wix, managing a team of 20 and later a team of 8** onboarding specialists (confirmed by Josh, Aug 2026)
+- **2 years as team lead at Wix, leading multiple onboarding teams of up to 30 specialists** (sizes ranged 8 to ~30 as Wix tested team structures; confirmed by Josh, Aug/Oct 2026)
+- **Up to 150 dials/day and up to 10 deals closed/month** in cold outbound sales at **Fivestars** (supplied by Josh, Oct 2026; lead with these for sales/CS roles)
+- **50+ activities/day** at Birdeye across channel sales and partner onboarding (supplied by Josh, Oct 2026)
+- **Level Agency: ~3 client accounts at $20K+/month ad spend each, some peaking above $100K/month** (self-estimated, Oct 2026)
+- **CRM cleanup of 1,400+ contacts** (most recent CRM he cleaned out; supplied by Josh, Oct 2026). Employer/client and tool not captured, so state it without attributing it to a specific role unless Josh confirms where.
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
 - **Free digital-footprint audit offer (Solenzo), promoted via LinkedIn organic growth: 180+ businesses enrolled, 2 converted to paying clients** (~1.1% audit-to-client conversion) — confirmed by Josh, Aug 2026. This is Josh's own product-marketing / PLG-style motion: a free offer as top-of-funnel, distributed through his own LinkedIn growth, converting a share of free users to paid. Track record still early; do not overstate the conversion rate, state it plainly.
+- **~25 concurrent onboardings at peak at Wix** (supplied by Josh, Oct 2026), alongside 25+ launches/month
 - **Up to 3 concurrent clients at Solenzo** at peak, while personally building the outbound automation system and running outbound himself (confirmed by Josh, Sep 2026). This is a solo-founder scale number, real and specific, not a large book, state it plainly rather than rounding up. Monthly lead volume at Solenzo is not reliably capturable as a metric (see private note below) — do not estimate one.
 
 > If a job calls for a metric not in this list, do NOT manufacture one. Use a
@@ -623,24 +740,17 @@ that flag "metrics needed" should add to this list rather than restating the gap
 isolation. When a number gets captured, move it up into **Verified Quantified Metrics**
 with its scope and delete the line here.
 
-**Highest leverage (recurs across role types):**
-- **Concurrent workload at Birdeye.** How many partner accounts he actively managed at
-  once (distinct from the 15-20 total onboarded/managed over the full tenure). Wix is
-  covered (25+/month) and Solenzo is covered (up to 3 concurrent clients), see Verified
-  Metrics. Birdeye is the remaining gap.
-- **Time-to-launch / time-to-value.** Typical onboarding duration at Wix and Birdeye,
-  and whether it improved during his tenure (from what, to what).
-- **Wix hiring/training counts.** Team size and duration are now captured (2 years, 20 then
-  8). Still unrecorded: how many people he personally hired and trained.
+**Settled, don't re-ask (Oct 2026):** Fivestars activity (150 dials/day, 10 deals/month), Birdeye activity (50+/day, channel sales + onboarding), Wix team size
+(range, up to 30), Wix time-to-launch (qualitative only), Wix training totals (cadence
+only), outbound tool names (Apollo, HeyReach, Salesloft, Marketo, Mailchimp).
 
 **Role-specific:**
-- **Data volume.** Records or contacts in the largest migration or import he has run, and
-  what tool he cleaned it in. Directly requested by implementation JDs (Excel is named
-  explicitly in several) and currently unevidenced.
-- **Training delivery.** Number of sessions run and people trained, at Wix and Birdeye.
-- **Solenzo retainer range.** Concurrent client count is now captured (up to 3, see Verified
-  Metrics); typical retainer/contract value per client is still unrecorded.
-- **Level Agency accounts.** Portfolio size and spend under management.
+- **Cold-email deliverability setup.** Whether he configured sending domains/warm-up
+  himself. Ask only when a posting names it.
+- **1,400+ contact CRM cleanup context.** Which client/role and which CRM. Josh says he's
+  worked with many data sets and a single "largest" number is hard to give; don't push for
+  one.
+- **Solenzo retainer range.** Typical retainer/contract value per client is still unrecorded.
 - **Accelo implementation scope.** Typical implementation size in seats or hours.
 
 **Rules for filling these:** the number comes from Josh, never from inference. Ranges are
