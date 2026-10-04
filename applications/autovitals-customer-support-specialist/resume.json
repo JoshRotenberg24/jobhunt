@@ -1,0 +1,91 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SaaS Customer Support & Client Success | Small-Business Software, Troubleshooting & Clear Documentation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer-facing SaaS professional who has spent years helping small service businesses get value from software: answering how-to questions, fixing setup and access problems, and walking less technical owners through it by phone. Retained all but one of 15-20 partners at Birdeye and onboarded 25+ clients a month at Wix. Documents every interaction so the next person can pick it up cold, and uses AI assistants daily to research faster and write clearer notes and guides.",
+  "experience": [
+    {
+      "title": "Client Support & Implementation (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Support service-business clients (including home-services trades) on their CRM, website, and automation tools, resolving setup, access, and how-to questions and documenting every interaction in HubSpot, GoHighLevel, and Notion.",
+        "Troubleshoot broken workflows and integrations by tracing where the problem lives before changing anything.",
+        "Use Claude and ChatGPT to research issues faster and draft clearer client guides, and write reusable templates so recurring questions get a documented answer."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and supported 15-20 reseller partners serving local businesses, retaining all but one (~94%), across 50+ client activities a day.",
+        "Guided customers through technical setup of listings, reputation, and marketing automation tools, and built automated training sequences that reduced onboarding friction.",
+        "Passed structured, prioritized customer issues to Product and Engineering so fixes and roadmap decisions had the detail they needed."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded 25+ small-business clients per month by phone, aiming to get each one live on the first call; held 110% of implementation targets.",
+        "Walked owners through website, e-commerce, account, and Google Business Profile setup, contributing to a 25% improvement in conversion rates across supported accounts."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Troubleshot workflow design and technical setup alongside the implementation team, and ran workshops showing client teams how each part of the platform worked."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Support",
+      "items": [
+        "Phone & Email Client Support",
+        "Issue Triage & Escalation",
+        "Clear Case Documentation",
+        "Account Settings, Users & Access",
+        "Knowledge Base Gap Spotting"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Zendesk",
+        "Jira",
+        "Salesforce",
+        "HubSpot",
+        "Slack, Notion",
+        "Claude, ChatGPT"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
