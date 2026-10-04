@@ -1,0 +1,90 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success & Campaign Operations | Audience Segmentation, Digital Ads, Email Campaigns & Client Reporting",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success and campaign operations professional who handles the hands-on work behind client results: building audience segments, launching ad and email campaigns, producing client reports, and following up until every request is closed. Managed accounts at $20K+/month in ad spend at Level Agency, retained all but one of 15-20 partners at Birdeye, and uses AI tools daily to work faster.",
+  "experience": [
+    {
+      "title": "Client Success & Campaign Operations (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build segmented audience lists and run email and outreach campaigns for clients in GoHighLevel and HubSpot, including segmented cold-email campaigns by trigger.",
+        "Produce client reports and dashboards in GA4, Power BI, and Excel tracking campaign ROI and lead flow, and turn the results into recommendations.",
+        "Built 20+ automated workflows for follow-up, reminders, and reactivation, and use Claude and ChatGPT daily to speed up research and drafting."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed ~3 client accounts at $20K+/month in ad spend each (peaking above $100K/month), coordinating campaign execution across internal teams.",
+        "Ran account-based LinkedIn campaigns against researched audience lists with A/B-tested setups, and produced landing pages and email sequences."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and supported 15-20 reseller partners, retaining all but one (~94%), and escalated structured issues to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency, and built processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed about 25 concurrent onboardings at peak while launching 25+ clients per month at 110% of implementation targets."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success & Campaigns",
+      "items": [
+        "Audience Segmentation & List Building",
+        "Digital Ad Campaigns (Google, Meta, LinkedIn)",
+        "Email Campaigns",
+        "Client Reporting",
+        "Request Tracking & Follow-Up"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "HubSpot, Salesforce, GoHighLevel",
+        "GA4, Power BI, Excel",
+        "Claude, ChatGPT",
+        "Zapier, Make"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification",
+    "Google Digital Marketing & E-Commerce Professional Certificate (2024)"
+  ]
+}
