@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success Manager | CRM Adoption, Retention & Expansion for Home Service Businesses",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success manager who keeps a book of business healthy, engaged, and renewing. Retained all but one of 15-20 reseller partners at Birdeye, including home services, by watching usage data and stepping in before risk turned into churn. Builds and supports CRMs for home service trade businesses at Solenzo, so I know how a contractor uses a CRM to manage leads, follow up, and win jobs. Works in Salesforce and Zendesk.",
+  "experience": [
+    {
+      "title": "Client Success & CRM Systems (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build and support CRM and marketing automation for home service trade businesses (electrical, plumbing, HVAC), driving adoption of lead management, follow-up, and review workflows.",
+        "Architected 20+ CRM workflows in GoHighLevel and HubSpot covering lead capture and routing, appointment booking, no-show recovery, nurture, reactivation, and review generation.",
+        "Spot services clients aren't using yet and recommend them where they fit the client's goals, expanding retainer scope."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed ~3 accounts at $20K+/month in ad spend, delivering QBRs with ROI and LTV analysis and resolving feedback quickly to protect retention."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners across home services, health, and retail (deals ~$10K-$45K), retaining all but one (~94%).",
+        "Used utilization and health data to decide when an account needed an off-cycle intervention, then ran it alongside the partner.",
+        "Fed structured customer feedback to Product and Engineering, and kept partner records current in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Served home services businesses among agency clients and built processes that reduced handoff errors between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed about 25 concurrent onboardings at peak while launching 25+ clients per month at 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped a CRM and operations platform to services firms, advising clients on CRM adoption; top three on a team of 8 to 15 reps."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": [
+        "Book-of-Business Management",
+        "Health Monitoring & Off-Cycle Intervention",
+        "CRM Adoption",
+        "Renewals & Upsell Signals",
+        "Account Notes & CS Reporting",
+        "Voice of the Customer"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "Zendesk",
+        "HubSpot, GoHighLevel",
+        "Email Marketing & Automation",
+        "Excel, Power BI"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
