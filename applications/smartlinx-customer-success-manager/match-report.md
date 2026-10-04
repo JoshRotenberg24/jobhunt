@@ -4,6 +4,7 @@
 - **Pay:** $80K-$90K + 10% bonus
 - **Evaluated:** 2026-10-04
 - **Video requirement:** None
+- **Status:** Built, then skipped by Josh (his call for this posting only).
 
 ## Application-Form and Eligibility Check
 
