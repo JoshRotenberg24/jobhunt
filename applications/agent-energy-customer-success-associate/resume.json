@@ -1,0 +1,78 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Onboarding & Success | Sales Handoff to Go-Live, HubSpot, Customer Communications",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer onboarding professional who keeps every account moving from sales handoff to go-live without dropped details. Managed about 25 concurrent onboardings at peak at Wix, retained all but one of 15-20 partners at Birdeye, and keeps HubSpot and notes current so anyone can pick up where I left off. Comfortable learning technical topics fast, coordinating between customers and technical teams, and working outside normal hours when the situation calls for it.",
+  "experience": [
+    {
+      "title": "Client Onboarding & Success (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run each new client from kickoff to go-live: discovery, collecting the information and access I need, following up until it's complete, and keeping the client updated on dates and next steps.",
+        "Document every interaction, timeline, and action item in HubSpot, GoHighLevel, and Notion so records stay complete across concurrent clients.",
+        "Built automated reminders and follow-up workflows (20+ in GoHighLevel) so customer communications go out on time without manual chasing."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and supported 15-20 reseller partners across 50+ daily activities, retaining all but one (~94%).",
+        "Watched partner utilization to catch problems early, followed up until issues were resolved, and escalated structured issues to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built processes that reduced handoff errors between sales and delivery, tracking work in HubSpot, Monday.com, and ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded 25+ clients per month at 110% of implementation targets, managing about 25 concurrent onboardings at peak.",
+        "Ran kickoff and launch calls, aiming to get each client live on the first call and scoping multi-session plans for complex builds.",
+        "Led onboarding teams of up to 30 and improved the onboarding process for a new vertical that went from proof of concept to profitable."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients and handed them to the implementation team, escalating risks early."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": ["Sales Handoff & Kickoff Calls", "Onboarding Tracking to Go-Live", "Customer Communications", "Issue Follow-Up & Escalation", "Onboarding Checklist Improvement"]
+    },
+    {
+      "category": "Tools",
+      "items": ["HubSpot", "Salesforce, GoHighLevel", "Google Workspace, Excel", "Notion, Monday.com, ClickUp"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
