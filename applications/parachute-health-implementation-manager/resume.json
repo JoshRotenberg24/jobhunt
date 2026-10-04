@@ -1,0 +1,104 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Manager | SaaS Onboarding, Digital Transformation, API Integrations & AI Workflow Automation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation lead who moves customers off manual processes and onto software that sticks. Builds the rollout roadmap, configures the platform, consults on API integrations, trains end users through the change, and tracks adoption afterward. Onboarded 25+ clients a month at Wix at 110% of implementation targets while leading onboarding teams of up to 30, retained all but one of 15-20 partners at Birdeye, and now builds AI-driven workflow automation for service businesses. Healthcare exposure through senior-focused healthcare at Senior Directory and healthcare-focused agency partners at Birdeye.",
+  "experience": [
+    {
+      "title": "Implementation & Workflow Automation (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end implementations that replace manual follow-up with automated systems: discovery, a sequenced rollout plan, platform configuration, testing, and hands-on training.",
+        "Architected 20+ automated workflows across intake, qualification, scheduling, reminders, and follow-up, so requests move without manual handoff.",
+        "Integrate client systems through REST APIs, webhooks, and JSON in Zapier, Make, and n8n, and set up and validate data feeds into Salesforce, HubSpot, and GoHighLevel.",
+        "Build AI workflows that read unstructured inputs and trigger the right next action, calling LLM APIs directly and grading output against written standards.",
+        "Report adoption and performance in Excel, Power BI, and GA4, turning the data into recommendations clients act on."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder client accounts (~3 at $20K+/month in ad spend each), coordinating execution across internal departments and presenting data-backed recommendations in QBRs."
+      ]
+    },
+    {
+      "title": "Partner Onboarding & Enablement (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and trained 15-20 reseller partners, including agencies serving healthcare clients, retaining all but one (~94%).",
+        "Drove platform adoption by tracking partner utilization, flagging gaps early, and building automated training sequences that cut onboarding friction.",
+        "Fed structured partner feedback to Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Redesigned handoff processes between sales and delivery that improved reporting accuracy and reduced errors, managing work in Monday.com and ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded 25+ clients per month at 110% of implementation targets, including established retail businesses moving onto e-commerce for the first time.",
+        "Led onboarding teams of up to 30 specialists, assigning work and coaching through weekly training and 1:1s to keep launches on schedule.",
+        "Drove process improvements for a new vertical that went from proof of concept to a profitable business line."
+      ]
+    },
+    {
+      "title": "Implementation Planning & Client Onboarding (Account Executive)",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for agencies and professional-services firms moving onto Accelo's CRM/PSA platform, ranking which systems to change and in what order.",
+        "Ran client team workshops and demos, consulted on workflow design and API integrations, and advised C-suite executives on operational system design."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Qualified leads and booked meetings for regional reps at a company focused on healthcare services for seniors."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": ["End-to-End Project Management", "Transformation Roadmaps", "Platform Configuration", "Demos, Training & Change Management", "Adoption Tracking", "Process Improvement"]
+    },
+    {
+      "category": "Technical & AI",
+      "items": ["REST APIs, Webhooks, JSON", "Zapier, Make, n8n", "AI Workflow Automation, LLM APIs", "Salesforce, HubSpot, GoHighLevel"]
+    },
+    {
+      "category": "Data & Tools",
+      "items": ["Excel", "Power BI", "SQL (working proficiency)", "Jira, Monday.com, ClickUp"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
