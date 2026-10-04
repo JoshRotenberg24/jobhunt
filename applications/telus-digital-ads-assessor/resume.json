@@ -1,0 +1,92 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Search, Ads & Content Quality | Paid Search, SEO, Ad Relevance & Rubric-Based Evaluation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "U.S.-based digital marketer with hands-on experience judging whether ads and search results actually match what a person is looking for. Runs Google Ads, LinkedIn, and Meta campaigns (Meta Ads certified), does keyword and search-term analysis, and has 4 years of SEO work including AI search visibility. Builds rubric-based grading criteria and personally scores and labels output against them. Daily Gmail, Google Workspace, and social media user.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built rubric-based grading criteria for a 9-dimension website audit and personally labeled and scored outputs against those standards.",
+        "Configure and evaluate AI-generated responses for client systems, rating output quality against written criteria.",
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click-through quality.",
+        "Wrote and published 18 articles on search relevance, AI search visibility, and local SEO for non-technical business owners."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran Google keyword research and search-term analysis to shape ad targeting, and A/B-tested LinkedIn ad setups across accounts at $20K+/month in ad spend.",
+        "Produced campaign assets (landing pages, ad and email copy) written for conversion and message fit."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Worked in local search and online reputation, setting up businesses' listings across directories so search results showed accurate information."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency and recommended optimizations."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Advised small businesses on site content, SEO, and Google Business Profile, contributing to a 30% increase in traffic across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Search & Ads",
+      "items": [
+        "Ad & Search Relevance",
+        "Google Ads",
+        "Meta Ads (certified)",
+        "LinkedIn Ads",
+        "Keyword & Search-Term Analysis",
+        "SEO & AI Search"
+      ]
+    },
+    {
+      "category": "Evaluation",
+      "items": [
+        "Rubric-Based Rating",
+        "Data Labeling",
+        "AI Output Evaluation",
+        "Gmail, Google Workspace, Social Media"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate (2024)",
+    "Meta Ads Certification"
+  ]
+}
