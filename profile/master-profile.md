@@ -357,6 +357,26 @@ operator talking, not like a candidate performing.
 > ask Josh which role(s) before writing a role-specific bullet naming one of them; safe
 > to use in a role-agnostic competencies/tools list today.
 >
+> **Solenzo blog (supplied by Josh, Oct 2026, captured from getsolenzo.com/blog):** 18
+> published posts by Josh, Mar 2025 to Mar 2026. Two clusters:
+> - **Semantic SEO / AI search (Oct 2025 to Mar 2026, 10 posts):** a 9-dimension site-trust
+>   framework (entity clarity, topical coverage, content clusters, internal linking, schema,
+>   information gain, query networks, trust signals, GEO/AI visibility), "How We Audit a
+>   Website," "Schema Markup Explained for People Who Aren't Developers," Google AI
+>   Overviews, why ChatGPT won't recommend a business, entity clarity, internal linking.
+> - **Automation and small-business operations (Mar to Sep 2025, 8 posts):** GoHighLevel
+>   setup mistakes (database, automation overload, integrations, compliance), marketing
+>   attribution and ROI tracking, automated re-engagement of lapsed customers, automated
+>   booking, AI assistants for scheduling, reviews and local SEO, getting started with AI
+>   and paid ads.
+> **How to use it:** real, public evidence of plain-language technical writing for
+> non-technical readers. Use it for knowledge base / help center, documentation,
+> enablement, and "explain complex ideas clearly" requirements. Claim it as "published 18
+> articles," never with view counts (low, don't cite). The 9-dimension framework is the
+> same audit rubric behind the rubric-based grading bullet. Posts link to an audit tool at
+> solenzoaudit.vercel.app; **whether Josh built that tool himself is not confirmed, so ask
+> before claiming it.**
+>
 > **APIs, webhooks, LLM endpoints, JSON (confirmed by Josh, Oct 2026):** in production
 > client workflows (Zapier, Make, n8n, GoHighLevel) Josh has configured inbound and
 > outbound webhooks, made HTTP/REST calls to external APIs, and called LLM APIs directly
@@ -421,7 +441,7 @@ operator talking, not like a candidate performing.
 - Conduct technical SEO audits, keyword gap analyses, and competitor research using Screaming Frog for site-wide SEO data pulls, implementing fixes directly inside client CMS platforms.
 - Identify and implement schema/structured data as part of technical SEO audits, pulling full on-page schema implementation. *(Confirmed by Josh, Aug 2026.)*
 - Optimized a client's Google Ads account — cut spam/low-quality leads and improved click-through quality — and diagnosed on-site CRO as the remaining conversion bottleneck, demonstrating full-funnel troubleshooting.
-- Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.
+- Wrote and published 18 articles on the Solenzo blog (Mar 2025 to Mar 2026) explaining semantic SEO, schema, AI search visibility, CRM setup, attribution, and automation in plain language for non-technical business owners.
 - Draft clean, specific, ethically aligned direct-response copy, outreach sequences, and landing pages that drive engagement and pipeline.
 - Build reusable, boilerplate marketing assets and messaging frameworks as needed for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.
 
