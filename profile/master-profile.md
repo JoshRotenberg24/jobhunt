@@ -49,10 +49,10 @@
 > **Clay, LeanData, Snowflake, Hightouch (confirmed by Josh in an earlier session, moved
 > here Sep 2026 so it stops living only in a match report):** no hands-on time with any of
 > these. Record as a real gap, not a confirmation item, when a posting names them.
-> Instantly, Smartlead, Apollo, HeyReach, and cold-email deliverability setup (domains,
-> warm-up, sender reputation): Josh said (Oct 2026) "yes, I've used tools like those," but
-> hasn't named which ones. Claim "cold-email outreach tooling" generically; don't name a
-> specific platform or claim deliverability setup until he confirms that one by name.
+> **Apollo and HeyReach: confirmed hands-on (Oct 2026)**, alongside Salesloft, Marketo,
+> and Mailchimp (already confirmed Sep 2026). Instantly and Smartlead were not on his list,
+> so don't claim them. Cold-email deliverability setup (domains, warm-up, sender
+> reputation) is still unconfirmed; ask before claiming.
 >
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
@@ -435,9 +435,13 @@ operator talking, not like a candidate performing.
 > outbound sales. Up to 150 dials/day and up to 10 deals closed/month. Strong evidence for
 > outbound, SDR/AE, and high-activity roles. This is hunting-style work, which sits outside
 > his preferred role shape (see Target role shape), so it's proof of capability, not a
-> signal he wants more of it. **Open question:** how "up to 10 deals/month" relates to the
-> 15-20 reseller partners total (end-customer deals sold through partners vs. partner
-> sign-ups). Use "up to 150 dials/day" freely; hold the deals/month figure until clarified.
+> signal he wants more of it.
+>
+> **Which Birdeye numbers to lead with (Josh's instruction, Oct 2026):** both sets are true;
+> pick by role type. **Sales / customer-service roles:** lead with up to 150 dials/day and
+> up to 10 deals closed/month. **Onboarding / implementation / CS / partner roles:** lead
+> with 15-20 reseller partners onboarded and ~94% retention. Don't cram both into every
+> resume.
 >
 > **Partner vertical breadth (added Aug 2026, confirmed by Josh):** the 15-20 reseller partners spanned a variety of verticals, including health, home services, and retail — not a single-industry book. Useful evidence of cross-vertical partner-network management, but not a dedicated multi-year home-services/trade-contractor tenure; represent it as "including home services" rather than as home-services specialization.
 >
@@ -493,11 +497,13 @@ operator talking, not like a candidate performing.
 > **Training cadence (supplied by Josh, Oct 2026):** ran weekly team training sessions plus
 > individual 1:1 coaching. No session or headcount totals.
 >
-> **Team size conflict (Oct 2026, unresolved):** asked how many people he hired/trained,
-> Josh said "a team of about 15-30, depending on when during the tenure." The existing
-> confirmed figure is "a team of 20, later a team of 8." Possibly 15-30 is the broader team
-> he trained and 20/8 his direct reports, but that's not confirmed. Keep using 20/8 until
-> he clarifies.
+> **Team size, resolved (Josh, Oct 2026):** he led multiple different teams over the two
+> years because Wix was testing different team structures for the new vertical, so sizes
+> ranged from 8 up to about 30. All earlier figures (20, 8, 15-30) are true for different
+> teams. Josh's instruction: use a range or floor, chosen to read strongest. **Default
+> phrasing:** "led multiple onboarding teams of up to 30 specialists" (or "20+" where a
+> floor reads better). The testing context is itself a good story: piloting team models
+> while the vertical went from proof of concept to profitable. Don't re-ask.
 >
 > **Retail vertical e-commerce experience (confirmed Sep 2026):** a meaningful share of
 > Josh's Wix account portfolio was established retail businesses (physical retail
@@ -518,7 +524,8 @@ operator talking, not like a candidate performing.
 - Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria for the team building it.
 - Built and launched e-commerce websites for established retail businesses adding a bigger online storefront as a secondary revenue line alongside their physical retail locations.
 - Carried a combined sales and implementation load in year two, after the role expanded from a primarily sales focus in year one.
-- Directly managed and developed a team of onboarding specialists for **2 years — a team of 20, later a team of 8** — overseeing budgets, scope, and delivery for a high-value client portfolio. *(Scale and duration confirmed by Josh, Aug 2026.)*
+- Led and developed multiple onboarding teams of **up to 30 specialists** over **2 years**, piloting different team structures as the vertical scaled, while overseeing budgets, scope, and delivery for a high-value client portfolio. *(Confirmed by Josh, Aug/Oct 2026.)*
+- Ran weekly team training sessions and individual 1:1 coaching for onboarding specialists.
 - Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team. *(Confirmed by Josh, Sep 2026.)*
 - Led digital growth consultations aligning site architecture, inbound marketing, and SEO best practices to improve client traffic and conversion, including connecting and setting up clients' Google Business Profile alongside their site build. *(Confirmed by Josh, Sep 2026.)*
 - Managed a high-value account portfolio across diverse verticals, contributing to a **30% increase in website traffic** and **25% improvement in conversion rates** across the e-commerce segment.
@@ -591,7 +598,7 @@ operator talking, not like a candidate performing.
 | Category | Competencies |
 | :--- | :--- |
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing, Zapier, Make, n8n |
-| Sales Engagement & Enrichment | Salesloft, ZoomInfo, Gong (confirmed hands-on, Sep 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
+| Sales Engagement & Enrichment | Salesloft, Apollo, HeyReach, ZoomInfo, Gong (confirmed hands-on, Sep/Oct 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
 | Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | Data & BI Tools | Excel (experienced), Power BI (hands-on setup for client businesses), SQL (working proficiency — Power BI data modeling, BigQuery/GA4 queries), Python & JavaScript (custom code steps in Zapier/Make/n8n automation workflows) *(confirmed by Josh, Sep 2026 — see note below)* |
@@ -632,8 +639,8 @@ operator talking, not like a candidate performing.
 - **Accelo deal sizes of $20K+** later in tenure, alongside a base of smaller wins
 - **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure (per-deal contract value, confirmed by Josh)
 - **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
-- **2 years as team lead at Wix, managing a team of 20 and later a team of 8** onboarding specialists (confirmed by Josh, Aug 2026; see the Oct 2026 team size conflict note under Wix)
-- **Up to 150 dials/day** in a cold outbound sales motion at Birdeye (supplied by Josh, Oct 2026)
+- **2 years as team lead at Wix, leading multiple onboarding teams of up to 30 specialists** (sizes ranged 8 to ~30 as Wix tested team structures; confirmed by Josh, Aug/Oct 2026)
+- **Up to 150 dials/day and up to 10 deals closed/month** in a cold outbound sales motion at Birdeye (supplied by Josh, Oct 2026; lead with these for sales/CS roles, with the partner/retention numbers for onboarding roles)
 - **Level Agency: ~3 client accounts at $20K+/month ad spend each, some peaking above $100K/month** (self-estimated, Oct 2026)
 - **CRM cleanup of 1,400+ contacts** (most recent CRM he cleaned out; supplied by Josh, Oct 2026). Employer/client and tool not captured, so state it without attributing it to a specific role unless Josh confirms where.
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
@@ -652,18 +659,13 @@ that flag "metrics needed" should add to this list rather than restating the gap
 isolation. When a number gets captured, move it up into **Verified Quantified Metrics**
 with its scope and delete the line here.
 
-**Highest leverage (recurs across role types):**
-- **Birdeye deals/month scope.** What "up to 10 deals/month" counted (partner sign-ups vs.
-  end-customer deals through partners). Birdeye was mostly cold sales (Oct 2026), so
-  "concurrent partner workload" is the wrong question; dropped.
-- **Wix team size reconciliation.** "15-30 depending on when" (Oct 2026) vs. confirmed
-  "20, later 8." Time-to-launch is captured qualitatively only (no number exists; don't
-  re-ask). Training cadence is captured (weekly sessions + 1:1 coaching; totals not known,
-  don't re-ask).
+**Settled, don't re-ask (Oct 2026):** Birdeye numbers (use situationally), Wix team size
+(range, up to 30), Wix time-to-launch (qualitative only), Wix training totals (cadence
+only), outbound tool names (Apollo, HeyReach, Salesloft, Marketo, Mailchimp).
 
 **Role-specific:**
-- **Outbound tools by name.** Which of Instantly, Smartlead, Apollo, HeyReach, etc. he has
-  actually used, and whether he set up deliverability himself.
+- **Cold-email deliverability setup.** Whether he configured sending domains/warm-up
+  himself. Ask only when a posting names it.
 - **1,400+ contact CRM cleanup context.** Which client/role and which CRM. Josh says he's
   worked with many data sets and a single "largest" number is hard to give; don't push for
   one.
