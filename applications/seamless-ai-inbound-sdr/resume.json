@@ -1,0 +1,103 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Inbound Sales Development | Quota Overachiever, Lead Qualification, AE Handoffs & Salesforce",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SDR and SaaS sales professional with a history of overachieving quota: 120% of sales target at Wix, top three on a team of 8 to 15 at Accelo while quota roughly doubled (~$213K/year in services bookings), up to 10 deals a month on up to 150 calls a day at Fivestars, and ~$130K+ in bookings from 6 deals at Fetch & Funnel. Started with four years as a BDR booking sales-ready meetings. A heavy user of lead data tools (ZoomInfo, Apollo) who has built automated lead enrichment and follow-up systems.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built automated lead enrichment, scoring, and follow-up systems so every lead gets a fast, relevant response; a free audit offer enrolled 180+ businesses and converted 2 to paying clients."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed accounts at $20K+/month in ad spend and reported which campaigns produced quality leads and pipeline."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Signed and onboarded 15-20 reseller partners (deals ~$10K-$45K) across 50+ activities a day, retaining all but one, tracking pipeline in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K (several $25K+), ~$130K+ in total bookings, while leading the sales team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Hit 120% of sales targets (and 110% of implementation targets) while onboarding 25+ clients per month."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team of 8 to 15 reps for most of a 27-month tenure while quota roughly doubled.",
+        "Averaged ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue, consistently in accelerator commission tiers, with deals of $20K+."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Made up to 150 calls a day and closed up to 10 deals a month selling a loyalty and marketing platform to small businesses."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Qualified leads and booked a steady flow of sales-ready meetings for regional sales representatives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Sales Development",
+      "items": [
+        "Inbound Qualification (demos, trials, chat, content)",
+        "Phone, Email & LinkedIn Follow-Up",
+        "Clean AE Handoffs",
+        "Lead Quality Feedback",
+        "Salesforce, HubSpot, ZoomInfo, Apollo, Salesloft"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
