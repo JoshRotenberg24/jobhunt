@@ -62,6 +62,10 @@
 > when asked, but flag the video requirement at the top of the fit check so he can decide
 > early.
 >
+> **Eastern / Central hours (confirmed by Josh, Oct 2026):** can work Eastern or Central
+> time zone hours from Colorado. Answer yes when a remote posting asks for EST/Central
+> alignment; still flag postings that require *residing* in those time zones.
+>
 > **Travel (confirmed by Josh, Oct 2026):** up to 20% travel, domestic or international, is
 > fine. Answer yes on application forms at 20% or below; ask for anything higher. Passport
 > status not yet confirmed.

@@ -10,7 +10,7 @@
 
 | Item | Classification | Status |
 | :--- | :--- | :--- |
-| **"Remote EST or Central"** | Application-form | **Unclear: hours vs. residency.** Josh is in Mountain time. If it requires living in EST/Central, it's a knockout under his CO/remote rule. If it's hours, cover letter says he's available Eastern/Central hours (Josh to confirm). |
+| **"Remote EST or Central"** | Application-form | **Unclear: hours vs. residency.** Josh is in Mountain time. If it requires living in EST/Central, it's a knockout under his CO/remote rule. If it's hours: confirmed, Josh can work Eastern/Central hours (Oct 2026). |
 | HS diploma / 0-2 yrs customer service | Resume-evidenced | Met, far over |
 | Salesforce daily | Resume-evidenced | Met (Birdeye, Wix, Fivestars) |
 | Salary expectation (if asked) | Application-form | Not posted. Suggested **$55,000-$60,000** base for an associate retention role; Josh's call |
