@@ -364,6 +364,11 @@ operator talking, not like a candidate performing.
 > using AI assistance as part of the workflow. Safe to claim against a JD's "built and
 > deployed an automated workflow that calls external APIs in production" requirement.
 >
+> **Data feeds into CRMs (confirmed by Josh, Oct 2026):** has set up and run data feeds into
+> Salesforce, HubSpot, and GoHighLevel, and validates every import by re-checking the
+> results. No volume figures available (don't ask again). SFTP setup, file encryption (PGP),
+> and formal file-layout specs are NOT confirmed; treat as gaps.
+>
 > **MAP-to-CRM syncs (confirmed by Josh, Oct 2026):** has set up and maintained syncs
 > between marketing automation and CRM systems. Specific tool pair not named; Solenzo
 > (GoHighLevel/HubSpot via Zapier/Make/n8n) is the default attribution. Confirm the exact
@@ -507,6 +512,8 @@ operator talking, not like a candidate performing.
 - Analyzed partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn.
 
 ### Fetch & Funnel — Account Executive / Sales Operations (Sep 2022 – Feb 2023)
+> **Monday.com (confirmed by Josh, Oct 2026):** used Monday.com at Fetch & Funnel, and sold
+> against it at Accelo, so he knows the product from both the user and competitor side.
 > **Home-services clients (confirmed by Josh, Sep 2026):** the agency's client roster included home-services businesses among its accounts, additional (if less specified) demand-side exposure to the trades, consistent with the pattern at Solenzo.
 >
 > **Sales team lead (confirmed by Josh, Sep 2026):** Josh took on team lead for the sales team at Fetch & Funnel, in addition to his individual account work. Team size and exact scope not yet captured — ask Josh if a posting needs the specifics. Usable as evidence of people-leadership experience earlier than the Wix team-lead tenure suggested; the two roles sit back-to-back (Wix team lead through Aug 2022, Fetch & Funnel team lead Sep 2022–Feb 2023), showing continuous leadership responsibility across that period rather than an isolated instance.
@@ -574,8 +581,9 @@ operator talking, not like a candidate performing.
 ### Accelo — Account Executive (Apr 2018 – Jul 2020)
 > **Client team workshops and events (confirmed by Josh, Oct 2026):** held workshops for
 > specific client teams showing how individual parts of the product would work for them.
-> Also did events for Accelo (details, type, and his role not yet captured; his answer was
-> cut off). Don't describe the events beyond "supported Accelo events" until he fills it in.
+> **Events (confirmed by Josh, Oct 2026):** helped set up client events and attended
+> conventions for Accelo. Claim as "supported client events and industry conventions";
+> don't claim he planned or ran them.
 >
 > **Zapier automation (confirmed by Josh, Sep 2026):** Josh built Zapier automations at
 > Accelo, making his hands-on automation-building history run from at least 2018-2020
@@ -599,6 +607,10 @@ operator talking, not like a candidate performing.
 - Built the consultative approach to customer retention and technology adoption that carried into later SaaS roles.
 
 ### Senior Directory — Business Development Representative (2012 – 2016)
+> **Healthcare for seniors (confirmed by Josh, Oct 2026):** Senior Directory's work had a
+> heavy focus on healthcare for seniors. Genuine professional healthcare-vertical exposure
+> (alongside Birdeye's healthcare-focused agencies), though BDR-side, not clinical, payer,
+> or benefits administration. Use for health/wellness/senior-care postings, scoped honestly.
 - Prospected and qualified leads as a Business Development Representative, booking appointments for regional sales representatives and maintaining a steady flow of sales-ready meetings.
 - Built the outreach, qualification, and pipeline fundamentals that carried into later SaaS Account Executive roles.
 
