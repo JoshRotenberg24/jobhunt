@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 4, 2026",
+  "company": "Onit",
+  "role": "Implementation Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "Your posting describes someone who wants client-facing work without giving up the technical problem-solving. That's the line I've walked for most of my career. At Accelo I sold and scoped a professional-services automation platform (projects, time tracking, utilization, billing) to services firms, built the implementation plans our delivery team ran, and guided clients through workflow design and API integrations. I know what a utilization target means to a firm, and to an implementation team tracking its own hours.",
+    "Today at Solenzo I run implementations end to end and do the technical work myself: REST API and webhook integrations, reading JSON payloads to find where a sync breaks, Python and JavaScript in code steps to transform data, data imports into Salesforce, HubSpot, and GoHighLevel validated record by record, and SQL to check the results. At Wix I managed about 25 concurrent onboardings at peak while launching 25+ clients a month at 110% of implementation targets.",
+    "To be direct about the gaps: I haven't worked in legal operations or with ELM, spend management, or CLM systems, and I haven't built flat-file finance integrations specifically. The integration and migration fundamentals carry over, and I learn a domain fast. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Sincerely,"
+}

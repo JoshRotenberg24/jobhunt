@@ -1,0 +1,112 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Implementation Manager | Requirements to Go-Live, REST API Integrations, Data Migration & SQL",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation manager who stays hands-on with the technical work instead of routing it to Engineering. Gathers requirements, configures workflows, builds and troubleshoots REST API integrations (JSON payloads, webhooks, error handling), runs data imports and cleanups with validation (including a 1,400+ contact CRM), and writes SQL and Python or JavaScript when a configuration needs it. Managed about 25 concurrent onboardings at peak at Wix while launching 25+ clients a month at 110% of implementation targets, and sold and scoped Accelo's professional-services automation platform (time tracking, utilization, project budgets) to services firms.",
+  "experience": [
+    {
+      "title": "Technical Implementation & Integrations (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead implementations from requirements through go-live: discovery, configuration of workflows and reporting, testing, client training, and post-launch support.",
+        "Build and troubleshoot integrations with REST APIs and webhooks in Zapier, Make, and n8n, reading request and response payloads (JSON) and fixing errors myself.",
+        "Write Python and JavaScript in custom code steps to transform data between systems, and run data imports into Salesforce, HubSpot, and GoHighLevel, validating every record after load.",
+        "Query and model data with SQL (BigQuery, Power BI) and Excel to validate results and report on performance.",
+        "Document configurations, timelines, and decisions for every engagement in Notion and HubSpot."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts, coordinating internal departments on deliverables and presenting status and results in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded 15-20 reseller partners and configured their end customers on Birdeye's listings-syndication solution, retaining all but one (~94%).",
+        "Guided clients through complex technical setup of reputation and automation tools, and escalated structured issues to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed about 25 concurrent onboardings at peak while launching 25+ clients per month at 110% of implementation targets, scoping multi-session plans for complex builds.",
+        "Defined the Salesforce fields required for onboarding and sales workflows, standardizing data capture across the team.",
+        "Led onboarding teams of up to 30 specialists, running weekly training and workshops for new initiatives."
+      ]
+    },
+    {
+      "title": "Implementation Planning & Client Onboarding (Account Executive)",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped Accelo's CRM and professional-services automation platform (projects, time tracking, utilization, billing) to agencies and professional-services firms.",
+        "Built sequenced implementation plans for incoming clients and guided onboarding, workflow design, and API integrations alongside the implementation team.",
+        "Averaged ~$17,750/month in implementation/services bookings (~$213K annualized), ranking top three on a team of 8 to 15 reps."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": [
+        "Requirements to Go-Live",
+        "Workflow & Reporting Configuration",
+        "Testing & Launch Readiness",
+        "Change Management & Training",
+        "Status Reporting & Risk Management"
+      ]
+    },
+    {
+      "category": "Technical",
+      "items": [
+        "REST APIs, Webhooks, JSON",
+        "Data Migration & Validation",
+        "SQL (working proficiency)",
+        "Python & JavaScript (automation code steps)",
+        "Zapier, Make, n8n"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce, HubSpot",
+        "Jira, Asana, Monday.com",
+        "Excel, Power BI",
+        "Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
