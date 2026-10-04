@@ -1,0 +1,96 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Communications & Change Enablement | Audience-Centered Writing, Multi-Channel Campaigns, Leader & Team Training",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Communicator who turns complex initiatives into clear, audience-specific messages people act on. Rolled out new initiatives to onboarding teams of up to 30 at Wix through weekly training, workshops, and coaching while the vertical grew from proof of concept to a profitable business line. Has published 18 plain-language articles translating technical topics for non-technical readers, runs multi-channel email campaigns (Mailchimp, HubSpot), and measures what works with GA4 and campaign analytics. Colorado-based, with family deeply rooted in education.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Wrote and published 18 articles explaining complex technical topics (search, AI, CRM systems, attribution) in plain language for non-technical business owners.",
+        "Plan and run multi-channel email and outreach campaigns with segmented, audience-specific messaging, and measure results in GA4 and campaign analytics.",
+        "Translate stakeholders' loosely defined ideas into clear, structured messaging and documented workflows that others can use on their own."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated internal departments as strategic lead on multi-stakeholder accounts, and presented findings to client leadership in quarterly reviews."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated training and communication sequences that equipped 15-20 partner organizations to explain the product to their own customers, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that strengthened cross-team alignment and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Rolled out new initiatives to onboarding teams of up to 30 through weekly training sessions, workshops, and 1:1 coaching, helping the team adopt new processes as the vertical grew from proof of concept to a profitable business line.",
+        "Led team initiatives and process improvements, developed sales training for tenured account executives, and helped hire and onboard new team members."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ran workshops for client teams explaining how each part of a new platform would change their workflow, and advised C-suite executives on operational change."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Communications",
+      "items": [
+        "Audience-Centered Writing & Editing",
+        "Change Communications & Rollouts",
+        "Multi-Channel Campaigns",
+        "Leader & Team Training",
+        "Workshops & Presentations"
+      ]
+    },
+    {
+      "category": "Tools & Measurement",
+      "items": [
+        "Mailchimp, HubSpot",
+        "Slack, Notion, Google Workspace",
+        "GA4, Email Analytics",
+        "Power BI, Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
