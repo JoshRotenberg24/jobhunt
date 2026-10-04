@@ -431,17 +431,12 @@ operator talking, not like a candidate performing.
 - Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention.
 
 ### Birdeye — Channel Partnerships & Customer Onboarding (Feb 2023 – Apr 2024)
-> **Cold-sales activity level (supplied by Josh, Oct 2026):** the role was mostly cold,
-> outbound sales. Up to 150 dials/day and up to 10 deals closed/month. Strong evidence for
-> outbound, SDR/AE, and high-activity roles. This is hunting-style work, which sits outside
-> his preferred role shape (see Target role shape), so it's proof of capability, not a
-> signal he wants more of it.
->
-> **Which Birdeye numbers to lead with (Josh's instruction, Oct 2026):** both sets are true;
-> pick by role type. **Sales / customer-service roles:** lead with up to 150 dials/day and
-> up to 10 deals closed/month. **Onboarding / implementation / CS / partner roles:** lead
-> with 15-20 reseller partners onboarded and ~94% retention. Don't cram both into every
-> resume.
+> **Role focus and activity level (corrected by Josh, Oct 2026):** channel sales plus
+> onboarding with those partners to get their clients up and running. Around 50+
+> activities/day. NOT a cold-dialing role; the 150 dials/day and 10 deals/month figures
+> belong to Fivestars, not Birdeye. Lead Birdeye with the partner onboarding and ~94%
+> retention numbers; add "50+ daily partner activities" where a posting values activity
+> volume.
 >
 > **Partner vertical breadth (added Aug 2026, confirmed by Josh):** the 15-20 reseller partners spanned a variety of verticals, including health, home services, and retail — not a single-industry book. Useful evidence of cross-vertical partner-network management, but not a dedicated multi-year home-services/trade-contractor tenure; represent it as "including home services" rather than as home-services specialization.
 >
@@ -548,7 +543,11 @@ operator talking, not like a candidate performing.
 - Consistently performed above commission floor into accelerator ("doubling") tiers — averaging **~$17,750/month in implementation/services bookings (~$213K annualized)** plus new recurring revenue, earning roughly **$9,300 in monthly performance commission**.
 
 ### Fivestars — Account Executive (2017 – 2018)
-- Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs — high-volume prospecting, lead qualification, and customer acquisition.
+> **Activity and close rate (supplied by Josh, Oct 2026):** cold outbound sales, up to 150
+> dials/day and up to 10 deals closed/month. Lead with these for sales, SDR/AE, and
+> customer-service roles. Hunting-style work sits outside his preferred role shape, so
+> it's proof of capability, not a signal he wants more of it.
+- Ran full-cycle sales for a loyalty and marketing automation platform targeting SMBs, making up to **150 dials/day** and closing up to **10 deals/month**.
 - Built the consultative approach to customer retention and technology adoption that carried into later SaaS roles.
 
 ### Senior Directory — Business Development Representative (2012 – 2016)
@@ -640,7 +639,8 @@ operator talking, not like a candidate performing.
 - **6 deals closed at Fetch & Funnel averaging ~$22K each (several $25K+), ~$130K+ total bookings** over tenure (per-deal contract value, confirmed by Josh)
 - **15–20 reseller partners onboarded/managed at Birdeye · ~94% retention (all but one retained) · deals ~$10K–$45K**
 - **2 years as team lead at Wix, leading multiple onboarding teams of up to 30 specialists** (sizes ranged 8 to ~30 as Wix tested team structures; confirmed by Josh, Aug/Oct 2026)
-- **Up to 150 dials/day and up to 10 deals closed/month** in a cold outbound sales motion at Birdeye (supplied by Josh, Oct 2026; lead with these for sales/CS roles, with the partner/retention numbers for onboarding roles)
+- **Up to 150 dials/day and up to 10 deals closed/month** in cold outbound sales at **Fivestars** (supplied by Josh, Oct 2026; lead with these for sales/CS roles)
+- **50+ activities/day** at Birdeye across channel sales and partner onboarding (supplied by Josh, Oct 2026)
 - **Level Agency: ~3 client accounts at $20K+/month ad spend each, some peaking above $100K/month** (self-estimated, Oct 2026)
 - **CRM cleanup of 1,400+ contacts** (most recent CRM he cleaned out; supplied by Josh, Oct 2026). Employer/client and tool not captured, so state it without attributing it to a specific role unless Josh confirms where.
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
@@ -659,7 +659,7 @@ that flag "metrics needed" should add to this list rather than restating the gap
 isolation. When a number gets captured, move it up into **Verified Quantified Metrics**
 with its scope and delete the line here.
 
-**Settled, don't re-ask (Oct 2026):** Birdeye numbers (use situationally), Wix team size
+**Settled, don't re-ask (Oct 2026):** Fivestars activity (150 dials/day, 10 deals/month), Birdeye activity (50+/day, channel sales + onboarding), Wix team size
 (range, up to 30), Wix time-to-launch (qualitative only), Wix training totals (cadence
 only), outbound tool names (Apollo, HeyReach, Salesloft, Marketo, Mailchimp).
 
