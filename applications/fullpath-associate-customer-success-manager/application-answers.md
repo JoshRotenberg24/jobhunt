@@ -1,7 +1,15 @@
 # Fullpath — Application Answers
 
-## Note (separate from cover letter)
+## Note (separate from cover letter): resume TL;DR
 
-Hi, I'm applying for the Associate CSM role. The day-to-day here (audience lists, ad and email campaigns, client reports, and a request queue that has to keep moving) is work I've done hands-on at an agency and in my own consulting business. I'd like to grow into a CSM seat by doing that work well, and I'm glad to walk through how I'd keep your enterprise team's workload moving. Thanks for the consideration.
+TL;DR of my resume:
 
+• Campaigns: ran ad accounts at $20K+/month (peaking above $100K) at Level Agency, plus account-based LinkedIn campaigns against researched audience lists
+• Audience lists and email: build segmented lists and email campaigns in HubSpot and GoHighLevel for my consulting clients
+• Customer success: kept all but one of 15-20 reseller partners at Birdeye (~94% retention)
+• Volume: managed about 25 concurrent onboardings at Wix while launching 25+ clients a month
+• Reporting: client dashboards and reports in GA4, Power BI, and Excel
+• AI and automation: use Claude and ChatGPT daily, and have built 20+ automated workflows to cut repetitive work
+
+Happy to walk through any of it.
 Josh Rotenberg
