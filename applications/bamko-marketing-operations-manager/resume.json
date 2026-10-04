@@ -1,0 +1,101 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations & Analytics | HubSpot, CRM Integrations, GA4 & Revenue Attribution",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations builder who sets the system and then builds it: CRM architecture in HubSpot and GoHighLevel, the integrations and sync logic that connect it to the rest of the business, and the tracking, attribution, and dashboards that show leadership what marketing contributes to pipeline. 5+ years building CRM and marketing automation (lifecycle stages, lead scoring, routing, data governance) on top of 15+ years in B2B SaaS and agency roles, including long, multi-stakeholder sales cycles sold to C-suite buyers. Works in SQL, Power BI, GA4, and Google Tag Manager, and documents every system so it outlasts the person who built it.",
+  "experience": [
+    {
+      "title": "Marketing Operations & Analytics (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and administer CRM and marketing automation systems in HubSpot and GoHighLevel, setting the standards for properties, lifecycle stages, lead scoring, segmentation, and data-hygiene rules.",
+        "Built 20+ workflows covering lead capture, routing, qualification, booking, onboarding nurture, and reactivation, so every inbound lead reaches the right next step without manual handoff.",
+        "Integrate CRMs with business systems through Zapier, Make, and n8n using webhooks and REST APIs, owning field mapping, sync logic, and data quality across connected tools.",
+        "Install Google Tag Manager and GA4 tracking on every site I build, and query GA4 data in BigQuery and SQL to model performance in Power BI.",
+        "Build dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, and present the findings and recommendations to business owners.",
+        "Diagnosed a client's Google Ads account end to end, cutting spam and low-quality leads and identifying on-site conversion as the remaining bottleneck."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, and presented the results and recommendations in client QBRs.",
+        "Managed ~3 client accounts at $20K+/month in ad spend each (peaking above $100K/month), advising on budget allocation across paid channels.",
+        "Ran account-based LinkedIn campaigns against small, highly researched target-account lists with A/B-tested setups."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners selling Birdeye through a multi-channel model (deals ~$10K-$45K), retaining all but one (~94%), in a Salesforce stack with ZoomInfo and intent data synced in.",
+        "Analyzed partner utilization and performance data to find adoption gaps and recommend fixes that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes in HubSpot and ClickUp that improved reporting accuracy and reduced handoff errors between sales and delivery.",
+        "Closed 6 deals averaging ~$22K (~$130K+ total bookings) and reached the finalist stage of a long-cycle pursuit of a major banking prospect."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team.",
+        "Contributed to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment.",
+        "Led multiple onboarding teams of up to 30 specialists while onboarding 25+ clients per month at 120% of sales and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Co-built the team's lead qualification system with sales leadership, and built Zapier automations and API integrations for clients.",
+        "Sold multi-stakeholder CRM/PSA deals to C-suite buyers, ranking top three on a team of 8 to 15 reps while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Ops & CRM",
+      "items": ["HubSpot", "GoHighLevel", "Salesforce", "Lifecycle Stages & Lead Scoring", "Lead Routing & Sales Handoff", "Data Governance & Field Mapping", "Segmentation & List Strategy"]
+    },
+    {
+      "category": "Measurement & Analytics",
+      "items": ["GA4", "Google Tag Manager", "Campaign Attribution", "SQL & GA4 BigQuery", "Power BI", "Excel", "Executive Dashboards"]
+    },
+    {
+      "category": "Integrations & Stack",
+      "items": ["Zapier, Make, n8n", "Webhooks, REST APIs, JSON", "ZoomInfo, Apollo", "Google Ads, Meta Ads (certified), LinkedIn Ads"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate (2024)",
+    "Meta Ads Certification"
+  ]
+}
