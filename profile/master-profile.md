@@ -57,6 +57,11 @@
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
 >
+> **Video-answer applications (Josh, Oct 2026):** holding off for now on postings that
+> require a Loom or recorded video answer. Not a filter: still run the fit check and build
+> when asked, but flag the video requirement at the top of the fit check so he can decide
+> early.
+>
 > **Travel (confirmed by Josh, Oct 2026):** up to 20% travel, domestic or international, is
 > fine. Answer yes on application forms at 20% or below; ask for anything higher. Passport
 > status not yet confirmed.

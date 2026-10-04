@@ -3,7 +3,7 @@
 - **Location:** Remote, Central US hours (Josh is Mountain, one hour off)
 - **Apply via:** Workable only, plus a Loom answer and the Culture Index survey (required)
 - **Evaluated:** 2026-10-04
-- **Status:** Built from what's on file. Josh didn't answer the pre-build questions, so support-tool depth stays conservative.
+- **Status:** Resume built, application **on hold**. Josh is holding off on postings that require a Loom video answer for now (Oct 2026). Resume is ready if he picks it back up.
 
 ## Application-Form and Eligibility Check
 
