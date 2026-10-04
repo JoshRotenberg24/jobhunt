@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success Manager | Adoption, Retention, QBRs & Expansion for Field Service and Trade Businesses",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success professional who keeps accounts healthy, renewing, and growing. Retained all but one of 15-20 reseller partners at Birdeye by watching utilization and stepping in before risk turned into churn, and onboarded 25+ clients a month at Wix. Works directly with field service trade businesses (electrical, plumbing, HVAC) at Solenzo, so I know how those operators think about software, time, and cost.",
+  "experience": [
+    {
+      "title": "Client Success & Systems (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own client relationships with service businesses, including electrical, plumbing, and HVAC trade companies, from discovery and onboarding through ongoing support.",
+        "Build and run CRM and automation systems in GoHighLevel and HubSpot that clients rely on daily, tracking usage and results to spot where they aren't getting full value.",
+        "Identify services clients aren't using yet and recommend them where they fit the client's goals, expanding retainer scope."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed ~3 client accounts at $20K+/month in ad spend, delivering QBRs with ROI, CAC, and LTV reporting."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94%).",
+        "Monitored partner utilization and health metrics to flag churn risk early and run interventions that kept accounts active.",
+        "Advised partners on retention strategy and customer health so they could show their own clients ongoing value."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 deals averaging ~$22K and reduced handoff errors between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded 25+ clients per month at 120% of sales and 110% of implementation targets, managing about 25 concurrent onboardings at peak.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive communication on client goals."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped an operations platform to services firms, averaging ~$17,750/month in services bookings."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": [
+        "Adoption & Value Realization",
+        "Health Scores & Churn Risk",
+        "Renewal Readiness",
+        "QBRs / EBRs",
+        "Success Plans",
+        "Expansion & Upsell Partnering"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel, Procore",
+        "Excel, Power BI",
+        "Jira, Asana, Zendesk"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
