@@ -1,14 +1,14 @@
 {
   "style": "modern",
   "name": "Joshua Rotenberg",
-  "headline": "Inbound Sales Development | Lead Qualification, Speed-to-Lead, Meeting Booking & Salesforce",
+  "headline": "Sales Development & SaaS Sales | Quota Overachiever, Lead Qualification, Meeting Booking & Salesforce",
   "contact": {
     "location": "Arvada, CO (Remote)",
     "phone": "303-726-5037",
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Software sales professional who qualifies fast and books meetings that hold. Four years as a BDR booking sales-ready meetings for regional reps, then SaaS sales at Fivestars (up to 150 calls a day, up to 10 deals a month) and Accelo (top three on a team of 8 to 15 while quota doubled). Builds automated lead capture and follow-up systems, so I know what fast, consistent inbound response looks like. Works in Salesforce, HubSpot, ZoomInfo, Salesloft, and Apollo.",
+  "summary": "Software sales professional with a track record of beating quota: 120% of sales target at Wix, top three on a team of 8 to 15 at Accelo while quota roughly doubled (~$213K/year in services bookings), up to 10 deals a month on up to 150 calls a day at Fivestars, and ~$130K+ in bookings from 6 deals at Fetch & Funnel. Started as a BDR booking sales-ready meetings for four years. Works in Salesforce, HubSpot, ZoomInfo, Salesloft, and Apollo.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -16,8 +16,7 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Built automated lead capture, tagging, routing, and qualification workflows in GoHighLevel so every inbound lead gets an immediate response and a next step.",
-        "Run my own outbound pipeline end to end, from first touch to booked meeting, with segmented email sequences by trigger."
+        "Built and run my own outbound and lead-response system: a free audit offer enrolled 180+ businesses and converted 2 to paying clients, with automated capture, routing, and follow-up."
       ]
     },
     {
@@ -26,7 +25,7 @@
       "location": "Remote",
       "dates": "Sep 2024 - Feb 2025",
       "bullets": [
-        "Managed accounts at $20K+/month in ad spend and built reporting on lead flow, CAC, and conversion to show which campaigns produced quality leads."
+        "Managed accounts at $20K+/month in ad spend and reported which campaigns produced quality leads and pipeline."
       ]
     },
     {
@@ -35,7 +34,7 @@
       "location": "Remote",
       "dates": "Feb 2023 - Apr 2024",
       "bullets": [
-        "Sold and onboarded 15-20 reseller partners (deals ~$10K-$45K) across 50+ activities a day, retaining all but one, tracking pipeline in Salesforce."
+        "Signed and onboarded 15-20 reseller partners (deals ~$10K-$45K) across 50+ activities a day, retaining all but one, tracking pipeline in Salesforce."
       ]
     },
     {
@@ -44,7 +43,7 @@
       "location": "Remote",
       "dates": "Sep 2022 - Feb 2023",
       "bullets": [
-        "Closed 6 new-client deals averaging ~$22K (~$130K+ total bookings) and led the sales team."
+        "Closed 6 new-client deals averaging ~$22K (several $25K+), ~$130K+ in total bookings, while leading the sales team."
       ]
     },
     {
@@ -53,7 +52,7 @@
       "location": "Remote",
       "dates": "Aug 2020 - Aug 2022",
       "bullets": [
-        "Hit 120% of sales targets and 110% of implementation targets while onboarding 25+ clients per month."
+        "Hit 120% of sales targets (and 110% of implementation targets) while onboarding 25+ clients per month."
       ]
     },
     {
@@ -62,7 +61,8 @@
       "location": "Denver, CO",
       "dates": "Apr 2018 - Jul 2020",
       "bullets": [
-        "Ranked top three in sales on a team of 8 to 15 reps for most of a 27-month tenure while quota roughly doubled, with deals of $20K+."
+        "Ranked top three in sales on a team of 8 to 15 reps for most of a 27-month tenure while quota roughly doubled.",
+        "Averaged ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue, consistently in accelerator commission tiers, with deals of $20K+."
       ]
     },
     {
@@ -86,21 +86,13 @@
   ],
   "competencies": [
     {
-      "category": "Sales Development",
+      "category": "Sales",
       "items": [
-        "Inbound Lead Qualification",
-        "Needs Discovery",
-        "Speed-to-Lead & Follow-Up",
+        "Inbound Qualification & Discovery",
+        "Speed-to-Lead",
         "Meeting Booking",
-        "Lead Nurture"
-      ]
-    },
-    {
-      "category": "Tools",
-      "items": [
-        "Salesforce",
-        "HubSpot",
-        "ZoomInfo, Salesloft, Apollo"
+        "Lead Nurture",
+        "Salesforce, HubSpot, ZoomInfo, Salesloft, Apollo"
       ]
     }
   ],
