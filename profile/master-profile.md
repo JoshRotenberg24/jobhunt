@@ -98,6 +98,12 @@
 > genuine personal-fit differentiator, distinct from the Application Priority Score's
 > own dimensions.
 
+> **Builder roles (stated by Josh, Oct 2026):** likes roles where he builds the process
+> while doing the work (e.g. an SDR seat that iterates its own sequences and playbook). Real
+> pattern in his history: Wix (built a new vertical's process from proof of concept while
+> running onboarding) and Solenzo (built the outbound system while running outbound). A
+> genuine draw worth naming in cover letters when a posting asks for it.
+
 ## Compensation Expectations (baseline, confirmed by Josh, Sep 2026)
 
 Standing anchor for application salary-expectation questions, so this doesn't get
