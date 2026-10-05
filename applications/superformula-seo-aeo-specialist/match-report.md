@@ -4,6 +4,7 @@
 - **Pay:** Not listed
 - **Evaluated:** 2026-10-05
 - **Video requirement:** None
+- **Status:** Built, then skipped by Josh (his call for this posting only).
 
 ## Application-Form and Eligibility Check
 
