@@ -1,0 +1,110 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success Team Leader | High-Volume SMB Retention, Team Ramp & Coaching, Building Process from Scratch",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success and account management leader who builds the operating motion while running the team. Led onboarding teams of up to 30 specialists at Wix for two years, hiring, training, and coaching reps while a new vertical went from proof of concept to a profitable business line, and personally carried 25+ launches a month at 120% of sales and 110% of implementation targets. Retained all but one of 15-20 partners at Birdeye through proactive health monitoring, and led a sales team at Fetch & Funnel. Brings 15+ years in SMB-focused SaaS and a hands-on habit of turning reactive teams into proactive ones.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own a portfolio of SMB client relationships end to end, tracking every commitment and escalation in the CRM and reporting performance on a regular cadence in Power BI, GA4, and Excel.",
+        "Built 20+ automated workflows that replace manual follow-up with proactive, triggered outreach, including nurture and reactivation sequences.",
+        "Identify expansion opportunities where services fit a client's goals, growing retainer scope."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts at $20K+/month in ad spend, delivering QBRs and resolving escalations quickly to protect retention."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners serving SMB customers, retaining all but one (~94%).",
+        "Monitored utilization and health data to flag churn risk early and run proactive interventions, and advised partners on their own retention and customer health strategy.",
+        "Built automated training sequences that scaled onboarding and fed structured feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Led the sales team while carrying my own book, closing 6 deals averaging ~$22K (~$130K+ total), and built processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led multiple onboarding teams of up to 30 specialists over two years as Wix tested team structures for a new vertical, overseeing budgets, scope, and delivery.",
+        "Helped hire, onboard, and ramp new specialists; ran weekly training and 1:1 coaching; and built sales training for tenured account executives.",
+        "Built the team's operating process as the vertical grew from proof of concept to a profitable business line, and defined the Salesforce fields that standardized data capture.",
+        "Personally managed about 25 concurrent onboardings at peak and 25+ launches a month at 120% of sales and 110% of implementation targets.",
+        "Recognized by my direct manager in writing as \"the leader you want on your team.\""
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three on a team of 8 to 15 reps while quota roughly doubled, averaging ~$17,750/month in services bookings, and escalated account risk early."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Leadership",
+      "items": [
+        "Team Leadership (up to 30)",
+        "Hiring Support, Onboarding & Ramp",
+        "Call Coaching & 1:1s",
+        "Building Operating Cadence",
+        "Escalation Triage"
+      ]
+    },
+    {
+      "category": "Customer Success",
+      "items": [
+        "Scaled SMB Retention",
+        "Churn Risk Monitoring",
+        "Renewal & Expansion Signals",
+        "Pipeline & Risk Reporting"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce, HubSpot",
+        "Gong",
+        "Zendesk, Jira",
+        "Excel, Power BI"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
