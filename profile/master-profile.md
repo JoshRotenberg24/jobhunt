@@ -384,6 +384,16 @@ operator talking, not like a candidate performing.
 > using AI assistance as part of the workflow. Safe to claim against a JD's "built and
 > deployed an automated workflow that calls external APIs in production" requirement.
 >
+> **Tracking implementation depth (confirmed by Josh, Oct 2026, Masterworks session):**
+> (1) debugs tags and GA4 conversion events with browser developer tools (network tab,
+> dataLayer inspection); (2) builds custom GTM triggers and variables and uses GTM
+> Preview/debug mode, beyond container install; (3) installs Meta Pixel and Google Ads
+> conversion tracking himself; (4) defines and enforces UTM naming conventions for
+> clients; (5) has set up cookie-consent banners / consent configuration. Attributed to
+> Solenzo by default (where he builds and tags client sites); confirm if any came from
+> another role. Specific CMP tool (Cookiebot, OneTrust, GTM consent mode) not named.
+> Piwik PRO, Adform, The Trade Desk, Outbrain remain unconfirmed/gaps.
+>
 > **Data feeds into CRMs (confirmed by Josh, Oct 2026):** has set up and run data feeds into
 > Salesforce, HubSpot, and GoHighLevel, and validates every import by re-checking the
 > results. No volume figures available (don't ask again). SFTP setup, file encryption (PGP),
@@ -447,6 +457,8 @@ operator talking, not like a candidate performing.
 
 **Operations & Technical Setup**
 - Install and configure Google Tag Manager on every website built at Solenzo, and guided clients through GTM setup at Wix. *(Confirmed by Josh, Aug 2026.)*
+- Build custom GTM triggers and variables for GA4 conversion events, Meta Pixel, and Google Ads conversion tags, validating in GTM Preview mode and browser developer tools (network tab, dataLayer). *(Confirmed by Josh, Oct 2026.)*
+- Define and enforce UTM naming conventions for client campaigns, and set up cookie-consent configuration on client sites. *(Confirmed by Josh, Oct 2026.)*
 - Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and strict data-hygiene protocols.
 - Build reusable agent infrastructure and internal tooling integrating with client CRMs and CMS platforms for 24/7 automated growth engines.
 - Own post-sale value delivery for B2B clients, architecting onboarding and technical setup that drives product adoption at scale.
@@ -690,7 +702,7 @@ operator talking, not like a candidate performing.
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing, Zapier, Make, n8n |
 | Sales Engagement & Enrichment | Salesloft, Apollo, HeyReach, ZoomInfo, Gong (confirmed hands-on, Sep/Oct 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
-| Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
+| Analytics & Reporting | GA4, Google Search Console, Google Tag Manager (custom triggers/variables, Preview mode), Browser DevTools & dataLayer Debugging, Meta Pixel & Google Ads Conversion Tags, UTM Governance, Cookie Consent Setup, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | Data & BI Tools | Excel (experienced), Power BI (hands-on setup for client businesses), SQL (working proficiency — Power BI data modeling, BigQuery/GA4 queries), Python & JavaScript (custom code steps in Zapier/Make/n8n automation workflows) *(confirmed by Josh, Sep 2026 — see note below)* |
 | Web Technical | HTML/CSS (hands-on, own Solenzo site + client GA4 implementation), JavaScript (automation-tool code steps) |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |

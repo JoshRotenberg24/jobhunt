@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Marketing technology operator who installs, configures, and maintains the tracking and data plumbing behind client marketing programs. At Solenzo I deploy Google Tag Manager and GA4 on every client site, connect forms and ad traffic to the CRM through webhooks and APIs, and validate that the data lands where it should. Agency background across Level Agency and Fetch & Funnel managing several client accounts at once, with working SQL (BigQuery/GA4), and 18 published articles explaining tracking, schema, and attribution to non-technical readers.",
+  "summary": "Marketing technology operator who builds, debugs, and maintains the tracking behind client marketing programs. At Solenzo I deploy Google Tag Manager on every client site (custom triggers and variables, GA4 events, Meta Pixel, Google Ads conversions), debug in Preview mode and browser DevTools, enforce UTM conventions, configure cookie consent, and validate that conversion data reaches the CRM through webhooks and APIs. Agency background managing several client accounts at once, working SQL (BigQuery/GA4), and 18 published articles explaining tracking and attribution to non-technical readers.",
   "experience": [
     {
       "title": "Marketing Technology & Analytics Implementation — Founder & Strategic / Marketing Operations Lead",
@@ -16,12 +16,13 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Install and configure Google Tag Manager on every client website built, implementing GA4 tracking directly in site code (HTML/CSS) and verifying data collection after launch.",
+        "Install and configure Google Tag Manager on every client website, building custom triggers and variables for GA4 conversion events, Meta Pixel, and Google Ads conversion tags.",
+        "Debug tags and GA4 conversion events with GTM Preview mode and browser developer tools (network tab, dataLayer inspection), tracing failures from the page to the reporting.",
+        "Define and enforce UTM naming conventions for client campaigns, and set up cookie-consent configuration on client sites.",
         "Configure inbound and outbound webhooks and REST API calls across Zapier, Make, n8n, and GoHighLevel, reading and editing JSON payloads and debugging integration failures in production workflows.",
         "Set up and validate data feeds from web forms and campaigns into Salesforce, HubSpot, and GoHighLevel, re-checking every import so lead source data arrives intact.",
         "Track acquisition and conversion across multiple client accounts using GA4 and CRM analytics, writing SQL for BigQuery/GA4 pulls and Power BI data models.",
         "Build monitoring and evaluation loops for automated systems, using LLM APIs and rubric-based scoring to catch failures and improve output over time.",
-        "Run technical SEO audits with Screaming Frog and implement schema/structured data, inspecting live pages for on-page and markup issues.",
         "Document every client configuration, timeline, and deliverable in Notion, GoHighLevel, and HubSpot, keeping records auditable across concurrent engagements."
       ]
     },
@@ -84,10 +85,12 @@
     {
       "category": "Tag Management & Analytics",
       "items": [
-        "Google Tag Manager",
-        "GA4 & Google Search Console",
-        "Conversion & Campaign Attribution Tracking",
-        "Schema / Structured Data"
+        "Google Tag Manager (tags, triggers, variables, Preview)",
+        "GA4 Events & Conversions, Google Search Console",
+        "Browser DevTools & dataLayer Debugging",
+        "Meta Pixel & Google Ads Conversion Tags",
+        "UTM Governance & Campaign Attribution",
+        "Cookie Consent Setup"
       ]
     },
     {
