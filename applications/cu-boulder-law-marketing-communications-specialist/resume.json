@@ -1,0 +1,80 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing & Communications | Writing & Editing, Email Newsletters, Web Content & Campaign Analytics",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing and communications professional who writes clearly for many audiences and keeps every channel consistent. Has written and published 18 articles for a non-technical audience, built and run segmented email campaigns and newsletters, edited and built web pages directly in HTML/CSS and client CMS platforms, and tracked results with GA4 and campaign analytics. Brings 15+ years in marketing, agency, and SaaS roles, strong project management, and experience presenting to senior stakeholders.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Write, edit, and publish long-form content: 18 articles explaining complex topics (search, AI, CRM, attribution) in plain language, plus newsletters and educational guides.",
+        "Build and edit websites directly in HTML/CSS and inside client CMS platforms, and install Google Tag Manager and GA4 tracking on every site I build.",
+        "Plan and run segmented email campaigns and automated nurture sequences in HubSpot and GoHighLevel, tracking engagement and turning results into recommendations.",
+        "Build reusable brand-consistent templates and messaging frameworks adapted to each client's voice, and manage multiple client projects against deadlines."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced campaign assets including landing pages, email sequences, and conversion-focused copy, coordinating execution across internal creative and media teams.",
+        "Managed integrated campaigns across content, paid, and inbound channels, and presented performance reporting to client leadership in quarterly reviews."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated training and communication sequences for 15-20 partner organizations, retaining all but one (~94%), and managed records in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts at a performance marketing agency covering campaign execution, reporting, and cross-team communication, managing tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Advised small businesses on website content, site structure, and SEO, contributing to a 30% increase in traffic and a 25% improvement in conversion rates across the e-commerce segment.",
+        "Trained and coached onboarding teams of up to 30 through weekly sessions and workshops."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Communications",
+      "items": ["Writing & Editing", "Newsletters & Email Campaigns", "Web Content & Page Building", "Brand Consistency", "Project Management"]
+    },
+    {
+      "category": "Tools",
+      "items": ["HubSpot, Mailchimp, Marketo", "Salesforce", "HTML/CSS, CMS Platforms", "GA4, Google Tag Manager", "Microsoft Office, Google Workspace"]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate (2024)"
+  ]
+}
