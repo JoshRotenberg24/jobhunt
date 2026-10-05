@@ -26,16 +26,16 @@ No knockout. No cap applied. No video answer required.
 
 ## Application Priority Score
 
-⚪ **80 / 100 — Strong fit (apply, competitive)**
-`[████████████████░░░░]  80%`
+⚪ **83 / 100 — Strong fit (apply, competitive)**
+`[█████████████████░░░]  83%`
 
 *Internal decision aid, not a prediction of Ottimate's screening outcome.* See `fit.png`.
 
 | Dimension | Score | Max |
 | :--- | :---: | :---: |
-| Must-have requirements met | 35 | 40 |
+| Must-have requirements met | 37 | 40 |
 | Seniority & scope alignment | 11 | 15 |
-| Domain / industry alignment | 9 | 15 |
+| Domain / industry alignment | 10 | 15 |
 | Differentiators / nice-to-haves | 12 | 15 |
 | Evidence strength | 13 | 15 |
 
@@ -55,13 +55,13 @@ Function match is close to literal (onboarding + training + adoption tracking + 
 | Map and re-engineer client workflows | Strong | Solenzo workflow re-engineering; Accelo sequenced implementation plans |
 | Critical path, on-time go-lives, risk escalation | Strong | Wix on-time launches; Accelo early escalation |
 | Translate technical into simple steps | Strong | Solenzo 18 plain-language articles; hands-on training for non-technical owners |
-| Presentations 1:1 through 50+ | Adjacent | Team training for up to 30; client workshops; conventions. 50+ audience not documented |
-| AP lifecycle / B2B financial ops (preferred) | Gap | See below |
+| Presentations 1:1 through 50+ | Strong | Josh confirmed presenting to groups of 50+ (Oct 2026); Wix team training up to 30; Accelo client workshops |
+| AP lifecycle / B2B financial ops (preferred) | Adjacent (partial) | Accelo invoicing/billing features walked through with clients; no AP operations |
 | Multiple projects, tight deadlines | Strong | Wix ~25 concurrent onboardings, 25+ launches/month |
 | Salesforce | Strong | Birdeye, Wix, Fivestars |
 | Analytical, detail-oriented | Strong | Reporting, dashboards, Wix CRM field definitions |
 
-**Must-haves:** 7 of 8 strongly evidenced; presentation-to-50+ adjacent.
+**Must-haves:** 8 of 8 evidenced.
 
 ## Top Strengths
 1. Wix: 25+ launches/month at 110% of implementation target, plus training teams of up to 30.
@@ -69,12 +69,12 @@ Function match is close to literal (onboarding + training + adoption tracking + 
 3. Solenzo: the literal job (manual workflows mapped and rebuilt as automation, then trained).
 
 ## Gaps
-- **Accounts Payable / finance operations:** no AP, invoice-to-payment, or finance-team experience. Preferred, not required. Addressed directly in the cover letter. Closest real adjacency: selling/scoping Accelo (CRM/PSA) to professional-services firms; banking client at Fetch & Funnel (marketing side, not AP).
+- **Accounts Payable / finance operations:** no AP, invoice-to-payment, or finance-team experience. Preferred, not required. Addressed directly in the cover letter. Closest real adjacency: walking professional-services firms through Accelo's invoicing and billing features; banking client at Fetch & Funnel (marketing side, not AP).
 - **Seniority read:** 15+ years for a 1-5 year role. Not a gap, but a screener risk; resume keeps the focus on onboarding work, not titles.
 
 ## Candidate Confirmation Needed
-- **Largest audience presented to.** Has Josh presented to a group of 50+ (convention, webinar, all-hands, Wix team training)? If yes, add to profile and a bullet.
-- **Accelo invoicing/billing.** Did Josh demo or implement Accelo's invoicing/billing modules for clients? If yes, it is the closest real AP-adjacent evidence available.
+- Resolved Oct 5, 2026: Josh confirmed presenting to groups of 50+ and walking clients through Accelo's invoicing/billing features. Both added to `master-profile.md`, the resume, and the cover letter.
+- Still open: where the 50+ presentations happened (employer/venue), and whether Accelo billing work included hands-on configuration or demo only.
 
 ## Metrics Needed
 - Birdeye adoption lift or churn reduction from interventions (number or range).

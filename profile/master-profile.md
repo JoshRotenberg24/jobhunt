@@ -605,6 +605,12 @@ operator talking, not like a candidate performing.
 > conventions for Accelo. Claim as "supported client events and industry conventions";
 > don't claim he planned or ran them.
 >
+> **Invoicing/billing features (confirmed by Josh, Oct 2026):** demoed and/or set up
+> Accelo's invoicing and billing modules for clients. Closest real evidence for AP/billing
+> postings, scoped honestly: a PSA tool's billing side for professional-services firms, not
+> AP operations or finance-team work. Exact split between demo and hands-on configuration
+> not captured; phrase as "walked clients through" unless Josh confirms config.
+>
 > **Zapier automation (confirmed by Josh, Sep 2026):** Josh built Zapier automations at
 > Accelo, making his hands-on automation-building history run from at least 2018-2020
 > through the present at Solenzo, not a skill that started recently.
@@ -615,6 +621,7 @@ operator talking, not like a candidate performing.
 - Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.
 - Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.
 - Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.
+- Walked clients through Accelo's invoicing and billing features, showing how time, projects, and billing connect in one system. *(Confirmed by Josh, Oct 2026.)*
 - Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance.
 - Consistently performed above commission floor into accelerator ("doubling") tiers — averaging **~$17,750/month in implementation/services bookings (~$213K annualized)** plus new recurring revenue, earning roughly **$9,300 in monthly performance commission**.
 
@@ -666,6 +673,10 @@ operator talking, not like a candidate performing.
 ---
 
 ## Core Competencies Bank (mix & match to the job)
+
+> **Presenting to 50+ (confirmed by Josh, Oct 2026):** has presented to groups of 50 or
+> more. Venue/employer not captured; claim as "presented to groups of 50+" without
+> attributing it to a specific role until Josh says where.
 
 > **Forecasting / pipeline-stage awareness (confirmed by Josh, Sep 2026):** knowing where
 > an opportunity sits in the sales process has been part of every sales role Josh has
