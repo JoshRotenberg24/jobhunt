@@ -12,7 +12,7 @@
 | :--- | :--- | :--- |
 | US work authorization, living in US | Application-form | Met |
 | 3-5 yrs technical SEO / marketing engineering / related | Resume-evidenced | Met (4 yrs SEO + automation work) |
-| Salary expectation (if asked) | Application-form | Not posted. Suggested **$90,000** for a mid-level technical SEO/AEO role |
+| Salary expectation (if asked) | Application-form | Not posted. Market (Oct 2026): mid-level GEO specialist ~$70K-$110K, Tallwave avg base ~$89K. Answer: **$92,000** (range $88K-$98K) |
 
 ## Application Priority Score
 
