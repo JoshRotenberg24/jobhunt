@@ -1,0 +1,89 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "AEO/GEO & Technical SEO | AI Visibility Audits, Structured Data & Entity Optimization, LLM Automation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical SEO and AI visibility practitioner (4 years of SEO) with a builder's habit of automating anything done twice. Built a 9-dimension audit framework that includes GEO/AI visibility, with automated scoring and rubric-based evaluation. Ships fixes directly (JSON-LD, GTM, GA4, client CMS), writes Python and JavaScript in automation workflows, calls REST and LLM APIs, and has published 18 articles on how AI tools choose which businesses to cite.",
+  "experience": [
+    {
+      "title": "AI Visibility & Technical SEO (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Designed a 9-dimension audit framework (entity clarity, topical coverage, content clusters, internal linking, schema, information gain, query network coverage, trust signals, GEO/AI visibility); the automated audit enrolled 180+ businesses.",
+        "Built agent workflows with custom scoring logic, calling LLM APIs directly, plus rubric-based grading criteria and hand-labeled outputs to keep evaluation honest.",
+        "Run technical SEO audits and competitor research with Screaming Frog, and ship fixes directly in client CMS platforms, including full on-page schema, GTM, and GA4.",
+        "Build pipelines with REST APIs, webhooks, and JSON in Zapier, Make, and n8n, writing Python and JavaScript in code steps; query GA4 data with SQL in BigQuery.",
+        "Wrote and published 18 articles on semantic SEO, entity clarity, schema, Google AI Overviews, and AI recommendation visibility."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran keyword and search-term analysis across concurrent agency clients, and presented ROI, CAC, and conversion reporting to client leadership in QBRs."
+      ]
+    },
+    {
+      "title": "Local Search & Listings (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded partners on Birdeye's data-aggregator and listings-syndication solution, keeping business entity data consistent across directories; ~94% partner retention."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency and recommended optimizations."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Advised small businesses on site architecture, SEO, and Google Business Profile, contributing to a 30% traffic increase across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI Visibility & SEO",
+      "items": [
+        "AEO / GEO Audits",
+        "Entity Optimization",
+        "Schema / JSON-LD",
+        "Technical SEO (Screaming Frog)",
+        "GA4, GTM"
+      ]
+    },
+    {
+      "category": "Automation & Data",
+      "items": [
+        "Python & JavaScript (code steps)",
+        "SQL (BigQuery)",
+        "REST & LLM APIs",
+        "Rubric-Based Evaluation",
+        "Zapier, Make, n8n"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

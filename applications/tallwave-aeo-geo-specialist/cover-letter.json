@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 5, 2026",
+  "company": "Tallwave",
+  "role": "AEO/GEO Specialist",
+  "recipient": "Hiring Team",
+  "body": [
+    "Why a brand is missing from the answer when someone asks ChatGPT or Google AI Mode for a recommendation is the question I've spent the last year building around. At my consulting business, Solenzo, I built a 9-dimension audit framework (entity clarity, topical coverage, content clusters, internal linking, schema, information gain, query network coverage, trust signals, and GEO/AI visibility), automated the scoring with agent workflows and LLM API calls, and graded the output against written rubrics I hand-labeled myself. I've published 18 articles on the same ground, including why ChatGPT won't recommend a business and how to earn citations in AI Overviews.",
+    "I also ship the fix instead of stopping at a recommendation. I implement JSON-LD and on-page schema, GTM, and GA4 directly in client CMS platforms, run technical audits in Screaming Frog, and build pipelines with REST APIs, webhooks, and Python or JavaScript code steps. Your line about automating anything done twice is how I already work.",
+    "To be direct about the gaps: my clients have been small and mid-sized businesses, so I haven't pushed changes through an enterprise engineering queue with legal and brand review, and I haven't used Profound or Peec. My Python is applied rather than software-engineering deep. I'd bring a working methodology, honest measurement habits, and the curiosity this discipline needs while it's still being defined. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Sincerely,"
+}
