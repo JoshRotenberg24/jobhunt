@@ -12,7 +12,7 @@
 | :--- | :--- | :--- |
 | Remote US | Application-form | Met |
 | Contract engagement | Application-form | Josh to decide; no benefits likely |
-| Rate expectation (if asked) | Application-form | Not posted. Suggested **$55-$65/hr** for a senior contract SEO/AEO role |
+| Rate expectation (if asked) | Application-form | Not posted. Market (Oct 2026): senior SEO salary ~$95K-$107K (~$46-$52/hr); contract adds ~20-30% for no benefits. Answer: **$65/hr** (range $60-$70); if they ask annual, **$100,000** |
 
 ## Application Priority Score
 
