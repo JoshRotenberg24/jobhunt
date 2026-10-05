@@ -104,6 +104,7 @@ band.
 - **Flexibility (Josh, Oct 2026):** open to wherever a role's posted range lands; prioritizes
   landing a role over maximizing base. Default to roughly the lower-middle of the posted
   range rather than the top.
+- **Below-anchor ranges (Josh, Oct 2026):** accepted Gusto's $26.84-$32.21/hour (~$56K-$67K + RSUs) for a strong-fit onboarding role. A posted range below the anchor is not a reason to skip; flag it and let Josh decide.
 - **Associate / entry-to-mid IC support roles** (e.g., deal desk associate, coordinator-
   level titles, 2-4 years' stated requirement): target **$72,000-$78,000 base**, anchor
   point **$75,000**. Use the same figure for "OTE" unless the posting shows a genuine
@@ -120,6 +121,7 @@ band.
 - **B.A. Liberal Arts, Minor in Political Science** — Colorado State University, Fort Collins, CO (2009)
 - **Google Digital Marketing & E-Commerce Professional Certificate** — Google / Coursera (Issued Sept 2024)
 - **Meta Ads Certification** — Meta *(confirmed by Josh Aug 2026; exact credential title and issue date still to be captured)*
+- **RPS / CRPS (retirement plan designations):** not held. Josh confirmed (Oct 2026, Gusto) he is willing to pursue either after hire. Not "in progress" today, so never list it on a resume as in pursuit; say "willing to pursue" in application answers.
 
 ---
 

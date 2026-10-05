@@ -73,8 +73,13 @@ High-volume onboarding book, activation benchmarks, Salesforce, and small-busine
 - Payroll systems (plus).
 
 ## Candidate Confirmation Needed
-- Willing to pursue RPS or CRPS after hire? The posting counts "active pursuit." A yes is worth stating in the application.
-- OK with the pay range (~$56K-$67K)?
+- Resolved Oct 5, 2026: Josh **will pursue RPS or CRPS** after hire, and the **pay range works** for him. Both recorded in `master-profile.md`.
+
+## Application Answers
+- **RPS/CRPS:** "I don't hold either yet and plan to pursue the RPS or CRPS after starting." (Not on the resume, since it isn't in progress today.)
+- **Pay expectation:** $29/hour (lower-middle of posted range).
+- **Hybrid Denver 2-3 days/week:** Yes.
+- **Work authorization / sponsorship:** Authorized, no sponsorship needed.
 
 ## Metrics Needed
 - CSAT or average response time from any onboarding role.
