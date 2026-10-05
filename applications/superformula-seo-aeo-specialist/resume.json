@@ -1,0 +1,90 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "SEO & AEO Specialist | Local SEO & Google Business Profile, Technical SEO, AI Answer Visibility, GA4",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "SEO and AEO practitioner (4 years of SEO) covering traditional search and AI answers. Optimizes Google Business Profile for every client, runs technical audits in Screaming Frog, and ships fixes in HTML/CSS and client CMS platforms. Built a 9-dimension audit framework that includes GEO/AI visibility, has published 18 articles on how Google's AI features and ChatGPT choose which businesses to surface, and reports with GA4, Search Console, Ahrefs, and Semrush.",
+  "experience": [
+    {
+      "title": "AI Visibility & Technical SEO (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Claim, verify, and optimize Google Business Profile listings (categories, services, photos, posts) for every client as the foundation of local SEO, managing multiple business entities.",
+        "Run technical SEO audits, keyword gap analyses, and competitor research with Screaming Frog, Ahrefs, and Semrush, and ship on-page fixes, metadata, and full schema markup directly in client CMS platforms.",
+        "Designed a 9-dimension audit framework including GEO/AI visibility, with automated scoring and rubric-based evaluation; the audit enrolled 180+ businesses.",
+        "Optimized a client's Google Ads account to cut low-quality leads and improve click-through quality.",
+        "Report performance with GA4, Google Search Console, and Power BI, and build sites in HTML/CSS with GTM on every site."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran keyword and search-term analysis across concurrent agency clients and presented performance reporting to client leadership."
+      ]
+    },
+    {
+      "title": "Local Search & Listings (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded partners on Birdeye's data-aggregator and listings-syndication solution, keeping business listings consistent across directories for local search; ~94% partner retention."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media performance at a performance marketing agency and recommended optimizations."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Advised small businesses on site architecture, SEO, and Google Business Profile, contributing to a 30% traffic increase across the e-commerce segment."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "SEO & AEO",
+      "items": [
+        "Local SEO & Google Business Profile",
+        "Technical SEO",
+        "On-Page & Metadata Optimization",
+        "Keyword & Competitive Research",
+        "AEO / GEO Testing",
+        "Schema Markup"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "GA4, Google Search Console",
+        "Screaming Frog, Ahrefs, Semrush",
+        "Google Ads, GTM",
+        "HTML/CSS, CMS Platforms",
+        "Power BI, Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
