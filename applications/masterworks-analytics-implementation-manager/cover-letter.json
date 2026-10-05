@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 5, 2026",
+  "company": "Masterworks",
+  "role": "Analytics Implementation Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "Your posting says this role is for someone who gets satisfaction from finding why a conversion event stopped firing. That's most of my week at Solenzo. I install Google Tag Manager and GA4 on every client site I build, connect forms and ad traffic to the CRM through webhooks and APIs, and then check that the data actually arrives. When it doesn't, I trace it through the payloads until I find the break.",
+    "The rest of the job looks familiar too. I've worked agency side at Level Agency and Fetch & Funnel, holding several client accounts at once, and I document every client setup in Notion because I've seen what happens when that knowledge lives in one person's head. I write SQL against BigQuery/GA4, and I build AI and automation systems to monitor client workflows, which is the direction you describe for telemetry monitoring.",
+    "To be direct: I haven't used Piwik PRO, The Trade Desk, or Adform, and my job titles read more client-facing than technical. I learn platforms quickly, and the tag, trigger, and variable model carries over from GTM. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}
