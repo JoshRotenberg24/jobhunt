@@ -1,0 +1,111 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Implementation Specialist | SaaS Onboarding, API Integrations, Tracking & Attribution",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical implementation lead who takes customers from kickoff to go-live and gets the data right. At Solenzo I configure client systems end to end: Google Tag Manager, GA4 events, Meta Pixel and Google Ads conversion tags, UTM conventions, and CRM data feeds, connected with webhooks, REST APIs, OAuth credentials, and JavaScript/Python code steps in n8n, Make, and Zapier. Before that, 15+ years of SaaS implementation: 25+ launches per month at 110% of implementation targets at Wix (including e-commerce builds for retail brands), technical onboarding at Birdeye, and implementation plans and API integrations at Accelo.",
+  "experience": [
+    {
+      "title": "Technical Implementation & Marketing Technology — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end client implementations from kickoff to go-live, translating business requirements into system configuration and workflows, then training the team that runs them.",
+        "Build integrations in n8n, Make, and Zapier with OAuth and API-key credentials, webhooks, REST API calls, and JSON payloads, debugging failures myself.",
+        "Set up and validate data feeds and imports into Salesforce, HubSpot, and GoHighLevel, re-checking every import so records arrive intact.",
+        "Deploy Google Tag Manager with custom triggers and variables for GA4 events, Meta Pixel, and Google Ads conversions; enforce UTM conventions and configure cookie consent.",
+        "Debug tracking with GTM Preview and browser DevTools (network tab, dataLayer), and write SQL for BigQuery/GA4 pulls and Power BI models.",
+        "Document every configuration and deliverable in Notion, reusing a shared template base instead of starting from scratch."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built campaign reporting tracking ROI, CAC, LTV, and conversion KPIs for ~3 accounts at $20K+/month in ad spend each, peaking above $100K/month."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools, including Birdeye's listings-syndication data solution.",
+        "Onboarded 15-20 reseller partners and retained all but one (~94%); shared structured onboarding-friction feedback with Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data at a performance marketing agency and built processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Implemented and launched 25+ clients per month with up to ~25 concurrent projects, holding 110% of implementation targets.",
+        "Built and launched e-commerce sites for established retail brands, guiding Google Tag Manager setup; contributed to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Led onboarding teams of up to 30 and defined the Salesforce fields required for onboarding workflows."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients and guided onboarding, workflow design, and API integrations for a CRM/PSA platform; built Zapier automations to connect client tools."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": [
+        "Kickoff to Go-Live Project Management",
+        "System Configuration & Workflows",
+        "Data Migration & Import Validation",
+        "Onboarding Documentation & Playbooks"
+      ]
+    },
+    {
+      "category": "Technical",
+      "items": [
+        "APIs, Webhooks, OAuth, JSON",
+        "JavaScript, Python (code steps), HTML/CSS, SQL",
+        "GTM, GA4, Meta Pixel, Google Ads Conversions",
+        "n8n, Make, Zapier"
+      ]
+    },
+    {
+      "category": "Martech & Data",
+      "items": [
+        "Attribution, UTM Governance, Campaign Reporting",
+        "Salesforce, HubSpot, GoHighLevel",
+        "BigQuery, Power BI, Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
