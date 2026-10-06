@@ -72,4 +72,4 @@ Skills match is near-literal (GTM, GA4, pixels, campaign reporting for non-techn
 
 ## Output Files
 - `Audacy-AnalystClientServices-Resume.pdf` / `.docx`
-- No cover letter (not requested).
+- `Audacy-AnalystClientServices-CoverLetter.pdf` / `.docx` (1 page)
