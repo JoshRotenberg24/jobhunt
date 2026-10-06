@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 6, 2026",
+  "company": "n8n",
+  "role": "Customer Success Manager, Guided (West Coast)",
+  "recipient": "Hiring Team",
+  "body": [
+    "I'm already an n8n user. I build production workflows in n8n, Make, and Zapier for clients at Solenzo: webhooks, REST API calls, JavaScript and Python code nodes, and LLM API steps, including an audit workflow with rubric-graded AI output that has run on 180+ businesses. When an integration breaks, I'm the one reading the JSON and fixing it, so conversations with IT and engineering stakeholders about APIs and automation architecture are familiar ground.",
+    "The customer side is where I spent my career before that. At Birdeye I watched partner usage closely, stepped in when an account started to slip, and retained all but one of 15 to 20 partners. At Wix I carried up to 25 accounts at once and launched 25+ a month at 110% of my implementation target, and at Accelo I guided onboarding and API integrations with C-suite stakeholders.",
+    "To be direct: my accounts have been small and mid-sized businesses, not large enterprises. What I bring is the rare combination of running the customer relationship and actually building in your product. I'm in Colorado and glad to work West Coast hours. Open to a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}
