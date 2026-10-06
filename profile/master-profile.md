@@ -57,6 +57,16 @@
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
 >
+> **Early-morning / GMT-aligned hours (confirmed by Josh, Oct 2026, Wordly):** willing to work
+> UK/GMT business hours from Colorado (roughly 2-3am to 10-11am Mountain). Answer yes.
+>
+> **Support ticket queues (confirmed by Josh, Oct 2026):** has worked a formal support-ticket
+> queue (Zendesk-style triage and resolution). Employer/role not captured; claim in
+> competencies and role-agnostic summary lines until Josh says where.
+>
+> **Entry-level pay (Josh, Oct 2026):** willing to accept entry-level pay for the right role
+> (Wordly). On forms with no posted range, answer "open to your range for this role."
+>
 > **Video-answer applications (Josh, Oct 2026):** holding off for now on postings that
 > require a Loom or recorded video answer. Not a filter: still run the fit check and build
 > when asked, but flag the video requirement at the top of the fit check so he can decide

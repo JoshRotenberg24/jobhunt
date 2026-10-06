@@ -24,14 +24,14 @@ No knockout. No cap. No video answer.
 
 ## Application Priority Score
 
-⚪ **72 / 100 — Solid stretch (apply with a sharp tailored resume)**
-`[██████████████░░░░░░]  72%`
+⚪ **74 / 100 — Solid stretch (apply with a sharp tailored resume)**
+`[███████████████░░░░░]  74%`
 
 *Internal decision aid, not a prediction of Wordly's screening outcome.* See `fit.png`.
 
 | Dimension | Score | Max |
 | :--- | :---: | :---: |
-| Must-have requirements met | 34 | 40 |
+| Must-have requirements met | 36 | 40 |
 | Seniority & scope alignment | 5 | 15 |
 | Domain / industry alignment | 10 | 15 |
 | Differentiators / nice-to-haves | 12 | 15 |
@@ -51,18 +51,20 @@ Skills fit well (AI output validation, data labeling, data hygiene, customer set
 | Attention to detail | Strong | Import validation, rubric grading |
 | Validate output via human and machine testing | Strong | AI output evaluation, rubric-based grading, data labeling |
 | Technical and consultative support, best practices | Strong | Birdeye, Wix onboarding |
-| Ticket triage, knowledge bases | Adjacent | Zendesk listed; formal ticket queue not documented |
+| Ticket triage, knowledge bases | Strong | Confirmed Oct 2026: formal ticket queue (Zendesk) |
 | CS workflows, tracking, reporting | Strong | Wix Salesforce fields; dashboards |
 
 ## Gaps
 - Seniority mismatch (entry level).
-- Formal support-ticket queue experience not documented.
 - No glossary/terminology or translation experience; English only.
 
 ## Candidate Confirmation Needed
-- **GMT hours** (very early mornings Mountain Time): yes or no?
-- Pay expectation for an entry-level role.
-- Any formal ticketing work (Zendesk queue, SLAs)?
+- Resolved Oct 6, 2026: GMT hours OK; entry-level pay OK; has worked a formal Zendesk ticket queue. All added to `master-profile.md`.
+
+## Application Answers
+- **Hours aligned to GMT:** Yes.
+- **Pay expectation:** "Open to your range for this role."
+- **Location:** Colorado, US.
 
 ## Output Files
 - `Wordly-CustomerSuccessAssociate-Resume.pdf` / `.docx` (1 page)
