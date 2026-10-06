@@ -1,5 +1,7 @@
 # Match Report — Scaled Customer Success Manager, Dropbox
 
+> **Status: SKIPPED by Josh (Oct 6, 2026).** Not applying. Files kept for reference.
+
 **Role:** Scaled Customer Success Manager (Programmatic & Digital CS), mid level
 **Company:** Dropbox
 **Link:** https://builtin.com/company/dropbox
