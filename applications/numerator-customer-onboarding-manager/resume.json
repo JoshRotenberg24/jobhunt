@@ -1,0 +1,128 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Onboarding Manager | Implementation, Training & Enablement, AI-Enabled Workflows",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Onboarding and enablement lead who gets customers from kickoff to confident, measurable use. At Wix I onboarded 25+ clients per month at 110% of implementation targets, including e-commerce launches for established retail businesses, and trained onboarding teams of up to 30. At Birdeye I tracked partner utilization to catch low adoption early and retained all but one of 15-20 (~94%). I use AI every day to research, draft documentation, and personalize customer communication, and I grade AI output against a rubric before it reaches a customer.",
+  "experience": [
+    {
+      "title": "Onboarding & AI-Enabled Operations — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into configuration and running hands-on training for non-technical owners and staff.",
+        "Use AI tools (Claude, ChatGPT, LLM APIs) to streamline workflows, draft documentation and customer communication, and research clients; grade AI output against rubric-based criteria I built.",
+        "Run discovery with business owners to confirm goals and use cases, then guide them through the change from manual processes to automated workflows.",
+        "Wrote and published 18 plain-language articles that explain technical topics to non-technical readers.",
+        "Build reporting on a regular cadence tracking progress and outcomes, turning the data into specific recommendations for each client."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts (~3 clients at $20K+/month in ad spend each), translating performance data into strategic recommendations for client leadership.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network, driving adoption of marketing automation and reputation management solutions.",
+        "Analyzed partner utilization and performance metrics to identify low-adoption accounts and recommend targeted interventions that reduced churn.",
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Developed automated product-training sequences and communication workflows that reduced onboarding friction.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap.",
+        "Guided customers through complex technical setup and configuration, tracked in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment, while serving as sales team lead.",
+        "Served a banking-industry client and helped pursue a major northeastern U.S. banking prospect, reaching finalist stage."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month with up to ~25 concurrent onboardings, holding 120% of sales targets and 110% of implementation targets.",
+        "Led onboarding and launch operations as team lead and primary client contact, delivering launches on time and accelerating time-to-value.",
+        "Built and launched e-commerce sites for established retail businesses adding an online storefront alongside their physical locations.",
+        "Ran weekly team training sessions, workshops for new initiatives, and 1:1 coaching for onboarding teams of up to 30 specialists.",
+        "Drove process improvements for a new Wix vertical that went from proof of concept to profitable, including hiring, onboarding, and training new hires."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute.",
+        "Ran workshops for specific client teams showing how each part of the CRM/PSA platform would work in their day-to-day.",
+        "Walked clients through Accelo's invoicing and billing features, showing professional-services firms how time, projects, and billing connect in one system.",
+        "Advised professional-services firms and C-suite stakeholders on CRM adoption and workflow design, escalating risks early to keep projects moving."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Onboarding & Enablement",
+      "items": [
+        "SaaS Implementation & Go-Live Management",
+        "Persona-Based Training & Workshops",
+        "Presentations from 1:1 Deep Dives to Groups of 50+",
+        "Time-to-Value Acceleration"
+      ]
+    },
+    {
+      "category": "Adoption & Change Management",
+      "items": [
+        "Adoption Metrics & Usage Analysis",
+        "Low-Adoption Account Recovery",
+        "Manual-to-Automated Workflow Transition",
+        "Voice of the Customer to Product"
+      ]
+    },
+    {
+      "category": "Process & Project",
+      "items": [
+        "Workflow Mapping & Process Re-engineering",
+        "Multi-Project Management",
+        "Risk Identification & Escalation"
+      ]
+    },
+    {
+      "category": "Systems",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel",
+        "Claude, ChatGPT, Zapier, Make, n8n",
+        "Excel, Power BI"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
