@@ -18,7 +18,7 @@
 | US work authorization, no sponsorship, no contractor | Application-form, met | U.S. citizen, W-2 fine |
 | Remote US | Met | Colorado |
 | Background / identity check, recorded video interviews | Process | Standard |
-| Compensation | **Needs candidate confirmation** | Senior band; lower-middle default ~$97,000 |
+| Compensation | Application-form | Answer: **$97,000 base** (lower-middle of $90K-$115K; gaps argue against anchoring high) |
 | Boutique fitness industry ("essential") | Resume-evidenced, **gap** | Not in profile |
 
 No hard credential knockout. No cap. No video answer required to apply.
