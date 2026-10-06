@@ -1,0 +1,89 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Onboarding Trainer & Facilitator | Live Remote Training, New Hire Coaching, Training Materials",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Onboarding trainer and team lead who gets new hires ready to work to a consistent standard. At Wix I led remote onboarding teams of up to 30, ran weekly training sessions, workshops, and 1:1 coaching, helped hire and onboard new specialists, and developed sales training for tenured account executives. I've presented to groups of 50+ and built automated training sequences that cut onboarding friction. Healthcare exposure includes four years at Senior Directory, a company focused on healthcare for seniors, and channel work with healthcare-focused agencies at Birdeye.",
+  "experience": [
+    {
+      "title": "Training & Implementation Lead — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead onboarding and hands-on training for non-technical owners and staff, translating new systems and workflows into clear, step-by-step instruction.",
+        "Wrote and published 18 plain-language articles explaining technical topics for non-technical readers."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse partner network, including healthcare-focused agencies, driving adoption of marketing automation tools.",
+        "Built automated product-training sequences and communication workflows that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led and developed remote onboarding teams of up to 30 specialists over two years, running weekly training sessions, workshops for new initiatives, and 1:1 coaching.",
+        "Helped hire, onboard, and train new specialists, and developed sales training for tenured account executives, for a new vertical that went from proof of concept to profitable.",
+        "Personally onboarded 25+ clients per month at 110% of implementation targets, so training was grounded in the work itself."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Qualified leads by phone for a company focused heavily on healthcare for seniors, booking appointments for regional representatives."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance and customer-management systems from scratch for a licensed, highly regulated business."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Training Delivery",
+      "items": [
+        "Live Remote Facilitation (1:1 to 50+)",
+        "New Hire Onboarding & Coaching",
+        "Actionable Feedback",
+        "Training Material Improvement"
+      ]
+    },
+    {
+      "category": "Coordination & Tools",
+      "items": [
+        "Multi-Cohort Scheduling",
+        "Accurate Records & Tracking",
+        "Slack, Google Workspace, Notion",
+        "Salesforce, HubSpot"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
