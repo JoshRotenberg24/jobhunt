@@ -1,0 +1,89 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Manager | SaaS Billing & Workflow Configuration, Customer Training, Go-Live",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation manager who takes customers from discovery to go-live and gets the details right. At Wix I implemented 25+ clients per month at 110% of implementation targets. At Accelo I planned implementations of a CRM, project, and billing platform and walked clients through its invoicing and billing workflows. I've also run the business side myself, as co-owner of a licensed retail business and founder of my consulting practice.",
+  "experience": [
+    {
+      "title": "Implementation Lead — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end client implementations from discovery to go-live, translating business requirements into system configuration and workflows, then training owners and staff.",
+        "Set up and validate data imports into Salesforce, HubSpot, and GoHighLevel, re-checking every import for accuracy."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and trained 15-20 reseller partners, including healthcare-focused agencies, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Implemented and launched 25+ clients per month with up to ~25 concurrent projects, holding 110% of implementation targets and delivering on schedule.",
+        "Oversaw budgets, scope, and delivery for a high-value client portfolio while leading and training onboarding teams of up to 30."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Walked clients through Accelo's invoicing and billing features, showing how time, projects, and billing connect in one system.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and guided onboarding, workflow design, and integrations."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Qualified leads by phone and booked appointments for a company focused heavily on healthcare for seniors."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built intake, reporting, compliance, and vendor/supplier systems from scratch for a licensed, regulated retail business, scaling it to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": [
+        "Discovery to Go-Live",
+        "Workflow Configuration & Data Accuracy",
+        "Training & Launch Sessions",
+        "Invoicing & Billing Workflows (Accelo)",
+        "Salesforce, HubSpot, Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
