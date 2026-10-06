@@ -1,0 +1,109 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Project Manager | SMB SaaS Onboarding, Client Communication Software, Training",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation lead who gets small-business customers live and confident on client communication software. At Wix I carried up to ~25 concurrent onboardings and launched 25+ clients per month at 110% of implementation targets. At Birdeye I onboarded and trained partners on reputation management and marketing automation tools, including healthcare-focused agencies, and retained all but one of 15-20 (~94%). At Solenzo I build appointment reminders, no-show recovery, and review-request workflows for service businesses, the same jobs PetDesk does for clinics.",
+  "experience": [
+    {
+      "title": "Implementation Lead — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for service businesses, gathering requirements, configuring systems to fit how each business works, and training owners and staff.",
+        "Built automated appointment booking with confirmations and reminders, no-show recovery, reactivation of lapsed customers, and review requests across a 20+ workflow system.",
+        "Document every client interaction, configuration, and deliverable in GoHighLevel, HubSpot, and Notion, and report progress with specific recommendations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback promptly and held delivery quality consistent across implementations to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a high-volume partner network on reputation management and marketing automation tools, handling 50+ partner activities per day.",
+        "Onboarded 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention), tracked in Salesforce.",
+        "Guided customers through complex technical setup and configuration, and shared structured feedback with Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month with up to ~25 concurrent onboardings, holding 110% of implementation targets.",
+        "Ran onboarding calls as primary contact, aiming to launch simple builds on the first call and scoping multi-session plans for complex ones.",
+        "Led and trained onboarding teams of up to 30 through weekly sessions and 1:1 coaching, and defined the Salesforce fields for onboarding workflows."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients and guided onboarding and workflow design alongside the implementation team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Sold a loyalty and customer-engagement platform to small local businesses, up to 150 calls per day."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": [
+        "Requirements Gathering & Configuration",
+        "Pipeline of 25+ Concurrent Onboardings",
+        "Customer Training (phone & video)",
+        "Issue Resolution & Escalation"
+      ]
+    },
+    {
+      "category": "Systems",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel",
+        "Zendesk (ticketing workflows)",
+        "Appointment Reminders & Client Messaging Automation",
+        "Excel, Reporting"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

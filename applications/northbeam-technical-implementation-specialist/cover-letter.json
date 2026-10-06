@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 6, 2026",
+  "company": "Northbeam",
+  "role": "Technical Implementation Specialist",
+  "recipient": "Hiring Team",
+  "body": [
+    "Part consultant, part builder, part project manager is an accurate description of my current week. At Solenzo I run client implementations from kickoff to go-live: I configure the systems, build integrations in n8n, Make, and Zapier with OAuth credentials, webhooks, and REST APIs, and set up the tracking that attribution depends on (Google Tag Manager, GA4 events, Meta Pixel, Google Ads conversions, and UTM conventions). When data doesn't arrive, I'm in the network tab and the JSON payload until I find out why.",
+    "I've also done this at volume. At Wix I implemented 25+ clients a month at 110% of my implementation target, including e-commerce builds for established retail brands, and at Accelo I built the implementation plans and API integrations for new customers. Agency side at Level, I managed accounts spending $20K+ a month on ads, so I know what an e-commerce brand wants from its attribution data and why it gets nervous when the numbers don't match.",
+    "My degree is in liberal arts rather than computer science, and my technical skills came from building real integrations for real customers. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}

@@ -1,0 +1,116 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation & Onboarding Project Lead | SaaS Configuration, Customer Training & AI-Enabled Delivery",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation and onboarding lead who runs customer projects from kickoff to handoff. At Wix I owned scope, budget, and delivery for a high-value client portfolio, carried up to ~25 concurrent onboardings, and held 110% of implementation targets while leading onboarding teams of up to 30. At Accelo I sold and scoped project-management software and built the sequenced implementation plans the delivery team executed. Today at Solenzo I configure client systems and databases, and I build AI tools (LLM API calls, n8n/Make/Zapier automations) into delivery to move projects faster.",
+  "experience": [
+    {
+      "title": "Implementation & Project Lead — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for new technology stacks, translating business requirements into technical configurations and providing hands-on customer training.",
+        "Configure CRM systems and customer databases in GoHighLevel and HubSpot (segmentation, lifecycle stages, data hygiene), and set up and validate data imports into Salesforce, HubSpot, and GoHighLevel.",
+        "Build and deploy AI tools in production client workflows, calling LLM APIs (OpenAI/Claude) and building n8n, Make, and Zapier automations that cut manual steps out of delivery.",
+        "Scope expansion work for existing clients, recommending complementary services aligned to each client's goals.",
+        "Document every client timeline, deliverable, and decision in Notion, GoHighLevel, and HubSpot, keeping concurrent projects auditable."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments for multi-stakeholder client accounts, holding delivery quality consistent across implementations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse partner network, guiding customers through complex technical setup and configuration of marketing automation tools.",
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94% retention).",
+        "Analyzed partner utilization metrics to identify adoption gaps and recommend interventions that reduced churn.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that reduced handoff errors and improved reporting accuracy, managing client workflows and tasks in ClickUp while serving as sales team lead."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Oversaw budgets, scope, and delivery for a high-value client portfolio while leading and developing onboarding teams of up to 30 specialists.",
+        "Onboarded and launched 25+ clients per month with up to ~25 concurrent onboardings, holding 110% of implementation targets and 120% of sales targets.",
+        "Delivered launches on time as primary client contact, aiming to launch simple builds on the first call and scoping multi-session production plans for complex ones.",
+        "Ran weekly training sessions, workshops for new initiatives, and 1:1 coaching, and helped hire and onboard new specialists for a vertical that went from proof of concept to profitable."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute.",
+        "Sold and scoped CRM, project-management, and billing software to professional-services firms, guiding onboarding, workflow design, and API integrations.",
+        "Ran workshops for client teams showing how each part of the platform would work in their day-to-day.",
+        "Escalated risks to leadership early and mitigated account-level issues with direct guidance to keep implementations moving."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Project Management",
+      "items": [
+        "Scope, Schedule & Budget Control",
+        "Risk Identification & Mitigation",
+        "Multi-Project Management",
+        "Status Reporting & Stakeholder Influence"
+      ]
+    },
+    {
+      "category": "Implementation",
+      "items": [
+        "Software Configuration & Database Setup",
+        "Data Imports & Validation",
+        "Online & Onsite Customer Training (1:1 to 50+)",
+        "Handoff to Customer Success"
+      ]
+    },
+    {
+      "category": "AI & Tools",
+      "items": [
+        "Building AI Tools: LLM APIs, n8n, Make, Zapier",
+        "ChatGPT, Claude",
+        "Excel (formulas, experienced), Power BI",
+        "Salesforce, HubSpot, ClickUp, Asana, Monday.com, Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

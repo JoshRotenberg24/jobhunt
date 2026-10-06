@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 6, 2026",
+  "company": "Audacy",
+  "role": "Analyst, Client Solutions",
+  "recipient": "Hiring Team",
+  "body": [
+    "Most of this role is work I already do every week: putting tracking on a client's site, making sure it fires, and turning the results into something a non-technical person trusts. At Solenzo I deploy Google Tag Manager on client sites, build the triggers and variables for GA4 events, Meta Pixel, and Google Ads conversions, debug in Preview mode and the browser's network tab, and enforce UTM conventions so attribution holds up.",
+    "On the campaign side, I managed paid media at Level Agency for about three accounts at $20K+ a month in ad spend each, built ROI and CAC reporting, and walked client teams through what the numbers meant in QBRs. Before that I ran client accounts end to end at Fetch & Funnel, a performance marketing agency. I also write SQL against BigQuery/GA4 and build Power BI reporting, which helps when campaign data needs a more scalable process.",
+    "Audio is personal for me. I worked as a roadie in college and at the Mishawaka Amphitheatre, and live music has stayed a big part of my life. I haven't run podcast or foot-traffic attribution yet, and I'd be glad to learn your suite. Open to a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}

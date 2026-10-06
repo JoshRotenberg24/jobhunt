@@ -1,0 +1,115 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success Manager | Workflow Automation & AI (n8n, Make, Zapier), Technical Onboarding, Retention & Expansion",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success professional and hands-on automation builder. I build production workflows in n8n, Make, and Zapier for clients today, configuring webhooks, REST API calls, LLM API steps, and JavaScript/Python code nodes, and debugging integrations myself. Before Solenzo I spent 15+ years in B2B SaaS post-sale roles: at Birdeye I used utilization signals to flag at-risk partners early and retained all but one of 15-20 (~94%); at Wix I carried up to ~25 concurrent accounts and launched 25+ per month at 110% of implementation targets; at Accelo I guided onboarding, workflow design, and API integrations with C-suite stakeholders.",
+  "experience": [
+    {
+      "title": "Automation Consultant & Client Success — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build and run production automations in n8n, Make, and Zapier for client businesses, configuring OAuth and API-key credentials, inbound and outbound webhooks, REST API calls, and JSON payloads, and debugging integration errors myself.",
+        "Write JavaScript and Python in custom code steps and call LLM APIs (OpenAI/Claude) inside workflows, including an audit workflow with rubric-graded AI output that has run on 180+ businesses.",
+        "Lead client kickoffs and discovery, translate business goals into technical configurations, and train non-technical owners and staff to adopt what I build.",
+        "Report results on a regular cadence, tying automation to lead flow, funnel progression, and ROI, and scope expansion work from those reviews.",
+        "Built a 20+ workflow automation system covering lead capture and routing, booking with reminders, no-show recovery, onboarding, reactivation, and review generation."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran QBRs and built reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs for ~3 client accounts at $20K+/month in spend each.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Analyzed partner utilization and performance signals to flag adoption gaps and at-risk accounts early, recommending interventions that reduced churn.",
+        "Built automated product-training sequences and communication workflows that scaled onboarding across the partner network and reduced friction.",
+        "Advised partners on retention strategy and customer health metrics, equipping them to carry value to their own end customers.",
+        "Shared structured, high-priority customer feedback with Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy, reduced handoff errors between teams, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-volume book of up to ~25 concurrent onboardings and 25+ launches per month, holding 110% of implementation and 120% of sales targets.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive communication on client goals.",
+        "Advised on A/B testing strategy for a Salesforce-based workflow-automation effort, defining test structure and success criteria.",
+        "Ran weekly training sessions and workshops for onboarding teams of up to 30, plus 1:1 coaching."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised professional-services firms on CRM and project-management software adoption, running workshops for client teams on how the platform fit their day-to-day.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": [
+        "Kickoffs, Success Planning & QBRs",
+        "Health Monitoring & Risk Management",
+        "Renewal Support & Expansion",
+        "ROI Narratives for Executives"
+      ]
+    },
+    {
+      "category": "Technical",
+      "items": [
+        "n8n, Make, Zapier (hands-on builder)",
+        "OAuth & API-Key Auth, Webhooks, REST APIs, JSON",
+        "JavaScript & Python (code steps), LLM APIs",
+        "HTML/CSS, SQL (working)"
+      ]
+    },
+    {
+      "category": "Systems",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel",
+        "Power BI, Excel",
+        "Claude, ChatGPT"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

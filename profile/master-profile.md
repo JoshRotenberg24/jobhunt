@@ -57,6 +57,21 @@
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
 >
+> **Early-morning / GMT-aligned hours (confirmed by Josh, Oct 2026, Wordly):** willing to work
+> UK/GMT business hours from Colorado (roughly 2-3am to 10-11am Mountain). Answer yes.
+>
+> **Support ticket queues (CORRECTED by Josh, Oct 6 2026, do not re-ask):** has NOT worked a
+> formal support-ticket queue as a job function. He understands how ticketing works
+> (Zendesk is in his tools list). Claim "familiar with ticketing workflows (Zendesk)" at
+> most; never "worked a ticket queue" or "ticket triage experience."
+>
+> **Billing processing (confirmed by Josh, Oct 6 2026, do not re-ask):** has not processed
+> billing adjustments, cancellations, or renewals in a billing system. Real gap; the Accelo
+> invoicing/billing walkthroughs are the closest adjacent evidence.
+>
+> **Entry-level pay (Josh, Oct 2026):** willing to accept entry-level pay for the right role
+> (Wordly). On forms with no posted range, answer "open to your range for this role."
+>
 > **Video-answer applications (Josh, Oct 2026):** holding off for now on postings that
 > require a Loom or recorded video answer. Not a filter: still run the fit check and build
 > when asked, but flag the video requirement at the top of the fit check so he can decide
@@ -104,6 +119,7 @@ band.
 - **Flexibility (Josh, Oct 2026):** open to wherever a role's posted range lands; prioritizes
   landing a role over maximizing base. Default to roughly the lower-middle of the posted
   range rather than the top.
+- **Below-anchor ranges (Josh, Oct 2026):** accepted Gusto's $26.84-$32.21/hour (~$56K-$67K + RSUs) for a strong-fit onboarding role. A posted range below the anchor is not a reason to skip; flag it and let Josh decide.
 - **Associate / entry-to-mid IC support roles** (e.g., deal desk associate, coordinator-
   level titles, 2-4 years' stated requirement): target **$72,000-$78,000 base**, anchor
   point **$75,000**. Use the same figure for "OTE" unless the posting shows a genuine
@@ -120,6 +136,7 @@ band.
 - **B.A. Liberal Arts, Minor in Political Science** — Colorado State University, Fort Collins, CO (2009)
 - **Google Digital Marketing & E-Commerce Professional Certificate** — Google / Coursera (Issued Sept 2024)
 - **Meta Ads Certification** — Meta *(confirmed by Josh Aug 2026; exact credential title and issue date still to be captured)*
+- **RPS / CRPS (retirement plan designations):** not held. Josh confirmed (Oct 2026, Gusto) he is willing to pursue either after hire. Not "in progress" today, so never list it on a resume as in pursuit; say "willing to pursue" in application answers.
 
 ---
 
@@ -384,6 +401,20 @@ operator talking, not like a candidate performing.
 > using AI assistance as part of the workflow. Safe to claim against a JD's "built and
 > deployed an automated workflow that calls external APIs in production" requirement.
 >
+> **Tracking implementation depth (confirmed by Josh, Oct 2026, Masterworks session):**
+> (1) debugs tags and GA4 conversion events with browser developer tools (network tab,
+> dataLayer inspection); (2) builds custom GTM triggers and variables and uses GTM
+> Preview/debug mode, beyond container install; (3) installs Meta Pixel and Google Ads
+> conversion tracking himself; (4) defines and enforces UTM naming conventions for
+> clients; (5) has set up cookie-consent banners / consent configuration. Attributed to
+> Solenzo by default (where he builds and tags client sites); confirm if any came from
+> another role. Specific CMP tool (Cookiebot, OneTrust, GTM consent mode) not named.
+> Piwik PRO, Adform, The Trade Desk, Outbrain remain unconfirmed/gaps.
+>
+> **Authentication / credentials (confirmed by Josh, Oct 2026, n8n):** sets up OAuth and API-key
+> credentials for integrations in n8n (and the other automation tools) at Solenzo. Safe to
+> claim "OAuth and API-key credential setup." Environment management (dev/prod) not confirmed.
+>
 > **Data feeds into CRMs (confirmed by Josh, Oct 2026):** has set up and run data feeds into
 > Salesforce, HubSpot, and GoHighLevel, and validates every import by re-checking the
 > results. No volume figures available (don't ask again). SFTP setup, file encryption (PGP),
@@ -447,6 +478,8 @@ operator talking, not like a candidate performing.
 
 **Operations & Technical Setup**
 - Install and configure Google Tag Manager on every website built at Solenzo, and guided clients through GTM setup at Wix. *(Confirmed by Josh, Aug 2026.)*
+- Build custom GTM triggers and variables for GA4 conversion events, Meta Pixel, and Google Ads conversion tags, validating in GTM Preview mode and browser developer tools (network tab, dataLayer). *(Confirmed by Josh, Oct 2026.)*
+- Define and enforce UTM naming conventions for client campaigns, and set up cookie-consent configuration on client sites. *(Confirmed by Josh, Oct 2026.)*
 - Architect and implement complex CRM systems in GoHighLevel (primary) and HubSpot — contact segmentation, lifecycle stages, and strict data-hygiene protocols.
 - Build reusable agent infrastructure and internal tooling integrating with client CRMs and CMS platforms for 24/7 automated growth engines.
 - Own post-sale value delivery for B2B clients, architecting onboarding and technical setup that drives product adoption at scale.
@@ -605,16 +638,27 @@ operator talking, not like a candidate performing.
 > conventions for Accelo. Claim as "supported client events and industry conventions";
 > don't claim he planned or ran them.
 >
+> **AEC customers and Procore (Josh, Oct 6 2026, Unanet):** Accelo's customer base included
+> architecture and engineering firms that Josh sold to and scoped. Procore: no real hands-on
+> use; removed from the tools list, do not claim.
+>
+> **Invoicing/billing features (confirmed by Josh, Oct 2026):** demoed and/or set up
+> Accelo's invoicing and billing modules for clients. Closest real evidence for AP/billing
+> postings, scoped honestly: a PSA tool's billing side for professional-services firms, not
+> AP operations or finance-team work. Exact split between demo and hands-on configuration
+> not captured; phrase as "walked clients through" unless Josh confirms config.
+>
 > **Zapier automation (confirmed by Josh, Sep 2026):** Josh built Zapier automations at
 > Accelo, making his hands-on automation-building history run from at least 2018-2020
 > through the present at Solenzo, not a skill that started recently.
 - Ranked **top three in sales** on a team that scaled from **8 to 15 reps**, holding that rank across all but the final few months of a **27-month tenure** (Apr 2018 - Jul 2020), while **quota roughly doubled** over the period.
 - Closed deals of **$20K and larger** later in tenure, mixed with a base of smaller wins.
 - Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.
-- Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
+- Sold and scoped complex CRM and project-management software to agencies and professional-services firms (including architecture and engineering firms, confirmed by Josh Oct 2026), with deep fluency in sales enablement, contact management, and pipeline automation.
 - Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.
 - Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.
 - Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.
+- Walked clients through Accelo's invoicing and billing features, showing how time, projects, and billing connect in one system. *(Confirmed by Josh, Oct 2026.)*
 - Escalated issues to leadership early and mitigated account-level risk with direct strategic guidance.
 - Consistently performed above commission floor into accelerator ("doubling") tiers — averaging **~$17,750/month in implementation/services bookings (~$213K annualized)** plus new recurring revenue, earning roughly **$9,300 in monthly performance commission**.
 
@@ -667,6 +711,10 @@ operator talking, not like a candidate performing.
 
 ## Core Competencies Bank (mix & match to the job)
 
+> **Presenting to 50+ (confirmed by Josh, Oct 2026):** has presented to groups of 50 or
+> more. Venue/employer not captured; claim as "presented to groups of 50+" without
+> attributing it to a specific role until Josh says where.
+
 > **Forecasting / pipeline-stage awareness (confirmed by Josh, Sep 2026):** knowing where
 > an opportunity sits in the sales process has been part of every sales role Josh has
 > held, not a skill isolated to one job. Frame as career-long individual-contributor
@@ -679,7 +727,7 @@ operator talking, not like a candidate performing.
 | CRM & Marketing Automation | GoHighLevel (primary) CRM & Automation Architecture, HubSpot, Salesforce, Workflow Design, Segmentation, Data Hygiene, Lifecycle Stages, Lead Routing, Zapier, Make, n8n |
 | Sales Engagement & Enrichment | Salesloft, Apollo, HeyReach, ZoomInfo, Gong (confirmed hands-on, Sep/Oct 2026; role attribution to be captured), Pipeline Stage Tracking & Forecast Hygiene |
 | Growth & Demand Generation | Full-funnel acquisition, Lifecycle Marketing, CRO, A/B Testing, Paid Media, Paid Social (Meta Ads certified), SEO, Local SEO & Google Business Profile Management, Data-Aggregator/Listings Solutions, Email Marketing (Marketo, Mailchimp), Landing Pages |
-| Analytics & Reporting | GA4, Google Search Console, Google Tag Manager, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
+| Analytics & Reporting | GA4, Google Search Console, Google Tag Manager (custom triggers/variables, Preview mode), Browser DevTools & dataLayer Debugging, Meta Pixel & Google Ads Conversion Tags, UTM Governance, Cookie Consent Setup, Ahrefs, Semrush, Campaign Attribution, ROI Dashboards, QBRs, KPI Tracking |
 | Data & BI Tools | Excel (experienced), Power BI (hands-on setup for client businesses), SQL (working proficiency — Power BI data modeling, BigQuery/GA4 queries), Python & JavaScript (custom code steps in Zapier/Make/n8n automation workflows) *(confirmed by Josh, Sep 2026 — see note below)* |
 | Web Technical | HTML/CSS (hands-on, own Solenzo site + client GA4 implementation), JavaScript (automation-tool code steps) |
 | AI & Automation | Agentic AI, Multi-agent orchestration, LLM workflows, ChatGPT, Claude, Prompt Design, Requirements-to-Prompt Translation, Stakeholder Elicitation, Rapid Prototyping |
@@ -687,7 +735,7 @@ operator talking, not like a candidate performing.
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps |
 
 > **Excel, Power BI, SQL, Python/JS (confirmed by Josh, Sep 2026, updated Sep 2026):**
 > Excel is a genuine, experienced-level skill, not just baseline literacy. Power BI is

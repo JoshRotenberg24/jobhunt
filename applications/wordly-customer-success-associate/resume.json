@@ -1,0 +1,82 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success & AI Data Quality | Data Processing, Output Validation, Technical Support",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Detail-focused customer success and operations professional who works hands-on with AI systems and the data behind them. At Solenzo I configure and evaluate AI-generated output, built rubric-based grading criteria for an audit process, and do the underlying data labeling myself. I've cleaned a 1,400+ contact CRM, validate every data import, and write working SQL. 15+ years helping SaaS customers get set up and supported, including a 50+ activities-per-day partner desk at Birdeye.",
+  "experience": [
+    {
+      "title": "AI Systems & Data Operations — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Configure and evaluate AI-generated output for client automation systems, scoring it against rubric-based criteria I built, and perform the underlying data labeling personally.",
+        "Translate non-technical clients' ideas and feedback into precise, structured AI prompts and instructions, the bridge between what a business means and reliable LLM output.",
+        "Set up and validate data feeds into Salesforce, HubSpot, and GoHighLevel, re-checking every import for accuracy.",
+        "Research businesses' digital presence through technical audits (Screaming Frog, schema, competitor research) and turn findings into clear recommendations.",
+        "Wrote and published 18 plain-language articles explaining technical topics for non-technical readers."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback promptly and held delivery quality consistent across implementations to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration, handling 50+ partner activities per day.",
+        "Led onboarding and training on best practices for a high-volume partner network, retaining all but one of 15-20 partners (~94%)."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month at 110% of implementation targets, guiding each through setup and best practices.",
+        "Defined the Salesforce fields required for onboarding workflows, standardizing data capture for accurate tracking and reporting."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & Data",
+      "items": [
+        "AI Output Evaluation & Data Labeling",
+        "Prompt Design (ChatGPT, Claude)",
+        "SQL (working), Excel, Power BI",
+        "Data Import Validation & CRM Cleanup"
+      ]
+    },
+    {
+      "category": "Customer Support",
+      "items": [
+        "Customer Issue Resolution",
+        "Technical Setup Guidance",
+        "Ticketing Workflows (Zendesk)",
+        "Best-Practice Consultation"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

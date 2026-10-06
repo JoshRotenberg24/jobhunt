@@ -1,0 +1,112 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success & Renewals Operations | Channel and Reseller Partnerships, Salesforce, Retention",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success and sales operations professional with 15+ years in B2B SaaS, built around keeping existing accounts on contract and growing. At Birdeye I ran a reseller channel of 15-20 partners (deals ~$10K-$45K) in Salesforce and retained all but one (~94%). At Fetch & Funnel I worked sales operations, tightening reporting and cutting handoff errors. Across every role I keep CRM records clean and current, so leadership can see where every account stands without asking.",
+  "experience": [
+    {
+      "title": "Client Success & Revenue Operations — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the client relationship for a portfolio of service businesses, identifying opportunities to expand retainer scope with complementary services.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping records auditable across concurrent engagements.",
+        "Architect CRM systems with segmentation, lifecycle stages, and strict data-hygiene rules, and validate every data import into Salesforce, HubSpot, and GoHighLevel.",
+        "Build automated follow-up and reminder workflows so client deadlines and next steps never depend on memory."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed ~3 multi-stakeholder client accounts at $20K+/month in ad spend each, running QBRs and resolving feedback promptly to protect retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed a channel of 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Advised partners on retention strategy and customer health metrics, equipping them to carry value to their own end customers.",
+        "Analyzed partner utilization metrics to flag at-risk accounts early and recommend interventions that reduced churn.",
+        "Handled 50+ partner activities per day, tracked in Salesforce alongside synced enrichment and routing tools."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built and refined internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment.",
+        "Closed 6 new-client deals averaging ~$22K each (~$130K+ total) while serving as sales team lead, managing workflows in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Held 120% of sales targets and 110% of implementation targets while managing a high-value account portfolio.",
+        "Defined the Salesforce fields required for sales and onboarding workflows, standardizing data capture across teams of up to 30.",
+        "Managed up to ~25 concurrent accounts in onboarding, keeping each on schedule as primary contact."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps while quota roughly doubled.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Renewals & Retention",
+      "items": [
+        "Account Retention & Churn Prevention",
+        "Customer Health Metrics",
+        "Pipeline Stage Tracking & Forecast Hygiene",
+        "Account Expansion"
+      ]
+    },
+    {
+      "category": "Channel & Stakeholders",
+      "items": [
+        "Reseller / Channel Partner Management",
+        "Cross-Functional Coordination",
+        "Multiple Concurrent Workflows"
+      ]
+    },
+    {
+      "category": "Sales Operations & Systems",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel",
+        "CRM Data Hygiene & Record Accuracy",
+        "Reporting & Dashboards (Excel, Power BI)",
+        "Workflow Automation (Zapier, Make, n8n)"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
