@@ -16,7 +16,7 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Build and run production automations in n8n, Make, and Zapier for client businesses, configuring inbound and outbound webhooks, REST API calls, and JSON payloads, and debugging integration errors myself.",
+        "Build and run production automations in n8n, Make, and Zapier for client businesses, configuring OAuth and API-key credentials, inbound and outbound webhooks, REST API calls, and JSON payloads, and debugging integration errors myself.",
         "Write JavaScript and Python in custom code steps and call LLM APIs (OpenAI/Claude) inside workflows, including an audit workflow with rubric-graded AI output that has run on 180+ businesses.",
         "Lead client kickoffs and discovery, translate business goals into technical configurations, and train non-technical owners and staff to adopt what I build.",
         "Report results on a regular cadence, tying automation to lead flow, funnel progression, and ROI, and scope expansion work from those reviews.",
@@ -92,7 +92,7 @@
       "category": "Technical",
       "items": [
         "n8n, Make, Zapier (hands-on builder)",
-        "Webhooks, REST APIs, JSON",
+        "OAuth & API-Key Auth, Webhooks, REST APIs, JSON",
         "JavaScript & Python (code steps), LLM APIs",
         "HTML/CSS, SQL (working)"
       ]

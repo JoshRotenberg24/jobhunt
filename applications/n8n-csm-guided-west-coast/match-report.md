@@ -18,7 +18,7 @@
 | Based in WA, CA, CO, or TX | Met | Colorado |
 | West Coast hours | Met | Mountain Time, one hour ahead |
 | US work authorization | Met | U.S. citizen |
-| Compensation | **Needs candidate confirmation** | Wide band; lower-middle ~$100K, midpoint ~$121K |
+| Compensation | Application-form | Josh chose the average of the band: **$120,000** |
 | n8n workflow screenshot | Application step | See note above |
 
 No knockout. No cap. No video answer.
@@ -27,14 +27,14 @@ No knockout. No cap. No video answer.
 
 ## Application Priority Score
 
-⚪ **86 / 100 — Strong fit (apply, competitive)**
-`[█████████████████░░░]  86%`
+⚪ **87 / 100 — Strong fit (apply, competitive)**
+`[█████████████████░░░]  87%`
 
 *Internal decision aid, not a prediction of n8n's screening outcome.* See `fit.png`.
 
 | Dimension | Score | Max |
 | :--- | :---: | :---: |
-| Must-have requirements met | 33 | 40 |
+| Must-have requirements met | 34 | 40 |
 | Seniority & scope alignment | 12 | 15 |
 | Domain / industry alignment | 14 | 15 |
 | Differentiators / nice-to-haves | 15 | 15 |
@@ -49,7 +49,7 @@ Highest score of the session. Josh builds in n8n in production, plus webhooks/AP
 | JD Requirement | Coverage | Evidence |
 | :--- | :--- | :--- |
 | Enterprise CS portfolio, kickoffs, QBRs end to end | Partial | Full CS cadence evidenced; SMB/mid-market, not enterprise (confirmed) |
-| Technical fluency: APIs, integrations, auth, environments | Strong (auth/environments not documented) | Webhooks, REST, JSON, code steps, LLM APIs |
+| Technical fluency: APIs, integrations, auth, environments | Strong | OAuth/API-key credentials (confirmed), webhooks, REST, JSON, code steps, LLM APIs; environments not documented |
 | Renewals and expansion | Partial | Expansion strong; renewals undocumented |
 | Value/ROI narratives | Strong | QBRs, dashboards |
 | Operational rigor | Strong | Wix volume, documentation |
@@ -63,11 +63,10 @@ Highest score of the session. Josh builds in n8n in production, plus webhooks/AP
 ## Gaps
 - Enterprise accounts.
 - Renewal ownership.
-- Authentication/environment management not documented (OAuth, SSO, dev/prod).
+- Environment management (dev/prod) not documented.
 
 ## Candidate Confirmation Needed
-- Salary number for this band.
-- OAuth/API key/credential setup in n8n (likely yes as a builder; confirm before claiming "authentication").
+- Resolved Oct 6, 2026: salary $120,000 (band average); OAuth/API-key credential setup confirmed at Solenzo, added to profile, resume, cover letter.
 
 ## Output Files
 - `n8n-CSMGuidedWest-Resume.pdf` / `.docx`

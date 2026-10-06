@@ -411,6 +411,10 @@ operator talking, not like a candidate performing.
 > another role. Specific CMP tool (Cookiebot, OneTrust, GTM consent mode) not named.
 > Piwik PRO, Adform, The Trade Desk, Outbrain remain unconfirmed/gaps.
 >
+> **Authentication / credentials (confirmed by Josh, Oct 2026, n8n):** sets up OAuth and API-key
+> credentials for integrations in n8n (and the other automation tools) at Solenzo. Safe to
+> claim "OAuth and API-key credential setup." Environment management (dev/prod) not confirmed.
+>
 > **Data feeds into CRMs (confirmed by Josh, Oct 2026):** has set up and run data feeds into
 > Salesforce, HubSpot, and GoHighLevel, and validates every import by re-checking the
 > results. No volume figures available (don't ask again). SFTP setup, file encryption (PGP),
