@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success Representative | Issue Resolution, Account & Billing Support, Salesforce",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success professional with 15+ years in B2B SaaS who resolves issues fast and keeps accounts on track. I've worked formal support-ticket queues in Zendesk, handled 50+ partner activities a day at Birdeye while retaining all but one of 15-20 partners (~94%), and logged every interaction in Salesforce at Birdeye and Wix. Regulated-industry exposure includes a banking client at Fetch & Funnel and building compliance systems as co-owner of a licensed, highly regulated retail business.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own client relationships for a portfolio of service businesses, resolving questions and requests and documenting every interaction and outcome in GoHighLevel, HubSpot, and Notion."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Handled 50+ partner activities per day, guiding customers through technical setup and logging outcomes in Salesforce.",
+        "Managed 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94% retention) by catching adoption problems early."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Served a banking-industry client and supported pursuit of a major northeastern U.S. bank, reaching finalist stage."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month at 110% of implementation targets and 120% of sales targets.",
+        "Trained onboarding teams of up to 30 through weekly sessions and 1:1 coaching, and defined Salesforce fields to standardize data capture."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Walked clients through Accelo's invoicing and billing features and guided onboarding for a CRM and project-management platform."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Made up to 150 calls per day and closed up to 10 deals per month selling a loyalty platform to small businesses."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance and customer-management systems from scratch for a licensed, highly regulated retail business."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Support",
+      "items": [
+        "Inbound Call & Ticket Resolution (Zendesk)",
+        "Billing & Invoice Questions",
+        "Account Retention",
+        "Internal Escalation",
+        "Salesforce, HubSpot, Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
