@@ -1,0 +1,128 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Digital Attribution & Campaign Measurement | Google Tag Manager, GA4, Tracking Pixels, Campaign Analytics",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Digital marketing operator who sets up campaign tracking and turns the results into a story clients trust. I deploy Google Tag Manager, GA4 events, Meta Pixel, and Google Ads conversion tags on client sites, debug them in Preview mode and browser DevTools, and enforce UTM conventions so attribution holds up. Agency side at Level Agency I managed campaigns for ~3 accounts at $20K+/month in ad spend, built ROI and CAC reporting, and presented findings to non-technical client teams. Working SQL (BigQuery/GA4), Power BI, and Excel.",
+  "experience": [
+    {
+      "title": "Digital Measurement & Marketing Technology — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Install and configure Google Tag Manager on every client website, building custom triggers and variables for GA4 conversion events, Meta Pixel, and Google Ads conversion tags.",
+        "Debug tags and GA4 conversion events with GTM Preview mode and browser developer tools (network tab, dataLayer inspection), tracing failures from the page to the reporting.",
+        "Define and enforce UTM naming conventions for client campaigns, and set up cookie-consent configuration on client sites.",
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click quality, then diagnosed on-site conversion as the remaining bottleneck.",
+        "Track acquisition and conversion across multiple client accounts using GA4 and CRM analytics, writing SQL for BigQuery/GA4 pulls and Power BI data models.",
+        "Wrote and published 18 plain-language articles on attribution, ROI tracking, and AI search visibility for non-technical business owners."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated campaigns across paid media, inbound, and content for ~3 client accounts at $20K+/month in ad spend each, peaking above $100K/month.",
+        "Built campaign performance reporting tracking ROI, CAC, LTV, and conversion KPIs, and presented findings and optimization recommendations in QBRs.",
+        "Advised clients on ad-spend budget planning and allocation, and ran LinkedIn campaigns with account-based targeting and A/B-tested setups.",
+        "Ran Google keyword research and search-term analysis to shape campaign targeting."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through technical setup and configuration of reputation and marketing automation tools, including Birdeye's listings-syndication solution for every partner's end customers.",
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention).",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication.",
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Guided clients through Google Tag Manager and Google Business Profile setup as part of site builds and launches.",
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month with up to ~25 concurrent onboardings, holding 110% of implementation targets.",
+        "Defined the Salesforce fields required for sales and onboarding workflows, standardizing data capture across teams of up to 30 specialists."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding, workflow design, and API integrations for a CRM/PSA platform, and built Zapier automations connecting client systems.",
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Tag Management & Analytics",
+      "items": [
+        "Google Tag Manager (tags, triggers, variables, Preview)",
+        "GA4 Events & Conversions, Google Search Console",
+        "Browser DevTools & dataLayer Debugging",
+        "Meta Pixel & Google Ads Conversion Tags",
+        "UTM Governance & Campaign Attribution",
+        "Cookie Consent Setup"
+      ]
+    },
+    {
+      "category": "Data & Integrations",
+      "items": [
+        "SQL (BigQuery/GA4), Power BI, Excel",
+        "Webhooks, REST APIs, JSON",
+        "JavaScript & Python (automation code steps), HTML/CSS",
+        "Zapier, Make, n8n"
+      ]
+    },
+    {
+      "category": "Paid Media Platforms",
+      "items": [
+        "Meta Ads (certified), Google Ads, LinkedIn Ads"
+      ]
+    },
+    {
+      "category": "Operations",
+      "items": [
+        "Multi-Client Agency Account Management",
+        "Campaign Measurement Project Scoping",
+        "Technical Documentation (Notion)",
+        "Salesforce, HubSpot, GoHighLevel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
