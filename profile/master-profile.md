@@ -634,6 +634,10 @@ operator talking, not like a candidate performing.
 > conventions for Accelo. Claim as "supported client events and industry conventions";
 > don't claim he planned or ran them.
 >
+> **AEC customers and Procore (Josh, Oct 6 2026, Unanet):** Accelo's customer base included
+> architecture and engineering firms that Josh sold to and scoped. Procore: no real hands-on
+> use; removed from the tools list, do not claim.
+>
 > **Invoicing/billing features (confirmed by Josh, Oct 2026):** demoed and/or set up
 > Accelo's invoicing and billing modules for clients. Closest real evidence for AP/billing
 > postings, scoped honestly: a PSA tool's billing side for professional-services firms, not
@@ -646,7 +650,7 @@ operator talking, not like a candidate performing.
 - Ranked **top three in sales** on a team that scaled from **8 to 15 reps**, holding that rank across all but the final few months of a **27-month tenure** (Apr 2018 - Jul 2020), while **quota roughly doubled** over the period.
 - Closed deals of **$20K and larger** later in tenure, mixed with a base of smaller wins.
 - Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.
-- Sold and scoped complex CRM and project-management software to agencies and professional-services firms, with deep fluency in sales enablement, contact management, and pipeline automation.
+- Sold and scoped complex CRM and project-management software to agencies and professional-services firms (including architecture and engineering firms, confirmed by Josh Oct 2026), with deep fluency in sales enablement, contact management, and pipeline automation.
 - Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.
 - Advised clients on CRM adoption, building scalable operational systems aligned to their growth stage and team structure.
 - Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup.
@@ -727,7 +731,7 @@ operator talking, not like a candidate performing.
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps, Procore |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps |
 
 > **Excel, Power BI, SQL, Python/JS (confirmed by Josh, Sep 2026, updated Sep 2026):**
 > Excel is a genuine, experienced-level skill, not just baseline literacy. Power BI is

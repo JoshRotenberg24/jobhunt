@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Senior customer success and account management professional with 15+ years in B2B SaaS. At Accelo I sold, scoped, and planned implementations of a CRM, project-management, and billing platform (PSA) for professional-services firms, working directly with C-suite leaders. At Birdeye I used utilization signals to flag at-risk accounts early and retained all but one of 15-20 partners (~94%). At Solenzo I build CRM and automation systems for home-services trade businesses (electrical, plumbing, HVAC), so I know how project- and field-based firms actually run.",
+  "summary": "Senior customer success and account management professional with 15+ years in B2B SaaS. At Accelo I sold, scoped, and planned implementations of a CRM, project-management, and billing platform (PSA) for professional-services firms, including architecture and engineering firms, working directly with C-suite leaders. At Birdeye I used utilization signals to flag at-risk accounts early and retained all but one of 15-20 partners (~94%). At Solenzo I build CRM and automation systems for home-services trade businesses (electrical, plumbing, HVAC), so I know how project- and field-based firms actually run.",
   "experience": [
     {
       "title": "Client Success & Strategy — Founder & Strategic / Marketing Operations Lead",
@@ -74,7 +74,7 @@
       "location": "Denver, CO",
       "dates": "Apr 2018 - Jul 2020",
       "bullets": [
-        "Sold and scoped a CRM, project-management, and billing platform (PSA) to agencies and professional-services firms, closing deals of $20K+ and averaging ~$17,750/month in implementation bookings.",
+        "Sold and scoped a CRM, project-management, and billing platform (PSA) to agencies and professional-services firms, including architecture and engineering firms, closing deals of $20K+ and averaging ~$17,750/month in implementation bookings.",
         "Built relationships with C-suite executives as a trusted advisor on operational system design, advising on adoption aligned to each firm's growth stage.",
         "Built sequenced implementation plans for incoming clients and walked them through invoicing, billing, and project workflows.",
         "Ranked top three in sales on a team that scaled from 8 to 15 reps while quota roughly doubled."
@@ -104,7 +104,7 @@
       "category": "Systems",
       "items": [
         "Salesforce, HubSpot, GoHighLevel",
-        "Accelo (CRM/PSA), Procore",
+        "Accelo (CRM/PSA)",
         "Excel, Power BI",
         "ChatGPT, Claude, Zapier, n8n"
       ]

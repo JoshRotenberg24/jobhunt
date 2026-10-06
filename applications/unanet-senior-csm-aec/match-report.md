@@ -15,7 +15,7 @@
 | :--- | :--- | :--- |
 | Remote US / work authorization | Application-form, met | U.S. citizen |
 | Bachelor's degree | Resume-evidenced, met | B.A., Colorado State |
-| AEC industry customer experience | Resume-evidenced, **partial** | Trades (electrical/plumbing/HVAC) via Solenzo; Accelo PSA for professional-services firms; Procore in tools. No architecture/engineering firm book |
+| AEC industry customer experience | Resume-evidenced, adjacent-strong | Accelo sold/scoped PSA to architecture and engineering firms (confirmed Oct 6); trades via Solenzo. No dedicated AEC CS book |
 | Compensation | Application-form | Lower-middle default: **$98,000** |
 
 No knockout. No cap. No video answer.
@@ -24,16 +24,16 @@ No knockout. No cap. No video answer.
 
 ## Application Priority Score
 
-⚪ **77 / 100 — Solid stretch (apply with a sharp tailored resume)**
-`[███████████████░░░░░]  77%`
+⚪ **83 / 100 — Strong fit (apply, competitive)**
+`[█████████████████░░░]  83%`
 
 *Internal decision aid, not a prediction of Unanet's screening outcome.* See `fit.png`.
 
 | Dimension | Score | Max |
 | :--- | :---: | :---: |
-| Must-have requirements met | 30 | 40 |
+| Must-have requirements met | 34 | 40 |
 | Seniority & scope alignment | 12 | 15 |
-| Domain / industry alignment | 10 | 15 |
+| Domain / industry alignment | 12 | 15 |
 | Differentiators / nice-to-haves | 13 | 15 |
 | Evidence strength | 12 | 15 |
 
@@ -47,7 +47,7 @@ Accelo is the hidden asset here: Josh sold and scoped a PSA (CRM + project manag
 | :--- | :--- | :--- |
 | 5+ yrs CS/AM/consultative B2B SaaS | Strong | 15+ years |
 | Adoption, retention, renewals, expansion | Adjacent-strong | ~94% retention; Solenzo expansion; renewals undocumented |
-| AEC industry customers | Partial | Trades via Solenzo; PSA for professional services |
+| AEC industry customers | Adjacent-strong | Accelo A/E firm customers; trades via Solenzo |
 | C-level relationships | Strong | Accelo C-suite advisory |
 | Consultative, negotiation, executive presentation | Strong | Accelo deals $20K+; QBRs; presented to 50+ |
 | Strategic account plans, health data | Strong | Birdeye utilization; Solenzo success planning |
@@ -60,13 +60,13 @@ Accelo is the hidden asset here: Josh sold and scoped a PSA (CRM + project manag
 | Digital-first/scaled CS (preferred) | Adjacent | Birdeye automated training sequences; Solenzo lifecycle automation |
 
 ## Gaps
-- Architecture/engineering firm customer book.
+- Dedicated AEC customer-success book (sales-side A/E exposure only).
 - Documented renewal ownership, GRR/NRR.
 - Gainsight/ChurnZero.
 
 ## Candidate Confirmation Needed
-- Did Accelo customers include architecture or engineering firms?
-- Where did Josh use Procore, and how deeply?
+- Resolved Oct 6, 2026: Accelo customers included architecture and engineering firms (added to profile, resume, cover letter). Procore: no real use, removed everywhere.
+- Open: account expansion story (application question).
 
 ## Output Files
 - `Unanet-SeniorCSM-AEC-Resume.pdf` / `.docx`
