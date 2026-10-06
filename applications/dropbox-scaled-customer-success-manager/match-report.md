@@ -80,4 +80,4 @@ The scaled, one-to-many-plus-1:1 shape is a strong match: lifecycle automation (
 
 ## Output Files
 - `Rotenberg Resume - Dropbox - Scaled CSM.pdf` / `.docx` (matches existing Dropbox folder convention)
-- No cover letter (offer available).
+- `Rotenberg Cover Letter - Dropbox - Scaled CSM.pdf` / `.docx` (1 page)
