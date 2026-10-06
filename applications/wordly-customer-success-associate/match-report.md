@@ -24,14 +24,14 @@ No knockout. No cap. No video answer.
 
 ## Application Priority Score
 
-⚪ **74 / 100 — Solid stretch (apply with a sharp tailored resume)**
-`[███████████████░░░░░]  74%`
+⚪ **72 / 100 — Solid stretch (apply with a sharp tailored resume)**
+`[██████████████░░░░░░]  72%`
 
 *Internal decision aid, not a prediction of Wordly's screening outcome.* See `fit.png`.
 
 | Dimension | Score | Max |
 | :--- | :---: | :---: |
-| Must-have requirements met | 36 | 40 |
+| Must-have requirements met | 34 | 40 |
 | Seniority & scope alignment | 5 | 15 |
 | Domain / industry alignment | 10 | 15 |
 | Differentiators / nice-to-haves | 12 | 15 |
@@ -51,7 +51,7 @@ Skills fit well (AI output validation, data labeling, data hygiene, customer set
 | Attention to detail | Strong | Import validation, rubric grading |
 | Validate output via human and machine testing | Strong | AI output evaluation, rubric-based grading, data labeling |
 | Technical and consultative support, best practices | Strong | Birdeye, Wix onboarding |
-| Ticket triage, knowledge bases | Strong | Confirmed Oct 2026: formal ticket queue (Zendesk) |
+| Ticket triage, knowledge bases | Adjacent | Understands ticketing (Zendesk); no formal queue role (corrected Oct 6) |
 | CS workflows, tracking, reporting | Strong | Wix Salesforce fields; dashboards |
 
 ## Gaps
@@ -59,7 +59,7 @@ Skills fit well (AI output validation, data labeling, data hygiene, customer set
 - No glossary/terminology or translation experience; English only.
 
 ## Candidate Confirmation Needed
-- Resolved Oct 6, 2026: GMT hours OK; entry-level pay OK; has worked a formal Zendesk ticket queue. All added to `master-profile.md`.
+- Resolved Oct 6, 2026: GMT hours OK; entry-level pay OK. Ticket queue: Josh corrected, no formal queue role, familiar with how ticketing works. All recorded to `master-profile.md`.
 
 ## Application Answers
 - **Hours aligned to GMT:** Yes.

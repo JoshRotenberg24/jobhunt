@@ -45,7 +45,7 @@ Every requirement is met; the score is pulled down by the entry-level band (over
 
 | JD Requirement | Coverage | Evidence |
 | :--- | :--- | :--- |
-| Inbound calls, resolve service problems | Strong | Zendesk ticket queue; Birdeye 50+ activities/day; Fivestars phone volume |
+| Inbound calls, resolve service problems | Strong | Birdeye 50+ activities/day; Fivestars up to 150 calls/day; ticketing familiarity (Zendesk) |
 | Contracts, invoices, billing | Adjacent | Accelo invoicing/billing walkthroughs |
 | Salesforce logging | Strong | Birdeye, Wix |
 | Account/billing adjustments, renewals, cancellations | Adjacent | Retention work; renewals/cancellations processing not documented |
@@ -60,8 +60,7 @@ Every requirement is met; the score is pulled down by the entry-level band (over
 - Financial-services compliance specifically.
 
 ## Candidate Confirmation Needed
-- Have you processed billing adjustments, cancellations, or renewals in a billing system at any job?
-- Which role had the Zendesk ticket queue? (Would turn the summary line into a bullet.)
+- Resolved Oct 6, 2026: no billing-system processing (real gap); no formal ticket-queue role, familiar with ticketing. Resume and cover letter corrected; profile updated.
 
 ## Output Files
 - `Smarsh-CustomerSuccessRep-Resume.pdf` / `.docx` (1 page; Level Agency omitted for length, order preserved)

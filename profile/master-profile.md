@@ -60,9 +60,14 @@
 > **Early-morning / GMT-aligned hours (confirmed by Josh, Oct 2026, Wordly):** willing to work
 > UK/GMT business hours from Colorado (roughly 2-3am to 10-11am Mountain). Answer yes.
 >
-> **Support ticket queues (confirmed by Josh, Oct 2026):** has worked a formal support-ticket
-> queue (Zendesk-style triage and resolution). Employer/role not captured; claim in
-> competencies and role-agnostic summary lines until Josh says where.
+> **Support ticket queues (CORRECTED by Josh, Oct 6 2026, do not re-ask):** has NOT worked a
+> formal support-ticket queue as a job function. He understands how ticketing works
+> (Zendesk is in his tools list). Claim "familiar with ticketing workflows (Zendesk)" at
+> most; never "worked a ticket queue" or "ticket triage experience."
+>
+> **Billing processing (confirmed by Josh, Oct 6 2026, do not re-ask):** has not processed
+> billing adjustments, cancellations, or renewals in a billing system. Real gap; the Accelo
+> invoicing/billing walkthroughs are the closest adjacent evidence.
 >
 > **Entry-level pay (Josh, Oct 2026):** willing to accept entry-level pay for the right role
 > (Wordly). On forms with no posted range, answer "open to your range for this role."

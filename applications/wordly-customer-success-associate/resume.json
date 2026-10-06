@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Detail-focused customer success and operations professional who works hands-on with AI systems and the data behind them. At Solenzo I configure and evaluate AI-generated output, built rubric-based grading criteria for an audit process, and do the underlying data labeling myself. I've cleaned a 1,400+ contact CRM, validate every data import, and write working SQL. 15+ years helping SaaS customers get set up and supported, including a 50+ activities-per-day partner desk at Birdeye and hands-on support-ticket triage in Zendesk.",
+  "summary": "Detail-focused customer success and operations professional who works hands-on with AI systems and the data behind them. At Solenzo I configure and evaluate AI-generated output, built rubric-based grading criteria for an audit process, and do the underlying data labeling myself. I've cleaned a 1,400+ contact CRM, validate every data import, and write working SQL. 15+ years helping SaaS customers get set up and supported, including a 50+ activities-per-day partner desk at Birdeye.",
   "experience": [
     {
       "title": "AI Systems & Data Operations — Founder & Strategic / Marketing Operations Lead",
@@ -66,9 +66,9 @@
     {
       "category": "Customer Support",
       "items": [
-        "Support Ticket Triage & Resolution (Zendesk)",
+        "Customer Issue Resolution",
         "Technical Setup Guidance",
-        "Knowledge Base Answers",
+        "Ticketing Workflows (Zendesk)",
         "Best-Practice Consultation"
       ]
     }
