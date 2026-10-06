@@ -1,0 +1,118 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Customer Success Manager | Mid-Market Portfolio Ownership, Retention & Expansion, AI-Enabled Execution",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success and account management professional with 15+ years in B2B SaaS, owning portfolios from onboarding through retention and expansion. At Birdeye I used utilization signals to flag at-risk partners early and retained all but one of 15-20 (~94%). At Wix I carried up to ~25 concurrent accounts, launched 25+ per month at 110% of implementation targets, and drove a 25% conversion improvement across supported accounts. AI is part of how I work every day: I direct LLMs for research and drafting, build AI-enabled workflows with LLM APIs, and score AI output against rubrics before anything reaches a client.",
+  "experience": [
+    {
+      "title": "Client Success & AI-Enabled Operations — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the client relationship for a portfolio of service businesses, running discovery and success planning tied to each client's business goals.",
+        "Build AI-enabled workflows in production, calling LLM APIs (OpenAI/Claude) inside n8n, Make, and Zapier to automate research, scoring, and client communication.",
+        "Translate loosely defined business goals into precise prompts and agent instructions, and grade AI output against rubric-based criteria so quality holds before it reaches a client.",
+        "Build dashboards and report on a regular cadence, tying adoption to outcomes and turning the data into specific recommendations for leadership.",
+        "Identify expansion opportunities with existing clients, recommending and scoping complementary services aligned with their goals.",
+        "Design automated onboarding and lifecycle workflows that activate, nurture, and retain customers at scale."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran QBRs for ~3 multi-stakeholder client accounts at $20K+/month in ad spend each, presenting ROI, CAC, LTV, and conversion results with optimization recommendations.",
+        "Resolved client feedback promptly and held delivery quality consistent to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Analyzed partner utilization and performance metrics to flag adoption gaps and at-risk accounts early, recommending interventions that reduced churn.",
+        "Led onboarding and training for the partner network, building automated product-training sequences that reduced onboarding friction.",
+        "Advised partners on retention strategy and customer health metrics, equipping them to communicate product value.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment while serving as sales team lead."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month with up to ~25 concurrent onboardings, holding 110% of implementation and 120% of sales targets.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive communication on client goals.",
+        "Delivered launches on time as primary strategic contact, accelerating time-to-value.",
+        "Led and trained onboarding teams of up to 30 through weekly sessions, workshops, and 1:1 coaching."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built relationships with C-suite executives as a trusted advisor on operational system design, guiding onboarding and workflow design.",
+        "Ran workshops for client teams showing how each part of the platform would work in their day-to-day.",
+        "Escalated issues to leadership early and mitigated account-level risk with direct guidance."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": [
+        "Onboarding & Time-to-Value",
+        "Adoption & Enablement Plans",
+        "Retention, Churn Prevention & Expansion",
+        "Business Reviews & ROI Reporting"
+      ]
+    },
+    {
+      "category": "Relationship & Commercial",
+      "items": [
+        "Strategic Stakeholder Relationships",
+        "Renewal & Expansion Conversations",
+        "Business Reviews & Value Messaging",
+        "Escalation Management"
+      ]
+    },
+    {
+      "category": "AI & Data",
+      "items": [
+        "LLM Workflows & Prompt Design (ChatGPT, Claude, APIs)",
+        "AI Output Evaluation (rubric-based)",
+        "Usage & Health Metrics Analysis, Power BI, Excel",
+        "Salesforce, HubSpot, n8n, Make, Zapier"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
