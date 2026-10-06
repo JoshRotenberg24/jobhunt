@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 6, 2026",
+  "company": "Juniper Square",
+  "role": "Customer Success Manager, Scaled Mid-Market",
+  "recipient": "Hiring Team",
+  "body": [
+    "You asked for a real example of AI improving quality or speed, so here's mine. The first deliverable for every Solenzo client is an audit of their online presence, and doing it by hand was slow and inconsistent. I built an automated workflow that scores a business's digital footprint with LLM calls, then wrote rubric-based grading to check the AI's output before anything reaches a client. It has run on 180+ businesses. I use Claude the same way day to day: give it real context, check what comes back, and keep the judgment mine.",
+    "A book of 220+ accounts needs that leverage, and it's the kind of book I know. At Wix I carried up to 25 accounts at once and launched 25+ a month at 110% of my implementation target. At Birdeye I watched partner usage closely, stepped in when an account started to slip, and retained all but one of 15 to 20 partners.",
+    "Private markets would be new to me. I've served a banking client and I'm genuinely interested in making financial operations easier for the people running them, and I learn technical products fast. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}
