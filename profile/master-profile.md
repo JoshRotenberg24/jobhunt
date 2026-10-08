@@ -414,6 +414,11 @@ operator talking, not like a candidate performing.
 > another role. Specific CMP tool (Cookiebot, OneTrust, GTM consent mode) not named.
 > Piwik PRO, Adform, The Trade Desk, Outbrain remain unconfirmed/gaps.
 >
+> **Meta Ads Manager + app-install/TikTok (Josh, Oct 8 2026, Arc wine app):** confirmed hands-on
+> Meta/Instagram campaign management in Ads Manager. Also answered yes to having run app-install
+> and/or TikTok campaigns; which one (or both), for whom, and at what scale is not captured yet.
+> Claim "app-install and TikTok campaign experience" only generically until specified.
+>
 > **Authentication / credentials (confirmed by Josh, Oct 2026, n8n):** sets up OAuth and API-key
 > credentials for integrations in n8n (and the other automation tools) at Solenzo. Safe to
 > claim "OAuth and API-key credential setup." Environment management (dev/prod) not confirmed.

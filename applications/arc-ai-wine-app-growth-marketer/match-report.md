@@ -14,7 +14,7 @@
 | Remote location restrictions | Met (inferred) | Arc recruiter contacted Josh directly to apply |
 | Hourly rate | Application-form | **$50/hour** (Josh, Oct 8) |
 | Freelance, 4 weeks, 20 hrs/week | Needs confirmation | Fits alongside Solenzo, but Josh's call |
-| Hands-on app-install campaigns (required) | Resume-evidenced, **gap** | Paid media experience is web conversion campaigns; no app-install or Meta SDK work documented |
+| Hands-on app-install campaigns (required) | Resume-evidenced, partial | Josh confirmed app-install and/or TikTok campaign work (Oct 8); specifics not captured |
 
 No credential knockout. No cap. No video answer.
 
@@ -22,18 +22,18 @@ No credential knockout. No cap. No video answer.
 
 ## Application Priority Score
 
-⚪ **61 / 100 — Solid stretch (apply with a sharp tailored resume)**
-`[████████████░░░░░░░░]  61%`
+⚪ **72 / 100 — Solid stretch (apply with a sharp tailored resume)**
+`[██████████████░░░░░░]  72%`
 
 *Internal decision aid, not a prediction of the client's decision.* See `fit.png`.
 
 | Dimension | Score | Max |
 | :--- | :---: | :---: |
-| Must-have requirements met | 22 | 40 |
+| Must-have requirements met | 30 | 40 |
 | Seniority & scope alignment | 11 | 15 |
 | Domain / industry alignment | 8 | 15 |
 | Differentiators / nice-to-haves | 11 | 15 |
-| Evidence strength | 9 | 15 |
+| Evidence strength | 12 | 15 |
 
 The core requirement is proven app-install campaign experience, which isn't in the profile. Strategy, tracking, copy testing, and budget discipline are real strengths. 68 applicants already.
 
@@ -43,9 +43,9 @@ The core requirement is proven app-install campaign experience, which isn't in t
 
 | JD Requirement | Coverage | Evidence |
 | :--- | :--- | :--- |
-| Hands-on app-install campaigns, consumer/lifestyle apps | Gap | |
-| Meta/Instagram expertise | Partial | Meta Ads certified; hands-on Meta campaign management depth unconfirmed |
-| TikTok familiarity | Gap | |
+| Hands-on app-install campaigns, consumer/lifestyle apps | Partial | Confirmed generically (Oct 8) |
+| Meta/Instagram expertise | Strong | Certified + hands-on in Ads Manager (confirmed Oct 8) |
+| TikTok familiarity | Partial | Confirmed generically (Oct 8) |
 | Campaign strategy, creative, performance analysis | Strong | Level Agency $20K+/mo accounts, reporting |
 | Copy and messaging testing | Strong | Direct-response copy, A/B testing |
 | Meta SDK and conversion events | Partial | Meta Pixel + conversion events on web; no SDK |
