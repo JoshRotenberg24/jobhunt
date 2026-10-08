@@ -5,6 +5,7 @@
 **Location:** Remote, US
 **Compensation:** Not posted (equity mentioned)
 **Date:** October 6, 2026
+**Status:** Skipped by Josh, Oct 8 2026
 
 ---
 
