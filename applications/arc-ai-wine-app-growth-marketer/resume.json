@@ -1,0 +1,83 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Growth Marketer & Performance Advertiser | Meta Ads (Certified), Conversion Tracking, Creative & Copy Testing",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Performance marketer and founder who runs paid acquisition with startup budgets in mind. Meta Ads certified, with hands-on campaign management across Meta, Google Ads, and LinkedIn: at Level Agency I managed ~3 accounts at $20K+/month in ad spend (peaking above $100K/month), set budgets, and A/B tested creative and audiences. I set up the tracking that makes paid spend measurable (Meta Pixel and conversion events, Google Ads conversions, GA4, UTM conventions) and write the copy and landing pages being tested.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run growth for my own early-stage consulting brand on a lean budget, including a free-audit offer promoted through LinkedIn that enrolled 180+ businesses and converted 2 to paying clients.",
+        "Install Meta Pixel and Google Ads conversion tracking through Google Tag Manager, define GA4 conversion events, and enforce UTM conventions so every dollar of spend is attributable.",
+        "Optimized a client's Google Ads account, cutting spam and low-quality leads and improving click quality, then diagnosed landing-page conversion as the remaining bottleneck.",
+        "Write direct-response copy, ad messaging, outreach sequences, and landing pages for testing."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed paid media strategy for ~3 client accounts at $20K+/month in ad spend each, peaking above $100K/month, advising on budget planning and allocation.",
+        "Designed and ran LinkedIn ad campaigns with tightly researched audiences and A/B-tested creative and setups.",
+        "Built performance reporting tracking ROI, CAC, LTV, and conversion KPIs, and produced landing pages and conversion-focused copy that improved lead generation."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance at a performance marketing agency and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Contributed to a 30% increase in website traffic and a 25% improvement in conversion rates across the e-commerce segment I supported.",
+        "Advised on A/B testing strategy, defining test structure and success criteria."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Paid Acquisition",
+      "items": [
+        "Meta / Instagram Ads (certified)",
+        "Google Ads, LinkedIn Ads",
+        "Budget Planning & Allocation",
+        "Creative, Copy & Audience A/B Testing"
+      ]
+    },
+    {
+      "category": "Tracking & Analytics",
+      "items": [
+        "Meta Pixel & Conversion Events",
+        "Google Tag Manager, GA4, UTM Governance",
+        "ROI, CAC, LTV Reporting",
+        "Landing Page & Conversion Optimization"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
