@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 8, 2026",
+  "company": "Counterpart Health",
+  "role": "Implementation Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "I've spent the last eight years as a patient managing a chronic condition, working through prior authorizations and appeals to get treatment approved. I know firsthand how much depends on a primary care team having the right information in front of them during the visit, which is why Counterpart Assistant caught my attention. Implementation is the work I know best: at Wix I launched 25+ clients a month with up to 25 in flight, at 110% of my implementation target.",
+    "The parts of this role I'd step into fastest are running parallel launches and catching integration problems before they hit the target date. At Accelo I built sequenced implementation plans, deciding which systems to change and in what order. At Solenzo I diagnose integration failures myself, down to the webhook, API call, or JSON payload. At Fetch & Funnel I rebuilt handoff processes that cut errors between teams, the same kind of playbook work you describe.",
+    "Where I'd be learning is EHR integrations with provider practices specifically. My healthcare background is on the commercial side: four years at Senior Directory, a company focused on healthcare for seniors, and channel work with healthcare-focused agencies at Birdeye. I pick up new systems quickly and would welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}
