@@ -12,11 +12,11 @@
 
 | Item | Classification | Notes |
 | :--- | :--- | :--- |
-| Remote from Colorado | **Needs candidate confirmation** | Listed remote, but "come to the office when needed" implies occasional Wilmington travel. Covered by the 20% travel rule unless it means regular onsite |
+| Remote from Colorado | Application-form, **confirmed** | Josh confirmed occasional Wilmington office travel is fine (Oct 8) |
 | Work authorization | Application-form | U.S. citizen, no sponsorship |
 | Compensation | Application-form | Posted $80K-$95K. Answer **$85,000** (lower-middle per standing rule) |
 | 2+ yrs implementation at software/fintech | Resume-evidenced | Wix, Accelo, Birdeye, Solenzo |
-| Stripe / KYC experience | **Needs candidate confirmation** | Core responsibility, not a listed requirement. Not in profile |
+| Stripe / KYC experience | Resume-evidenced, **partial** | Stripe setup confirmed (Solenzo). KYC/restricted accounts still unconfirmed |
 
 No knockout. No cap. No video answer.
 
@@ -24,8 +24,8 @@ No knockout. No cap. No video answer.
 
 ## Application Priority Score
 
-⚪ **80 / 100 — Strong fit (apply, competitive)**
-`[████████████████░░░░]  80%`
+⚪ **82 / 100 — Strong fit (apply, competitive)**
+`[████████████████░░░░]  82%`
 
 *Internal decision aid, not a prediction of Vantaca's screening outcome.* See `fit.png`.
 
@@ -33,7 +33,7 @@ No knockout. No cap. No video answer.
 | :--- | :---: | :---: |
 | Must-have requirements met | 34 | 40 |
 | Seniority & scope alignment | 13 | 15 |
-| Domain / industry alignment | 8 | 15 |
+| Domain / industry alignment | 10 | 15 |
 | Differentiators / nice-to-haves | 13 | 15 |
 | Evidence strength | 12 | 15 |
 
@@ -64,13 +64,12 @@ The listed requirements are almost a straight match: concurrent launches, traini
 - Post-launch adoption tracking (Birdeye utilization monitoring, ~94% retention).
 
 ## Gaps
-- No Stripe Connect / KYC onboarding or restricted-account resolution (pending confirmation below).
+- KYC onboarding and restricted-account resolution not confirmed (Stripe setup itself is confirmed).
 - No HOA / community management industry exposure.
 - No documented NPS or adoption-rate metric to match their success targets (60% engagement, NPS > 50).
 
 ## Candidate Confirmation Needed
-1. Have you set up or worked in Stripe (for Solenzo clients, GoHighLevel payments, your own invoicing)? Any KYC/identity verification or account-restriction issues?
-2. Is "come to the office when needed" acceptable as occasional travel to Wilmington, NC?
+1. Stripe: confirmed (Oct 8). Still open: have you handled KYC/identity verification, restricted accounts, or fee/payment-method configuration in Stripe? Worth having a real example ready for the interview.
 
 ## Metrics Needed
 - Any adoption or NPS/CSAT number from Wix or Birdeye onboarding (recurring gap across implementation postings, worth `/excavate-profile`).

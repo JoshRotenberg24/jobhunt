@@ -69,6 +69,14 @@
 > billing adjustments, cancellations, or renewals in a billing system. Real gap; the Accelo
 > invoicing/billing walkthroughs are the closest adjacent evidence.
 >
+> **Stripe (confirmed by Josh, Oct 8 2026, Vantaca):** has set up and worked in Stripe at
+> Solenzo. Claim "Stripe payment setup." KYC/identity verification, restricted-account
+> resolution, and fee-structure configuration are NOT yet confirmed separately; ask before
+> claiming those specifically.
+>
+> **Occasional office travel (confirmed by Josh, Oct 8 2026, Vantaca):** fine with
+> "come to the office when needed" remote roles (occasional travel to an out-of-state HQ).
+>
 > **Entry-level pay (Josh, Oct 2026):** willing to accept entry-level pay for the right role
 > (Wordly). On forms with no posted range, answer "open to your range for this role."
 >
@@ -735,7 +743,7 @@ operator talking, not like a candidate performing.
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Stripe, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps |
 
 > **Excel, Power BI, SQL, Python/JS (confirmed by Josh, Sep 2026, updated Sep 2026):**
 > Excel is a genuine, experienced-level skill, not just baseline literacy. Power BI is

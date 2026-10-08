@@ -17,7 +17,7 @@
       "dates": "Feb 2024 - Present",
       "bullets": [
         "Lead end-to-end client implementations from discovery to go-live, translating business requirements into system configuration and workflows, then training owners and staff.",
-        "Build and debug production automations in Zapier, Make, n8n, and GoHighLevel, configuring webhooks, REST API calls, and OAuth/API-key credentials and resolving integration errors directly.",
+        "Build and debug production automations in Zapier, Make, n8n, and GoHighLevel, plus Stripe payment setup, configuring webhooks, REST API calls, and OAuth/API-key credentials and resolving integration errors directly.",
         "Built a 20+ workflow GoHighLevel system automating booking confirmations, reminders, no-show recovery, and post-sale onboarding nurture.",
         "Set up and validate data imports into Salesforce, HubSpot, and GoHighLevel, re-checking every import for accuracy."
       ]
@@ -84,6 +84,7 @@
     {
       "category": "Tools",
       "items": [
+        "Stripe",
         "HubSpot",
         "Salesforce",
         "Asana",
