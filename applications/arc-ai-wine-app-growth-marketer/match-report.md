@@ -11,8 +11,8 @@
 
 | Item | Classification | Notes |
 | :--- | :--- | :--- |
-| Remote location restrictions | **Needs confirmation** | Allowed locations not shown in the paste; check on Arc |
-| Hourly rate | **Needs candidate confirmation** | No freelance rate on file |
+| Remote location restrictions | Met (inferred) | Arc recruiter contacted Josh directly to apply |
+| Hourly rate | Application-form | **$50/hour** (Josh, Oct 8) |
 | Freelance, 4 weeks, 20 hrs/week | Needs confirmation | Fits alongside Solenzo, but Josh's call |
 | Hands-on app-install campaigns (required) | Resume-evidenced, **gap** | Paid media experience is web conversion campaigns; no app-install or Meta SDK work documented |
 
@@ -56,8 +56,7 @@ The core requirement is proven app-install campaign experience, which isn't in t
 - Have you run Meta/Instagram campaigns hands-on (in Ads Manager), and for whom?
 - Any app-install or mobile app campaigns at all?
 - Any TikTok Ads?
-- Hourly rate?
-- Is Colorado / the US within the allowed locations?
+- Resolved Oct 8: recruiter reached out to Josh (location fine); rate $50/hour.
 
 ## Output Files
 - `Arc-WineApp-GrowthMarketer-Resume.pdf` / `.docx` (1 page)

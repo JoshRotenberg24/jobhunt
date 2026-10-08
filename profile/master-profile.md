@@ -111,6 +111,9 @@
 
 ## Compensation Expectations (baseline, confirmed by Josh, Sep 2026)
 
+- **Freelance / contract hourly rate (Josh, Oct 2026):** $50/hour for short freelance marketing
+  engagements (set on the Arc AI wine app gig). Use as the default freelance ask unless Josh says otherwise.
+
 Standing anchor for application salary-expectation questions, so this doesn't get
 re-litigated from scratch every time. Scale it by role level and real market data per
 application; don't just restate the anchor blindly for a role well above or below this
