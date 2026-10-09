@@ -1,0 +1,91 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Manager | Project Management, Workflow Configuration & Go-Live Support",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation manager who acts as both project manager and customer point of contact, from workflow assessment through configuration, training, and go-live support. At Wix I launched 25+ clients a month with up to ~25 in flight, at 110% of implementation targets. I break complex systems down for non-technical stakeholders, analyze adoption data to drive action, and build the documentation and processes that shorten time to value.",
+  "experience": [
+    {
+      "title": "Implementation Lead — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end implementations as project manager and client point of contact, assessing workflows, translating requirements into system configuration, and training owners and staff.",
+        "Configure integrations and credentials (OAuth, API keys, webhooks) in Zapier, Make, and n8n, and validate data imports into Salesforce, HubSpot, and GoHighLevel before go-live.",
+        "Build performance dashboards and regular reporting that turn funnel and pipeline data into recommendations for business owners.",
+        "Document every client interaction, timeline, and deliverable, keeping project records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and trained 15-20 reseller partners across health, home services, and retail, including agencies focused on healthcare clients, retaining all but one (~94% retention).",
+        "Analyzed partner utilization metrics to spot adoption gaps early and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Implemented and launched 25+ clients per month with up to ~25 concurrent onboardings, holding 110% of implementation targets and delivering launches on schedule.",
+        "Led multiple onboarding teams of up to 30 specialists, running weekly training sessions, workshops for new initiatives, and 1:1 coaching."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute.",
+        "Held workshops for client teams and built relationships with C-suite executives as a trusted advisor on operational system design."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": [
+        "Workflow Assessment",
+        "Project Planning & Dependency Tracking",
+        "Configuration & Go-Live Support",
+        "Training Plans & Documentation"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Jira",
+        "Salesforce",
+        "Google Workspace",
+        "HubSpot",
+        "Asana",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
