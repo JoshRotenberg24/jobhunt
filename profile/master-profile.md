@@ -87,6 +87,8 @@
 >
 > **Answer format (Josh, Oct 9 2026):** application answers must be paste-ready, never with
 > [bracket] placeholders. Write around unknowns instead.
+> Cover letters: also give the full text in chat for copy/paste (many forms take a text box,
+> not a file), in addition to the PDF/DOCX.
 >
 > **Entry-level pay (Josh, Oct 2026):** willing to accept entry-level pay for the right role
 > (Wordly). On forms with no posted range, answer "open to your range for this role."
