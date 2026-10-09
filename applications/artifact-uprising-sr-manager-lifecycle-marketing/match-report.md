@@ -7,6 +7,9 @@
 **Compensation:** $118K - $140K + year-end bonus
 **Date:** October 9, 2026
 
+
+> **Update Oct 9, 2026:** Josh confirmed SMS in his GoHighLevel lifecycle flows, hands-on deliverability setup (sending domains, SPF/DKIM/DMARC, warm-up), and deliverability consistently above 99%. Resume rebuilt with both; profile updated. Score raised (must-haves and evidence). Remaining open: any open/click/reactivation or repeat-purchase numbers.
+
 ---
 
 ## Application-Form and Eligibility Check
@@ -25,18 +28,18 @@ No knockout. No cap. No video answer.
 
 ## Application Priority Score
 
-⚪ **60 / 100 — Solid stretch (low end)**
-`[████████████░░░░░░░░]  60%`
+⚪ **66 / 100 — Solid stretch**
+`[█████████████░░░░░░░]  66%`
 
 *Internal decision aid, not a prediction of Artifact Uprising's screening outcome.* See `fit.png`.
 
 | Dimension | Score | Max |
 | :--- | :---: | :---: |
-| Must-have requirements met | 27 | 40 |
+| Must-have requirements met | 31 | 40 |
 | Seniority & scope alignment | 9 | 15 |
 | Domain / industry alignment | 7 | 15 |
 | Differentiators / nice-to-haves | 10 | 15 |
-| Evidence strength | 7 | 15 |
+| Evidence strength | 9 | 15 |
 
 Journey architecture, segmentation, copy, custom events, analytics, and team leadership are real. What's missing is the core of a senior DTC lifecycle seat: years owning email/SMS at a consumer brand, Klaviyo, deliverability, SMS, and repeat-purchase / LTV results.
 

@@ -51,8 +51,9 @@
 > these. Record as a real gap, not a confirmation item, when a posting names them.
 > **Apollo and HeyReach: confirmed hands-on (Oct 2026)**, alongside Salesloft, Marketo,
 > and Mailchimp (already confirmed Sep 2026). Instantly and Smartlead were not on his list,
-> so don't claim them. Cold-email deliverability setup (domains, warm-up, sender
-> reputation) is still unconfirmed; ask before claiming.
+> so don't claim them. **Email deliverability setup confirmed (Josh, Oct 9 2026):** sets up
+> sending domains, authentication (SPF/DKIM/DMARC), and warm-up himself; deliverability
+> consistently above 99% (self-reported, Solenzo).
 >
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
@@ -76,6 +77,9 @@
 >
 > **Occasional office travel (confirmed by Josh, Oct 8 2026, Vantaca):** fine with
 > "come to the office when needed" remote roles (occasional travel to an out-of-state HQ).
+>
+> **SMS (confirmed by Josh, Oct 9 2026):** his GoHighLevel lifecycle workflows send SMS
+> (booking confirmations, reminders, reactivation) alongside email. Claim "email and SMS."
 >
 > **Entry-level pay (Josh, Oct 2026):** willing to accept entry-level pay for the right role
 > (Wordly). On forms with no posted range, answer "open to your range for this role."
@@ -781,6 +785,7 @@ operator talking, not like a candidate performing.
 - **CRM cleanup of 1,400+ contacts** (most recent CRM he cleaned out; supplied by Josh, Oct 2026). Employer/client and tool not captured, so state it without attributing it to a specific role unless Josh confirms where.
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
 - **Free digital-footprint audit offer (Solenzo), promoted via LinkedIn organic growth: 180+ businesses enrolled, 2 converted to paying clients** (~1.1% audit-to-client conversion) — confirmed by Josh, Aug 2026. This is Josh's own product-marketing / PLG-style motion: a free offer as top-of-funnel, distributed through his own LinkedIn growth, converting a share of free users to paid. Track record still early; do not overstate the conversion rate, state it plainly.
+- **Email deliverability consistently above 99%** (Solenzo email programs; self-reported by Josh, Oct 9 2026)
 - **~25 concurrent onboardings at peak at Wix** (supplied by Josh, Oct 2026), alongside 25+ launches/month
 - **Up to 3 concurrent clients at Solenzo** at peak, while personally building the outbound automation system and running outbound himself (confirmed by Josh, Sep 2026). This is a solo-founder scale number, real and specific, not a large book, state it plainly rather than rounding up. Monthly lead volume at Solenzo is not reliably capturable as a metric (see private note below) — do not estimate one.
 
@@ -801,8 +806,6 @@ with its scope and delete the line here.
 only), outbound tool names (Apollo, HeyReach, Salesloft, Marketo, Mailchimp).
 
 **Role-specific:**
-- **Cold-email deliverability setup.** Whether he configured sending domains/warm-up
-  himself. Ask only when a posting names it.
 - **1,400+ contact CRM cleanup context.** Which client/role and which CRM. Josh says he's
   worked with many data sets and a single "largest" number is hard to give; don't push for
   one.

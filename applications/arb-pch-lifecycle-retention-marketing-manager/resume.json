@@ -16,11 +16,11 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Architected a 20+ workflow lifecycle system: capture and welcome, qualification, booking confirmations and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture and reactivation, and review generation.",
+        "Architected a 20+ workflow email and SMS lifecycle system: welcome, qualification, booking confirmations and reminders, no-show recovery, post-sale onboarding, nurture and reactivation, and review generation.",
+        "Set up sending domains, SPF/DKIM/DMARC authentication, and warm-up myself, holding email deliverability above 99%.",
         "Design segmentation, lifecycle stages, and scoring on customer behavior and engagement, and personalize messaging using AI-scored signals.",
         "Build monitoring and evaluation loops that catch broken or underperforming automation logic before customers see it.",
-        "Build custom GA4 conversion events, triggers, and variables in Google Tag Manager, validated in Preview mode and browser developer tools.",
-        "Write the email copy and sequences myself and build dashboards tying funnel progression to campaign ROI."
+        "Build custom GA4 conversion events, triggers, and variables in Google Tag Manager, validated in Preview mode and browser developer tools."
       ]
     },
     {
@@ -67,10 +67,10 @@
     {
       "category": "Lifecycle Marketing",
       "items": [
-        "Behavior-Based Segmentation",
+        "Email & SMS Segmentation",
         "Welcome, Post-Purchase & Win-Back Flows",
-        "A/B Testing",
-        "Automation QA"
+        "A/B Testing & Automation QA",
+        "Deliverability (99%+)"
       ]
     },
     {

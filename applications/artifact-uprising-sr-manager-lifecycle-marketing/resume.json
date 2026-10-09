@@ -11,16 +11,16 @@
   "summary": "Lifecycle and CRM marketer who builds the automated journeys and writes the messages. At Solenzo I designed a 20+ workflow lifecycle system covering welcome, post-purchase onboarding, reviews, long-term nurture, and reactivation of lapsed customers. At Wix I helped established retailers launch online stores, across an e-commerce segment that saw a 30% traffic lift and 25% conversion improvement. I segment on behavior and lifecycle stage, build custom tracking events, and read the results myself.",
   "experience": [
     {
-      "title": "Lifecycle & CRM Marketing Lead — Founder & Strategic / Marketing Operations Lead",
+      "title": "Lifecycle & CRM Marketing Lead \u2014 Founder & Strategic / Marketing Operations Lead",
       "company": "Solenzo LLC",
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
-        "Architected a 20+ workflow lifecycle system: capture and welcome, qualification, booking confirmations and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture and reactivation, and review generation.",
+        "Architected a 20+ workflow email and SMS lifecycle system: welcome, qualification, booking confirmations and reminders, no-show recovery, post-sale onboarding, nurture and reactivation, and review generation.",
+        "Set up sending domains, SPF/DKIM/DMARC authentication, and warm-up myself, holding email deliverability above 99%.",
         "Design segmentation, lifecycle stages, and lead scoring on customer behavior and engagement, and personalize messaging using AI-scored signals.",
         "Write the email copy and sequences myself, then track results in GA4 and CRM analytics and iterate on what the data shows.",
-        "Build custom GA4 conversion events, triggers, and variables in Google Tag Manager, validated in Preview mode and browser developer tools.",
-        "Build performance dashboards tracking funnel progression and campaign ROI."
+        "Build custom GA4 conversion events, triggers, and variables in Google Tag Manager, validated in Preview mode and browser developer tools."
       ]
     },
     {
@@ -67,10 +67,10 @@
     {
       "category": "Lifecycle Marketing",
       "items": [
-        "Segmentation & Personalization",
+        "Email & SMS Segmentation",
         "Welcome, Post-Purchase & Win-Back Journeys",
         "A/B Testing",
-        "Email Copywriting"
+        "Deliverability (99%+)"
       ]
     },
     {
