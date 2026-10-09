@@ -87,6 +87,7 @@
 >
 > **Answer format (Josh, Oct 9 2026):** application answers must be paste-ready, never with
 > [bracket] placeholders. Write around unknowns instead.
+> Time zones: use standard abbreviations (PST, EST, MT), not spelled-out names (Josh, Oct 9 2026).
 > Cover letters: also give the full text in chat for copy/paste (many forms take a text box,
 > not a file), in addition to the PDF/DOCX.
 >
