@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations | Performance Reporting, Conversion Tracking & Partner Coordination",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations generalist who moves between reporting, conversion tracking, landing pages, and partner follow-up in the same day. I build reporting in Excel, Google Sheets, and SQL (BigQuery), set up Meta and Google Ads conversion tracking with enforced UTM conventions, and automate repetitive work with Zapier, Make, n8n, and Claude.",
+  "experience": [
+    {
+      "title": "Marketing Operations Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build performance dashboards tracking lead generation, funnel progression, and campaign ROI, pulling GA4 data with SQL in BigQuery.",
+        "Install Meta Pixel and Google Ads conversion tracking, define and enforce UTM naming conventions, and validate events in GTM Preview mode and browser developer tools.",
+        "Build landing pages and implement content fixes directly in client CMS platforms.",
+        "Automate repetitive workflows in Zapier, Make, n8n, and GoHighLevel, including direct LLM API calls (OpenAI, Claude)."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Advised clients on ad-spend budget planning across ~3 accounts at $20K+/month in spend each, peaking above $100K/month.",
+        "Built campaign reporting tracking ROI, CAC, LTV, and conversion KPIs, with optimization recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners (deals ~$10K-$45K) across 50+ daily partner activities, retaining all but one (~94% retention)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Served a banking-industry client and helped pursue a major banking prospect, reaching finalist stage, while building internal processes that improved reporting accuracy."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Defined and labeled the CRM fields required for sales and onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Walked clients through Accelo's invoicing and billing features, showing how time, projects, and billing connect in one system."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Operations",
+      "items": [
+        "Performance Reporting & Dashboards",
+        "Conversion Tracking & UTM Governance",
+        "CPL, CPA & Attribution",
+        "Landing Page Management"
+      ]
+    },
+    {
+      "category": "Data & Platforms",
+      "items": [
+        "Excel & Google Sheets",
+        "SQL (BigQuery)",
+        "GA4",
+        "Google Tag Manager",
+        "Meta Ads (certified) & Google Ads",
+        "Zapier, Make, n8n",
+        "Claude"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
