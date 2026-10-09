@@ -39,4 +39,4 @@ Uncapped breakdown for reference: must-haves 14/40, seniority 10/15, domain 3/15
 - Spravato/ketamine programs; medical billing workflows; behavioral health billing; CollaborateMD, Kipu; ASAM/LOCUS criteria; clearinghouse enrollment and payer mapping.
 
 ## Output Files
-- `AssemblyHealth-CSSpravato-Resume.pdf` / `.docx` (1 page; built from Aesthetix CSM base). No cover letter.
+- `AssemblyHealth-CSSpravato-Resume.pdf` / `.docx` (1 page; built from Aesthetix CSM base). Cover letter built on request: `AssemblyHealth-CSSpravato-CoverLetter.pdf` / `.docx`.
