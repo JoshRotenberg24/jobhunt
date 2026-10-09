@@ -73,4 +73,4 @@ The closest match to Josh's core work so far: hands-on GHL workflows, pipelines,
 5. Any HighLevel certification?
 
 ## Output Files
-- `321Agency-GHLCRMSpecialist-Resume.pdf` / `.docx` (1 page; Accelo and earlier omitted for length; order preserved). No cover letter (not requested).
+- `321Agency-GHLCRMSpecialist-Resume.pdf` / `.docx` (1 page; Accelo and earlier omitted for length; order preserved). Cover letter built on request (Oct 9): `321Agency-GHLCRMSpecialist-CoverLetter.pdf` / `.docx`.
