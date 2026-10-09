@@ -1,0 +1,91 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Growth Marketer | Lifecycle, CRM Automation & Conversion Optimization",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Full-funnel technical marketer who writes the email, builds the flow, reads the dashboard, and fixes the page. At Solenzo I own the funnel end to end for service businesses, including household trades: a 20+ workflow lifecycle system covering capture, booking with confirmations and reminders, no-show recovery, onboarding, and reactivation, built in GoHighLevel, Make, Zapier, and n8n. I use AI to build and debug faster, and I ship a working version first and improve it from the data.",
+  "experience": [
+    {
+      "title": "Growth & Lifecycle Marketing Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built a 20+ workflow email and SMS lifecycle system: lead capture and routing, qualification, booking with confirmations and reminders, no-show recovery, onboarding nurture, reactivation, and review requests.",
+        "Build automations in Make, Zapier, n8n, and GoHighLevel, including webhooks, REST API calls, and LLM API calls, and debug failures myself.",
+        "Optimized a client's Google Ads account to cut low-quality leads, then diagnosed on-site conversion as the remaining bottleneck.",
+        "Launched a free audit offer as top-of-funnel, promoted through LinkedIn organic: 180+ businesses enrolled, 2 converted to paying clients.",
+        "Install GA4 conversion events, Meta Pixel, and Google Ads tracking with enforced UTM conventions, build funnel and ROI dashboards, and keep email deliverability above 99%.",
+        "Write the email copy, landing pages, and sequences myself; published 18 plain-language articles on SEO, CRM, and automation."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran account-based LinkedIn campaigns with A/B-tested setups and planned budgets across ~3 accounts at $20K+/month in ad spend, peaking above $100K/month."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated training and communication sequences for 15-20 partners across health, home services, and retail, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance for agency clients, including home-services businesses, and turned results into optimization recommendations."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Contributed to a 30% traffic increase and 25% conversion improvement across the e-commerce segment, aligning site architecture, inbound marketing, and SEO for clients."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Growth & Lifecycle",
+      "items": [
+        "Full-Funnel Ownership",
+        "Email & SMS Flows",
+        "No-Show & Reactivation",
+        "Landing Page & Booking CRO",
+        "Paid Social & Google Ads"
+      ]
+    },
+    {
+      "category": "Tools & Data",
+      "items": [
+        "Make, Zapier, n8n",
+        "GoHighLevel",
+        "HubSpot",
+        "GA4 & GTM",
+        "Power BI, SQL",
+        "ChatGPT, Claude"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

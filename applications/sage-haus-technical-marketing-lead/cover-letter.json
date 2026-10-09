@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 9, 2026",
+  "company": "Sage Haus",
+  "role": "Technical Marketing Lead, Growth, Lifecycle & CRO",
+  "recipient": "Hiring Team",
+  "body": [
+    "You asked for someone who can figure out why people book calls but don't show up. I've built that fix. My main lifecycle system at Solenzo is 20+ workflows across email and SMS: capture, booking with confirmations and reminders, no-show recovery, onboarding, and reactivation of people who went quiet. I wrote the messages, built the automations in GoHighLevel, Make, Zapier, and n8n, and debug them myself when something breaks.",
+    "I own the funnel end to end, not one channel inside it. I set up the conversion tracking and UTMs so the dashboard can be trusted, keep email deliverability above 99%, and have run paid social at accounts spending $20K+ a month. When I optimized one client's Google Ads, the data showed the real bottleneck was on the site, not the ads, so that's where the work went next. Much of my work is for household-services businesses, so I've spent real time on how homeowners decide who to call.",
+    "I use AI to build, debug, and learn faster, and I'd rather ship a working first version and improve it than wait on a perfect one. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}
