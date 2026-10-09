@@ -1,0 +1,91 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "GoHighLevel CRM Specialist | Workflows, Funnels, Integrations & CRM Governance",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "GoHighLevel CRM architect who builds and runs client environments end to end: discovery, pipelines, workflows, funnels, email and SMS, integrations, and training. At Solenzo I built a 20+ workflow GoHighLevel system covering capture, routing, qualification, booking, no-show recovery, onboarding, reactivation, and reviews. I integrate through webhooks, APIs, Zapier, Make, and n8n, and have cleaned CRMs of 1,400+ contacts.",
+  "experience": [
+    {
+      "title": "GoHighLevel CRM Architect \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected a 20+ workflow GoHighLevel system: lead capture, tagging and routing, qualification, calendar booking with confirmations and reminders, no-show recovery, post-sale onboarding, nurture and reactivation, and automated review requests.",
+        "Run discovery with business owners and sales teams, then design custom fields, segmentation, lifecycle stages, lead scoring, and pipelines to match each client's process.",
+        "Integrate GoHighLevel with outside systems through Zapier, Make, n8n, webhooks, REST APIs, and OAuth/API-key credentials, including LLM API calls, and troubleshoot integration failures directly.",
+        "Build email and SMS campaigns, and set up sending domains, SPF/DKIM/DMARC, and warm-up myself, holding deliverability above 99%.",
+        "Import, validate, and clean client data across GoHighLevel, HubSpot, and Salesforce under strict data-hygiene standards.",
+        "Document every system and train owners and staff before go-live."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder agency accounts in HubSpot, producing landing pages and email sequences and reporting conversion KPIs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded 15-20 agency partners onto Birdeye's reputation management and marketing automation platform, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across agency teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Defined and labeled the Salesforce fields required for outbound sales and onboarding workflows, standardizing data capture across teams of up to 30."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "GoHighLevel",
+      "items": [
+        "Workflows & Triggers",
+        "Pipelines & Custom Fields",
+        "Funnels, Forms & Calendars",
+        "Email & SMS",
+        "Review Automation"
+      ]
+    },
+    {
+      "category": "Integrations & Data",
+      "items": [
+        "Zapier, Make, n8n",
+        "Webhooks & REST APIs",
+        "Data Migration & Cleanup",
+        "Salesforce",
+        "HubSpot",
+        "HTML/CSS"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
