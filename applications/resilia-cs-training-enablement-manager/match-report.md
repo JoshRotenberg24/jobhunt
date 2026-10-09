@@ -15,7 +15,7 @@
 | :--- | :--- | :--- |
 | Remote US, EST overlap | Met | MT, two hours behind EST |
 | Work authorization | Application-form | U.S. citizen |
-| Compensation | Application-form | Not posted. Answer "open to your range for this role" |
+| Compensation | Application-form | Not posted; hiring US or Philippines signals a lean budget. Suggested answer: **$80,000** |
 
 No knockout. No cap. No video answer.
 
