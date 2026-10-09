@@ -81,6 +81,13 @@
 > **SMS (confirmed by Josh, Oct 9 2026):** his GoHighLevel lifecycle workflows send SMS
 > (booking confirmations, reminders, reactivation) alongside email. Claim "email and SMS."
 >
+> **GoHighLevel start (confirmed by Josh, Oct 9 2026):** hands-on in GoHighLevel since 2024
+> (Solenzo). Sub-account count, snapshots, A2P 10DLC registration, and agency-level admin are
+> still unconfirmed; don't claim them.
+>
+> **Answer format (Josh, Oct 9 2026):** application answers must be paste-ready, never with
+> [bracket] placeholders. Write around unknowns instead.
+>
 > **Entry-level pay (Josh, Oct 2026):** willing to accept entry-level pay for the right role
 > (Wordly). On forms with no posted range, answer "open to your range for this role."
 >
