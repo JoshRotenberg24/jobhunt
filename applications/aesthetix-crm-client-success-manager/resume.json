@@ -1,0 +1,92 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Success Manager | GoHighLevel & CRM Automation, Adoption, Account Health & Expansion",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client success manager who works hands-on inside the account. I build and fix GoHighLevel workflows, pipelines, forms, calendars, and email and SMS automation myself, and I trace integration and messaging issues down to what broke and why. At Birdeye I managed 15-20 partners, including healthcare-focused agencies, and kept all but one by watching utilization and stepping in early. At Wix I onboarded 25+ clients a month at 110% of implementation targets.",
+  "experience": [
+    {
+      "title": "Client Success & CRM Lead — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the client relationship for a portfolio of service businesses, auditing and adjusting workflows, pipelines, forms, calendars, and automations to match how each business actually operates.",
+        "Built a 20+ workflow GoHighLevel system: lead capture and routing, booking with confirmations and reminders, no-show recovery, onboarding nurture, reactivation, and automated review requests.",
+        "Troubleshoot integrations and messaging directly, working in webhooks, REST APIs, and JSON payloads, and hold email deliverability above 99% across email and SMS programs.",
+        "Install Meta Pixel and Google Ads conversion tracking and enforce UTM conventions so lead source and ad attribution stay accurate.",
+        "Identify expansion opportunities and scope complementary services, documenting every interaction, goal, and deliverable in GoHighLevel, HubSpot, and Notion."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail, including agencies focused on healthcare clients, retaining all but one (~94%).",
+        "Analyzed partner utilization to spot at-risk accounts early and recommend interventions that reduced churn.",
+        "Advised partners on retention strategy and customer health metrics, and fed structured feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets, and managed a high-value portfolio that saw 25% conversion improvement across supported accounts.",
+        "Led onboarding teams of up to 30 specialists, running weekly training and 1:1 coaching."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised clients on CRM adoption and guided onboarding and workflow design, building relationships with C-suite executives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Success",
+      "items": [
+        "Success Reviews",
+        "Account Health & Risk",
+        "Adoption & Expansion",
+        "Success Plans"
+      ]
+    },
+    {
+      "category": "CRM & Automation",
+      "items": [
+        "GoHighLevel",
+        "HubSpot",
+        "Salesforce",
+        "Email & SMS",
+        "UTMs & Ad Conversion Tracking",
+        "ClickUp"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
