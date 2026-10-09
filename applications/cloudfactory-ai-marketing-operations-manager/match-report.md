@@ -14,7 +14,7 @@
 | Item | Classification | Notes |
 | :--- | :--- | :--- |
 | Remote US / work authorization | Met | U.S. citizen |
-| Compensation | Application-form | Not posted. Answer "open to your range for this role" |
+| Compensation | Application-form | Not posted. Market for remote US Marketing Ops Manager runs ~$90K-$142K (Glassdoor, Built In, PayScale, Oct 2026). Suggested answer: **$105,000 base** plus their quarterly variable; Josh to confirm |
 | Agency/freelancer management | **Needs candidate confirmation** | Required; not in profile |
 
 No knockout. No cap. No video answer.
