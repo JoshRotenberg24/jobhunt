@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Automation | HubSpot Workflows, Lead Scoring & Routing, Deliverability",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing automation builder who turns strategy into workflows that run without breaking. I build lead scoring, lifecycle stages, routing, and multi-touch nurture in HubSpot and GoHighLevel, sync marketing automation to the CRM, and debug integrations myself through webhooks, APIs, and JSON. I set up email authentication and warm-up myself at 99%+ deliverability, work in HTML, CSS, and JavaScript, and use the OpenAI and Claude APIs inside production workflows.",
+  "experience": [
+    {
+      "title": "Marketing Automation Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built a 20+ workflow automation system: lead capture, tagging and routing, qualification, booking, no-show recovery, onboarding nurture, reactivation, and review requests across email and SMS.",
+        "Build lead scoring, qualification criteria, and lifecycle stages in HubSpot and GoHighLevel, with marketing-to-CRM syncs and strict data hygiene.",
+        "Integrate automation with outside systems through Zapier, Make, n8n, webhooks, and REST APIs, writing JavaScript and Python in custom code steps and debugging failures myself.",
+        "Set up sending domains, SPF/DKIM/DMARC, and warm-up, holding deliverability above 99%, and configure cookie consent on client sites.",
+        "Build monitoring that catches broken or underperforming automation logic, and enforce UTM conventions for clean attribution."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran account-based LinkedIn campaigns targeting small, highly researched audiences, and produced multi-touch email sequences and landing pages."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Worked intent and routing tools synced to Salesforce and managed 15-20 reseller partners, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Defined and labeled the Salesforce fields required for outbound sales and onboarding workflows, and advised on A/B testing for a Salesforce workflow-automation effort."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Helped leadership build the lead qualification system and built Zapier automations, while ranking top three on the sales team."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Automation",
+      "items": [
+        "HubSpot Workflows",
+        "Lead Scoring & Routing",
+        "Multi-Touch Nurture",
+        "ABM",
+        "Deliverability & Consent"
+      ]
+    },
+    {
+      "category": "Systems & Code",
+      "items": [
+        "Salesforce",
+        "Zapier, Make, n8n",
+        "HTML, CSS, JavaScript",
+        "GA4 & GTM",
+        "OpenAI & Claude APIs"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
