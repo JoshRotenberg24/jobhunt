@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 9, 2026",
+  "company": "NerdWallet",
+  "role": "Marketing Operations Associate (Contract)",
+  "recipient": "Hiring Team",
+  "body": [
+    "I like the idea of making a financial decision simple enough that people can stop worrying about the details and get on with their lives, and that is the work NerdWallet does. This role is the operational side of it: keeping the rates, disclosures, reporting, and partner details right so the marketplace can be trusted.",
+    "That kind of work is what I already do. I build reporting in Excel, Google Sheets, and SQL (BigQuery), set up Meta and Google Ads conversion tracking with enforced UTM conventions, and validate every data import before anyone relies on it. At Level Agency I worked on accounts spending $20K+ a month on ads, some peaking above $100K, where a reporting error showed up immediately. I also automate the repetitive parts with Zapier, Make, n8n, and Claude, which fits the way you describe the role.",
+    "Invoice reconciliation and tools like Voluum and Ironclad would be new to me. I pick up new platforms quickly and I'm comfortable owning the follow-up with partners until an item is closed. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}

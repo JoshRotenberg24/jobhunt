@@ -71,8 +71,9 @@ Strong on the preferred list (conversion tracking, CPL/CPA, Google/Meta Ads, SQL
 2. Have you edited or built pages in WordPress for clients?
 
 ## Notes
-- No cover letter: not requested. Resume leads with performance marketing ops instead of implementation.
+- Cover letter built on request (Oct 9). Resume leads with performance marketing ops instead of implementation.
 - Standing Akimbo (regulated compliance) dropped for length; mention in the interview for the regulated-content angle.
 
 ## Output Files
 - `NerdWallet-MarketingOpsAssociate-Resume.pdf` / `.docx` (1 page; Fivestars, Senior Directory, Standing Akimbo omitted; order preserved)
+- `NerdWallet-MarketingOpsAssociate-CoverLetter.pdf` / `.docx`
