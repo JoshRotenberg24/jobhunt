@@ -1,0 +1,92 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Lifecycle & Retention Marketing | Automated Flows, Segmentation, Testing & QA",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Lifecycle marketer who owns the strategy and builds the flows myself, no agency handoff. At Solenzo I designed a 20+ workflow lifecycle system covering welcome, post-purchase onboarding, review requests, long-term nurture, and reactivation of lapsed customers, segmented on behavior and lifecycle stage. I build the trigger logic and custom tracking events, monitor for broken automation, and connect results to conversion in GA4 and CRM reporting.",
+  "experience": [
+    {
+      "title": "Lifecycle & CRM Marketing Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected a 20+ workflow email and SMS lifecycle system: welcome, qualification, booking confirmations and reminders, no-show recovery, post-sale onboarding, nurture and reactivation, and review generation.",
+        "Set up sending domains, SPF/DKIM/DMARC authentication, and warm-up myself, holding email deliverability above 99%.",
+        "Design segmentation, lifecycle stages, and scoring on customer behavior and engagement, and personalize messaging using AI-scored signals.",
+        "Build monitoring and evaluation loops that catch broken or underperforming automation logic before customers see it.",
+        "Build custom GA4 conversion events, triggers, and variables in Google Tag Manager, validated in Preview mode and browser developer tools."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced multi-touch email sequences, landing pages, and conversion copy for client campaigns.",
+        "Built campaign reporting tracking ROI, CAC, LTV, and conversion KPIs, with optimization recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated training and communication sequences and advised 15-20 partners on retention strategy and customer health metrics, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Built and launched e-commerce sites for established retailers adding an online storefront alongside their physical locations.",
+        "Managed a high-value account portfolio contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led multiple onboarding teams of up to 30 specialists, running weekly training and 1:1 coaching."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Lifecycle Marketing",
+      "items": [
+        "Email & SMS Segmentation",
+        "Welcome, Post-Purchase & Win-Back Flows",
+        "A/B Testing & Automation QA",
+        "Deliverability (99%+)"
+      ]
+    },
+    {
+      "category": "Platforms & Data",
+      "items": [
+        "Mailchimp",
+        "HubSpot",
+        "GoHighLevel",
+        "GA4 & GTM Custom Events",
+        "Power BI",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

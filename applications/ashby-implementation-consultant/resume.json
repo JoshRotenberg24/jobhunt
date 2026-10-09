@@ -1,0 +1,100 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Consultant | SaaS Configuration, Testing & Go-Live | Change Management",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation consultant who configures complex SaaS platforms to each customer's requirements, tests before go-live, and documents every decision. At Accelo I scoped and planned implementations of a CRM, project, and billing platform. At Wix I launched 25+ clients a month at 110% of implementation targets. I build and debug my own integrations (webhooks, REST APIs, Zapier, Make, n8n).",
+  "experience": [
+    {
+      "title": "Implementation Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end implementations from discovery to go-live, translating business requirements into tailored system configuration and workflows, then training owners and staff.",
+        "Validate every configuration before launch, re-checking data imports and testing tracking in GTM Preview mode and browser developer tools.",
+        "Build and debug production automations in Zapier, Make, n8n, and GoHighLevel, working directly in webhooks, REST APIs, and JSON payloads.",
+        "Document every client interaction, decision, and deliverable, keeping configuration records auditable for post-launch optimization."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Onboarded and trained 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94% retention)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Implemented and launched 25+ clients per month with up to ~25 concurrent onboardings, holding 110% of implementation targets.",
+        "Defined and labeled the CRM fields required for onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order.",
+        "Advised clients on CRM adoption and best practices, designing operational systems around their growth stage and team structure.",
+        "Guided onboarding, workflow design, and API integrations alongside implementation teams.",
+        "Held workshops for client teams showing how each part of the product would work for them."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": [
+        "Requirements Gathering",
+        "Tailored Configuration",
+        "Pre-Go-Live Testing",
+        "Change Management & Training"
+      ]
+    },
+    {
+      "category": "Technical",
+      "items": [
+        "Webhooks & REST APIs",
+        "Zapier, Make, n8n",
+        "SQL (working proficiency)"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Notion",
+        "Jira"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,92 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Payments Operations & Implementation | Client Onboarding, Stripe Setup, Troubleshooting & Integrations",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation and onboarding specialist who takes clients from sales handover through go-live and keeps them running after. At Wix I launched 25+ clients a month, up to ~25 at once, at 110% of implementation targets. I've set up and worked in Stripe, walked clients through invoicing and billing workflows at Accelo, and debug integrations myself through webhooks, REST APIs, and JSON. I track every requirement, blocker, and follow-up until it's closed.",
+  "experience": [
+    {
+      "title": "Implementation Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead client onboarding from handover to go-live, collecting requirements and documentation, configuring systems, and training owners and staff.",
+        "Set up and work in Stripe for payment workflows, and configure integrations, webhooks, REST API calls, and OAuth/API-key credentials, resolving errors directly.",
+        "Set up and validate data imports into Salesforce, HubSpot, and GoHighLevel, re-checking every import for accuracy.",
+        "Document every client interaction, status, and deliverable, keeping records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and trained 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94% retention).",
+        "Analyzed partner utilization metrics to spot adoption gaps early and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Served a banking-industry client and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Implemented and launched 25+ clients per month with up to ~25 concurrent onboardings, holding 110% of implementation targets and delivering launches on schedule.",
+        "Led multiple onboarding teams of up to 30 specialists, running weekly training sessions, workshops for new initiatives, and 1:1 coaching."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Walked clients through Accelo's invoicing and billing features, showing how time, projects, and billing connect in one system.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and guided onboarding, workflow design, and API integrations."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Payments & Implementation",
+      "items": [
+        "Client Onboarding to Go-Live",
+        "Stripe",
+        "Requirements & Documentation Tracking",
+        "Pre-Launch Testing",
+        "Issue Escalation"
+      ]
+    },
+    {
+      "category": "Technical & Tools",
+      "items": [
+        "Webhooks & REST APIs",
+        "Excel",
+        "SQL (working proficiency)",
+        "Salesforce",
+        "HubSpot",
+        "Asana"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

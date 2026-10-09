@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Consultant | Onboarding, Training & Adoption | Automation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation consultant who owns client onboarding from setup through go-live and post-launch adoption. At Wix I launched 25+ clients a month, up to ~25 at once, at 110% of implementation targets. I build and debug the automations behind my own implementations (Zapier, Make, n8n, webhooks, REST APIs) and work hands-on in Excel and SQL.",
+  "experience": [
+    {
+      "title": "Implementation Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end client implementations from discovery to go-live, translating business requirements into system configuration and workflows, then training owners and staff.",
+        "Build and debug production automations in Zapier, Make, n8n, and GoHighLevel, plus Stripe payment setup, configuring webhooks, REST API calls, and OAuth/API-key credentials and resolving integration errors directly.",
+        "Built a 20+ workflow GoHighLevel system automating booking confirmations, reminders, no-show recovery, and post-sale onboarding nurture.",
+        "Set up and validate data imports into Salesforce, HubSpot, and GoHighLevel, re-checking every import for accuracy."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and trained 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94% retention).",
+        "Analyzed partner utilization metrics to spot adoption gaps early and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Served a banking-industry client and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Implemented and launched 25+ clients per month with up to ~25 concurrent onboardings, holding 110% of implementation targets and delivering launches on schedule.",
+        "Led multiple onboarding teams of up to 30 specialists, running weekly training sessions, workshops for new initiatives, and 1:1 coaching."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Walked clients through Accelo's invoicing and billing features, showing how time, projects, and billing connect in one system.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and guided onboarding, workflow design, and API integrations."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": [
+        "Setup to Go-Live & 30-60 Day Adoption",
+        "Client Training & Launch Sessions",
+        "Escalation & Issue Resolution"
+      ]
+    },
+    {
+      "category": "Automation & Data",
+      "items": [
+        "Zapier, Make, n8n",
+        "Webhooks & REST APIs",
+        "SQL (working proficiency)",
+        "Excel",
+        "Data Import & Validation"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Stripe",
+        "HubSpot",
+        "Salesforce",
+        "Asana",
+        "GoHighLevel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "B2B Growth & Performance Marketing | Paid Social, Channel Testing & AI-Driven Campaigns",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "B2B growth marketer who runs paid channels, tests them, and makes the call on what to scale. At Level Agency I ran account-based LinkedIn campaigns with A/B-tested setups and planned budgets for accounts spending $20K+/month, some peaking above $100K. At Solenzo I build AI-driven acquisition systems and test offers end to end, from targeting to conversion tracking to CRM.",
+  "experience": [
+    {
+      "title": "Growth Marketing Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Launched a free digital-footprint audit as a top-of-funnel offer, distributed through LinkedIn organic growth: 180+ businesses enrolled, 2 converted to paying clients.",
+        "Optimized a client's Google Ads account to cut spam and low-quality leads, then diagnosed on-site conversion as the remaining bottleneck.",
+        "Build AI-driven acquisition workflows that score a business's digital footprint and generate personalized outreach, using LLM APIs inside n8n, Make, and Zapier.",
+        "Install Meta Pixel and Google Ads conversion tracking, enforce UTM conventions, and build funnel and ROI dashboards."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Designed and ran LinkedIn ad campaigns on an account-based model, targeting small, highly researched audiences with A/B-tested setups.",
+        "Advised clients on budget planning and allocation across ~3 accounts at $20K+/month in ad spend each, peaking above $100K/month.",
+        "Built campaign reporting tracking ROI, CAC, LTV, and conversion KPIs, and presented optimization recommendations in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built a channel of 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency and closed 6 new-client deals averaging ~$22K."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Advised on A/B testing strategy for a Salesforce workflow effort, defining test structure and success criteria."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in B2B SaaS sales on a team of 8-15 reps while quota roughly doubled, selling to agencies and architecture and engineering firms."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Growth & Paid Media",
+      "items": [
+        "LinkedIn Ads, Meta Ads (certified)",
+        "Google Ads",
+        "Test Design & Budget Allocation",
+        "CAC & Conversion Tracking"
+      ]
+    },
+    {
+      "category": "Analytics, CRM & AI",
+      "items": [
+        "GA4",
+        "Salesforce",
+        "HubSpot",
+        "Power BI",
+        "SQL",
+        "ChatGPT, Claude & LLM APIs"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
