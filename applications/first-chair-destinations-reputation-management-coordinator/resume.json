@@ -1,0 +1,90 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Reputation Management & Guest Experience | Reviews, Issue Follow-Through, Accurate Records",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer-facing operations professional with deep reputation management experience. At Birdeye, a reputation management platform, I onboarded and trained 15-20 reseller partners on review and reputation tools and retained all but one (~94%). At Solenzo I build automated review-request and follow-up workflows for service businesses. I keep records clean and follow issues through to resolution across teams. Before my SaaS career I spent 15+ years working in restaurants, so guest experience is second nature.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build automated review-generation and follow-up workflows for service businesses, and set up and maintain their Google Business Profile listings.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping records accurate and auditable.",
+        "Validate every data import and system update, re-checking results for accuracy."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and trained 15-20 reseller partners on Birdeye's reputation management and review tools, retaining all but one (~94%).",
+        "Advised partners on customer health and retention, and identified recurring issues to share with Product and Engineering.",
+        "Handled 50+ partner activities per day, tracked in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed up to ~25 concurrent client onboardings and 25+ launches per month at 110% of implementation targets.",
+        "Defined the Salesforce fields required for onboarding workflows, standardizing data capture and record accuracy across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Escalated client issues to leadership early and followed them through to resolution."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Sold a loyalty and customer-engagement platform to small local businesses."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Reputation & Guest Experience",
+      "items": [
+        "Review Platforms & Reputation Tools (Birdeye, Google Business Profile)",
+        "Guest Concern Follow-Through",
+        "Trend Spotting in Feedback",
+        "Brand-Voice Writing"
+      ]
+    },
+    {
+      "category": "Operations & Systems",
+      "items": [
+        "Multiple Workflows & Deadlines",
+        "Accurate System Updates & Documentation",
+        "Cross-Team Coordination",
+        "Salesforce, HubSpot, Google Workspace"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
