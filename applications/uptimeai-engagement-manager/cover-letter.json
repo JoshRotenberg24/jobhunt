@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 11, 2026",
+  "company": "UptimeAI",
+  "role": "Engagement Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "Getting AI from a promising pilot to something an operations team relies on is the part of this role I'd own best. I deploy AI in production for clients today: LLM calls inside automated workflows, with rubric-based grading of the output so nothing reaches a customer unchecked. The hard part is rarely the model. It's getting the people who run the operation to trust the output and change how they work.",
+    "That's been my career. At Accelo I advised C-suite leaders on operational system design and built the sequenced implementation plans their teams executed. At Wix I ran up to 25 deployments at once at 110% of my implementation target, and at Birdeye I used usage data to catch adoption gaps early and retained all but one of 15 to 20 partners.",
+    "To be direct: I haven't worked with industrial customers or deployed predictive maintenance or APM platforms, and my accounts have been mid-market rather than enterprise. If you're open to someone who brings the adoption and AI side and learns the plant side, I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}
