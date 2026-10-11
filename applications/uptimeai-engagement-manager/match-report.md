@@ -1,5 +1,7 @@
 # Match Report — Engagement Manager, UptimeAI
 
+> **Status: SKIPPED by Josh (Oct 11, 2026).** Not applying. Files kept for reference.
+
 **Role:** Engagement Manager (enterprise industrial AI deployments), reports to VP Customer Success
 **Company:** UptimeAI (industrial AI / predictive maintenance for heavy industry)
 **Link:** https://jobs.ashbyhq.com/uptimeai/f5eb6272-cb85-41f2-ad94-ce9af70b4453
