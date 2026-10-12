@@ -79,6 +79,6 @@ No knockouts.
 ## Output files
 
 - `Egnyte-CSM-II-Resume.pdf` / `.docx` (2 pages, modern, chronology OK)
-- No cover letter (resume only, following Josh's Snappy call; build one on request).
+- `Egnyte-CSM-II-CoverLetter.pdf` / `.docx` (1 page, added at Josh's request)
 
-Upload the **PDF** resume.
+Upload the **PDF** resume and cover letter.
