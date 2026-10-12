@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Growth Systems & CRM Administration | CRM Configuration, Integrations, Tracking & Reporting for Growth Teams",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Hands-on CRM owner and growth-systems builder. At Solenzo I am the primary administrator for client CRMs in GoHighLevel and HubSpot: pipelines, lifecycle stages, segmentation, data hygiene, 20+ automated workflows, and integrations built with webhooks, REST APIs, and OAuth in n8n, Make, and Zapier. I install GA4 and Google Tag Manager with conversion tracking and consent configuration, build dashboards in Power BI, and validate every data import into Salesforce, HubSpot, and GoHighLevel. Before that, 15+ years partnering with sales, marketing, and onboarding leaders at Wix, Birdeye, and Accelo, including defining the Salesforce fields our onboarding workflows ran on.",
+  "experience": [
+    {
+      "title": "CRM & Growth Systems Administrator — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own and administer client CRMs in GoHighLevel and HubSpot: contact segmentation, lifecycle stages, lead scoring and qualification criteria, and strict data-hygiene rules.",
+        "Configure 20+ automated workflows covering lead capture, tagging and routing, qualification, booking with reminders, no-show follow-up, nurture, and review requests.",
+        "Build integrations in n8n, Make, and Zapier with OAuth and API-key credentials, webhooks, REST API calls, and JSON payloads; set up and validate data feeds into Salesforce, HubSpot, and GoHighLevel.",
+        "Install GA4 and Google Tag Manager with conversion tracking, UTM conventions, and cookie-consent configuration; build Power BI and CRM dashboards for leadership.",
+        "Gather requirements from business owners, implement and test the solution, train their staff, and document configurations in Notion."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built performance reporting tracking ROI, CAC, LTV, and conversion KPIs for marketing accounts at $20K+/month in spend."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and trained 15-20 reseller partners, including healthcare-focused agencies, on marketing automation and reputation tools, retaining all but one (~94%); worked in Salesforce with synced enrichment and routing tools."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Defined the Salesforce fields required for outbound sales and onboarding workflows, standardizing data capture across teams of up to 30.",
+        "Advised on A/B testing strategy for a Salesforce workflow-automation effort, defining test structure and success criteria."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold, scoped, and planned implementations of a CRM/PSA platform; guided workflow design and API integrations, and built Zapier automations; helped leadership build the lead qualification system."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "CRM & Systems Ownership",
+      "items": [
+        "GoHighLevel & HubSpot Administration",
+        "Salesforce (user; field and workflow design)",
+        "Workflow Automation & Data Quality",
+        "Requirements, Testing, Training & Adoption"
+      ]
+    },
+    {
+      "category": "Integrations, Tracking & Reporting",
+      "items": [
+        "APIs, Webhooks, OAuth, JSON (n8n, Make, Zapier)",
+        "GA4, Google Tag Manager, Consent Configuration",
+        "Power BI, SQL (working), Excel",
+        "Documentation & System Governance"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
