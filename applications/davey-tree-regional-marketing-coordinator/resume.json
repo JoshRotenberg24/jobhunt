@@ -1,0 +1,101 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Regional Marketing | Home Services Demand Generation, Local Listings & Reviews, Paid and Email Campaigns",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Colorado-based marketer with 15+ years in marketing and B2B SaaS, specializing in local demand generation for home-services businesses. At Solenzo I run marketing for electrical, plumbing, and HVAC companies: Google Business Profile and local listings, review generation, paid search, email sequences, and GA4 reporting. Before that I managed paid media for accounts spending $20K+/month at Level Agency, trained partners on Birdeye's reputation and listings tools, and supported client events and industry conventions at Accelo. Meta Ads certified; Google Digital Marketing & E-Commerce certificate.",
+  "experience": [
+    {
+      "title": "Local Marketing & Demand Generation (Home Services) — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Claim, set up, and optimize Google Business Profile listings (categories, services, photos, posts) as the first deliverable for every home-services client, the foundation of their local lead flow.",
+        "Build automated review-generation, appointment, and nurture email sequences across a 20+ workflow system, and write the email, ad, and landing page copy.",
+        "Optimized a client's Google Ads account, cutting spam leads and improving click quality, then diagnosed on-site conversion as the remaining bottleneck.",
+        "Install GA4 and Google Tag Manager with conversion tracking and UTM conventions, and report results on a regular cadence with specific recommendations.",
+        "Wrote and published 18 articles on local SEO, reviews, AI search visibility, and attribution for small-business owners."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated marketing across paid media, inbound, and content for ~3 client accounts at $20K+/month in ad spend each, advising on budget planning and allocation.",
+        "Ran LinkedIn ad campaigns with A/B-tested setups and built reporting on ROI, CAC, and conversion KPIs for QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Trained and onboarded 15-20 reseller partners, including home-services and healthcare agencies, on Birdeye's review, reputation, and listings-syndication tools, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client campaigns end to end at a performance marketing agency, including home-services clients, and turned performance data into optimization recommendations."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations on site architecture, SEO, and Google Business Profile setup, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Trained onboarding teams of up to 30 on platforms and process through weekly sessions and 1:1 coaching."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Supported client events and attended industry conventions, and ran workshops for client teams."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Local & Digital Marketing",
+      "items": [
+        "Google Business Profile & Local Listings",
+        "Customer Review Platforms (Birdeye, Google)",
+        "Google Ads, Meta Ads (certified), LinkedIn Ads",
+        "Email Marketing (Mailchimp, GoHighLevel)"
+      ]
+    },
+    {
+      "category": "Analytics & Operations",
+      "items": [
+        "GA4, Google Tag Manager, Search Console",
+        "Budget Planning & Campaign Reporting",
+        "Content Calendars & Copywriting",
+        "Platform Training for Sales Teams"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
