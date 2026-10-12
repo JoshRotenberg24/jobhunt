@@ -19,8 +19,8 @@
         "Own and administer client CRMs in GoHighLevel and HubSpot: contact segmentation, lifecycle stages, lead scoring and qualification criteria, and strict data-hygiene rules.",
         "Configure 20+ automated workflows covering lead capture, tagging and routing, qualification, booking with reminders, no-show follow-up, nurture, and review requests.",
         "Build integrations in n8n, Make, and Zapier with OAuth and API-key credentials, webhooks, REST API calls, and JSON payloads; set up and validate data feeds into Salesforce, HubSpot, and GoHighLevel.",
-        "Install GA4 and Google Tag Manager with conversion tracking, UTM conventions, and cookie-consent configuration; build Power BI and CRM dashboards for leadership.",
-        "Gather requirements from business owners, implement and test the solution, train their staff, and document configurations in Notion."
+        "Install GA4 and Google Tag Manager with conversion tracking, call tracking, UTM conventions, and cookie-consent configuration; build Power BI and CRM dashboards for leadership.",
+        "Gather requirements from business owners, implement and test the solution, manage software vendors and implementation partners, train staff, and document configurations in Notion."
       ]
     },
     {
@@ -77,14 +77,14 @@
         "GoHighLevel & HubSpot Administration",
         "Salesforce (user; field and workflow design)",
         "Workflow Automation & Data Quality",
-        "Requirements, Testing, Training & Adoption"
+        "Requirements, Vendor Management, Training & Adoption"
       ]
     },
     {
       "category": "Integrations, Tracking & Reporting",
       "items": [
         "APIs, Webhooks, OAuth, JSON (n8n, Make, Zapier)",
-        "GA4, Google Tag Manager, Consent Configuration",
+        "GA4, Google Tag Manager, Call Tracking, Consent",
         "Power BI, SQL (working), Excel",
         "Documentation & System Governance"
       ]

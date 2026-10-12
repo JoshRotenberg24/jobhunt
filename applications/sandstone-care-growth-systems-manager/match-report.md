@@ -26,18 +26,18 @@ No knockout. No cap. No video answer.
 
 ## Application Priority Score
 
-⚪ **80 / 100 — Strong fit (apply, competitive)**
-`[████████████████░░░░]  80%`
+⚪ **84 / 100 — Strong fit (apply, competitive)**
+`[█████████████████░░░]  84%`
 
 *Internal decision aid, not a prediction of Sandstone's screening outcome.* See `fit.png`.
 
 | Dimension | Score | Max |
 | :--- | :---: | :---: |
-| Must-have requirements met | 33 | 40 |
+| Must-have requirements met | 36 | 40 |
 | Seniority & scope alignment | 13 | 15 |
 | Domain / industry alignment | 9 | 15 |
 | Differentiators / nice-to-haves | 13 | 15 |
-| Evidence strength | 12 | 15 |
+| Evidence strength | 13 | 15 |
 
 The core of the job (own the CRM, build workflows and integrations, tracking, dashboards, train and document) is Josh's Solenzo work. Held back by no healthcare CRM / HIPAA marketing tools, no call-tracking platform, and Salesforce as user not admin.
 
@@ -50,16 +50,15 @@ The core of the job (own the CRM, build workflows and integrations, tracking, da
 | 3+ yrs primary CRM admin/owner, config examples | Adjacent-strong | GHL/HubSpot (Solenzo) |
 | New Resilience, Salesforce, or healthcare CRM (strongly preferred) | Partial | Salesforce user + field design; no admin, no healthcare CRM |
 | API integrations (preferred) | Strong | Webhooks, REST, OAuth, JSON |
-| Call tracking / contact center (CTM, CallRail, Five9) | Gap | Not documented |
+| Call tracking / contact center (CTM, CallRail, Five9) | Adjacent-strong | Call tracking confirmed (Oct 12); specific tool not named |
 | HIPAA-compliant marketing data tools, GA4, tag management | Partial | GA4, GTM, consent setup strong; HIPAA tools gap |
 | Behavioral health knowledge (preferred) | Gap | Healthcare-adjacent only (Birdeye healthcare agencies) |
-| Vendor management | Gap/confirm | Not documented |
+| Vendor management | Strong | Confirmed (Oct 12) |
 | Dashboards, documentation, governance | Strong | Power BI, Notion |
 | Microsoft Office | Strong | Excel experienced |
 
 ## Candidate Confirmation Needed
-- Any call tracking (CallRail, CTM, GoHighLevel call tracking numbers)?
-- Any vendor or implementation-partner management?
+- Resolved Oct 12: call tracking and vendor/implementation-partner management both confirmed; added to profile, resume, cover letter. Name the call-tracking tool before the interview.
 
 ## Output Files
 - `SandstoneCare-GrowthSystemsManager-Resume.pdf` / `.docx`

@@ -414,6 +414,12 @@ operator talking, not like a candidate performing.
 > another role. Specific CMP tool (Cookiebot, OneTrust, GTM consent mode) not named.
 > Piwik PRO, Adform, The Trade Desk, Outbrain remain unconfirmed/gaps.
 >
+> **Call tracking + vendor management (Josh, Oct 12 2026, Sandstone Care):** confirmed he has set up
+> and used call tracking (specific tool not named; options asked were CallRail, CTM, or
+> GoHighLevel tracking numbers) and has managed relationships with software vendors or
+> implementation partners. Attributed to Solenzo by default; claim generically until the tool
+> and vendors are named.
+>
 > **Meta Ads Manager + app-install/TikTok (Josh, Oct 8 2026, Arc wine app):** confirmed hands-on
 > Meta/Instagram campaign management in Ads Manager. Also answered yes to having run app-install
 > and/or TikTok campaigns; which one (or both), for whom, and at what scale is not captured yet.
