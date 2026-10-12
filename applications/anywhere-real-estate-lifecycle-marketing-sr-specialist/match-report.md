@@ -16,7 +16,7 @@ Note: separate from the Aug 2026 Anywhere Integrated Services creative role (sco
 | :--- | :--- | :--- |
 | **Location: Chicago in-office or remote** | Application-form | **Needs confirmation.** Remote listed as an option; if it turns out Chicago-only, it's a knockout per his constraints. |
 | Work authorization | Application-form | **OK.** U.S. citizen. |
-| Salary expectation | Application-form | Not posted. Senior specialist; suggest **open to your range**, or ~$80K-$85K if forced (needs market check). |
+| Salary expectation | Application-form | Not posted. Anywhere ladder from third-party listings: Marketing Specialist $65K-$70K (NYC), Sr Manager Franchise Marketing $110K-$130K. Zillow's Lifecycle Marketing Sr Specialist (CO band) $86K-$138K. Expect ~$75K-$95K here. Answer **open to your range**; if a number is required, **$85,000**. |
 | Bachelor's or equivalent | Resume-evidenced | Covered. |
 | 3-5 yrs email/lifecycle/MAP/MOPs | Resume-evidenced | Covered. 5+ yrs CRM/marketing automation. |
 | Email campaigns concept to deploy | Resume-evidenced | Covered. Solenzo sequences; Level Agency email sequences. |
