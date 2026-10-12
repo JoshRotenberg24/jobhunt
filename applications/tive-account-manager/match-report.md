@@ -19,7 +19,7 @@ No knockouts.
 | Work authorization | Application-form | **OK.** U.S. citizen. |
 | Salary expectation | Application-form | Range posted. Lower-middle per profile: **$75,000 base** (matches his associate anchor). |
 | 3+ yrs Account Management / CS, pref. B2B SaaS | Resume-evidenced | **Covered.** Wix AM 2 yrs, Birdeye partner book, Level Agency, Solenzo. |
-| Shipping logistics experience | Preferred | **Gap.** None in profile. Named honestly in the cover letter. |
+| Shipping logistics experience | Preferred | **Adjacent.** Wix third-party shipping integrations for e-commerce clients. Not freight/supply-chain. |
 | Optimizing products/services to client needs | Resume-evidenced | Covered. Birdeye feedback to Product/Engineering; Solenzo scope expansion. |
 | Cross-functional relationships | Resume-evidenced | Covered. Wix team lead; Birdeye Product/Engineering. |
 | Revenue targets + customer revenue retention | Resume-evidenced | Covered. Wix 120%/110%; Birdeye ~94% retention. |
@@ -71,12 +71,12 @@ No knockouts.
 
 ## Gaps
 
-- Shipping logistics / supply chain / IoT: none.
+- Freight / supply chain / IoT: none (Wix e-commerce shipping setup is adjacent only).
 - No formal renewal-rate or NRR metric.
 
 ## Candidate confirmation needed
 
-Resolved Oct 12: has processed customer orders (employer not named; competencies only); receiving-side logistics exposure from restaurant years (used in cover letter, not resume). Added to profile.
+Resolved Oct 12: has processed customer orders (employer not named; competencies only); e-commerce shipping adjacency: set up third-party shipping integrations for Wix e-commerce clients (resume bullet + cover letter). Added to profile.
 
 ## Metrics needed
 

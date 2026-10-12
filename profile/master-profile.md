@@ -201,9 +201,10 @@ band.
 - **Has processed customer product/service orders** (order forms, add-ons) in a prior
   account role. Which employer (Wix, Birdeye, or Accelo) not captured; claim in
   competencies ("Order & Contract Management") until he names the role.
-- **Logistics adjacency:** as a cook (15+ years), received and checked supplier deliveries.
-  Receiving-side, first-hand view of late, short, or spoiled shipments. Not professional
-  logistics, freight, or supply-chain experience; keep that distinction.
+- **Shipping/logistics adjacency (Josh, Oct 2026, Tive):** at Wix, helped e-commerce clients
+  set up third-party shipping integrations for their online stores. E-commerce shipping
+  setup, not freight, supply-chain, or logistics-operations experience; keep that
+  distinction. (Restaurant delivery receiving was NOT confirmed; don't claim it.)
 
 ## Personal commitment to immigrant and refugee communities (confirmed Sep 2026)
 
