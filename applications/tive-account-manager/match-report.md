@@ -76,8 +76,7 @@ No knockouts.
 
 ## Candidate confirmation needed
 
-- **Order management:** did you process product or service orders (quantities, add-ons, order forms) at Wix, Birdeye, or Accelo? Would cover the one responsibility that's only adjacent.
-- **Logistics adjacency:** any personal or professional contact with shipping, freight, cold chain, or supply chain (including the restaurant years, receiving deliveries)?
+Resolved Oct 12: has processed customer orders (employer not named; competencies only); receiving-side logistics exposure from restaurant years (used in cover letter, not resume). Added to profile.
 
 ## Metrics needed
 

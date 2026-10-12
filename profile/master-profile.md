@@ -196,6 +196,15 @@ band.
 - **Has inbound response-time / speed-to-lead figures from Solenzo automations** — the
   number itself is not yet captured (see Numbers Worth Capturing).
 
+## Order processing and logistics adjacency (confirmed by Josh, Oct 2026, Tive)
+
+- **Has processed customer product/service orders** (order forms, add-ons) in a prior
+  account role. Which employer (Wix, Birdeye, or Accelo) not captured; claim in
+  competencies ("Order & Contract Management") until he names the role.
+- **Logistics adjacency:** as a cook (15+ years), received and checked supplier deliveries.
+  Receiving-side, first-hand view of late, short, or spoiled shipments. Not professional
+  logistics, freight, or supply-chain experience; keep that distinction.
+
 ## Personal commitment to immigrant and refugee communities (confirmed Sep 2026)
 
 - Josh has confirmed a full, genuine personal commitment to helping immigrant and refugee
