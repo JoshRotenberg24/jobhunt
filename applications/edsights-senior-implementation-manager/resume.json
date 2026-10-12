@@ -1,0 +1,101 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Senior Implementation Manager | CRM Implementation, Data Mapping & Integrations, Change Management, Team Mentoring",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation leader with 5+ years building and implementing CRM systems and years of SaaS onboarding, from kickoff through launch and handoff. Configures CRMs (GoHighLevel, HubSpot, Salesforce), maps fields, runs and validates data imports (including a 1,400+ contact CRM cleanup), and builds workflow automation and integrations. Led onboarding teams of up to 30 at Wix while managing about 25 concurrent onboardings at peak at 110% of implementation targets, and coached new specialists through every rollout. Guides multiple stakeholders through change, from day-to-day users to the C-suite.",
+  "experience": [
+    {
+      "title": "CRM Implementation & Integrations (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end CRM implementations for each client: discovery, project plan, configuration, field mapping and lifecycle stages, data migration, workflow automation, testing, training, and launch.",
+        "Run data feeds and imports into Salesforce, HubSpot, and GoHighLevel and validate every record after load.",
+        "Built 20+ automated workflows and connected client systems through REST APIs, webhooks, and JSON in Zapier, Make, and n8n.",
+        "Coach client teams through the change to a new system, documenting configurations and decisions in Notion and HubSpot so the setup outlasts the launch."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts (~3 at $20K+/month in ad spend each), coordinating internal teams and presenting status and results to client leadership."
+      ]
+    },
+    {
+      "title": "Partner Onboarding & Enablement (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded 15-20 reseller partner organizations, each with its own end customers, retaining all but one (~94%) through tracking adoption and stepping in early on risk.",
+        "Built automated training sequences, guided complex technical setup, and liaised between partners and Product and Engineering on issues and feedback."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built processes in HubSpot, Monday.com, and ClickUp that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed about 25 concurrent onboardings at peak while launching 25+ clients a month at 110% of implementation targets.",
+        "Led onboarding teams of up to 30, mentoring specialists through weekly training, 1:1 coaching, and workshops for each new initiative, and helped hire and ramp new team members.",
+        "Drove process improvements for a new vertical that went from proof of concept to a profitable business line, and defined the Salesforce fields used across the team."
+      ]
+    },
+    {
+      "title": "Implementation Scoping & Solution Consulting (Account Executive)",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Scoped CRM/PSA implementations for professional-services firms and built the sequenced implementation plans the delivery team executed, ranking which systems to change and in what order.",
+        "Ran workshops for client teams on how each part of the platform fit their workflow, guided API integrations, and advised C-suite executives on adoption."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": [
+        "CRM Implementation & Configuration",
+        "Field Mapping & Data Migration",
+        "Project Plans & Risk Mitigation",
+        "Change Management Coaching",
+        "Multi-Stakeholder Management",
+        "Mentoring & Training"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel",
+        "Asana, Monday.com, Jira, ClickUp",
+        "Zapier, Make, n8n, REST APIs",
+        "Excel, Power BI, SQL (working)"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
