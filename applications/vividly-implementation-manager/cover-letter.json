@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 12, 2026",
+  "company": "Vividly",
+  "role": "Implementation Manager",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Implementation Manager role. Taking a documented design, understanding the business reason behind it, and turning it into configuration people can actually work in is what I do every day. In my own practice I configure CRM and automation platforms from client requirements, prepare and validate the data imports myself, test the workflows before launch, and train the team that will use them.",
+    "I've also run implementations at volume. At Wix I managed up to about 25 concurrent onboardings and launched 25+ clients a month at 110% of implementation targets. At Accelo I built sequenced implementation plans for a CRM and PSA platform and walked professional-services clients through its invoicing and billing workflows. When something didn't match the plan, I escalated it early rather than letting it turn into rework, and I'd bring that same habit to knowing when Solution Architecture needs to come back in.",
+    "I haven't worked in CPG or trade promotion, and I'd be learning deductions from the ground up. I've built e-commerce for retail brands and I work in Excel and data every day, and I'd welcome a conversation."
+  ],
+  "closing": "Sincerely,"
+}
