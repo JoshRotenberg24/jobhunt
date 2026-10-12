@@ -22,26 +22,26 @@ No knockouts. Remote US clears his location constraint; language fluency is pref
 | Post-secondary degree (pref. business) | Resume-evidenced | Covered. B.A. Liberal Arts, CSU. "Preferably" business, so not a blocker. |
 | 1-2 yrs managing client relationships + upselling | Resume-evidenced | **Covered, many times over.** Birdeye, Wix, Accelo, Solenzo. |
 | Fluency in additional languages | Preferred | English only. Real gap, preferred only. |
-| **Strong MS Office, primarily Excel and PowerPoint** | Resume-evidenced | Excel is confirmed (experienced). **PowerPoint still needs candidate confirmation** (fourth posting to name Office). Excel is on the resume; PowerPoint is not. |
-| **Experience with a global client base** | Preferred | **Needs candidate confirmation.** Wix serves an international customer base, but whether Josh's own accounts were non-US isn't documented. |
+| Strong MS Office, primarily Excel and PowerPoint | Resume-evidenced | **Covered.** Excel experienced; PowerPoint confirmed by Josh (Oct 12), same level as Google Slides. Both on resume. |
+| Experience with a global client base | Preferred | **Covered.** Accelo accounts included international clients (confirmed Oct 12). |
 
 ---
 
 ## Application Priority Score
 
 ```
-🟢 Application Priority Score: 84 / 100 — Strong fit
-[█████████████████░░░]  84%
+🟢 Application Priority Score: 87 / 100 — Strong fit
+[█████████████████░░░]  87%
 ```
 
 *Internal decision aid based on evidence in the master profile. Not a prediction of Absorb's screening, ATS output, or hiring decision.* See `fit.png`.
 
 | Dimension | Score | Reasoning |
 | :--- | :--- | :--- |
-| Must-have requirements met | 38 / 40 | Degree, relationship management + upsell, communication, time management, SaaS sales, Salesforce, Gong all land. Only soft miss: proposals/SOWs are evidenced as scoping and implementation plans rather than formal SOW authorship. |
+| Must-have requirements met | 40 / 40 | Every must-have lands, including proposals/SOWs (written himself at Accelo and Solenzo, confirmed Oct 12). |
 | Seniority & scope alignment | 9 / 15 | **Biggest issue.** Posting asks 1-2 years; "Emerging Growth" is the SMB/early-stage segment. Overqualification risk at screen (recruiter may assume he'll be bored or expensive). Cover letter addresses it head on. |
 | Domain / industry alignment | 12 / 15 | B2B SaaS throughout. No LMS/HR-tech selling, but real training-delivery experience (Wix team training, Accelo client workshops) gives him the L&D buyer's perspective. |
-| Differentiators | 12 / 15 | Role shape is his stated preference: inherit a book, deepen and expand it. Team-lead and training background is unusual for this level. |
+| Differentiators | 13 / 15 | Global client base at Accelo. Role shape is his stated preference: inherit a book, deepen and expand it. Team-lead and training background is unusual for this level. |
 | Evidence strength | 13 / 15 | ~94% partner retention, 120% of target, top three of 8-15 reps. No explicit net-dollar-retention or renewal-rate number. |
 
 **Band: Strong fit.** The work matches him; the level is below him. The decision is comp and level, not capability.
@@ -50,14 +50,14 @@ No knockouts. Remote US clears his location constraint; language fluency is pref
 
 ## Requirement coverage
 
-7 of 7 must-haves evidenced; 3 of 5 preferred (SaaS sales, Salesforce, Excel portion of Office).
+7 of 7 must-haves evidenced; 4 of 5 preferred (SaaS sales, Salesforce, Excel + PowerPoint, global client base). Only miss: additional language.
 
 | Requirement | Evidence |
 | :--- | :--- |
 | Grow NDR via upsell/cross-sell | Solenzo retainer-scope expansion; Wix 120% of sales targets on an account portfolio |
 | Lead renewals, expand ARR | Birdeye ~94% partner retention on $10K-$45K deals |
 | Land and expand within accounts | Solenzo scope expansion; Accelo services bookings on top of recurring revenue |
-| Proposals / SOWs | Accelo scoping + sequenced implementation plans; Solenzo scoping complementary services (adjacent) |
+| Proposals / SOWs | Wrote proposals and SOWs himself at Accelo and Solenzo |
 | Trusted relationships | Accelo C-suite advisory; Birdeye partner retention advisory |
 | Pipeline accuracy, monthly/quarterly reporting | Career-long forecast hygiene; Level Agency QBRs |
 | Cross-functional partnerships (CS, Support, Product) | Birdeye feedback loop to Product/Engineering; Wix team lead |
@@ -79,9 +79,7 @@ No knockouts. Remote US clears his location constraint; language fluency is pref
 
 ## Candidate confirmation needed
 
-- **PowerPoint**: hands-on proficiency? (Excel already confirmed.) If yes, add to profile and resume.
-- **Global client base**: were any of your Wix (or Birdeye) accounts outside the US?
-- **Formal SOWs**: did you write SOWs/proposals yourself at Accelo or Solenzo, or were they templated by ops?
+All three resolved Oct 12 (PowerPoint yes, Accelo global clients yes, wrote proposals/SOWs at Accelo and Solenzo) and added to `master-profile.md`.
 
 ## Metrics needed
 
