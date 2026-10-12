@@ -20,28 +20,28 @@ No knockouts.
 | 2+ yrs customer/partner-facing, BD, SDR, or commercial | Resume-evidenced | **Covered, far past.** BDR at Senior Directory, AE roles, Birdeye channel partners. |
 | Manage prioritized pipeline, discovery, next step | Resume-evidenced | Covered. Career-long pipeline/forecast hygiene; discovery at every sales role. |
 | Fintech / payments / digital-asset concepts | Resume-evidenced | **Partial.** Banking client + finalist bank pursuit at Fetch & Funnel; genuine personal interest in financial services. No crypto/stablecoin experience on file. |
-| Communities on LinkedIn, X, Telegram, Discord | Preferred | LinkedIn covered (organic growth for Solenzo audit offer). **X/Telegram/Discord need confirmation.** |
+| Communities on LinkedIn, X, Telegram, Discord | Preferred | **Covered.** LinkedIn plus X/Telegram/Discord confirmed Oct 12. |
 
 ---
 
 ## Application Priority Score
 
 ```
-🔵 Application Priority Score: 78 / 100 — Solid stretch
-[████████████████░░░░]  78%
+🟢 Application Priority Score: 82 / 100 — Strong fit
+[████████████████░░░░]  82%
 ```
 
 *Internal decision aid based on evidence in the master profile. Not a prediction of Circle's screening, ATS output, or hiring decision.* See `fit.png`.
 
 | Dimension | Score | Reasoning |
 | :--- | :--- | :--- |
-| Must-have requirements met | 36 / 40 | Experience, pipeline/discovery, communication, routing judgment, CRM hygiene, and cross-functional work all land. Fintech/digital-asset fluency is partial. |
+| Must-have requirements met | 37 / 40 | Experience, pipeline/discovery, communication, routing judgment, CRM hygiene, and cross-functional work all land. Fintech/digital-asset fluency is partial. |
 | Seniority & scope alignment | 8 / 15 | Associate-level, 2+ yrs. Overqualified on paper; recruiters may question why. Cover letter frames it around qualification-system expertise. |
-| Domain / industry alignment | 8 / 15 | Banking-client and bank-pursuit exposure is real but agency-side. No crypto, stablecoin, or payments-product background. |
-| Differentiators | 13 / 15 | Has built the lead scoring, qualification, and routing systems himself, plus LLM/API workflow automation. Directly matches "use CRM, AI-enabled tools... to improve prioritization." |
+| Domain / industry alignment | 10 / 15 | Banking-client and bank-pursuit exposure is real but agency-side. Personal interest in stablecoins/USDC confirmed (Oct 12); still no professional crypto or payments-product background. |
+| Differentiators | 14 / 15 | Community engagement on X/Telegram/Discord confirmed (Oct 12). Has built the lead scoring, qualification, and routing systems himself, plus LLM/API workflow automation. Directly matches "use CRM, AI-enabled tools... to improve prioritization." |
 | Evidence strength | 13 / 15 | Top three of 8-15 reps, ~94% partner retention, 50+ activities/day, 20+ routing workflows. No inbound SLA or response-time metric. |
 
-**Band: Solid stretch.** Pay is the best of anything recent and the mechanics fit well. Domain is the gap, and the role shape (inbound queue, qualify and hand off) is not his preferred "inherit and grow a book" shape, though inbound is warm, not cold hunting.
+**Band: Strong fit** (rescored from 78 after Oct 12 confirmations). Pay is the best of anything recent and the mechanics fit well. Domain is the gap, and the role shape (inbound queue, qualify and hand off) is not his preferred "inherit and grow a book" shape, though inbound is warm, not cold hunting.
 
 ---
 
@@ -73,9 +73,7 @@ No knockouts.
 
 ## Candidate confirmation needed
 
-- **Digital assets interest:** any personal use of or study in crypto/stablecoins/USDC you can speak to for two minutes? Would strengthen the cover letter.
-- **X, Telegram, Discord:** have you engaged professional communities on any of these?
-- **Response-time numbers:** any inbound speed-to-lead figure from Solenzo automations?
+Resolved Oct 12: stablecoin/USDC interest (yes), X/Telegram/Discord communities (yes). Open: the actual Solenzo speed-to-lead number (Josh has one, not yet supplied).
 
 ## Metrics needed
 

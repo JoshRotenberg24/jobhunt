@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Business development and partner-facing seller who qualifies fast, asks the questions that matter, and routes every serious opportunity to the right next step. Started as a BDR booking sales-ready meetings, then ranked top three of 8 to 15 reps at Accelo and managed a 15-20 reseller partner book at Birdeye with ~94% retention. Builds the lead scoring, qualification, and routing systems himself in Salesforce, HubSpot, and AI-enabled workflow tools, and keeps CRM data clean enough to trust. Fintech exposure through a banking-industry client and a finalist-stage pursuit of a major bank.",
+  "summary": "Business development and partner-facing seller who qualifies fast, asks the questions that matter, and routes every serious opportunity to the right next step. Started as a BDR booking sales-ready meetings, then ranked top three of 8 to 15 reps at Accelo and managed a 15-20 reseller partner book at Birdeye with ~94% retention. Builds the lead scoring, qualification, and routing systems himself in Salesforce, HubSpot, and AI-enabled workflow tools, and keeps CRM data clean enough to trust. Fintech exposure through a banking-industry client and a finalist-stage pursuit of a major bank, plus a genuine personal interest in stablecoins and digital assets.",
   "experience": [
     {
       "title": "Founder & Strategic / Marketing Operations Lead",
@@ -100,21 +100,54 @@
   "competencies": [
     {
       "category": "Qualification & Discovery",
-      "items": ["Inbound Lead Qualification", "Discovery Calls", "Lead Routing & Handoff", "Business Fit Assessment", "Pipeline Prioritization", "Next-Step Recommendations"]
+      "items": [
+        "Inbound Lead Qualification",
+        "Discovery Calls",
+        "Lead Routing & Handoff",
+        "Business Fit Assessment",
+        "Pipeline Prioritization",
+        "Next-Step Recommendations"
+      ]
     },
     {
       "category": "CRM & Data",
-      "items": ["Salesforce", "HubSpot", "CRM Data Hygiene", "Lead Scoring & Lifecycle Stages", "Pipeline Stage Tracking", "ZoomInfo"]
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "CRM Data Hygiene",
+        "Lead Scoring & Lifecycle Stages",
+        "Pipeline Stage Tracking",
+        "ZoomInfo"
+      ]
     },
     {
       "category": "AI & Workflow Tools",
-      "items": ["Zapier, Make, n8n", "LLM APIs (OpenAI, Claude)", "Webhooks & REST APIs", "Google Workspace", "Slack", "Apollo"]
+      "items": [
+        "Zapier, Make, n8n",
+        "LLM APIs (OpenAI, Claude)",
+        "Webhooks & REST APIs",
+        "Google Workspace",
+        "Slack",
+        "Apollo"
+      ]
     },
     {
       "category": "Partner & Cross-Functional",
-      "items": ["Channel & Reseller Partners", "Partner Onboarding", "Product Feedback Loops", "LinkedIn Community Engagement", "Financial-Services Clients"]
+      "items": [
+        "Channel & Reseller Partners",
+        "Partner Onboarding",
+        "Product Feedback Loops",
+        "Community Engagement (LinkedIn, X, Telegram, Discord)",
+        "Financial-Services Clients",
+        "Stablecoins & Digital Assets (personal interest)"
+      ]
     }
   ],
-  "education": ["B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"],
-  "certifications": ["Meta Ads Certification - Meta", "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"]
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
 }

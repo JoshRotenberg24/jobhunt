@@ -184,6 +184,18 @@ band.
   (e.g., Eltropy) alongside the Fetch & Funnel banking-client experience above, kept
   explicitly distinct from it: this is personal motivation, that is professional evidence.
 
+## Digital assets / stablecoins and online communities (confirmed by Josh, Oct 2026, Circle)
+
+- **Personal interest in crypto, stablecoins, and USDC** that he can talk about for two
+  minutes. Personal interest, not professional crypto/payments experience; keep that
+  distinction. Whether this includes hands-on wallet/stablecoin use isn't specified; ask
+  before claiming use.
+- **Has engaged professional communities on X, Telegram, and/or Discord** (answered yes to
+  all three as a group). Specific communities/platform split not captured; claim generally
+  ("online professional communities") unless Josh names them.
+- **Has inbound response-time / speed-to-lead figures from Solenzo automations** — the
+  number itself is not yet captured (see Numbers Worth Capturing).
+
 ## Personal commitment to immigrant and refugee communities (confirmed Sep 2026)
 
 - Josh has confirmed a full, genuine personal commitment to helping immigrant and refugee
@@ -806,6 +818,8 @@ with its scope and delete the line here.
 only), outbound tool names (Apollo, HeyReach, Salesloft, Marketo, Mailchimp).
 
 **Role-specific:**
+- **Solenzo speed-to-lead.** Josh confirmed he has response-time numbers from his inbound
+  automations (Oct 2026, Circle); actual figure and before/after not yet captured.
 - **Cold-email deliverability setup.** Whether he configured sending domains/warm-up
   himself. Ask only when a posting names it.
 - **1,400+ contact CRM cleanup context.** Which client/role and which CRM. Josh says he's
