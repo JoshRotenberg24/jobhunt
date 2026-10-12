@@ -6,6 +6,7 @@
 - **Location:** USA-Remote
 - **Comp:** $66,000 - $80,000
 - **Date:** October 12, 2026
+- **Status:** Skipped by Josh (Oct 12, 2026). Materials kept for reference.
 
 ---
 
