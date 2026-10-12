@@ -4,7 +4,7 @@
 - **Company:** Absorb Software, AI-driven corporate LMS; 3,300+ customer orgs, 34M users
 - **Link:** https://jobs.ashbyhq.com/absorblms/494e7eec-a885-4a70-853d-4f9e51066d4f
 - **Location:** Remote US, full time
-- **Comp:** not posted; two bonus plans mentioned
+- **Comp:** not posted; two bonus plans mentioned. RepVue (self-reported, all Absorb AMs): base ~$71K-$79K, OTE ~$115K-$120K, 64/36 split, 51% hit quota. Emerging Growth likely sits at the low end. **Form answer:** "Open to your range for this role"; if a number is required, $70,000 base / ~$110,000 OTE.
 - **Date:** October 12, 2026
 
 ---
