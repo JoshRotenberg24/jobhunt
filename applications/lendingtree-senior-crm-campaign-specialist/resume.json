@@ -8,7 +8,7 @@
     "email": "jrotnbrg@gmail.com",
     "linkedin": "linkedin.com/in/joshua-rotenberg"
   },
-  "summary": "Lifecycle and CRM marketer who builds and runs email programs end to end. At Solenzo I design, build, and optimize automated lifecycle journeys for consumer-facing service businesses: onboarding, nurture, booking reminders, no-show recovery, reactivation of lapsed customers, and review requests across 20+ production workflows, with segmentation, lifecycle stages, and lead scoring in GoHighLevel and HubSpot. At Level Agency I built complex email sequences and landing pages for accounts spending $20K+/month on ads, ran A/B tests, and reported ROI, CAC, and conversion KPIs.",
+  "summary": "Lifecycle and CRM marketer who builds and runs email programs end to end: 880K+ emails delivered over ~18 months at a ~43% open rate, ~11% click rate, and 0.01% spam complaint rate. At Solenzo I design, build, and optimize automated lifecycle journeys for consumer-facing service businesses: onboarding, nurture, booking reminders, no-show recovery, reactivation of lapsed customers, and review requests across 20+ production workflows, with segmentation, lifecycle stages, and lead scoring in GoHighLevel and HubSpot. At Level Agency I built complex email sequences and landing pages for accounts spending $20K+/month on ads, ran A/B tests, and reported ROI, CAC, and conversion KPIs.",
   "experience": [
     {
       "title": "Lifecycle & CRM Marketing — Founder & Strategic / Marketing Operations Lead",
@@ -16,9 +16,9 @@
       "location": "Arvada, CO (Remote)",
       "dates": "Feb 2024 - Present",
       "bullets": [
+        "Ran email programs in GoHighLevel delivering 880K+ emails over ~18 months at a ~43% open rate, ~11% click rate, ~1.4% bounce rate, and 0.01% spam complaint rate, across campaigns, automated workflows, and bulk sends.",
         "Design and deploy automated lifecycle email journeys that activate, nurture, and retain customers, including onboarding, booking confirmations and reminders, no-show recovery, reactivation of lapsed customers, and review requests.",
         "Build segmentation, lifecycle stages, lead scoring, and qualification criteria in GoHighLevel and HubSpot, with strict data-hygiene rules so personalization holds up.",
-        "Built segmented outreach campaigns tailored to each audience's specific problem, plus an automated audit workflow that enrolled 180+ contacts and triggered personalized follow-up.",
         "Write email copy, subject lines, and landing pages; track performance with GA4, UTM conventions, and dashboards, and iterate based on results."
       ]
     },

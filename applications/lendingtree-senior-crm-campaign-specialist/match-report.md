@@ -14,7 +14,7 @@
 | :--- | :--- | :--- |
 | Hybrid Denver, 3 days in office | Met | Arvada, Denver metro (within Josh's location constraint) |
 | No visa sponsorship | Met | U.S. citizen |
-| Compensation | **Needs candidate confirmation** | Above the associate anchor; lower-middle default **$103,000** |
+| Compensation | Application-form | **$105,000** (midpoint; strengthened by email results) |
 
 No knockout. No cap. No video answer.
 
@@ -22,18 +22,18 @@ No knockout. No cap. No video answer.
 
 ## Application Priority Score
 
-⚪ **78 / 100 — Solid stretch (apply with a sharp tailored resume)**
-`[████████████████░░░░]  78%`
+⚪ **84 / 100 — Strong fit (apply, competitive)**
+`[█████████████████░░░]  84%`
 
 *Internal decision aid, not a prediction of LendingTree's screening outcome.* See `fit.png`.
 
 | Dimension | Score | Max |
 | :--- | :---: | :---: |
-| Must-have requirements met | 33 | 40 |
+| Must-have requirements met | 36 | 40 |
 | Seniority & scope alignment | 12 | 15 |
 | Domain / industry alignment | 10 | 15 |
 | Differentiators / nice-to-haves | 12 | 15 |
-| Evidence strength | 11 | 15 |
+| Evidence strength | 14 | 15 |
 
 Lifecycle automation, segmentation, copy, and A/B testing are real strengths. Held back by email deliverability (unconfirmed), no email KPI numbers on file, no enterprise ESP named, and no dedicated B2C email-team experience at scale.
 
@@ -44,7 +44,7 @@ Lifecycle automation, segmentation, copy, and A/B testing are real strengths. He
 | JD Requirement | Coverage | Evidence |
 | :--- | :--- | :--- |
 | 3-5 yrs email / lifecycle marketing, B2C preferred | Adjacent-strong | Solenzo lifecycle (consumer-facing service businesses); Level email sequences |
-| Deliverability, segmentation, personalization, automation | Partial | Segmentation/personalization/automation strong; deliverability unconfirmed |
+| Deliverability, segmentation, personalization, automation | Strong | 0.01% spam complaints, ~1.4% bounce across 880K+ delivered (Oct 12) |
 | Hands-on building and executing campaigns | Strong | GoHighLevel, HubSpot, Mailchimp |
 | A/B testing with performance data | Strong | Level, Wix |
 | Analytics to insights | Strong | GA4, SQL, dashboards |
@@ -53,14 +53,10 @@ Lifecycle automation, segmentation, copy, and A/B testing are real strengths. He
 | Cross-functional collaboration | Strong | |
 
 ## Gaps
-- Email deliverability setup (domains, warm-up, sender reputation) not confirmed.
-- No email KPI results on file (open, click, conversion lifts).
 - Insurance / financial services email experience.
 
 ## Candidate Confirmation Needed
-- Have you handled email deliverability (SPF/DKIM/DMARC, warm-up, list hygiene)?
-- Any email results you can quote (open/click/conversion rates or lift from a test)?
-- Salary number ($103K suggested).
+- Resolved Oct 12: Solenzo GoHighLevel email results supplied (880K+ delivered, ~43% open, ~11% click, 0.01% spam); added to profile, resume, cover letter. Salary $105K.
 
 ## Output Files
 - `LendingTree-SeniorCRMCampaignSpecialist-Resume.pdf` / `.docx` (1 page; Fetch & Funnel omitted for length, order preserved)
