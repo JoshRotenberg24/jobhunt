@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 12, 2026",
+  "company": "Circle",
+  "role": "Partner Development Associate",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Partner Development Associate role. The core of the job, figuring out quickly whether an inbound prospect is real, what they actually need, and where they should go next, is work I've done from both sides: as a BDR qualifying and booking meetings for a sales team, and later as the person building the qualification and routing systems that sit behind an inbound queue.",
+    "At Accelo I helped leadership build the lead qualification system while ranking top three of 8 to 15 reps. At Birdeye I worked 50+ partner activities a day across a 15-20 reseller book and retained all but one. In my own practice I built lead scoring, lifecycle stages, and 20+ routing and follow-up workflows, using LLM APIs and tools like n8n to enrich and prioritize leads. Clean CRM data is the part most people skip, and it's the part that makes routing decisions trustworthy.",
+    "On the fintech side, I've served a banking-industry client and was part of a finalist-stage pursuit of a major bank, and I have a real interest in making money movement simpler for the people and businesses on the other end. I'd like to learn Circle's portfolio well enough that every prospect leaves the first conversation knowing exactly what happens next. I'd welcome a conversation."
+  ],
+  "closing": "Sincerely,"
+}
