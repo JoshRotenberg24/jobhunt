@@ -1,0 +1,130 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Project Manager | Concurrent SaaS Implementations, Integrations & Go-Live Readiness",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation lead who runs multiple customer implementations at once, from kickoff through go-live. Managed up to ~25 concurrent onboardings and 25+ launches a month at Wix at 110% of implementation targets, including third-party shipping integrations for e-commerce clients. Built sequenced implementation plans for a CRM/PSA platform at Accelo, and today leads end-to-end CRM implementations: configuration, data imports, API and webhook integrations, testing, training, and documentation. Tracks projects in Asana, Monday.com, Jira, and ClickUp, and keeps customers informed with clear agendas, action items, and early escalation.",
+  "experience": [
+    {
+      "title": "Implementation Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end CRM and automation implementations for client businesses: kickoff, requirements, configuration, data setup, testing, training, and handoff.",
+        "Configure GoHighLevel and HubSpot with custom pipelines, lifecycle stages, and 20+ automated workflows, validated before go-live.",
+        "Set up and validate data feeds and imports into Salesforce, HubSpot, and GoHighLevel, and build integrations with webhooks, REST APIs, and JSON payloads in Zapier, Make, and n8n, debugging errors myself.",
+        "Translate business requirements into technical configurations and hands-on training for owners and staff.",
+        "Document every configuration, timeline, and deliverable in Notion and the CRM for support and future changes."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback promptly and held delivery quality consistent across implementations to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded 15-20 reseller partners and ensured each partner's end customers were configured on Birdeye's listings-syndication solution, retaining all but one partner (~94%).",
+        "Analyzed partner utilization metrics to spot adoption gaps early and recommend interventions that reduced churn.",
+        "Built automated product-training sequences and communication workflows that helped partners roll the product out to their own customers.",
+        "Shared structured onboarding feedback with Product and Engineering; tracked all activity in Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery; managed workflows in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed up to ~25 concurrent onboardings and launched 25+ clients per month, holding 110% of implementation targets and 120% of sales targets.",
+        "Set up third-party shipping integrations for e-commerce clients launching online storefronts alongside their physical retail locations.",
+        "Ran onboarding calls as primary customer contact, launching simple builds on the first call and scoping multi-session production plans for complex ones.",
+        "Led and trained onboarding teams of up to 30 through weekly sessions and 1:1 coaching, and defined the Salesforce fields used across onboarding workflows."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute.",
+        "Guided onboarding, workflow design, and API integrations alongside implementation teams, troubleshooting technical challenges during setup.",
+        "Escalated account-level risk to leadership early and mitigated it with direct guidance; ranked top three of 8 to 15 reps while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation PM",
+      "items": [
+        "Concurrent Implementations",
+        "Project Plans, Milestones & Dependencies",
+        "Risk Management & Escalation",
+        "Kickoffs & Status Meetings",
+        "Go-Live Readiness & Testing",
+        "Implementation Documentation"
+      ]
+    },
+    {
+      "category": "Technical",
+      "items": [
+        "Software Configuration",
+        "Data Imports & Validation",
+        "APIs, Webhooks & JSON",
+        "Zapier, Make, n8n",
+        "Shipping Integrations (e-commerce)",
+        "SQL (working proficiency)"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Asana",
+        "Monday.com",
+        "Jira",
+        "ClickUp",
+        "Salesforce",
+        "HubSpot"
+      ]
+    },
+    {
+      "category": "Customer & Team",
+      "items": [
+        "Primary Customer Contact",
+        "Technical & Non-Technical Stakeholders",
+        "Team Training (up to 30)",
+        "Process Improvement"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
