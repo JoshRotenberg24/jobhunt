@@ -1,0 +1,134 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Lifecycle & Digital Adoption | Behavior-Triggered Programs, Scaled CS & Agentic Workflows",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Lifecycle and customer success operator who builds post-sale programs end to end: segmentation, triggers, copy, build, and measurement. Built a 20+ workflow lifecycle system covering onboarding, nurture, reactivation, and reviews, and designs AI agents that interpret a business's situation and decide the next touch. Comes from the customer side: retained ~94% of a 15-20 partner book at Birdeye using utilization data and automated product-training sequences, and onboarded 25+ clients a month at Wix. Writes plainly for technical and non-technical readers alike, with 18 published articles on automation, analytics, and AI search.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected a 20+ workflow lifecycle system in GoHighLevel spanning onboarding nurture, behavior-based branching, reactivation of lapsed customers, no-show recovery, and review generation.",
+        "Design and deploy AI agent workflows that score a business's digital footprint, decide the right outreach, and generate personalized messaging, calling OpenAI and Claude APIs from n8n and Make.",
+        "Built evaluation frameworks and rubric-based grading for agent and LLM output, labeling data personally to judge where automation holds up and where a human needs to stay in the loop.",
+        "Define segmentation, lifecycle stages, and lead scoring in HubSpot and GoHighLevel, and instrument results with GA4, GTM events, and UTM conventions.",
+        "Wrote and published 18 plain-language articles on automation, attribution, CRM setup, and AI search for non-technical business owners.",
+        "Write email sequences, landing pages, and lifecycle copy, adapting a shared template base by segment and vertical."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced campaign assets including landing pages, multi-step email sequences, and conversion-focused copy that improved lead generation and pipeline.",
+        "Designed A/B-tested LinkedIn ad campaigns aimed at small, highly researched audiences, managing ~3 accounts at $20K+/month ad spend each.",
+        "Built campaign performance reporting tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and quarterly business reviews."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated product-training sequences and communication workflows that reduced onboarding friction and drove adoption across a 15-20 partner network.",
+        "Analyzed partner utilization and performance metrics to find adoption gaps and trigger interventions, retaining all but one partner (~94%).",
+        "Advised partners on customer health metrics and automated workflows, and brought structured feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, including a banking-industry client, covering campaign execution and performance reporting.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded 25+ clients per month at 120% of sales targets and 110% of implementation targets, aiming to launch each client on the first call.",
+        "Advised on A/B testing strategy for a Salesforce workflow-automation effort, defining test structure and success criteria.",
+        "Defined the CRM fields used across sales and onboarding workflows, standardizing data capture for the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built Zapier automations and guided clients through CRM adoption, workflow design, and API integrations.",
+        "Helped leadership build the lead qualification system; ranked top three of 8 to 15 reps while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Lifecycle Programs",
+      "items": [
+        "Post-Sale Onboarding & Adoption",
+        "Behavior-Based Triggers",
+        "Segmentation & Cohorts",
+        "Retention & Reactivation",
+        "Experimentation & A/B Testing",
+        "Lifecycle Copywriting"
+      ]
+    },
+    {
+      "category": "Agentic & AI",
+      "items": [
+        "AI Agent Design",
+        "LLM APIs (OpenAI, Claude)",
+        "Agent Evaluation & Rubrics",
+        "Human-in-the-Loop Judgment",
+        "Prompt Design",
+        "n8n, Make, Zapier"
+      ]
+    },
+    {
+      "category": "Platforms & Data",
+      "items": [
+        "HubSpot",
+        "GoHighLevel",
+        "Mailchimp",
+        "Salesforce",
+        "GA4 & GTM",
+        "SQL (working proficiency)",
+        "Power BI",
+        "Excel"
+      ]
+    },
+    {
+      "category": "Collaboration",
+      "items": [
+        "Customer-Facing Team Partnership",
+        "Product Feedback Loops",
+        "Technical Writing",
+        "Building from Zero"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}

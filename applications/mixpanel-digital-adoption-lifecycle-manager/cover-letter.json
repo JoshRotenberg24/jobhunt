@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 12, 2026",
+  "company": "Mixpanel",
+  "role": "Digital Adoption & Lifecycle Manager",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Digital Adoption & Lifecycle Manager role. You're asking for someone who builds the program themselves, segmentation through copy through measurement, and has opinions about where AI agents help and where they break trust. Both describe what I do day to day.",
+    "In my own practice I built a 20+ workflow lifecycle system that branches on behavior: onboarding nurture, reactivation for customers who go quiet, no-show recovery, and review requests. I also build AI agent workflows that read a business's digital footprint, decide what it needs, and write the outreach, and I built rubric-based evaluation for that output. My point of view from doing it: agents are reliable at diagnosis and drafting, and they break trust when they act on thin data or sound confident about something a human would have checked. That's where I keep a person in the loop.",
+    "I come to this from the customer side. At Birdeye I retained all but one of 15 to 20 reseller partners by watching utilization data and building automated training sequences, and at Wix I onboarded 25+ clients a month. I haven't worked in Customer.io or Mixpanel itself yet, and I'd be learning your stack, but I build the campaign myself and pull my own data. I'd welcome the chance to show you what I've built."
+  ],
+  "closing": "Sincerely,"
+}
