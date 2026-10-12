@@ -21,7 +21,7 @@ No knockouts.
 | Bachelor's or equivalent | Resume-evidenced | Covered. B.A., CSU. |
 | 5+ yrs customer-facing at SaaS/tech | Resume-evidenced | **Covered, well past.** Accelo through Solenzo. |
 | CSM/AM managing a book | Resume-evidenced | Covered. Wix AM, Birdeye partner book. |
-| Enterprise customers (Fortune 100 in the base) | Resume-evidenced | **Real gap (confirmed earlier, don't re-ask).** No Fortune 500/1000 accounts. Deal-size range ($10K-$45K Birdeye, $20K+ Accelo) does overlap Snappy's $15K-$100K band. Named in cover letter. |
+| Enterprise customers (Fortune 100 in the base) | Resume-evidenced | **Real gap (confirmed earlier, don't re-ask).** No Fortune 500/1000 accounts. Deal-size range ($10K-$45K Birdeye, $20K+ Accelo) does overlap Snappy's $15K-$100K band. Be ready to address in screen. |
 | Uses AI tools daily | Resume-evidenced | **Covered, strongly.** LLM APIs, n8n/Make agents, daily ChatGPT/Claude. |
 
 ---
@@ -85,6 +85,5 @@ No knockouts.
 ## Output files
 
 - `Snappy-EnterpriseCSM-Resume.pdf` / `.docx` (2 pages, modern, chronology OK)
-- `Snappy-EnterpriseCSM-CoverLetter.pdf` / `.docx` (1 page)
 
-Upload the **PDF** resume. Cover letter recommended: it handles the enterprise gap directly and carries the AI point.
+Upload the **PDF** resume. Resume only, no cover letter (Josh's call, Oct 12).
