@@ -423,7 +423,11 @@ operator talking, not like a candidate performing.
 > non-technical readers. Use it for knowledge base / help center, documentation,
 > enablement, and "explain complex ideas clearly" requirements. Claim it as "published 18
 > articles," never with view counts (low, don't cite). The 9-dimension framework is the
-> same audit rubric behind the rubric-based grading bullet. Posts link to an audit tool at
+> same audit rubric behind the rubric-based grading bullet. **Correction (Josh, Oct 2026,
+> GLG):** the Solenzo site audit itself scores **19 dimensions**; the blog's 9-dimension
+> framework is the published subset. Say "19-dimension audit" when describing the audit.
+> The full list of 19 is not captured, so name examples with "including," never as a
+> complete list. Posts link to an audit tool at
 > solenzoaudit.vercel.app; **whether Josh built that tool himself is not confirmed, so ask
 > before claiming it.**
 >
