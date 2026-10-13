@@ -131,6 +131,16 @@ band.
 - **Does not apply directly** to senior IC, team-lead, strategic, or founder-scope roles —
   those need their own market-data pull and a real number from Josh, not this baseline.
 
+## Expert-network consulting (GLG)
+
+- **GLG network member (Oct 2026):** Josh's GLG consultation rate is currently **$100/hour**.
+  First invite received Oct 2026, on how AI search (ChatGPT-style answers, Google AI
+  Overviews) affects lead flow for businesses that depend on search. Strongest evidence for
+  this topic: the Solenzo semantic SEO / AI search blog cluster, local SEO / GBP as a
+  delivered service line, Google Ads lead-quality work, and Level Agency paid search.
+- **Not confirmed:** client traffic or lead-flow before/after data that shows AI search
+  impact. Don't claim measured client traffic shifts until Josh supplies them.
+
 ## Education & Certifications
 
 - **B.A. Liberal Arts, Minor in Political Science** — Colorado State University, Fort Collins, CO (2009)
