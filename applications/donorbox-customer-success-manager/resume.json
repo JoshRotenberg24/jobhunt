@@ -1,0 +1,144 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success Manager | Onboarding, Activation, Customer Education & Expansion",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success manager who gets new customers to first value fast and keeps them engaged. Onboarded 25+ clients a month at Wix at 120% of sales targets, and retained all but one of a 15-20 partner book at Birdeye (~94%) by watching usage data and acting on adoption gaps early. Builds the education and engagement layer too: published 18 plain-language articles for non-technical business owners, ran product workshops and team training, and built automated onboarding and lifecycle sequences in HubSpot and GoHighLevel. Ran a free-offer, product-led acquisition motion for his own practice, so he knows how self-serve users become paying ones.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Wrote and published 18 articles explaining CRM setup, automation, attribution, and AI search in plain language for non-technical business owners.",
+        "Design and deploy automated onboarding workflows and lifecycle sequences that activate, nurture, and retain users, part of a 20+ workflow system.",
+        "Ran a free audit offer distributed through organic LinkedIn growth, enrolling 180+ businesses and converting free users into paying clients.",
+        "Lead onboarding for new technology stacks with hands-on walkthroughs and training, and expand scope with existing clients through new proposals."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed ~3 multi-stakeholder client accounts at $20K+/month in ad spend each, peaking above $100K/month, as strategic lead across internal departments.",
+        "Delivered quarterly business reviews with ROI, CAC, LTV, and conversion reporting, turning performance data into budget and growth recommendations.",
+        "Resolved client feedback promptly and held delivery quality consistent to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed a book of 15-20 reseller partners with deal sizes of ~$10K-$45K, retaining all but one (~94% retention) during tenure.",
+        "Monitored partner utilization and health metrics to spot adoption gaps and recommend interventions that reduced churn.",
+        "Onboarded partners and their end customers, guiding complex technical setup and educating them on features and use cases.",
+        "Shared structured, high-priority customer feedback and feature requests with Product and Engineering to inform the roadmap.",
+        "Built automated product-training sequences that reduced onboarding friction across a high-volume partner network."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K each, several exceeding $25K, for roughly $130K+ in total bookings.",
+        "Ran client accounts end to end, covering execution, performance reporting, and cross-team communication, and led the sales team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets, aiming to launch each client on the first call.",
+        "Ran weekly team training sessions, 1:1 coaching, and workshops for new initiatives across onboarding teams of up to 30 specialists.",
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Drove process improvements for a new Wix vertical that went from proof of concept to a profitable business line, including sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps, holding that rank while quota roughly doubled.",
+        "Averaged ~$17,750/month in implementation and services bookings (~$213K annualized) plus new recurring revenue, consistently into accelerator tiers.",
+        "Sold and scoped CRM and project-management software for agencies and professional-services firms, including architecture and engineering firms, across a global client base.",
+        "Ran workshops for client teams showing how each part of the product fit their workflow, guiding onboarding alongside implementation teams."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle SaaS sales to SMBs, making up to 150 dials/day and closing up to 10 deals/month."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": [
+        "Onboarding & Activation",
+        "Product Walkthroughs",
+        "Feature Adoption",
+        "Usage Analysis",
+        "Upsell & Cross-Sell Identification",
+        "Sales Handoffs",
+        "Churn Prevention"
+      ]
+    },
+    {
+      "category": "Education & Engagement",
+      "items": [
+        "Customer Education Content",
+        "Workshops & Live Training",
+        "Presenting to Groups of 50+",
+        "Lifecycle & Onboarding Email Sequences",
+        "Product-Led Growth Motions"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel",
+        "Zendesk (familiar)",
+        "Excel",
+        "Power BI"
+      ]
+    },
+    {
+      "category": "Cross-Functional",
+      "items": [
+        "Product Feedback Loops",
+        "Support & Sales Collaboration",
+        "Activation & Engagement Metrics",
+        "Invoicing & Billing Walkthroughs (Accelo)"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}

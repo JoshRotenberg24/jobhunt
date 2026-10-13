@@ -1,0 +1,124 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Web Analytics & Technical Marketing | GTM, GA4, Conversion Tracking, Technical SEO",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical marketer who implements and debugs analytics and tracking hands-on across client sites. Builds custom GTM triggers and variables, configures GA4 events and conversions, installs Meta Pixel and Google Ads conversion tags, and validates everything in GTM Preview and browser DevTools (network tab, dataLayer). Sets up cookie-consent configuration, enforces UTM conventions, implements schema markup, and runs technical SEO audits with Screaming Frog, Ahrefs, and Semrush. Writes HTML/CSS directly, scripts in JavaScript and Python inside automation workflows, and documents work for technical and non-technical teams.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Install and configure Google Tag Manager on every client site, building custom triggers and variables for GA4 events and key events, Meta Pixel, and Google Ads conversion tags.",
+        "Debug tags and conversion events with GTM Preview mode and browser DevTools, inspecting network requests and the dataLayer to resolve tracking and timing issues.",
+        "Set up cookie-consent configuration on client sites and define and enforce UTM naming conventions for campaign attribution.",
+        "Run technical SEO audits with Screaming Frog, Ahrefs, and Semrush, implement schema/structured data, and make fixes directly inside client CMS platforms.",
+        "Build and edit sites in HTML/CSS, including the Solenzo site, and write JavaScript and Python in custom code steps for Zapier, Make, and n8n integrations, webhooks, and API calls.",
+        "Optimized a client's Google Ads account to cut spam leads, then diagnosed on-site conversion as the remaining bottleneck; report performance through GA4 and dashboards."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built LinkedIn ad campaigns with A/B-tested setups for small, researched audiences, and managed ~3 client accounts at $20K+/month ad spend each.",
+        "Built campaign reporting tracking ROI, CAC, LTV, and conversion KPIs across paid channels, and produced landing pages for campaigns.",
+        "Ran Google keyword research and search-term analysis to shape targeting and content direction."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Developed automated product-training sequences and scalable communication workflows that reduced onboarding friction across a 15-20 partner network.",
+        "Onboarded partners on marketing automation and reputation management tools, retaining all but one (~94% retention).",
+        "Worked intent, enrichment, and routing data synced to Salesforce (including ZoomInfo) as a daily user."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Guided clients through Google Tag Manager setup and connected Google Business Profile during site builds.",
+        "Led site consultations on architecture, inbound, and SEO best practices, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Onboarded 25+ clients per month at 120% of sales targets and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built Zapier automations and guided clients through CRM adoption, workflow design, and API integrations.",
+        "Helped leadership build the lead qualification system; ranked top three of 8 to 15 reps while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Tag Management & Analytics",
+      "items": [
+        "Google Tag Manager (custom triggers, variables, Preview)",
+        "GA4 Events & Key Events",
+        "Google Ads Conversion Tracking",
+        "Meta Pixel",
+        "LinkedIn Ads",
+        "UTM Governance"
+      ]
+    },
+    {
+      "category": "Debugging & Code",
+      "items": [
+        "Browser DevTools (network, dataLayer)",
+        "JavaScript (automation code steps)",
+        "HTML/CSS",
+        "Python",
+        "Webhooks & REST APIs",
+        "JSON"
+      ]
+    },
+    {
+      "category": "Technical SEO & Privacy",
+      "items": [
+        "Schema / Structured Data",
+        "Screaming Frog",
+        "Ahrefs",
+        "Semrush",
+        "Google Search Console",
+        "Cookie Consent Setup"
+      ]
+    },
+    {
+      "category": "Platforms & Workflow",
+      "items": [
+        "HubSpot",
+        "GoHighLevel",
+        "Power BI",
+        "Asana",
+        "Slack",
+        "ClickUp"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}

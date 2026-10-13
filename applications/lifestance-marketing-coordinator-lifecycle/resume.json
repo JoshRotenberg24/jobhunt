@@ -1,0 +1,140 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Lifecycle Marketing | Automated Journeys, Segmentation, QA & Campaign Reporting",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Lifecycle marketing and marketing operations specialist with 5+ years building automated journeys in HubSpot and GoHighLevel. Built a 20+ workflow lifecycle system covering onboarding, appointment booking and reminders, no-show recovery, nurture, and reactivation, the same moments that drive retention in a patient-facing business. Handles the operational detail: segmentation, suppression and data hygiene, HTML/CSS edits, QA, documentation, and reporting in GA4, Excel, and SQL. Healthcare-adjacent experience includes channel sales to healthcare-focused agencies at Birdeye and senior-care work at Senior Directory.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected a 20+ workflow automated journey system spanning lead capture, appointment booking with confirmations and reminders, no-show recovery, onboarding nurture, reactivation of lapsed customers, and review requests.",
+        "Build and deploy segmented email sequences, landing pages, and forms in GoHighLevel and HubSpot, editing HTML/CSS directly and testing before launch.",
+        "Manage segmentation, lifecycle stages, and data hygiene, validating every import into HubSpot, Salesforce, and GoHighLevel and setting up consent configuration on client sites.",
+        "Track performance with GA4, GTM conversion events, and UTM conventions, and report results with optimization recommendations.",
+        "Document every workflow, timeline, and deliverable in Notion and the CRM so campaigns stay auditable across concurrent clients.",
+        "Maintain integrations and syncs in Zapier, Make, and n8n, including webhooks and API calls."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced campaign assets including landing pages, multi-step email sequences, and conversion-focused copy that improved lead generation and pipeline.",
+        "Designed A/B-tested LinkedIn ad campaigns aimed at small, highly researched audiences, managing ~3 accounts at $20K+/month ad spend each.",
+        "Built campaign performance reporting tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and quarterly business reviews."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated product-training sequences and communication workflows that reduced onboarding friction across a 15-20 partner network spanning health, home services, and retail.",
+        "Onboarded partners on marketing automation and reputation management tools, retaining all but one (~94% retention).",
+        "Worked intent, enrichment, and routing data synced to Salesforce (including ZoomInfo) as a daily user."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, including a banking-industry client, covering campaign execution and performance reporting.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Defined and labeled the CRM fields used across outbound sales and onboarding workflows, standardizing data capture for the team.",
+        "Advised on A/B testing strategy for a Salesforce workflow-automation effort, defining test structure and success criteria.",
+        "Onboarded 25+ clients per month at 120% of sales targets, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built Zapier automations and guided clients through CRM adoption, workflow design, and API integrations.",
+        "Helped leadership build the lead qualification system; ranked top three of 8 to 15 reps while quota roughly doubled."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Qualified leads and booked appointments for regional sales representatives at a company focused on healthcare and housing for seniors."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Lifecycle Execution",
+      "items": [
+        "Automated Journeys & Triggers",
+        "Onboarding, Retention & Reactivation",
+        "Campaign Calendars",
+        "QA & Testing",
+        "A/B Testing",
+        "Campaign Documentation"
+      ]
+    },
+    {
+      "category": "Platforms & Technical",
+      "items": [
+        "HubSpot",
+        "GoHighLevel",
+        "Mailchimp",
+        "Salesforce",
+        "HTML/CSS",
+        "Zapier, Make, n8n"
+      ]
+    },
+    {
+      "category": "Data & Audience",
+      "items": [
+        "Segmentation",
+        "Suppression & Data Hygiene",
+        "Consent Configuration",
+        "SQL (working proficiency)",
+        "GA4",
+        "Excel & PowerPoint"
+      ]
+    },
+    {
+      "category": "Collaboration",
+      "items": [
+        "Cross-Functional Coordination",
+        "Stakeholder Approvals",
+        "Healthcare-Adjacent Experience"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}

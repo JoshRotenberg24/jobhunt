@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 12, 2026",
+  "company": "ShipHawk",
+  "role": "Implementation Project Manager (WMS & TMS)",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Implementation Project Manager role. Running many customer implementations at once and getting each one to go-live without surprises is the work I've done most. At Wix I managed up to about 25 concurrent onboardings and launched 25+ clients a month at 110% of implementation targets, and at Accelo I built the sequenced implementation plans that told our implementation team which systems to change, in what order.",
+    "I'm comfortable on the technical side. In my own practice I lead CRM implementations end to end: configuration, data imports I validate myself, integrations through webhooks and REST APIs, testing, and training. When an integration breaks, I read the payload and fix it rather than waiting on someone else, and I document every configuration so support can pick it up later.",
+    "I haven't implemented a WMS or TMS, and I'd be learning warehouse operations in depth. The closest I've come is setting up third-party shipping integrations for retail clients launching e-commerce stores at Wix, which showed me how much of the customer experience depends on what happens after the order. I'd welcome a conversation."
+  ],
+  "closing": "Sincerely,"
+}

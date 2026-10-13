@@ -1,0 +1,153 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Partner & Business Development | Inbound Qualification, Discovery & Routing",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Business development and partner-facing seller who qualifies fast, asks the questions that matter, and routes every serious opportunity to the right next step. Started as a BDR booking sales-ready meetings, then ranked top three of 8 to 15 reps at Accelo and managed a 15-20 reseller partner book at Birdeye with ~94% retention. Builds the lead scoring, qualification, and routing systems himself in Salesforce, HubSpot, and AI-enabled workflow tools, and keeps CRM data clean enough to trust. Fintech exposure through a banking-industry client and a finalist-stage pursuit of a major bank, plus a genuine personal interest in stablecoins and digital assets.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built lead scoring, qualification criteria, and lifecycle stages that decide which inbound leads get fast human follow-up and which go to nurture.",
+        "Architected 20+ CRM automation workflows covering lead capture, tagging, routing, qualification, and booking, cutting response time on new inquiries.",
+        "Run discovery with prospective clients to surface goals, business model, buying process, and readiness, then recommend a scoped next step.",
+        "Call LLM APIs and configure webhooks in Zapier, Make, and n8n to enrich and prioritize leads, including an audit workflow that enrolled 180+ businesses.",
+        "Grew a free audit offer through organic LinkedIn engagement, converting inbound interest into qualified sales conversations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed ~3 multi-stakeholder client accounts at $20K+/month in ad spend each, coordinating execution across internal departments.",
+        "Translated performance data into clear recommendations and quarterly business reviews for client leadership."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold to and onboarded 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94%).",
+        "Worked 50+ partner activities a day across channel sales and onboarding, keeping every partner moving to a defined next step.",
+        "Worked intent, enrichment, and routing data synced to Salesforce (including ZoomInfo) to prioritize partner outreach.",
+        "Routed structured partner feedback to Product and Engineering, linking field signals to roadmap decisions."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K each, roughly $130K+ in total bookings, and led the sales team.",
+        "Served a banking-industry client and helped pursue a major northeastern U.S. bank, reaching finalist stage.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Held 120% of sales targets and 110% of implementation targets while onboarding and launching 25+ clients per month.",
+        "Defined and labeled the CRM fields used across outbound sales and onboarding, standardizing data capture for the team.",
+        "Led multiple onboarding teams of up to 30 specialists, running weekly training and 1:1 coaching."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps, holding that rank while quota roughly doubled.",
+        "Helped leadership build the lead qualification system the sales team used to prioritize pipeline.",
+        "Ran discovery and wrote proposals for agencies and professional-services firms across a global client base, building C-suite relationships."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle SaaS sales to SMBs, making up to 150 dials/day and closing up to 10 deals/month."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Prospected and qualified leads, booking a steady flow of sales-ready meetings for regional sales representatives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Qualification & Discovery",
+      "items": [
+        "Inbound Lead Qualification",
+        "Discovery Calls",
+        "Lead Routing & Handoff",
+        "Business Fit Assessment",
+        "Pipeline Prioritization",
+        "Next-Step Recommendations"
+      ]
+    },
+    {
+      "category": "CRM & Data",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "CRM Data Hygiene",
+        "Lead Scoring & Lifecycle Stages",
+        "Pipeline Stage Tracking",
+        "ZoomInfo"
+      ]
+    },
+    {
+      "category": "AI & Workflow Tools",
+      "items": [
+        "Zapier, Make, n8n",
+        "LLM APIs (OpenAI, Claude)",
+        "Webhooks & REST APIs",
+        "Google Workspace",
+        "Slack",
+        "Apollo"
+      ]
+    },
+    {
+      "category": "Partner & Cross-Functional",
+      "items": [
+        "Channel & Reseller Partners",
+        "Partner Onboarding",
+        "Product Feedback Loops",
+        "Community Engagement (LinkedIn, X, Telegram, Discord)",
+        "Financial-Services Clients",
+        "Stablecoins & Digital Assets (personal interest)"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}

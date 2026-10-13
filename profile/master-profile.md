@@ -184,6 +184,28 @@ band.
   (e.g., Eltropy) alongside the Fetch & Funnel banking-client experience above, kept
   explicitly distinct from it: this is personal motivation, that is professional evidence.
 
+## Digital assets / stablecoins and online communities (confirmed by Josh, Oct 2026, Circle)
+
+- **Personal interest in crypto, stablecoins, and USDC** that he can talk about for two
+  minutes. Personal interest, not professional crypto/payments experience; keep that
+  distinction. Whether this includes hands-on wallet/stablecoin use isn't specified; ask
+  before claiming use.
+- **Has engaged professional communities on X, Telegram, and/or Discord** (answered yes to
+  all three as a group). Specific communities/platform split not captured; claim generally
+  ("online professional communities") unless Josh names them.
+- **Has inbound response-time / speed-to-lead figures from Solenzo automations** — the
+  number itself is not yet captured (see Numbers Worth Capturing).
+
+## Order processing and logistics adjacency (confirmed by Josh, Oct 2026, Tive)
+
+- **Has processed customer product/service orders** (order forms, add-ons) in a prior
+  account role. Which employer (Wix, Birdeye, or Accelo) not captured; claim in
+  competencies ("Order & Contract Management") until he names the role.
+- **Shipping/logistics adjacency (Josh, Oct 2026, Tive):** at Wix, helped e-commerce clients
+  set up third-party shipping integrations for their online stores. E-commerce shipping
+  setup, not freight, supply-chain, or logistics-operations experience; keep that
+  distinction. (Restaurant delivery receiving was NOT confirmed; don't claim it.)
+
 ## Personal commitment to immigrant and refugee communities (confirmed Sep 2026)
 
 - Josh has confirmed a full, genuine personal commitment to helping immigrant and refugee
@@ -357,6 +379,7 @@ operator talking, not like a candidate performing.
 - Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.
 - Run day-to-day delivery for B2B clients, managing operational needs and driving them to their goals on complex SaaS platforms.
 - Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.
+- Write client proposals and statements of work for new and expanded engagements. *(Confirmed by Josh, Oct 2026.)*
 - Align marketing programs to revenue objectives directly with business owners and sales teams, producing consistent messaging and qualified lead flow.
 - Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements.
 
@@ -642,6 +665,13 @@ operator talking, not like a candidate performing.
 > architecture and engineering firms that Josh sold to and scoped. Procore: no real hands-on
 > use; removed from the tools list, do not claim.
 >
+> **Global client base (confirmed by Josh, Oct 2026, Absorb):** Accelo accounts included
+> clients outside the US. Countries/regions not captured; claim "global client base" or
+> "international clients" without naming countries.
+>
+> **Proposals and SOWs (confirmed by Josh, Oct 2026, Absorb):** wrote proposals and
+> statements of work himself at Accelo and at Solenzo. Safe to claim directly.
+>
 > **Invoicing/billing features (confirmed by Josh, Oct 2026):** demoed and/or set up
 > Accelo's invoicing and billing modules for clients. Closest real evidence for AP/billing
 > postings, scoped honestly: a PSA tool's billing side for professional-services firms, not
@@ -653,6 +683,7 @@ operator talking, not like a candidate performing.
 > through the present at Solenzo, not a skill that started recently.
 - Ranked **top three in sales** on a team that scaled from **8 to 15 reps**, holding that rank across all but the final few months of a **27-month tenure** (Apr 2018 - Jul 2020), while **quota roughly doubled** over the period.
 - Closed deals of **$20K and larger** later in tenure, mixed with a base of smaller wins.
+- Wrote proposals and statements of work for a client base that included international accounts. *(Confirmed by Josh, Oct 2026.)*
 - Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.
 - Sold and scoped complex CRM and project-management software to agencies and professional-services firms (including architecture and engineering firms, confirmed by Josh Oct 2026), with deep fluency in sales enablement, contact management, and pipeline automation.
 - Guided client onboarding, workflow design, and API integrations, building relationships with C-Suite executives as a trusted advisor on operational system design.
@@ -735,7 +766,11 @@ operator talking, not like a candidate performing.
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps (incl. Google Slides), Microsoft Office (Excel, PowerPoint) |
+
+> **Microsoft Office / PowerPoint (confirmed by Josh, Oct 2026, Absorb):** hands-on
+> PowerPoint, same proficiency as Google Slides. With Excel already confirmed, "Strong MS
+> Office (Excel, PowerPoint)" clears the bar. Don't re-ask.
 
 > **Excel, Power BI, SQL, Python/JS (confirmed by Josh, Sep 2026, updated Sep 2026):**
 > Excel is a genuine, experienced-level skill, not just baseline literacy. Power BI is
@@ -793,6 +828,8 @@ with its scope and delete the line here.
 only), outbound tool names (Apollo, HeyReach, Salesloft, Marketo, Mailchimp).
 
 **Role-specific:**
+- **Solenzo speed-to-lead.** Josh confirmed he has response-time numbers from his inbound
+  automations (Oct 2026, Circle); actual figure and before/after not yet captured.
 - **Cold-email deliverability setup.** Whether he configured sending domains/warm-up
   himself. Ask only when a posting names it.
 - **1,400+ contact CRM cleanup context.** Which client/role and which CRM. Josh says he's
