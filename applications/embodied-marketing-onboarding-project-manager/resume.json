@@ -1,0 +1,88 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Onboarding & Project Management | Funnels, Paid Ads Launches, Asana",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing project manager who turns a funnel strategy into a launched campaign. I know every piece of the build firsthand: copy, landing pages, email and SMS automation, tracking, and paid ads, because I've built them myself at Solenzo and run them at Level Agency and Fetch & Funnel. At Wix I managed up to 25 concurrent launches on schedule at 110% of implementation targets and led onboarding teams of up to 30. I verify tracking, links, and automations before anything goes live.",
+  "experience": [
+    {
+      "title": "Growth & Lifecycle Marketing Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run client onboarding from strategy to launch, building the funnel copy, landing pages, email and SMS automation, and tracking for each client myself.",
+        "Built a 20+ workflow funnel and lifecycle system: lead capture, qualification, booking with reminders, no-show recovery, onboarding nurture, and reactivation.",
+        "Verify tracking, links, and automations before launch: GA4 conversion events, Meta Pixel, and Google Ads tags through GTM, with UTM conventions enforced.",
+        "Optimized a client's Google Ads account to cut low-quality leads, then diagnosed on-site conversion as the remaining bottleneck."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments on client campaigns, producing landing pages, email sequences, and conversion copy for accounts at $20K+/month in ad spend."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated training and communication sequences for 15-20 partners across health, home services, and retail, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, managing workflows and tasks in ClickUp and reducing handoff errors between teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed up to 25 concurrent client launches on fixed schedules, launching 25+ per month at 110% of implementation targets, and led onboarding teams of up to 30."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Onboarding & PM",
+      "items": [
+        "Client Onboarding",
+        "Funnel Build Coordination",
+        "Launch QA (Tracking, Links, Automations)",
+        "Approvals & Revisions",
+        "Process Improvement"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Asana, ClickUp",
+        "GoHighLevel, HubSpot",
+        "Meta Ads, Google Ads",
+        "GA4 & GTM",
+        "Zapier, Make"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
