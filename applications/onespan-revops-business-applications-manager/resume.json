@@ -1,0 +1,90 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "GTM Systems & Enablement | CRM Integrations, Process Documentation & Sales Onboarding",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "GTM systems builder who wires tools together and keeps the field self-sufficient. I integrate CRMs with outside systems through webhooks, REST APIs, Zapier, Make, and n8n, monitor and fix syncs when they drift, and document every system so teams can run it without me. I've worked in Salesforce at three companies and hands-on with Salesloft, ZoomInfo, and Apollo. At Wix I led onboarding teams of up to 30, ran weekly training, and helped build sales training for tenured account executives.",
+  "experience": [
+    {
+      "title": "GoHighLevel CRM Architect \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Integrate CRMs with outside systems through webhooks, REST APIs, OAuth/API-key credentials, Zapier, Make, and n8n, and troubleshoot sync and integration failures directly.",
+        "Architect CRM data models in HubSpot and GoHighLevel: properties, lifecycle stages, lead scoring, routing, and deduplication and data-hygiene standards.",
+        "Set up and validate data feeds into Salesforce, HubSpot, and GoHighLevel, re-checking every import.",
+        "Document every system, workflow, and decision so client teams can run it independently, and train owners and staff before go-live.",
+        "Use AI in build work, calling OpenAI and Claude APIs inside production workflows and using AI to debug JSON payloads and integration errors."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder agency accounts in HubSpot, producing landing pages and email sequences and reporting conversion KPIs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Worked intent, enrichment, and routing tools synced to Salesforce, and onboarded and trained 15-20 reseller partners, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Defined and labeled the Salesforce fields required for outbound sales and onboarding workflows, and advised on A/B testing for a Salesforce workflow-automation effort.",
+        "Led onboarding teams of up to 30, running weekly training and 1:1 coaching, and helped build sales training for tenured account executives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "GTM Systems",
+      "items": [
+        "CRM Integrations & APIs",
+        "Data Model & Dedup Standards",
+        "Process Documentation",
+        "Sales Onboarding & Enablement",
+        "Knowledge Base Content"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Salesloft, ZoomInfo, Apollo",
+        "Zapier, Make, n8n",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

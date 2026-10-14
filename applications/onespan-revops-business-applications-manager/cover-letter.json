@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 14, 2026",
+  "company": "OneSpan",
+  "role": "Revenue Operations Business Applications Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "Wiring systems together and keeping the field self-sufficient are the two halves of my work. I integrate CRMs with everything around them through webhooks, REST APIs, Zapier, Make, and n8n, monitor syncs and fix them when they drift, and design the data model underneath: properties, lifecycle stages, routing, and deduplication standards. Then I document it so the team can run it without me.",
+    "On the enablement side, I led onboarding teams of up to 30 at Wix, ran weekly training and 1:1 coaching, and helped build sales training for tenured account executives. I've worked in Salesforce at three companies, defined the fields our sales and onboarding workflows depended on, and used Salesloft and ZoomInfo hands-on. I also carried a B2B quota for most of a decade, so I build tools and documentation from the rep's side of the screen.",
+    "I'll be direct: my Salesforce work has been as a power user and integrator, not an admin building Flows and validation rules, and that's where I'd ramp fastest. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}
