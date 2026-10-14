@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations | Conversion Tracking, Ad Platform Integrations, HubSpot & Salesforce",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations builder who owns the stack as a team of one. I install and debug conversion tracking myself (GA4 events, Meta Pixel, and Google Ads conversion tags through custom GTM triggers and variables, validated in Preview mode and the browser network tab), enforce UTM conventions, and work hands-on in HubSpot and Salesforce. At Level Agency I ran paid campaigns on accounts spending $20K+/month, peaking above $100K. I build funnel and spend reporting in Power BI and SQL and turn it into recommendations leadership can act on.",
+  "experience": [
+    {
+      "title": "Marketing Operations Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Install and debug conversion tracking end to end: GA4 events, Meta Pixel, and Google Ads conversion tags through custom GTM triggers and variables, validated in Preview mode and browser developer tools.",
+        "Define and enforce UTM conventions, and build dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity in Power BI and SQL (BigQuery).",
+        "Build lifecycle stages, lead scoring, routing, and marketing-to-CRM syncs, with data feeds into Salesforce, HubSpot, and GoHighLevel validated on every import.",
+        "Automate manual work with n8n, Make, Zapier, webhooks, and REST APIs, including LLM API calls, documenting every system as a team of one.",
+        "Optimized a client's Google Ads account to cut low-quality leads, then diagnosed on-site conversion as the remaining bottleneck."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran A/B-tested, account-based LinkedIn campaigns and planned budgets across ~3 accounts at $20K+/month in ad spend each, peaking above $100K/month, reporting ROI, CAC, and LTV in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Worked intent, enrichment, and routing tools synced to Salesforce, and managed 15-20 reseller partners, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K and built processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Contributed to a 30% traffic increase and 25% conversion improvement across the e-commerce segment, holding 120% of sales targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Helped leadership build the lead qualification system while ranking top three on a sales team of 8-15 reps."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Ops",
+      "items": [
+        "Conversion Tracking & GTM",
+        "UTM Governance",
+        "Lead Routing & Lifecycle",
+        "Spend & Pipeline Reporting",
+        "Team-of-One Documentation"
+      ]
+    },
+    {
+      "category": "Platforms",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "Google Ads, Meta Ads, LinkedIn Ads",
+        "GA4",
+        "Power BI, SQL (BigQuery)"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 14, 2026",
+  "company": "Numeral",
+  "role": "Marketing Operations Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "The part of this role I'd start on first is the tracking. I install and debug conversion tracking myself: GA4 events, Meta Pixel, and Google Ads conversion tags through custom Google Tag Manager triggers and variables, validated in Preview mode and the browser's network tab. I define and enforce UTM conventions, so when a spend report and a pipeline report disagree, there's a clean trail to follow.",
+    "The rest of your list is the same kind of work. I've worked hands-on in HubSpot and Salesforce, built lifecycle stages, lead scoring, routing, and marketing-to-CRM syncs, and built funnel and spend dashboards in Power BI and SQL that come with a recommendation. At Level Agency I ran paid campaigns on accounts spending $20K+ a month, peaking above $100K, and reported ROI, CAC, and LTV to client leadership. I've also run my own practice as a team of one, so documentation and choosing the high-leverage work come with the territory.",
+    "Offline conversion uploads, conversion APIs, and attribution tools like Dreamdata would be new to me, and they build directly on the tagging work I already do. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}
