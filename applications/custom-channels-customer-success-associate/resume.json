@@ -1,0 +1,91 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success | Onboarding, Technical Troubleshooting, HubSpot Workflows & CRM Data",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success and operations specialist who handles onboarding, troubleshooting, and the CRM behind it. I build and maintain HubSpot and GoHighLevel workflows, keep CRM data clean, and debug technical issues myself, down to the webhook or integration error. At Birdeye I onboarded and supported 15-20 partners and kept all but one by watching account health and escalating early. I write plain-language documentation that customers and teams can use on their own.",
+  "experience": [
+    {
+      "title": "Client Success & CRM Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Onboard clients to new systems and serve as their day-to-day contact for how-to questions and issues, training owners and staff before go-live.",
+        "Build and optimize workflows and automations in HubSpot and GoHighLevel, and keep CRM data clean with validated imports and data-hygiene standards.",
+        "Troubleshoot technical issues directly, tracing integration and messaging failures through webhooks, APIs, and JSON payloads.",
+        "Document systems and fixes so teams can run them on their own, and wrote 18 plain-language articles explaining technical topics."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail, including agencies focused on healthcare clients, retaining all but one (~94%).",
+        "Analyzed partner utilization to spot at-risk accounts early and recommend interventions that reduced churn.",
+        "Advised partners on retention strategy and customer health metrics, and fed structured feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets, and managed a high-value portfolio that saw 25% conversion improvement across supported accounts.",
+        "Led onboarding teams of up to 30 specialists, running weekly training and 1:1 coaching."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised clients on CRM adoption and guided onboarding and workflow design, building relationships with C-suite executives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": [
+        "Onboarding & Rollout",
+        "Technical Troubleshooting",
+        "Account Health Monitoring",
+        "Escalation",
+        "Knowledge Base Content"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "HubSpot",
+        "GoHighLevel",
+        "Salesforce",
+        "Zendesk (ticketing workflows)",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
