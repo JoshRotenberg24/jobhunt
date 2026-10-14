@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Revenue Operations | Pipeline Process, Sales Policy, CRM Systems & Clear Documentation",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Revenue operations builder who spent a decade on the quota side first. I ranked top three on a B2B SaaS sales team at Accelo while quota roughly doubled, sold into commission accelerator tiers, and helped leadership build the lead qualification system, so I know how pipeline stages, bookings, and comp plans actually change rep behavior. Today I design CRM systems, lifecycle stages, scoring, routing, and the documentation that lets a team run them, and I build models and dashboards in Excel, Power BI, and SQL.",
+  "experience": [
+    {
+      "title": "RevOps Consultant & CRM Architect \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Design CRM systems and sales process in HubSpot and GoHighLevel: pipeline stages, lifecycle definitions, lead scoring and qualification criteria, routing, and data-hygiene standards.",
+        "Build pipeline and funnel dashboards tracking lead generation, conversion, and pipeline velocity in Power BI and SQL, and present recommendations to leadership.",
+        "Integrate CRMs with outside systems through webhooks, REST APIs, Zapier, Make, and n8n, and validate every data import.",
+        "Write plain-language documentation for every system and process; published 18 articles explaining technical topics for non-technical readers."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder agency accounts in HubSpot, turning performance data into recommendations for client leadership."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K (~$130K+ total bookings) at a performance marketing agency while leading the sales team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Carried combined sales and implementation, launching 25+ clients/month at 120% of sales and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three on a sales team that scaled from 8 to 15 reps while quota roughly doubled, and helped leadership build the lead qualification system.",
+        "Averaged ~$17,750/month in implementation services bookings (~$213K annualized) plus new recurring revenue, into commission accelerator tiers."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Revenue Operations",
+      "items": [
+        "Pipeline Stages & Exit Criteria",
+        "Lead Qualification & Scoring",
+        "Sales Process Documentation",
+        "Pipeline & Funnel Reporting",
+        "Comp-Plan Awareness (carried quota)"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Excel & Google Sheets",
+        "Salesforce",
+        "HubSpot",
+        "Power BI, SQL",
+        "Salesloft, Gong"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
