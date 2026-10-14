@@ -6,6 +6,7 @@
 **Location:** Remote, US
 **Compensation:** Not posted
 **Date:** October 14, 2026
+**Status:** Skipped by Josh, Oct 14 2026 (files kept for reference)
 
 ---
 
