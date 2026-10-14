@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 14, 2026",
+  "company": "Teamworks",
+  "role": "Senior Marketing Operations Manager",
+  "recipient": "Karla Anderson",
+  "salutation": "Dear Karla,",
+  "body": [
+    "You wrote that you want automation and agents built into how marketing works, not as a side experiment. That's the work I've been doing. At Solenzo I break manual marketing workflows into agent architectures: workflows that call the OpenAI and Claude APIs inside n8n, Make, and Zapier to score a business's digital footprint and generate personalized outreach, with evaluation loops that monitor output quality. I've also built a 20+ workflow lifecycle system with triggered email and SMS journeys, and I design the tracking at build time, with GA4 conversion events, custom Google Tag Manager triggers, and UTM conventions I define and enforce.",
+    "I'm used to being a team of one. I own strategy and execution end to end, and before marketing operations I spent a decade carrying a B2B sales quota, so I build tracking that answers the pipeline question rather than the activity question.",
+    "I'll be direct about the gap: my marketing operations work has been with smaller and mid-sized businesses, not a 25-product enterprise, and multi-touch attribution at that scale would be new. The foundations you described, clean tracking from day one and automation as core infrastructure, are where I'd start. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}
