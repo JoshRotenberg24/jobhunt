@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Onboarding Leader | Team Management, Onboarding Playbooks, Sales-to-CS Handoffs & Scale",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Onboarding leader who has run the function, not just worked in it. At Wix I led multiple onboarding teams of up to 30 specialists over two years, piloting team structures as a new vertical went from proof of concept to profitable, running weekly training and 1:1 coaching, and helping hire and train new team members. At Accelo I built the implementation plans that turned sales handoffs into delivery. I build AI and automation into the work to scale it.",
+  "experience": [
+    {
+      "title": "Implementation Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for service businesses, including electrical, plumbing, and HVAC trades: kickoff, requirements, configuration, data setup, and training.",
+        "Built automated appointment booking with confirmations and reminders, no-show recovery, reactivation of lapsed customers, and review requests across a 20+ workflow system."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback promptly and held delivery quality consistent across implementations to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded 15-20 reseller partners and ensured every partner's end customers were set up on Birdeye's listings solution, the backbone of the offer, retaining all but one partner (~94%).",
+        "Analyzed partner utilization metrics to spot adoption gaps early and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led multiple onboarding teams of up to 30 specialists over 2 years, piloting different team structures as a new vertical scaled from proof of concept to a profitable business line.",
+        "Ran weekly team training, workshops for new initiatives, and 1:1 coaching, and contributed to hiring, onboarding, and training new hires and to sales training for tenured account executives.",
+        "Onboarded and launched 25+ clients per month with up to ~25 concurrent, holding 110% of implementation targets, while overseeing budgets, scope, and delivery for a high-value portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients and guided onboarding and workflow design alongside the implementation team."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Onboarding Leadership",
+      "items": [
+        "Team Management & Coaching",
+        "Onboarding Playbooks",
+        "Sales Handover & CS Transition",
+        "Escalation Management",
+        "Onboarding KPIs"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Asana",
+        "Excel",
+        "AI & Automation (Zapier, n8n)"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

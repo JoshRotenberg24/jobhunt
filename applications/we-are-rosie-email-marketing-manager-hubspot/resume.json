@@ -1,0 +1,90 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Email Marketing | HubSpot Builds, Automated Flows, QA & Deliverability",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Hands-on email marketer who builds, QAs, and ships the sends myself. I build onboarding nurtures, drop-off recovery, reminders, and reactivation flows across email and SMS in HubSpot and GoHighLevel, set up deliverability myself, and keep it above 99%. I work in HTML/CSS, validate every list and import before it goes live, and build monitoring that catches broken automation before a customer does.",
+  "experience": [
+    {
+      "title": "Email & Lifecycle Marketing Lead — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built a 20+ workflow email and SMS lifecycle system: onboarding nurture, booking confirmations and reminders, no-show and drop-off recovery, long-term nurture, reactivation, and review requests.",
+        "Set up sending domains, SPF/DKIM/DMARC authentication, and warm-up myself, holding email deliverability above 99%.",
+        "Build segmented lists and lifecycle stages on behavior and engagement in HubSpot and GoHighLevel, and validate every data import before a send relies on it.",
+        "Build monitoring and evaluation loops that catch broken or underperforming automation logic before customers see it.",
+        "Launched a free audit offer as a free-to-paid funnel: 180+ businesses enrolled, 2 converted to paying clients.",
+        "Work directly in HTML/CSS for my own site build and client tracking implementation."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced multi-touch email sequences, landing pages, and conversion copy for client campaigns, and reported on conversion KPIs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated onboarding and product-training sequences for 15-20 reseller partners, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Launched 25+ clients per month on fixed schedules at 110% of implementation targets, with up to ~25 in flight at once."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Email Execution",
+      "items": [
+        "HubSpot Emails, Workflows & Lists",
+        "Segmentation",
+        "Pre-Send QA",
+        "Deliverability (SPF/DKIM/DMARC, 99%+)",
+        "SMS",
+        "A/B Testing"
+      ]
+    },
+    {
+      "category": "Technical",
+      "items": [
+        "HTML/CSS",
+        "GoHighLevel",
+        "GA4 & GTM",
+        "Zapier, Make, n8n"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

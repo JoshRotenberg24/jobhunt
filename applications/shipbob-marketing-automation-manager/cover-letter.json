@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 9, 2026",
+  "company": "ShipBob",
+  "role": "Marketing Automation Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "\"No lead left behind\" is how I already build. My main automation system is 20+ workflows covering capture, tagging and routing, qualification, nurture, and reactivation, and I build in monitoring that catches a broken branch or a lead stuck in the wrong stage before it costs anyone a deal.",
+    "The parts of this role I'd step into fastest are the build and the plumbing. I build lead scoring, lifecycle stages, and nurture in HubSpot and GoHighLevel, sync marketing automation to the CRM, and debug integrations myself through webhooks, APIs, and JSON, with JavaScript and Python in custom code steps where a native action falls short. I set up SPF, DKIM, DMARC, and warm-up myself and keep deliverability above 99%. I've worked in Salesforce at three companies and ran account-based LinkedIn campaigns at Level Agency, so I'm comfortable working inside a scoring and attribution model someone else owns.",
+    "Expert-level HubSpot forms and Design Manager work would be where I'd ramp fastest, and I learn platforms quickly. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}

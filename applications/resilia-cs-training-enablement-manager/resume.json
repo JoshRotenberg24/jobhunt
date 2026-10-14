@@ -1,0 +1,92 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Training & Enablement | Team Onboarding, Coaching, Workshops & Knowledge Base",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Team lead and enablement builder who gets new people productive and keeps tenured people sharp. At Wix I led onboarding teams of up to 30 specialists over two years, ran weekly training, workshops for new initiatives, and 1:1 coaching, helped hire and train new team members, and helped build sales training for tenured account executives, while personally launching 25+ clients a month at 110% of implementation targets. I write plain-language documentation people actually use, including 18 published articles.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Train business owners and staff on every system before go-live, and document each workflow so teams can run it without me.",
+        "Wrote and published 18 plain-language articles explaining technical topics (CRM setup, automation, SEO) for non-technical readers.",
+        "Built rubric-based grading criteria to evaluate output quality against a defined standard, and use the results to improve the process."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for 15-20 reseller partners, retaining all but one (~94%).",
+        "Built automated product-training sequences that reduced onboarding friction across the partner network.",
+        "Analyzed partner utilization data to spot adoption gaps early, and fed findings back into training and onboarding."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Took on team lead for the sales team, and built processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led multiple onboarding teams of up to 30 specialists over 2 years, piloting different team structures as a new vertical scaled from proof of concept to a profitable business line.",
+        "Ran weekly team training sessions, workshops for new initiatives, and individual 1:1 coaching for onboarding specialists.",
+        "Contributed to hiring, onboarding, and training new hires, and helped develop sales training for tenured account executives.",
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets and 120% of sales targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Held workshops for client teams showing how each part of a complex CRM and project-management platform would work for them."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Enablement",
+      "items": [
+        "New Hire Onboarding",
+        "Workshops & 1:1 Coaching",
+        "Knowledge Base & Documentation",
+        "Interviewing & Hiring Support",
+        "Performance Data Analysis"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Zendesk",
+        "Notion",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

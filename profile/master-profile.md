@@ -51,8 +51,9 @@
 > these. Record as a real gap, not a confirmation item, when a posting names them.
 > **Apollo and HeyReach: confirmed hands-on (Oct 2026)**, alongside Salesloft, Marketo,
 > and Mailchimp (already confirmed Sep 2026). Instantly and Smartlead were not on his list,
-> so don't claim them. Cold-email deliverability setup (domains, warm-up, sender
-> reputation) is still unconfirmed; ask before claiming.
+> so don't claim them. **Email deliverability setup confirmed (Josh, Oct 9 2026):** sets up
+> sending domains, authentication (SPF/DKIM/DMARC), and warm-up himself; deliverability
+> consistently above 99% (self-reported, Solenzo).
 >
 > **Non-standard schedules:** evenings, weekends, and holidays are acceptable for the right
 > role (confirmed Aug 2026 re: DCPA).
@@ -68,6 +69,34 @@
 > **Billing processing (confirmed by Josh, Oct 6 2026, do not re-ask):** has not processed
 > billing adjustments, cancellations, or renewals in a billing system. Real gap; the Accelo
 > invoicing/billing walkthroughs are the closest adjacent evidence.
+>
+> **Stripe (confirmed by Josh, Oct 8 2026, Vantaca):** has set up and worked in Stripe at
+> Solenzo. Claim "Stripe payment setup." KYC/identity verification, restricted-account
+> resolution, and fee-structure configuration are NOT yet confirmed separately; ask before
+> claiming those specifically.
+>
+> **Occasional office travel (confirmed by Josh, Oct 8 2026, Vantaca):** fine with
+> "come to the office when needed" remote roles (occasional travel to an out-of-state HQ).
+>
+> **SMS (confirmed by Josh, Oct 9 2026):** his GoHighLevel lifecycle workflows send SMS
+> (booking confirmations, reminders, reactivation) alongside email. Claim "email and SMS."
+>
+> **GoHighLevel start (confirmed by Josh, Oct 9 2026):** hands-on in GoHighLevel since 2024
+> (Solenzo). Sub-account count, snapshots, A2P 10DLC registration, and agency-level admin are
+> still unconfirmed; don't claim them.
+>
+> **Answer format (Josh, Oct 9 2026):** application answers must be paste-ready, never with
+> [bracket] placeholders. Write around unknowns instead.
+> Time zones: use standard abbreviations (PST, EST, MT), not spelled-out names (Josh, Oct 9 2026).
+> Cover letters: also give the full text in chat for copy/paste (many forms take a text box,
+> not a file), in addition to the PDF/DOCX.
+>
+> **Design tools (confirmed by Josh, Oct 14 2026, OneImaging):** does light asset work in
+> Canva, Figma, and/or Adobe; which specific tool(s) not named. Claim "light design asset
+> updates" generically until he names the tool.
+>
+> **Print / direct mail (Josh, Oct 14 2026):** has not directly coordinated print or
+> direct-mail production with a vendor. Real gap; don't re-ask.
 >
 > **Entry-level pay (Josh, Oct 2026):** willing to accept entry-level pay for the right role
 > (Wordly). On forms with no posted range, answer "open to your range for this role."
@@ -766,7 +795,7 @@ operator talking, not like a candidate performing.
 | Sales & Account Management | Full-cycle Sales, Pipeline Management, Pipeline Stage Tracking & Forecast Hygiene, C-Suite Relationship Building, Strategic Advisory, Account Expansion |
 | Operations & Systems | Process Mapping, SOP Development, Workflow Decomposition, Project Management, Cross-functional Coordination |
 | Content & Writing | Thought Leadership, Direct Response Copy, Technical Translation, Brand Voice, Editorial Management |
-| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps (incl. Google Slides), Microsoft Office (Excel, PowerPoint) |
+| Tools & Platforms | GoHighLevel, HubSpot, Salesforce, Stripe, Notion, Slack, Asana, Monday.com, Jira, Zendesk, ClickUp, Screaming Frog, Google Apps (incl. Google Slides), Microsoft Office (Excel, PowerPoint) |
 
 > **Microsoft Office / PowerPoint (confirmed by Josh, Oct 2026, Absorb):** hands-on
 > PowerPoint, same proficiency as Google Slides. With Excel already confirmed, "Strong MS
@@ -808,6 +837,7 @@ operator talking, not like a candidate performing.
 - **CRM cleanup of 1,400+ contacts** (most recent CRM he cleaned out; supplied by Josh, Oct 2026). Employer/client and tool not captured, so state it without attributing it to a specific role unless Josh confirms where.
 - **20+ GoHighLevel automation workflows built & deployed (Solenzo)** across the full lifecycle (capture, qualify, book, no-show recovery, onboard, nurture/reactivate, reviews, segmented cold outreach); audit/outreach workflow enrolled 180+ contacts
 - **Free digital-footprint audit offer (Solenzo), promoted via LinkedIn organic growth: 180+ businesses enrolled, 2 converted to paying clients** (~1.1% audit-to-client conversion) — confirmed by Josh, Aug 2026. This is Josh's own product-marketing / PLG-style motion: a free offer as top-of-funnel, distributed through his own LinkedIn growth, converting a share of free users to paid. Track record still early; do not overstate the conversion rate, state it plainly.
+- **Email deliverability consistently above 99%** (Solenzo email programs; self-reported by Josh, Oct 9 2026)
 - **~25 concurrent onboardings at peak at Wix** (supplied by Josh, Oct 2026), alongside 25+ launches/month
 - **Up to 3 concurrent clients at Solenzo** at peak, while personally building the outbound automation system and running outbound himself (confirmed by Josh, Sep 2026). This is a solo-founder scale number, real and specific, not a large book, state it plainly rather than rounding up. Monthly lead volume at Solenzo is not reliably capturable as a metric (see private note below) — do not estimate one.
 
@@ -830,8 +860,6 @@ only), outbound tool names (Apollo, HeyReach, Salesloft, Marketo, Mailchimp).
 **Role-specific:**
 - **Solenzo speed-to-lead.** Josh confirmed he has response-time numbers from his inbound
   automations (Oct 2026, Circle); actual figure and before/after not yet captured.
-- **Cold-email deliverability setup.** Whether he configured sending domains/warm-up
-  himself. Ask only when a posting names it.
 - **1,400+ contact CRM cleanup context.** Which client/role and which CRM. Josh says he's
   worked with many data sets and a single "largest" number is hard to give; don't push for
   one.

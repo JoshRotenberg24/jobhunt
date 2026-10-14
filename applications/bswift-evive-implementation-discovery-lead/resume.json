@@ -1,0 +1,92 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Discovery Lead | Requirements Gathering, Client Consulting, Data Files & Process Improvement",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation lead who owns discovery: gathering and finalizing requirements, consulting clients on best practices, and handing off a clean build. At Accelo I scoped implementations of a complex CRM, project, and billing platform and built the sequenced plans the delivery team executed. At Wix I launched 25+ clients a month at 110% of implementation targets and coached onboarding teams of up to 30. I set up and validate data feeds myself and work hands-on in Excel.",
+  "experience": [
+    {
+      "title": "Implementation Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run discovery with business owners and staff to gather requirements, document goals and rules, and translate them into tailored system configuration.",
+        "Set up and validate data feeds into Salesforce, HubSpot, and GoHighLevel, re-checking every import before go-live.",
+        "Consult clients on best practices and recommend system improvements based on how their business actually operates.",
+        "Document every requirement, decision, and deliverable, keeping records auditable for the team that supports the client after launch."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of reputation and marketing automation tools.",
+        "Onboarded and trained 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94% retention)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Implemented and launched 25+ clients per month with up to ~25 concurrent onboardings, holding 110% of implementation targets.",
+        "Led onboarding teams of up to 30 specialists, running weekly training and 1:1 coaching, and helped hire and train new team members."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order.",
+        "Advised clients on best practices and walked them through invoicing and billing workflows before go-live.",
+        "Escalated issues to leadership early and mitigated account-level risk during setup."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation Discovery",
+      "items": [
+        "Requirements Gathering",
+        "Client Consulting & Best Practices",
+        "Data Feeds & Validation",
+        "Risk Escalation",
+        "Coaching Junior Staff"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Excel (VLOOKUP, Pivot Tables)",
+        "Salesforce",
+        "HubSpot",
+        "Jira",
+        "Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

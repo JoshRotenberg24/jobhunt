@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "headline": "Integrated Campaign & Client Delivery Lead | Sales Partnership, Team Leadership & Reporting",
+  "summary": "Client delivery and integrated marketing lead with 15+ years turning sold programs into executed campaigns across paid media, email, content, and landing pages. Led onboarding teams of up to 30 at Wix and owns delivery from post-sale handoff through reporting, with scopes, timelines, and approvals tracked so every commitment ships.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own client programs from discovery and scoping through launch and reporting, translating client goals into clear, executable specifications.",
+        "Report performance on a regular cadence with actionable insights that shape the next round of campaigns."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed integrated digital marketing programs across inbound, paid media, and content, coordinating execution across internal departments.",
+        "Managed ~3 accounts at $20K+/month in ad spend each, peaking above $100K/month, advising on budget planning and allocation.",
+        "Produced campaign assets including landing pages, email sequences, and conversion-focused copy, and delivered QBRs tracking ROI, CAC, and conversion KPIs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention), equipping them to communicate product value."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency and served as sales team lead, building processes that reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led multiple onboarding teams of up to 30 specialists over 2 years, running weekly training and 1:1 coaching while overseeing budgets, scope, and delivery.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets.",
+        "Helped build a new Wix vertical from proof of concept to a profitable business line, developing sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, closing deals of $20K and larger."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Campaigns & Delivery",
+      "items": [
+        "Integrated Campaign Delivery",
+        "Post-Sale Handoff",
+        "Scope & Timeline Tracking",
+        "Campaign Reporting"
+      ]
+    },
+    {
+      "category": "Leadership & Tools",
+      "items": [
+        "Team Coaching",
+        "Sales Partnership",
+        "HubSpot",
+        "Salesforce",
+        "ClickUp, Asana"
+      ]
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 9, 2026",
+  "company": "321 The Agency",
+  "role": "GoHighLevel CRM Specialist",
+  "recipient": "Hiring Team",
+  "body": [
+    "GoHighLevel is the platform I build in every day. Through my consulting practice, Solenzo, I design and run client environments end to end: discovery, custom fields and pipelines, workflows, booking, email and SMS, and the training that gets a team to actually use it. My main build is a 20+ workflow system covering lead capture and routing, qualification, calendar booking with reminders, no-show recovery, onboarding, reactivation, and automated review requests.",
+    "The parts of this role I'd step into fastest are integrations and data. I connect GoHighLevel to outside systems through webhooks, REST APIs, Zapier, Make, and n8n, set up the credentials, and debug the failures myself. I set up email deliverability on my own and keep it above 99%, and I validate every import before anything runs on it. I've also worked hands-on in Salesforce and HubSpot across agency and SaaS roles, so moving data and standards between platforms is familiar ground.",
+    "I like the agency side of this work: different clients, different processes, one consistent standard for how the system gets built and documented. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}

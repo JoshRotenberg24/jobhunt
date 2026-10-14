@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 9, 2026",
+  "company": "CloudFactory",
+  "role": "AI Marketing Operations Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "The part of this role I'd start on first is generative engine optimization. I built a 9-dimension framework for how AI search and LLMs read a business (entity clarity, topical coverage, internal linking, schema, information gain, and AI visibility), and I've published 10 articles on it, including why ChatGPT won't recommend a business and how Google AI Overviews choose sources. Building that into a website rebuild from the start is exactly where it pays off most.",
+    "The rest of the stack is work I already do by hand. I build lead scoring, lifecycle stages, and nurture automation in HubSpot and GoHighLevel. I set up SPF, DKIM, DMARC, and warm-up for outbound myself and keep deliverability above 99%, with hands-on time in Salesloft, Apollo, and HeyReach. I deploy tracking through custom Google Tag Manager triggers and variables, work in HTML and CSS, and call the OpenAI and Claude APIs inside production workflows. At Level Agency I ran account-based LinkedIn campaigns on accounts spending $20K+ a month.",
+    "I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}

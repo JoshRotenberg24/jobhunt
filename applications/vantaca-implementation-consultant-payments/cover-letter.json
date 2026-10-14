@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 8, 2026",
+  "company": "Vantaca",
+  "role": "Implementation Consultant, Payments",
+  "recipient": "Hiring Team",
+  "body": [
+    "The way this role is measured (on-time launches, portal engagement after go-live, clean compliance at launch) is how I already judge my own implementations. At Wix I launched 25+ clients a month, often 25 at once, at 110% of my implementation target. The launches that went well were the ones where I found the blocker before go-live day, not on it.",
+    "Two things I'd bring to Vantaca Pay specifically. First, I fix my own problems: I build and debug production automations in Zapier, Make, and n8n, including webhooks, API calls, and credential setup, so documenting a repeat issue and automating it away is normal work for me. Second, adoption doesn't stop at launch. At Birdeye I trained 15-20 reseller partners and kept all but one, largely by watching utilization and stepping in early when usage dropped.",
+    "Payments is a space I care about. I like the idea of making a transaction simple enough that people stop thinking about it. I've set up and worked in Stripe at Solenzo, and at Accelo I walked clients through invoicing and billing workflows before they went live. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}

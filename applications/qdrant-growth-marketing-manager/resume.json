@@ -1,0 +1,89 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "B2B Growth Marketing | Lifecycle Nurture, Scoring & Signals, AI Workflows & GEO",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Growth marketer who builds the machine instead of running someone else's. I build cohort-based nurture journeys, lead scoring, and lifecycle stages in HubSpot and GoHighLevel, pull and shape the data myself, and connect it all with agentic workflows that call the OpenAI and Claude APIs in n8n, Make, and Zapier. I've built a 9-dimension framework for how AI search and LLMs read and cite a business, and published 10 articles on it. A decade in B2B SaaS sales means I build warming motions that hand reps leads they actually want.",
+  "experience": [
+    {
+      "title": "AI Marketing Operations Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built a 20+ workflow lifecycle system with cohort-based nurture journeys across email and SMS: welcome, post-sale onboarding, booking and reminders, long-term nurture, and reactivation, holding deliverability above 99%.",
+        "Build agentic workflows that score a business's digital footprint, tag it by signal, and generate personalized outreach through OpenAI and Claude API calls in n8n, Make, and Zapier.",
+        "Launched a free audit offer as top-of-funnel, promoted through LinkedIn organic: 180+ businesses enrolled, 2 converted to paying clients.",
+        "Built a 9-dimension framework for how AI search and LLMs read and cite a business, and published 10 articles on semantic SEO and AI search visibility.",
+        "Define lifecycle stages and lead scoring, build reusable campaign templates, and track funnel results in GA4, Power BI, and SQL."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran account-based LinkedIn campaigns with A/B-tested setups and planned budgets across ~3 accounts at $20K+/month in ad spend, peaking above $100K/month, reporting ROI, CAC, and LTV."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Worked intent and routing tools synced to Salesforce and managed 15-20 reseller partners, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency and closed 6 deals averaging ~$22K."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Contributed to a 30% traffic increase and 25% conversion improvement across the e-commerce segment through site architecture, inbound, and SEO work."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Growth & Lifecycle",
+      "items": [
+        "Cohort-Based Nurture",
+        "Lead Scoring & Signals",
+        "Reusable Campaign Systems",
+        "GEO & AI Search Visibility",
+        "Onboarding Sequences"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "HubSpot, GoHighLevel",
+        "n8n, Make, Zapier",
+        "OpenAI & Claude APIs",
+        "Apollo, ZoomInfo",
+        "GA4, SQL, Power BI"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

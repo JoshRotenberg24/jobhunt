@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Manager | Concurrent Launches, Project Management & Integrations",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation manager who runs multiple concurrent launches from kickoff to steady state as the customer's primary point of contact. At Wix I launched 25+ clients a month with up to ~25 in flight, at 110% of implementation targets. I diagnose integration issues myself (webhooks, REST APIs, JSON payloads) and build the plans, templates, and handoffs that keep the next launch on schedule.",
+  "experience": [
+    {
+      "title": "Implementation Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end implementations as the client's primary contact from kickoff to go-live, translating business requirements into system configuration and workflows, then training owners and staff.",
+        "Diagnose and resolve integration issues in production workflows (Zapier, Make, n8n, GoHighLevel), working directly in webhooks, REST API calls, JSON payloads, and OAuth/API-key credentials.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records auditable across concurrent engagements."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and trained 15-20 reseller partners across health, home services, and retail, including agencies focused on healthcare clients, retaining all but one (~94% retention).",
+        "Guided customers through complex technical setup of reputation and marketing automation tools.",
+        "Fed structured, high-priority customer feedback to Product and Engineering to inform the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Implemented and launched 25+ clients per month with up to ~25 concurrent onboardings, holding 110% of implementation targets and delivering launches on schedule.",
+        "Led multiple onboarding teams of up to 30 specialists as primary strategic contact, overseeing budgets, scope, and delivery for a high-value client portfolio.",
+        "Drove process improvements for a new Wix vertical that went from proof of concept to profitable."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute.",
+        "Guided onboarding, workflow design, and API integrations alongside implementation teams, building relationships with C-suite executives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation & Project Management",
+      "items": [
+        "Concurrent Implementation Management",
+        "Project Plans & Status Reporting",
+        "Risk & Escalation Management",
+        "Playbooks, Templates & Handoffs"
+      ]
+    },
+    {
+      "category": "Technical",
+      "items": [
+        "Integration Troubleshooting",
+        "Webhooks & REST APIs",
+        "SQL (working proficiency)"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Asana",
+        "Jira",
+        "Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

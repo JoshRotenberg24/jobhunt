@@ -1,0 +1,91 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success Manager | Adoption, Account Health, Renewals & Expansion | B2B SaaS",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success manager who owns the relationship from onboarding through renewal and expansion. At Birdeye I managed 15-20 partners and kept all but one by tracking utilization, spotting risk early, and stepping in before they disengaged. At Wix I onboarded 25+ clients a month at 110% of implementation targets. At Accelo I worked with C-suite and operations leads to map complex workflows onto a CRM and project platform. I run business reviews, coordinate escalations across product and support, and document every commitment.",
+  "experience": [
+    {
+      "title": "Client Success & CRM Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own client relationships end to end, running discovery to surface each client's goals, then auditing and adjusting workflows and automations to match how each organization actually operates.",
+        "Identify expansion opportunities and scope complementary services aligned with each client's goals.",
+        "Train owners and staff on every system, and document every interaction, goal, timeline, and deliverable in HubSpot, GoHighLevel, and Notion.",
+        "Report performance on a regular cadence with recommendations, backed by dashboards tracking results."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail, retaining all but one (~94%).",
+        "Analyzed partner utilization to spot at-risk accounts early and recommend interventions that reduced churn.",
+        "Advised partners on retention strategy and customer health metrics, and fed structured feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets, and managed a high-value portfolio that saw 25% conversion improvement across supported accounts.",
+        "Led onboarding teams of up to 30 specialists, running weekly training and 1:1 coaching."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built relationships with C-suite executives and operations leads, mapping complex workflows onto a CRM and project-management platform, and escalated risks to leadership early."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": [
+        "Success Plans",
+        "Customer Health Scoring",
+        "Business Reviews (QBRs)",
+        "Renewals & Expansion",
+        "Escalation Management"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "Excel",
+        "Notion",
+        "Zendesk"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

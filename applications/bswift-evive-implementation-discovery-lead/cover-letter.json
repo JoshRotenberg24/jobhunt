@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 9, 2026",
+  "company": "bswift",
+  "role": "Implementation Discovery Lead (Evive)",
+  "recipient": "Hiring Team",
+  "body": [
+    "Discovery is the part of implementation that decides whether everything after it goes well, and it's the part I like most. At Accelo I scoped implementations of a CRM, project-management, and billing platform for professional-services firms, mapped how each firm actually worked, and built sequenced plans deciding which systems to change and in what order before handing them to the delivery team. At Wix I launched 25+ clients a month at 110% of my implementation target and coached onboarding teams of up to 30.",
+    "The data side of this role is familiar ground. I set up and validate data feeds into Salesforce, HubSpot, and GoHighLevel and re-check every import before anything goes live, and I document every requirement and decision so the team that supports the client after launch isn't guessing. I also escalate early: a risk raised at discovery is cheap, and the same risk found after go-live is not.",
+    "Benefits administration would be new to me, and I learn complex platforms quickly. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}

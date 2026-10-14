@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 14, 2026",
+  "company": "BAMKO",
+  "role": "Marketing Operations Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "You want someone who sets the standard and then builds it, and that's how I work. I architect CRMs in HubSpot and GoHighLevel from the properties up: lifecycle stages, lead scoring, routing, and data-hygiene rules. I build the integrations that connect them to everything else through webhooks, REST APIs, Zapier, Make, and n8n, and I install conversion tracking myself through GA4, Google Tag Manager, Meta Pixel, and Google Ads tags.",
+    "On the measurement side, I build dashboards in Power BI and SQL, including BigQuery pulls of GA4 data, and turn them into recommendations for leadership. Before marketing operations I spent a decade in B2B sales, including ranking top three at Accelo selling complex software through long, multi-stakeholder cycles, so I build routing and handoffs with the sales side in mind.",
+    "HubSpot Marketing Hub Enterprise at BAMKO's scale and a formal multi-touch attribution model would be where I'd grow fastest. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}

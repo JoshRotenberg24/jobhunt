@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations | Multi-Channel Campaign Execution, QA, Lifecycle Journeys & Coordination",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations specialist who keeps campaigns moving from request to launch and catches problems before they ship. I build and QA email and SMS journeys covering onboarding, reminders, reactivation, and review requests, keep deliverability above 99%, and build the landing pages behind them. I manage many workstreams at once (up to 25 concurrent launches at Wix), coordinate across teams, and use automation and AI to take repetitive work off the plate.",
+  "experience": [
+    {
+      "title": "Email & Lifecycle Marketing Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build and QA email and SMS journeys across a 20+ workflow lifecycle system: onboarding nurture, booking confirmations and reminders, no-show recovery, reactivation, and review requests.",
+        "Set up sending domains, SPF/DKIM/DMARC, and warm-up, holding deliverability above 99%, and build monitoring that catches broken automation before members see it.",
+        "Build landing pages and write member-facing copy in plain language; published 18 articles explaining technical topics for non-technical readers.",
+        "Use automation and AI (n8n, Make, Zapier, LLM APIs) to take repetitive steps off the plate, and track campaign results in GA4 and CRM dashboards."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced multi-touch email sequences, landing pages, and conversion copy for client campaigns, and reported on conversion KPIs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated onboarding and product-training sequences for 15-20 reseller partners, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, managing workflows and tasks in ClickUp, and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Coordinated 25+ client launches a month with up to ~25 in flight, on schedule at 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Supported client events and industry conventions, and held workshops for client teams."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Campaign Execution",
+      "items": [
+        "Email & SMS Journeys",
+        "Pre-Launch QA",
+        "Landing Pages",
+        "A/B Testing",
+        "Light Design Asset Updates"
+      ]
+    },
+    {
+      "category": "Coordination & Tools",
+      "items": [
+        "Jira, Asana, ClickUp",
+        "HubSpot, GoHighLevel",
+        "Mailchimp",
+        "GA4",
+        "n8n, Make, Zapier"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

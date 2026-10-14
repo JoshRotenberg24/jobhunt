@@ -1,0 +1,89 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Web & SEO/AEO Lead | Website Strategy, AI Search Visibility, Conversion & Team Leadership",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Web and search marketer who builds the site, gets it found by search and AI engines, and turns visits into demos. I built a 9-dimension framework for how AI search and LLMs read and cite a business and published 10 articles on it, I build my own site directly in HTML/CSS, and I run technical SEO audits and schema work for clients. At Wix I led onboarding teams of up to 30 and contributed to a 30% traffic lift and 25% conversion improvement across the e-commerce segment.",
+  "experience": [
+    {
+      "title": "AI Marketing Operations Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built a 9-dimension framework for how AI search and LLMs read and cite a business (entity clarity, topical coverage, schema, internal linking, AI visibility), and audit and fix client sites against it.",
+        "Run technical SEO audits, keyword gap analyses, and schema implementation, implementing fixes directly inside client CMS platforms; published 18 articles, 10 on semantic SEO and AEO.",
+        "Build my own site directly in HTML/CSS, and build landing pages, conversion tracking (GA4, GTM), and UTM standards for clients.",
+        "Use AI tools in build and content work, including LLM API calls inside production workflows."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran account-based LinkedIn campaigns with A/B-tested setups and planned budgets across ~3 accounts at $20K+/month in ad spend, peaking above $100K/month, reporting ROI, CAC, and LTV."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Worked intent and routing tools synced to Salesforce and managed 15-20 reseller partners, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency and closed 6 deals averaging ~$22K."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led digital growth consultations aligning site architecture, inbound marketing, and SEO, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Led multiple onboarding teams of up to 30 specialists, running weekly training and 1:1 coaching."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Web & Search",
+      "items": [
+        "SEO & AEO / GEO",
+        "Technical SEO & Schema",
+        "Site Architecture",
+        "Conversion Optimization",
+        "HTML/CSS"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "GA4 & GTM",
+        "Screaming Frog",
+        "Ahrefs, Semrush",
+        "ChatGPT, Claude",
+        "HubSpot"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

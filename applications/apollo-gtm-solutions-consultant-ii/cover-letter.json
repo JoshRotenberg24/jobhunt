@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 14, 2026",
+  "company": "Apollo.io",
+  "role": "GTM Solutions Consultant II (Presales)",
+  "recipient": "Hiring Team",
+  "body": [
+    "I've sat on every side of an Apollo deal: as a hands-on user of the tool, as the seller of a complex GTM platform, and as the person wiring it into the stack. At Accelo I ran discovery and scoped CRM and project-management deals with C-suite buyers, ranked top three on the team while quota roughly doubled, and built the implementation plans the delivery team executed. I know where a deal stalls when the technical answer isn't ready.",
+    "Today I design GTM systems end to end. I architect HubSpot, Salesforce, and GoHighLevel environments, integrate them through REST APIs, webhooks, Zapier, Make, and n8n, and build AI-driven prospecting workflows that call the OpenAI and Claude APIs to score accounts and personalize outreach. I've used Apollo, Salesloft, ZoomInfo, and Gong hands-on, so customer conversations about the stack start from experience, not a datasheet.",
+    "My title history is sales and implementation rather than solutions consulting, and running formal POCs at Apollo's scale would be where I'd grow fastest. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}

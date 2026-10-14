@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 9, 2026",
+  "company": "The Anything Group",
+  "role": "Payments Operations & Support",
+  "recipient": "Hiring Team",
+  "body": [
+    "Payment onboarding is mostly follow-through: collecting the right documents, chasing the approval that's holding up go-live, and catching the configuration error before a client's first transaction does. That's the part of implementation work I'm best at. At Wix I launched 25+ clients a month with up to 25 in flight at once, delivering on schedule at 110% of my implementation target.",
+    "I'd step into the technical side quickly. I've set up and worked in Stripe, and I debug integrations myself through webhooks, REST APIs, and JSON payloads rather than waiting on an engineer for every issue. At Accelo I walked clients through invoicing and billing workflows before go-live, and at Birdeye I onboarded 15-20 partners and kept all but one by staying on top of their issues after launch.",
+    "Merchant IDs, underwriting, and working across multiple processors would be new to me, and I learn payment platforms fast. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}

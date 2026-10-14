@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Onboarding Manager | Onboarding Plans, Risk & Dependency Management, Handoff to CS",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Onboarding manager who runs the journey from contract handoff to launch and a clean transition to Customer Success. At Wix I ran up to ~25 concurrent onboardings and launched 25+ clients a month at 110% of implementation targets, while leading onboarding teams of up to 30. At Accelo I built sequenced implementation plans from sales handoff, deciding which systems to change and in what order. I track milestones and risks, escalate early, and hold internal teams and customers to their commitments.",
+  "experience": [
+    {
+      "title": "Implementation Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for service businesses, including electrical, plumbing, and HVAC trades: kickoff, requirements, configuration, data setup, and training.",
+        "Built automated appointment booking with confirmations and reminders, no-show recovery, reactivation of lapsed customers, and review requests across a 20+ workflow system."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback promptly and held delivery quality consistent across implementations to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded 15-20 reseller partners and ensured every partner's end customers were set up on Birdeye's listings solution, the backbone of the offer, retaining all but one partner (~94%).",
+        "Analyzed partner utilization metrics to spot adoption gaps early and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led multiple onboarding teams of up to 30 specialists over 2 years, piloting different team structures as a new vertical scaled from proof of concept to a profitable business line.",
+        "Ran weekly team training, workshops for new initiatives, and 1:1 coaching, and contributed to hiring, onboarding, and training new hires and to sales training for tenured account executives.",
+        "Onboarded and launched 25+ clients per month with up to ~25 concurrent, holding 110% of implementation targets, while overseeing budgets, scope, and delivery for a high-value portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients from sales handoff, ranking which systems to change and in what order, and escalated risks to leadership early."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Onboarding",
+      "items": [
+        "Onboarding Plans & Milestones",
+        "Risk & Dependency Management",
+        "Success & Exit Criteria",
+        "Handoff to Customer Success",
+        "Adoption Readiness"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "Jira",
+        "Asana",
+        "HubSpot",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

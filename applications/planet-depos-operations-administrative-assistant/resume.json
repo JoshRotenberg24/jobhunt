@@ -1,0 +1,90 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Operations Support | Scheduling, Documentation, Reporting & Executive Communication",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Operations generalist who keeps leaders organized and work moving without supervision. I run my own consulting practice end to end, document every interaction, timeline, and deliverable, and write clear documentation and training material. At Wix I juggled up to 25 active launches at once on schedule, ran weekly team training, and helped hire and onboard new team members. Detail-driven, proactive, and organized under pressure.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run all business operations for my own practice, from scheduling client meetings and tracking deadlines to documenting decisions and deliverables.",
+        "Document every client interaction, timeline, and deliverable in HubSpot, GoHighLevel, and Notion, keeping records auditable across concurrent engagements.",
+        "Write plain-language documentation and guides; published 18 articles for non-technical readers.",
+        "Build reports and dashboards for regular review meetings, and validate every data import for accuracy."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Coordinated onboarding and training for 15-20 partners across 50+ daily activities, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams, managing tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed up to 25 concurrent client launches on fixed schedules, launching 25+ per month at 110% of targets.",
+        "Ran weekly team training and 1:1 coaching for teams of up to 30, and helped hire, onboard, and train new team members.",
+        "Supported budgets, scope, and delivery tracking for a high-value client portfolio."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Supported client events and industry conventions, and held workshops for client teams."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Operations Support",
+      "items": [
+        "Scheduling & Deadline Tracking",
+        "Documentation & Record-Keeping",
+        "Training Materials",
+        "Written Updates",
+        "Onboarding Support"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Excel",
+        "Google Workspace",
+        "Notion",
+        "ClickUp, Asana",
+        "HubSpot"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 9, 2026",
+  "company": "Latent",
+  "role": "Implementation Project Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "I've spent the last eight years as a patient managing a chronic condition, fighting insurers through prior authorizations and appeals to get treatment and imaging approved. I know how much depends on someone catching the access problem before the patient has to, which is why a platform built around medication access caught my attention. Implementation is the work I know best: at Wix I launched 25+ clients a month with up to 25 in flight, at 110% of my implementation target.",
+    "The parts of this role I'd step into fastest are running parallel deployments and keeping technical work moving. At Accelo I built sequenced implementation plans, deciding which systems to change and in what order, and escalated blockers early instead of at the deadline. At Solenzo I set up and validate data feeds into Salesforce, HubSpot, and GoHighLevel, and I debug integration failures myself, so I can follow an integration conversation and translate it for the people who need the outcome, not the detail.",
+    "Where I'd be learning is health system environments specifically, including EHR integrations like Epic and Cerner. My healthcare background is on the commercial side: four years at Senior Directory, a company focused on healthcare for seniors, and channel work with healthcare-focused agencies at Birdeye. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}

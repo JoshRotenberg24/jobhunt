@@ -1,0 +1,90 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success | Client Onboarding, Account Health & Cross-Functional Coordination",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success professional who keeps a large caseload on track without letting follow-ups slip. At Wix I carried up to ~25 active onboardings at once while launching 25+ clients a month at 110% of implementation targets. At Birdeye I managed 15-20 partners, including agencies serving healthcare clients, and kept all but one by watching account health and stepping in early.",
+  "experience": [
+    {
+      "title": "Client Success & Operations Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own client relationships end to end, coordinating onboarding meetings, tracking documentation and action items, and keeping every timeline and deliverable on record in GoHighLevel, HubSpot, and Notion.",
+        "Set up and validate client system configurations and data imports, re-checking every import for accuracy.",
+        "Troubleshoot integrations and access credentials (OAuth, API keys) directly and document platform details for each client.",
+        "Build reporting and dashboards that organize client data for regular review meetings."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail, including agencies focused on healthcare clients, retaining all but one (~94%).",
+        "Analyzed partner utilization to spot at-risk accounts early and recommend interventions that reduced churn.",
+        "Advised partners on retention strategy and customer health metrics, and fed structured feedback to Product and Engineering."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, managing workflows and tasks in ClickUp."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 110% of implementation targets, and managed a high-value portfolio that saw 25% conversion improvement across supported accounts.",
+        "Led onboarding teams of up to 30 specialists, running weekly training and 1:1 coaching."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised clients on CRM adoption and guided onboarding and workflow design, building relationships with C-suite executives."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": [
+        "Client Onboarding",
+        "Caseload Management (25+)",
+        "Account Health Monitoring",
+        "Cross-Functional Escalation"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Excel",
+        "Salesforce",
+        "HubSpot",
+        "ClickUp",
+        "Google Workspace"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}

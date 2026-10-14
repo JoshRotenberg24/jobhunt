@@ -1,0 +1,90 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "AI Marketing Operations | HubSpot Automation, GEO, Paid Media & Email Infrastructure",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations builder working where CRM automation, paid media, and generative AI meet. I build lead scoring, lifecycle stages, and nurture automation in HubSpot and GoHighLevel, run LinkedIn and Google Ads, set up SPF/DKIM/DMARC and warm-up myself at 99%+ deliverability, and deploy tracking through Google Tag Manager. I've built a 9-dimension framework for how AI search and LLMs read and cite a business, and published 10 articles on semantic SEO and generative engine optimization.",
+  "experience": [
+    {
+      "title": "AI Marketing Operations Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built a 9-dimension site-trust framework (entity clarity, topical coverage, internal linking, schema, information gain, GEO/AI visibility) and run audits and schema implementation for clients against it.",
+        "Published 10 articles on semantic SEO, Google AI Overviews, and why ChatGPT won't recommend a business, part of 18 posts on the Solenzo blog.",
+        "Build lead scoring, qualification criteria, lifecycle stages, and email and SMS nurture in HubSpot and GoHighLevel, with marketing-to-CRM syncs and data hygiene standards.",
+        "Set up sending domains, SPF/DKIM/DMARC, and warm-up for outbound email, holding deliverability above 99%.",
+        "Build AI-driven workflows calling the OpenAI and Claude APIs inside n8n, Make, and Zapier to score prospects and generate personalized outreach.",
+        "Deploy GA4 events, Meta Pixel, and Google Ads conversion tags through custom GTM triggers and variables, and work directly in HTML/CSS."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran account-based LinkedIn campaigns with A/B-tested setups and planned budgets across ~3 accounts at $20K+/month in ad spend, peaking above $100K/month, reporting ROI, CAC, and LTV."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Worked intent and routing tools synced to Salesforce and managed 15-20 reseller partners, retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency and closed 6 deals averaging ~$22K."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Contributed to a 30% traffic increase and 25% conversion improvement across the e-commerce segment through site architecture, inbound, and SEO work."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Ops & AI",
+      "items": [
+        "HubSpot",
+        "Lead Scoring & Lifecycle",
+        "GEO & AI Search Visibility",
+        "OpenAI & Claude APIs",
+        "n8n, Make, Zapier"
+      ]
+    },
+    {
+      "category": "Paid, Email & Web",
+      "items": [
+        "LinkedIn & Google Ads",
+        "SPF/DKIM/DMARC",
+        "Salesloft, Apollo, HeyReach",
+        "GTM & GA4",
+        "HTML/CSS"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
