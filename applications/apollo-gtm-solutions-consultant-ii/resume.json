@@ -1,0 +1,97 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "GTM Solutions Consultant | Discovery, Solution Design, CRM & API Integrations, AI Workflows",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "GTM solutions consultant who has sold the software, implemented it, and built the stack behind it. At Accelo I ran discovery and scoped complex CRM deals with C-suite buyers, ranked top three while quota roughly doubled, and built the implementation plans delivery executed. Today I design GTM systems end to end: CRMs integrated through REST APIs, webhooks, Zapier, Make, and n8n, with AI workflows calling OpenAI and Claude. Hands-on with Apollo, Salesloft, ZoomInfo, and Gong.",
+  "experience": [
+    {
+      "title": "RevOps Consultant & CRM Architect \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run discovery with owners and sales teams to surface pain and goals, then design the CRM, automation, and integration architecture that fits, translating business requirements into technical configuration.",
+        "Integrate CRMs with outside systems through REST APIs, webhooks, OAuth/API-key credentials, Zapier, Make, and n8n, and debug JSON payloads and integration failures myself.",
+        "Build AI-driven prospecting workflows that score a business's digital footprint and generate personalized outreach through OpenAI and Claude API calls.",
+        "Train teams before go-live and document every system for adoption."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder agency accounts in HubSpot, turning performance data into recommendations for client leadership."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold and onboarded 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K (~$130K+ total bookings) at a performance marketing agency while leading the sales team."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Carried combined sales and implementation, launching 25+ clients/month at 120% of sales and 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, ranking top three on a team of 8-15 reps while quota roughly doubled.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Solutions Consulting",
+      "items": [
+        "Technical & Business Discovery",
+        "Solution Architecture",
+        "REST APIs & Integrations",
+        "Demos & Executive Communication",
+        "Adoption & Enablement"
+      ]
+    },
+    {
+      "category": "GTM Stack",
+      "items": [
+        "Salesforce, HubSpot, GoHighLevel",
+        "Apollo, Salesloft, ZoomInfo, Gong",
+        "Zapier, Make, n8n",
+        "OpenAI & Claude APIs"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
