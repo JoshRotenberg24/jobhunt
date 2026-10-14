@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Marketing Operations | HubSpot, Attribution, Lifecycle & Pipeline Systems",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Marketing operations builder who doesn't call a campaign finished until the tracking can explain it. I build lifecycle stages, lead scoring, routing, nurture, and reactivation in HubSpot and GoHighLevel, instrument UTMs and conversion events at build time, and run outbound with sequencing and enrichment tools. At Solenzo I built a 20+ workflow lifecycle system and an inbound audit offer that enrolled 180+ businesses. A decade carrying a B2B quota means I build for the sales handoff, not around it.",
+  "experience": [
+    {
+      "title": "Marketing Operations Lead — Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Define lifecycle stages, lead scoring, and qualification criteria, and build routing, nurture, and reactivation of dormant contacts across email and SMS in HubSpot and GoHighLevel.",
+        "Instrument every campaign at build time: GA4 conversion events, Meta Pixel, and Google Ads tags through custom GTM triggers, with enforced UTM conventions.",
+        "Built an inbound motion around a free audit offer and LinkedIn organic: 180+ businesses enrolled, 2 converted to paying clients, with 18 published articles feeding it.",
+        "Built segmented outbound engines with personalized, AI-generated outreach, holding email deliverability above 99%.",
+        "Build dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity, and report results on a regular cadence."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran A/B-tested, account-based LinkedIn campaigns on accounts at $20K+/month in ad spend, reporting ROI, CAC, LTV, and conversion KPIs in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partners, including healthcare-focused agencies, retaining all but one (~94%), and worked intent and routing tools synced to Salesforce."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Closed 6 new-client deals averaging ~$22K and built processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Contributed to a 30% traffic increase and 25% conversion improvement across the e-commerce segment, holding 120% of sales targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Helped leadership build the lead qualification system while ranking top three on a sales team of 8-15 reps."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Marketing Ops",
+      "items": [
+        "HubSpot",
+        "Lifecycle Stages & Lead Scoring",
+        "Attribution & UTM Governance",
+        "Reactivation & Expansion",
+        "Experiment Reporting"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "GTM & GA4",
+        "Salesforce",
+        "Apollo, Salesloft, ZoomInfo",
+        "Zapier, Make, n8n",
+        "Power BI, SQL"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
