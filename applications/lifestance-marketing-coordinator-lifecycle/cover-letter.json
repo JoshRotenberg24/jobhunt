@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 12, 2026",
+  "company": "LifeStance Health",
+  "role": "Marketing Coordinator, Lifecycle Marketing",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Lifecycle Marketing Coordinator role. Most of what I build is the work this role executes: automated journeys that get someone booked, remind them, recover them when they miss, and bring them back when they go quiet. In my own practice I built a 20+ workflow system in GoHighLevel that does exactly that, along with the segmented email sequences, landing pages, and forms behind it.",
+    "I also handle the detail that keeps a program trustworthy. I manage segmentation and data hygiene, validate every import, edit HTML and CSS directly, test before anything goes live, and document each workflow so someone else can pick it up. I report in GA4, Excel, and SQL, and I'm used to working with the people who own the data rather than around them.",
+    "The mission matters to me personally. I've spent years as a patient navigating the healthcare system myself, and I know how much a well-timed, human message can change whether someone keeps showing up for care. I have more experience than the title suggests, and I want to put it toward this. I'd welcome a conversation."
+  ],
+  "closing": "Sincerely,"
+}

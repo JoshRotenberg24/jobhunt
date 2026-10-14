@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 12, 2026",
+  "company": "Capital Precast",
+  "role": "Customer Success Associate",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Customer Success Associate role. Onboarding customers, training their teams, and watching account health closely enough to catch a problem early is the work I'm strongest at. At Wix I onboarded 25+ clients a month, and at Birdeye I retained all but one of 15 to 20 reseller partners by monitoring utilization data and stepping in on adoption gaps.",
+    "Your posting asks for advanced client management with automation flows, triggers, and monitoring, and that's what I build. I've built 20+ automated workflows that tag and route customers and trigger follow-up when someone misses a step or goes quiet, and I build dashboards in Power BI and Excel and present the results. At Accelo I worked with architecture and engineering firms, so I know how construction-adjacent teams think about schedules and handoffs.",
+    "I have more experience than the role requires, and I'm applying because I want to do this work well for a company that builds real things. I'd welcome a conversation."
+  ],
+  "closing": "Sincerely,"
+}

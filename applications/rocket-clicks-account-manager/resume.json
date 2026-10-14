@@ -1,0 +1,154 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Agency Account Leader | Owner-Level Strategy, Full-Funnel Performance & Client Retention",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Agency account leader and business owner who runs the strategic conversation with owners and decision makers, not just the deliverables. Founder of a marketing operations practice and former co-owner of a regulated retail business, so pricing, capacity, and margin are conversations he has from the owner's side of the table. Sold and scoped operations software to professional-services firms at Accelo, learning how they price, staff, sell, and scale, and ranked top three of 8 to 15 reps while quota roughly doubled. Builds and tracks full-funnel systems from first lead through booked consultation and signed client, and retained ~94% of a 15-20 partner book at Birdeye by acting on early warning signs.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the strategic relationship with business owners across a client portfolio, running discovery on goals, capacity, and market constraints and building the plan each engagement runs on.",
+        "Build and track the full acquisition path in GoHighLevel and HubSpot: lead capture, qualification, appointment booking with reminders, no-show recovery, and post-sale onboarding.",
+        "Diagnose where growth actually stalls, including a Google Ads account where cutting spam leads exposed on-site conversion as the real bottleneck.",
+        "Extend scope with existing clients, identifying complementary services and writing the proposals and statements of work to close them.",
+        "Report results to owners on a regular cadence with dashboards tracking funnel progression, ROI, and pipeline."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led client strategy for ~3 accounts at $20K+/month ad spend each (peaking above $100K/month), advising clients on budget planning and allocation.",
+        "Ran quarterly business reviews with ROI, CAC, LTV, and conversion reporting, turning performance data into clear recommendations for leadership.",
+        "Coordinated execution across internal channel teams as strategic lead, giving specialists the business context behind each client's goals.",
+        "Resolved client feedback promptly and held delivery quality consistent to protect retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed a book of 15-20 reseller partners with deal sizes of ~$10K-$45K, retaining all but one (~94% retention) during tenure.",
+        "Analyzed partner utilization and performance data to find adoption gaps and intervene before they turned into churn.",
+        "Advised partners on retention strategy, customer health metrics, and product value, deepening engagement across health, home services, and retail verticals.",
+        "Built automated product-training sequences and communication workflows that reduced onboarding friction across a high-volume partner network (50+ daily activities).",
+        "Routed structured customer feedback to Product and Engineering, linking field signals to roadmap decisions."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end at a performance marketing agency, covering campaign execution, performance reporting, and cross-team communication, and led the sales team.",
+        "Closed 6 new-client deals averaging ~$22K each, roughly $130K+ in total bookings, including a banking-industry client.",
+        "Built internal processes that improved reporting accuracy and reduced handoff errors between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Held 120% of sales targets and 110% of implementation targets while onboarding and launching 25+ clients per month.",
+        "Managed a high-value account portfolio, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Led multiple onboarding teams of up to 30 specialists, running weekly training sessions, 1:1 coaching, and workshops for new initiatives.",
+        "Drove team initiatives for a new Wix vertical that went from proof of concept to a profitable business line, including sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped operations software to agencies and professional-services firms, including architecture and engineering firms, learning how each priced work, staffed projects, and billed clients.",
+        "Ranked top three in sales on a team that scaled from 8 to 15 reps, holding that rank while quota roughly doubled.",
+        "Built C-suite relationships as a trusted advisor on operational system design, raising account risk with leadership early.",
+        "Wrote proposals and statements of work, and averaged ~$17,750/month in implementation and services bookings (~$213K annualized)."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle SaaS sales to SMBs, making up to 150 dials/day and closing up to 10 deals/month."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Co-owned and operated a licensed, heavily regulated retail business, building intake, compliance, reporting, and vendor systems from scratch and scaling it to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Account Leadership",
+      "items": [
+        "Owner & Managing-Partner Relationships",
+        "Quarterly Business Reviews",
+        "Strategic Roadmaps",
+        "Difficult Conversations",
+        "Churn Signal Detection",
+        "Portfolio Prioritization"
+      ]
+    },
+    {
+      "category": "Commercial & Operations",
+      "items": [
+        "Revenue, Pricing & Margin",
+        "Capacity & Staffing Conversations",
+        "Professional-Services Operations",
+        "Proposals & Statements of Work",
+        "Business Ownership (P&L)"
+      ]
+    },
+    {
+      "category": "Funnel & Data",
+      "items": [
+        "Lead to Consultation to Signed Client Tracking",
+        "Intake & Booking Workflows",
+        "GoHighLevel",
+        "HubSpot",
+        "Salesforce",
+        "GA4 & Dashboards"
+      ]
+    },
+    {
+      "category": "Team & Delivery",
+      "items": [
+        "Team Leadership (up to 30)",
+        "Coaching & Training",
+        "Specialist & PM Partnership"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Meta Ads Certification - Meta",
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}

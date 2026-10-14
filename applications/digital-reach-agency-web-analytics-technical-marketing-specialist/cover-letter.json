@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 12, 2026",
+  "company": "Digital Reach Agency",
+  "role": "Web Analytics & Technical Marketing Specialist (Contract)",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Web Analytics & Technical Marketing Specialist contract. Most of the task list in your posting is what I already do across client sites: GTM installs with custom triggers and variables, GA4 events and key events, Meta Pixel and Google Ads conversion tags, and the debugging that comes after, in GTM Preview and the browser's network tab and dataLayer.",
+    "I also cover the adjacent work you listed. I set up cookie-consent configuration, enforce UTM conventions, implement schema markup, and run technical SEO audits in Screaming Frog, Ahrefs, and Semrush, making the fixes directly in the CMS. I write HTML and CSS by hand and script in JavaScript and Python inside automation workflows, and I document what I ship so the next person can follow it.",
+    "A flexible, as-needed engagement fits well alongside my own practice, and I'm used to working asynchronously in Asana and Slack across multiple clients. I'd welcome a conversation."
+  ],
+  "closing": "Sincerely,"
+}
