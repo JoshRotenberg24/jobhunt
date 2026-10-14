@@ -5,6 +5,7 @@
 **Location:** Remote, US; up to 25% travel
 **Compensation:** $140,000 OTE + equity
 **Date:** October 14, 2026
+**Status:** Skipped by Josh, Oct 14 2026 (files kept for reference)
 
 ---
 
