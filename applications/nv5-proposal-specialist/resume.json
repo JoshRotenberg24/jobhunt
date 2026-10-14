@@ -1,0 +1,98 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "headline": "B2B Technical Writer & Solutions Seller | Value Propositions & Requirements Analysis",
+  "summary": "B2B technology seller and technical writer with 15+ years translating complex software and services into clear, client-specific value propositions. Sold and scoped software to architecture and engineering firms, turned stakeholder requirements into structured plans, and published 18 plain-language technical articles.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Wrote and published 18 articles explaining semantic SEO, schema, AI search visibility, CRM setup, attribution, and automation in plain language for non-technical business owners.",
+        "Run discovery with clients to surface goals and requirements, then translate them into precise, structured specifications and scoped recommendations.",
+        "Build reusable messaging frameworks and boilerplate assets, adapting a shared template base to each client's brand and vertical."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder accounts, translating performance data into executive-ready QBRs and strategic recommendations for client leadership."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention), equipping them to communicate product value."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end, building processes that improved reporting accuracy and reduced handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets on tight, concurrent timelines.",
+        "Led multiple onboarding teams of up to 30 specialists over 2 years and developed sales training for tenured account executives."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, including architecture and engineering firms.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order.",
+        "Ranked top three in sales on a team that grew from 8 to 15 reps while quota roughly doubled, closing deals of $20K and larger."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Proposal & Writing",
+      "items": [
+        "Technical Writing",
+        "Value Propositions & Win Themes",
+        "Requirements Analysis",
+        "SME & Stakeholder Interviews"
+      ]
+    },
+    {
+      "category": "Delivery & Tools",
+      "items": [
+        "Multi-Project Deadline Management",
+        "Document & File Management",
+        "MS Word & Excel",
+        "Google Workspace",
+        "Light Design Asset Updates"
+      ]
+    }
+  ],
+  "certifications": []
+}
