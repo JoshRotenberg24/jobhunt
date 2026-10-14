@@ -60,4 +60,5 @@ Better fit than PeopleGrove (71): 3+ years, associate/specialist scope, and "fam
 2. Any lead volume, CPL, or MQL conversion number (also open from PeopleGrove).
 
 ## Output Files
-- `SentiLink-DemandGenSpecialist-Resume.pdf` / `.docx` (1 page; built from PeopleGrove base with banking client added; order preserved). No cover letter (not requested).
+- `SentiLink-DemandGenSpecialist-Resume.pdf` / `.docx` (1 page; built from PeopleGrove base with banking client added; order preserved)
+- `SentiLink-DemandGenSpecialist-CoverLetter.pdf` / `.docx` (added Oct 14 when posting resurfaced on Built In Colorado)
