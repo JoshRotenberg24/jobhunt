@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 14, 2026",
+  "company": "Proof",
+  "role": "Senior Manager of Marketing Operations",
+  "recipient": "Hiring Team",
+  "body": [
+    "I came to marketing operations from the sales floor, which shapes how I build the lead lifecycle. I started as a BDR, ranked top three on a B2B SaaS sales team at Accelo while quota roughly doubled, and helped leadership build the lead qualification system there. Today I design lifecycle stages, lead scoring, and routing in HubSpot and GoHighLevel, sync marketing automation to the CRM, and validate every data feed into Salesforce, HubSpot, and GoHighLevel.",
+    "I hold tracking and data to a standard: UTM conventions I define and enforce, GA4 and Google Tag Manager tying traffic to campaigns, consent configuration on client sites, and pipeline and funnel dashboards in Power BI and SQL that come with a recommendation. I also co-owned a licensed, regulated business where I built the compliance and reporting systems from scratch, so strict data rules feel normal to me.",
+    "I'll be direct: board-level multi-touch attribution, 6sense, and Clay would be new to me, and my marketing operations work has been with smaller organizations rather than enterprise sales cycles. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}
