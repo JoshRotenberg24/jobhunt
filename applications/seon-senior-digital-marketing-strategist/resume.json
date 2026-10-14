@@ -1,0 +1,99 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "B2B Digital Marketing | Paid Search & LinkedIn, Funnel Analytics, CRM Nurture & Reporting",
+  "contact": {
+    "location": "Arvada, CO",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "B2B digital marketer who's deep in paid media and fluent across the rest of the funnel. At Level Agency I ran account-based LinkedIn campaigns with A/B-tested setups and planned budgets for accounts at $20K+/month in ad spend, peaking above $100K, reporting ROI, CAC, and LTV in QBRs. I've optimized Google Ads, built CRM nurture and lead scoring in HubSpot and GoHighLevel, instrumented GA4 and GTM tracking, and run SEO and CRO work. I turn the numbers into a clear story for leadership.",
+  "experience": [
+    {
+      "title": "Growth Marketing Lead \u2014 Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Optimized a client's Google Ads account to cut low-quality leads, then diagnosed on-site conversion as the remaining bottleneck.",
+        "Build CRM nurture, lifecycle stages, and lead scoring in HubSpot and GoHighLevel across email and SMS, holding deliverability above 99%.",
+        "Install GA4 conversion events, Meta Pixel, and Google Ads tags through custom GTM triggers, enforce UTM conventions, and build funnel and ROI dashboards in Power BI and SQL.",
+        "Run technical SEO audits and keyword gap analyses; published 18 articles, including 10 on semantic SEO and AI search visibility."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Ran account-based LinkedIn campaigns targeting small, highly researched audiences with A/B-tested setups.",
+        "Planned and allocated budgets across ~3 accounts at $20K+/month in ad spend each, peaking above $100K/month, coordinating execution across internal departments.",
+        "Built campaign reporting tracking ROI, CAC, LTV, and conversion KPIs, and presented recommendations to client leadership in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built a channel of 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed paid media and creative performance at a performance marketing agency and closed 6 new-client deals averaging ~$22K."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Advised on A/B testing strategy for a Salesforce workflow effort, defining test structure and success criteria."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Ranked top three in B2B SaaS sales on a team of 8-15 reps while quota roughly doubled, selling to agencies and architecture and engineering firms."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Digital Marketing",
+      "items": [
+        "Google Ads (Paid Search)",
+        "LinkedIn Ads & ABM",
+        "Funnel Analysis",
+        "CRM Nurture & Lead Scoring",
+        "SEO & CRO Insight"
+      ]
+    },
+    {
+      "category": "Analytics & Tools",
+      "items": [
+        "HubSpot",
+        "GA4 & GTM",
+        "Power BI, SQL",
+        "Meta Ads (certified)",
+        "Salesforce"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
