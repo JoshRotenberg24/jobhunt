@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 14, 2026",
+  "company": "EPAM Systems",
+  "role": "Lead Web Analyst",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Lead Web Analyst role. The part of your posting that stood out is the pipeline work spanning web analytics, advertising, and CRM, because that's the system I build for clients: tracking requirements defined from their goals, implemented in GTM and GA4, tied to Meta and Google Ads conversion data, and carried into the CRM so lead source survives from first click to sales follow-up.",
+    "On the implementation side, I build custom GTM triggers and variables, debug in Preview mode and the browser's network tab and dataLayer, enforce UTM conventions, and set up consent. On the reporting side, I write SQL against GA4 data in BigQuery, build Power BI dashboards, and ran reporting on ROI, CAC, and conversion KPIs for agency accounts spending $20K+ a month. I also write for non-technical readers, including 18 published articles on attribution and tracking, which is most of what explaining analytics to a client takes.",
+    "Working until 1 PM EST from Colorado is no issue, and I'm comfortable with early hours for overlap. I'd welcome a conversation about the client work this team supports."
+  ],
+  "closing": "Sincerely,"
+}
