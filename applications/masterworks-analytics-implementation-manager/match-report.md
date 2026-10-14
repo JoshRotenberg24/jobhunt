@@ -1,6 +1,6 @@
 # Match Report — Analytics Implementation Manager, Masterworks (Midwestern Interactive, LLC)
 
-> **Status: SKIPPED by Josh (Oct 5, 2026).** Not applying; employer is a faith-based (Christian) organization. Files kept for reference.
+> **Status: SKIPPED by Josh (Oct 5, 2026; reconfirmed Oct 9 and Oct 14 when the posting resurfaced on other boards).** Not applying; employer is a faith-based (Christian) organization. Files kept for reference.
 
 **Role:** Analytics Implementation Manager, remote, mid level
 **Company:** Masterworks (posted as Midwestern Interactive, LLC on Built In; part of Gloo). Nonprofit/faith-based fundraising agency.
