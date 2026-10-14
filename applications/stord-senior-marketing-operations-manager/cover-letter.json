@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 14, 2026",
+  "company": "Stord",
+  "role": "Senior Marketing Operations Manager",
+  "recipient": "Hiring Team",
+  "body": [
+    "I came to marketing operations from the sales floor, which is the angle I'd bring to Stord's pipeline. I started as a BDR, ranked top three on a B2B SaaS sales team at Accelo while quota roughly doubled, and helped leadership build the lead qualification system there. I know what a rep does with a bad lead, and that shapes how I build scoring, routing, and lifecycle stages.",
+    "Today I build the systems behind the funnel: lifecycle stages, lead scoring, routing, and nurture in HubSpot and GoHighLevel; UTM conventions I define and enforce, with GA4 and Google Tag Manager tying traffic and conversions back to campaigns; marketing-to-CRM syncs and data feeds into Salesforce; and pipeline and funnel dashboards in Power BI and SQL that come with a recommendation, not just a number.",
+    "Board-level multi-touch attribution built on Salesforce campaign influence would be a step up in scale for me, and it's the part of this role I'd most want to grow into. I'd welcome a conversation at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Best,"
+}
