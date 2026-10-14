@@ -21,12 +21,12 @@ No knockout. No cap. No video answer.
 
 ## Application Priority Score
 
-⚪ **77 / 100 — Solid stretch (apply with a sharp tailored resume)**
-`[███████████████░░░░░]  77%`
+⚪ **78 / 100 — Solid stretch (apply with a sharp tailored resume)**
+`[████████████████░░░░]  78%`
 
 | Dimension | Score | Max |
 | :--- | :---: | :---: |
-| Must-have requirements met | 32 | 40 |
+| Must-have requirements met | 33 | 40 |
 | Seniority & scope alignment | 13 | 15 |
 | Domain / industry alignment | 10 | 15 |
 | Differentiators / nice-to-haves | 12 | 15 |
@@ -37,11 +37,10 @@ Email/SMS journey building and QA, landing pages, workstream coordination, ticke
 ## Gaps
 - Braze or Iterable; Linear.
 - Print/direct-mail production and vendor coordination.
-- Canva/Figma/Adobe (unconfirmed).
+- Design tools confirmed Oct 14 (tool not named); direct mail confirmed not done directly.
 
 ## Candidate Confirmation Needed
-1. Do you use Canva, Figma, or Adobe for light asset work?
-2. Any direct mail or printed materials coordinated with a vendor (Solenzo, Fetch & Funnel, Accelo events)?
+- Which design tool: Canva, Figma, or Adobe?
 
 ## Output Files
 - `OneImaging-MarketingOpsManager-Resume.pdf` / `.docx` (1 page; order preserved)

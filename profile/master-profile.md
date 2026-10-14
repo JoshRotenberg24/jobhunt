@@ -91,6 +91,13 @@
 > Cover letters: also give the full text in chat for copy/paste (many forms take a text box,
 > not a file), in addition to the PDF/DOCX.
 >
+> **Design tools (confirmed by Josh, Oct 14 2026, OneImaging):** does light asset work in
+> Canva, Figma, and/or Adobe; which specific tool(s) not named. Claim "light design asset
+> updates" generically until he names the tool.
+>
+> **Print / direct mail (Josh, Oct 14 2026):** has not directly coordinated print or
+> direct-mail production with a vendor. Real gap; don't re-ask.
+>
 > **Entry-level pay (Josh, Oct 2026):** willing to accept entry-level pay for the right role
 > (Wordly). On forms with no posted range, answer "open to your range for this role."
 >
