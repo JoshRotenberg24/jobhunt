@@ -12,7 +12,9 @@ Arvada, Colorado, United States
 Yes. (Basis: Solenzo, Feb 2024 to present, owning GoHighLevel/HubSpot implementations end to end; plus Wix implementation load in year two.)
 
 ## Senior stakeholder disagreed / losing confidence (3-4 sentences)
-**NOT DRAFTED: needs a real story from Josh.** No documented example in the profile.
+A client owner at Solenzo was losing confidence after we cleaned up their Google Ads account, because lead volume didn't jump the way they expected and their instinct was to raise ad spend. I walked them through their own data: lead quality had improved, but visitors were dropping off on the website, so more spend would have bought more of the same leak. I recommended fixing on-site conversion before touching budget, and offered to keep the ad changes in place while we tested it so they weren't betting on my word alone. Reporting back on a regular cadence against the goal we set in discovery kept them in the loop and kept the work moving.
+
+*Built from the real Google Ads optimization and CRO diagnosis in the profile. The owner's pushback (wanting to raise spend) is inferred, not documented. Josh to confirm before submitting.*
 
 ## Most complex product you've helped customers implement (3-4 sentences)
 
