@@ -1,0 +1,124 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success Manager | SaaS Retention, Adoption & Expansion | Success Plans, Business Reviews, Salesforce",
+  "contact": {
+    "location": "Arvada, CO (Denver metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success and account management professional with 15+ years in SaaS, MarTech, and agency environments, including global SaaS at Wix. Owns the strategic relationship for a customer portfolio: builds success plans around their business goals, tracks health and usage to catch risk early, and runs business reviews that show value and surface expansion. Retained all but one of 15-20 reseller partners at Birdeye (~94%), onboarded 25+ clients a month at Wix at 110% of implementation targets, and advised executives at Accelo as a trusted advisor. Works daily in Salesforce and turns usage and performance data into clear recommendations.",
+  "experience": [
+    {
+      "title": "Client Success & Account Management (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service businesses, running discovery to define goals and milestones and driving clients to them on complex SaaS platforms.",
+        "Report performance on a regular cadence with dashboards tracking lead flow, funnel progression, and ROI, turning results into strategic recommendations.",
+        "Identify and scope expansion opportunities in existing accounts, writing proposals and statements of work for expanded engagements.",
+        "Design lifecycle and reactivation workflows that keep customers engaged and bring lapsed ones back."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder accounts as strategic lead, delivering QBRs with ROI, CAC, LTV, and conversion reporting and optimization recommendations.",
+        "Managed ~3 client accounts at $20K+/month in ad spend each, peaking above $100K/month, resolving client feedback promptly to protect retention."
+      ]
+    },
+    {
+      "title": "Customer Success & Retention (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, retaining all but one (~94% retention).",
+        "Analyzed partner utilization and performance metrics in Salesforce to identify at-risk accounts and adoption gaps, recommending interventions that reduced churn.",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows so they could show product value to their own clients.",
+        "Escalated structured, prioritized customer feedback to Product and Engineering to inform the roadmap.",
+        "Built automated product-training sequences that reduced onboarding friction and increased adoption across the partner network."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end, translating campaign performance data into optimization recommendations.",
+        "Built internal processes that improved reporting accuracy and reduced cross-team handoff errors."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, including established retail businesses, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment.",
+        "Onboarded and launched 25+ clients per month, managing ~25 concurrent onboardings at peak, at 120% of sales and 110% of implementation targets.",
+        "Led multiple onboarding teams of up to 30 specialists, running weekly training and 1:1 coaching.",
+        "Drove process improvements for a new vertical that grew from proof of concept to a profitable business line."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised C-suite executives as a trusted advisor on operational system design, guiding onboarding, workflow design, and integrations for a CRM/PSA platform.",
+        "Escalated account issues to leadership early and mitigated risk with direct strategic guidance.",
+        "Ranked top three of 8 to 15 reps for most of a 27-month tenure while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success",
+      "items": [
+        "Success Plans",
+        "Business Reviews (QBRs)",
+        "Health Monitoring & Churn Risk",
+        "Adoption & Engagement",
+        "Expansion & Upsell",
+        "Escalation Management",
+        "Voice of the Customer"
+      ]
+    },
+    {
+      "category": "Data & Reporting",
+      "items": [
+        "Usage & Health Analysis",
+        "Dashboards",
+        "Excel",
+        "Power BI",
+        "GA4"
+      ]
+    },
+    {
+      "category": "Platforms",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Zendesk",
+        "Notion",
+        "Jira"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
