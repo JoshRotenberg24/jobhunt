@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 15, 2026",
+  "company": "Fleetio",
+  "role": "Senior Lifecycle Marketing Manager",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Senior Lifecycle Marketing Manager role. Most lifecycle marketers know the funnel from the email side. I've spent years on the other side of it too, onboarding 25+ SaaS clients a month at Wix and managing retention for a partner book at Birdeye, so I know which messages actually move someone to set up their account and keep using it.",
+    "At Solenzo I build the automated side: a 20+ workflow system covering capture, routing, qualification, onboarding nurture, reactivation, and review generation, with lead scoring, lifecycle stages, behavior-based triggers, and deliverability above 99%. I ran a free audit offer as a product-led entry point alongside sales-assisted motions, and I build LLM-powered personalization into production workflows, which lines up with your interest in AI-driven lifecycle work.",
+    "I work in Salesforce today. My Marketo time was an evaluation rather than ongoing administration, so I'd ramp on your instance, and the journey logic carries over directly from the platforms I've built in. I'd welcome a conversation."
+  ],
+  "closing": "Sincerely,"
+}

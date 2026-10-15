@@ -1,0 +1,130 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Lifecycle Marketing | Onboarding, Activation, Nurture & Retention Journeys | Marketing Automation, Salesforce, AI Workflows",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Lifecycle marketer with 15+ years in B2B SaaS, MarTech, and agency roles, spanning both sides of the customer journey: the automated programs that move people from lead to activation, and the hands-on onboarding and retention work that shows what actually drives adoption. Builds segmented, behavior-triggered journeys across capture, qualification, onboarding, nurture, reactivation, and expansion, with lead scoring, lifecycle stages, and email and SMS deliverability above 99%. Ran a free-audit offer as a product-led entry point (180+ businesses enrolled) alongside sales-assisted motions, onboarded 25+ SaaS clients a month at Wix, and retained ~94% of a partner book at Birdeye. Works in Salesforce, HubSpot, and GoHighLevel, and builds AI-powered personalization into production workflows.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architected a 20+ workflow lifecycle system spanning lead capture, tagging, and routing, qualification, booking with confirmations and reminders, no-show recovery, post-sale onboarding nurture, long-term nurture and reactivation, and review generation.",
+        "Built lead scoring, qualification criteria, and lifecycle stage definitions, and segment journeys by behavior, stage, and intent across email and SMS.",
+        "Launched a free digital-footprint audit as a product-led entry point, promoted through organic LinkedIn growth: 180+ businesses enrolled, with an automated workflow scoring each one and triggering personalized follow-up (2 converted to paying clients).",
+        "Build AI-powered personalization into production workflows, calling LLM APIs to generate tailored outreach from each contact's data, and run evaluation loops to catch underperforming logic.",
+        "Set up sending domains, SPF/DKIM/DMARC authentication, and warm-up, holding deliverability above 99%.",
+        "Track lifecycle and campaign performance in GA4, CRM analytics, and dashboards covering funnel progression, conversion, and ROI, and iterate on the results."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Produced multi-touch email sequences, landing pages, and conversion copy for B2B clients, improving lead generation and pipeline.",
+        "Ran ABM-style LinkedIn campaigns for small, researched account lists with A/B-tested setups, and reported ROI, CAC, LTV, and conversion KPIs in QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Built automated product-training and communication sequences that reduced onboarding friction and sped adoption across a 15-20 partner network.",
+        "Analyzed partner utilization in Salesforce to find adoption gaps and trigger interventions that reduced churn, retaining all but one partner (~94%).",
+        "Advised partners on retention strategy, customer health metrics, and automated workflows to communicate product value to their own customers."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Analyzed campaign performance data at a performance marketing agency and translated results into optimization recommendations across paid media and creative."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ SaaS clients per month at 120% of sales targets and 110% of implementation targets, driving users to their first live milestone.",
+        "Drove a 25% improvement in conversion rates across supported accounts through proactive, well-timed communication on client goals.",
+        "Advised on A/B testing strategy for a Salesforce workflow-automation effort, defining test structure and success criteria.",
+        "Led onboarding teams of up to 30 specialists for a new vertical that grew from proof of concept to a profitable business line."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Helped leadership build the lead qualification system, and built Zapier automations for clients.",
+        "Ranked top three of 8 to 15 reps for most of a 27-month tenure while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Lifecycle Marketing",
+      "items": [
+        "Onboarding & Activation Journeys",
+        "Nurture & Reactivation",
+        "Behavioral Triggers",
+        "Segmentation & Personalization",
+        "Expansion & Retention Programs",
+        "A/B Testing"
+      ]
+    },
+    {
+      "category": "Systems",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Mailchimp",
+        "Zapier, Make, n8n",
+        "Lead Scoring & Routing"
+      ]
+    },
+    {
+      "category": "Measurement",
+      "items": [
+        "GA4",
+        "Google Tag Manager",
+        "UTM Governance",
+        "Funnel Dashboards",
+        "Email Deliverability"
+      ]
+    },
+    {
+      "category": "AI",
+      "items": [
+        "LLM-Powered Personalization",
+        "AI Workflow Automation",
+        "Claude",
+        "ChatGPT"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
