@@ -1,0 +1,140 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Account Management | Multi-Industry Portfolios, Program Delivery & Building Client Services from Scratch",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client account manager with 15+ years in SaaS, MarTech, and agency environments, owning portfolios that span healthcare, home services, retail, and professional services. Runs client programs from intake and scoping through delivery and follow-up, keeps concurrent engagements on track, and builds the playbooks, workflows, and team structure where none existed, including a new Wix vertical that went from proof of concept to profitable. Retained all but one of 15-20 reseller partners at Birdeye (~94%), including agencies serving healthcare clients, and led onboarding teams of up to 30. Hands-on in HubSpot and Salesforce.",
+  "experience": [
+    {
+      "title": "Client Services & Account Management (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Built a client services practice from scratch, defining intake, discovery, onboarding, and reporting standards for a portfolio of service businesses.",
+        "Own each client relationship from scoping through delivery, writing proposals and statements of work and expanding engagements as new needs surface.",
+        "Document every client interaction, timeline, and deliverable in HubSpot, GoHighLevel, and Notion, keeping records auditable across concurrent engagements.",
+        "Built reusable templates and automated workflows for confirmations, reminders, and follow-ups so delivery scales without losing the personal touch."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder accounts as strategic lead, coordinating execution across internal departments and delivering QBRs with performance reporting.",
+        "Managed ~3 client accounts at $20K+/month in ad spend each (peaking above $100K/month), resolving client feedback promptly to protect retention."
+      ]
+    },
+    {
+      "title": "Client Success & Partner Management (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K) across health, home services, and retail, including agencies focused on healthcare clients, retaining all but one (~94% retention).",
+        "Analyzed partner utilization to spot adoption gaps and at-risk accounts early, recommending interventions that reduced churn.",
+        "Built scalable communication workflows and automated training sequences that reduced onboarding friction across the partner network.",
+        "Brought structured, prioritized client feedback to Product and Engineering to shape the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end, including a banking-industry client, and built processes that improved reporting accuracy and reduced cross-team handoff errors.",
+        "Led the sales team alongside individual account work."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Helped build a new vertical from proof of concept to a profitable business line, leading team initiatives and process improvements and contributing to hiring, onboarding, and training new team members.",
+        "Led multiple onboarding teams of up to 30 specialists, piloting different team structures as the vertical scaled.",
+        "Onboarded and launched 25+ clients per month, managing ~25 concurrent onboardings at peak, at 120% of sales and 110% of implementation targets.",
+        "Managed a high-value portfolio across diverse verticals, contributing to a 25% conversion improvement across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised C-suite executives at agencies and professional-services firms, including international clients, as a trusted advisor on operational system design.",
+        "Built sequenced implementation plans for incoming clients and handed them to the implementation team to execute.",
+        "Ranked top three of 8 to 15 reps for most of a 27-month tenure while quota roughly doubled."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales of a loyalty and marketing platform to small businesses, closing up to 10 deals/month."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Qualified leads and booked meetings for regional representatives at a company focused on healthcare for seniors."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client Management",
+      "items": [
+        "Portfolio Management",
+        "Intake & Scoping",
+        "Program Delivery",
+        "Expansion & Repeat Business",
+        "Escalation Management",
+        "Executive Communication"
+      ]
+    },
+    {
+      "category": "Building the Function",
+      "items": [
+        "Playbooks & Templates",
+        "Process Design",
+        "Onboarding Workflows",
+        "Team Leadership & Training",
+        "Voice of the Client"
+      ]
+    },
+    {
+      "category": "Systems",
+      "items": [
+        "HubSpot",
+        "Salesforce",
+        "GoHighLevel",
+        "Notion",
+        "Asana",
+        "Monday.com",
+        "ClickUp"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)"
+  ]
+}
