@@ -1,0 +1,123 @@
+{
+  "style": "classic",
+  "name": "Joshua Rotenberg",
+  "headline": "Onboarding & Candidate Experience | Workflow Coordination, Documentation Accuracy, Stakeholder Communication",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Onboarding specialist with 15+ years in client-facing roles, including two years leading onboarding teams at Wix and helping hire, onboard, and train new team members. Manages high-volume onboarding (25+ per month, ~25 in flight at peak) without dropping steps, keeps records audit-ready, and builds the reminders and workflows that track every requirement to completion.",
+  "experience": [
+    {
+      "title": "Client Onboarding & Operations (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Run onboarding for each new client end to end, from discovery through technical setup and hands-on training.",
+        "Document every client interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping records auditable across concurrent engagements.",
+        "Build automated workflows that send confirmations, reminders, and follow-ups by email and SMS, so no required step stalls waiting on a manual nudge."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners, including agencies serving healthcare clients, retaining all but one (~94% retention).",
+        "Built communication workflows and automated training sequences that reduced onboarding friction for partners and their customers."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy, reduced handoff errors, and strengthened cross-team alignment."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Helped hire, onboard, and train new team members for a new Wix vertical that grew from proof of concept to a profitable business line.",
+        "Led multiple onboarding teams of up to 30 specialists, running weekly training sessions and individual 1:1 coaching.",
+        "Onboarded and launched 25+ clients per month, managing ~25 concurrent onboardings at peak, at 110% of implementation targets."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients and handed them to the implementation team to execute."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Ran full-cycle sales for an SMB loyalty and marketing platform, building a consultative approach to customer adoption."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Qualified leads and booked appointments for regional representatives at a company focused on healthcare for seniors."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Built compliance and customer-management systems from scratch in a state-licensed, regulated business."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Onboarding & Compliance",
+      "items": [
+        "New-Hire & Client Onboarding",
+        "Hiring Support & Training",
+        "Workflow Design",
+        "Checklists & Follow-Up",
+        "Stakeholder Liaison",
+        "Documentation & Record Keeping",
+        "Data Validation",
+        "Regulated-Business Compliance Systems",
+        "Process Improvement"
+      ]
+    },
+    {
+      "category": "Systems",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Notion",
+        "Zendesk",
+        "Microsoft Office",
+        "Google Workspace"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
