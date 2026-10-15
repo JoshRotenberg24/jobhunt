@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 15, 2026",
+  "company": "Campus Kaizen (Cordance)",
+  "role": "Onboarding & Implementation Specialist",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Onboarding & Implementation Specialist role supporting Guardian. My wife is a vice principal at an elementary school serving a lot of high-needs kids, and much of my family works in education, so I've seen up close how school administrators operate and what support they need. Software that gives districts cleaner, more consistent case handling matters to me.",
+    "The implementation side is the work I've done for years. At Wix I onboarded 25+ clients a month with about 25 in flight at once, at 110% of implementation targets. At Accelo I built sequenced implementation plans that told the delivery team which systems to change and in what order. Today I gather requirements, run and validate data imports into Salesforce, HubSpot, and GoHighLevel, and build API and webhook integrations myself. I use AI to speed up troubleshooting and check every step before it reaches a customer.",
+    "I haven't implemented software for a school district myself, and I'd plan to learn Guardian's workflows quickly from your team and the customers. I'd welcome a conversation."
+  ],
+  "closing": "Sincerely,"
+}

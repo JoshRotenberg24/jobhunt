@@ -1,0 +1,120 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Onboarding & Implementation | Requirements to Go-Live, Data Imports & Integrations, Adoption | SaaS",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation and onboarding specialist with 15+ years in SaaS, owning customers from requirements gathering through configuration, data import, integration, training, and post-launch adoption. Onboarded 25+ clients a month at Wix with ~25 in flight at once, at 110% of implementation targets, and retained all but one of 15-20 partners at Birdeye. Builds sequenced implementation plans, protects scope, escalates risk early, and turns recurring issues into repeatable onboarding frameworks. Hands-on with Salesforce, HubSpot, REST APIs, webhooks, and data feeds, and uses AI daily for troubleshooting while validating every step before it reaches a customer.",
+  "experience": [
+    {
+      "title": "Client Onboarding & Implementation (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end onboarding for new technology stacks, gathering requirements in discovery, translating them into technical configurations, and providing hands-on training.",
+        "Set up and run data feeds and imports into Salesforce, HubSpot, and GoHighLevel, validating every import by re-checking results before go-live.",
+        "Build integrations with REST APIs, inbound and outbound webhooks, and OAuth and API-key credentials in Zapier, Make, and n8n, debugging failures from the JSON payload.",
+        "Use AI tools (Claude, ChatGPT) to speed troubleshooting and documentation, validating every generated step before applying it to a client system.",
+        "Write proposals and statements of work that define scope, and document every interaction, timeline, and deliverable in Notion and the CRM."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Coordinated execution across internal departments for multi-stakeholder accounts, holding delivery quality consistent and resolving client feedback promptly."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a high-volume partner network, guiding customers through complex technical setup and configuration.",
+        "Built scalable communication workflows and automated product-training sequences that reduced onboarding friction.",
+        "Collaborated with Product and Engineering, sharing structured, high-priority customer feedback that informed the roadmap.",
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors, managing workflows and tasks in ClickUp and Monday.com."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, managing ~25 concurrent onboardings at peak, at 110% of implementation targets.",
+        "Led onboarding and launch operations as team lead and primary contact, delivering launches on time and accelerating time-to-value.",
+        "Defined the CRM fields required for onboarding workflows, standardizing data capture across the team.",
+        "Led onboarding teams of up to 30 specialists, running weekly training and workshops when rolling out new processes."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans ranking which systems to change and in what order, handing them to the implementation team to execute.",
+        "Guided client onboarding, workflow design, and API integrations alongside implementation teams, troubleshooting setup issues and escalating risk to leadership early.",
+        "Ran workshops for client teams showing how each part of the platform would fit their workflow."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": [
+        "Requirements Gathering",
+        "Configuration & Setup",
+        "Data Imports & Mapping",
+        "Scope Management",
+        "Risk Escalation",
+        "Adoption & Change Support",
+        "Onboarding Frameworks"
+      ]
+    },
+    {
+      "category": "Technical",
+      "items": [
+        "REST APIs & Webhooks",
+        "JSON",
+        "OAuth & API Keys",
+        "Salesforce",
+        "HubSpot",
+        "Zapier, Make, n8n",
+        "AI-Assisted Troubleshooting"
+      ]
+    },
+    {
+      "category": "Project Tools",
+      "items": [
+        "Asana",
+        "Jira",
+        "Monday.com",
+        "ClickUp",
+        "Notion"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
