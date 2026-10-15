@@ -1,0 +1,120 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Operations | Onboarding, Implementation & Customer Support | High-Volume Follow-Through, AI-Forward",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer operations and onboarding specialist with 15+ years in B2B SaaS, built around responsiveness and follow-through at volume. Managed ~25 concurrent onboardings at Wix while launching 25+ clients a month at 110% of implementation targets, handled 50+ partner activities a day at Birdeye while retaining all but one partner (~94%), and today owns implementation and day-to-day support for every Solenzo client. Tracks every open item, troubleshoots through resolution, and builds the automated updates and repeatable workflows that keep customers from ever wondering about status. Uses Claude and ChatGPT daily to work faster, and builds AI into production workflows.",
+  "experience": [
+    {
+      "title": "Client Onboarding & Operations (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own onboarding, implementation, and ongoing support for every client, from discovery through configuration, training, and day-to-day questions.",
+        "Troubleshoot integration and workflow issues myself, reading webhook and API payloads to find where a handoff broke and fixing it through resolution.",
+        "Built automated confirmations, reminders, and follow-ups by email and SMS so customers get proactive status updates without having to ask.",
+        "Track every interaction, commitment, and deliverable in GoHighLevel, HubSpot, and Notion, keeping records accurate across concurrent engagements.",
+        "Use Claude and ChatGPT daily to draft, debug, and document faster, and call LLM APIs inside production workflows."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Resolved client feedback promptly across multi-stakeholder accounts, coordinating across internal departments to keep delivery quality consistent and protect retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Handled 50+ partner activities per day across onboarding and partner communication, guiding customers through technical setup and configuration.",
+        "Onboarded and managed 15-20 reseller partners, including agencies serving healthcare clients, retaining all but one (~94% retention).",
+        "Built scalable communication workflows and automated training sequences that reduced onboarding friction.",
+        "Brought recurring customer issues to Product and Engineering as structured, prioritized feedback."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors, managing tasks in ClickUp and Monday.com; served a banking-industry client."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed ~25 concurrent onboardings at peak while launching 25+ clients per month, at 110% of implementation targets and 120% of sales targets.",
+        "Kept launches on time by aiming to finish simpler clients on the first call and planning multi-session builds for complex ones.",
+        "Defined the CRM fields required for onboarding workflows, standardizing data capture so nothing was lost between handoffs.",
+        "Led onboarding teams of up to 30 specialists, running weekly training and 1:1 coaching."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Guided client onboarding alongside implementation teams, troubleshooting setup issues and escalating account risk to leadership early.",
+        "Walked clients through invoicing and billing features, showing how time, projects, and billing connect in one system."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Operations",
+      "items": [
+        "Onboarding & Implementation",
+        "Customer Support & Troubleshooting",
+        "Inbox Triage & Follow-Through",
+        "Proactive Status Updates",
+        "Process Documentation",
+        "Repeatable Workflows"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Zendesk",
+        "Slack",
+        "Notion",
+        "Asana",
+        "Monday.com",
+        "Excel & Google Sheets",
+        "Stripe"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "Claude",
+        "ChatGPT",
+        "Zapier, Make, n8n",
+        "Webhooks & APIs"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
