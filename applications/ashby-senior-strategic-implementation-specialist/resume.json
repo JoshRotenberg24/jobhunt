@@ -1,0 +1,119 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation Specialist | Complex SaaS Configuration, Concurrent Implementations, Change Management | Integrations",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Implementation specialist with 15+ years in B2B SaaS, running concurrent implementations of configurable platforms from scoping through configuration, integration, training, and go-live. At Accelo I scoped and sequenced implementations of a CRM, project, and billing platform for professional-services firms, advising executives on how to run their operations through it. At Wix I launched 25+ clients a month with ~25 in flight at once, at 110% of implementation targets, and led teams of up to 30. Builds and debugs integrations hands-on (REST APIs, webhooks, JSON), coaches customers through process change, and turns recurring issues into repeatable process.",
+  "experience": [
+    {
+      "title": "Implementation Lead (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Lead end-to-end implementations of multi-workflow CRM and automation systems, translating business requirements from discovery into tailored configuration, then training owners and staff on the new process.",
+        "Configure multi-step workflows across lead routing, qualification, booking, onboarding, and reactivation, with 20+ automations in production for a single system.",
+        "Build and debug integrations with REST APIs, webhooks, OAuth and API-key credentials, and JSON payloads in Zapier, Make, n8n, and GoHighLevel.",
+        "Validate every configuration and data import before launch, and document each decision and deliverable so the setup stays auditable after go-live.",
+        "Write statements of work that define scope and expectations, and expand engagements when new requirements surface."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder accounts, coordinating execution across internal departments and translating performance data into recommendations and QBRs."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Guided customers through complex technical setup and configuration of listings, reputation, and marketing automation tools.",
+        "Shared structured, high-priority customer feedback with Product and Engineering to inform the roadmap.",
+        "Built automated training sequences that reduced onboarding friction, and retained all but one of 15-20 reseller partners (~94%)."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that improved reporting accuracy and reduced handoff errors across teams."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Implemented and launched 25+ clients per month with ~25 concurrent onboardings at peak, holding 110% of implementation targets.",
+        "Scoped multi-session production plans for complex builds while aiming to launch simpler clients on the first call, keeping milestones on schedule.",
+        "Led and coached onboarding teams of up to 30 specialists, piloting team structures for a new vertical that grew from proof of concept to profitable.",
+        "Defined the CRM fields required for onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients of a CRM, project, and billing platform, ranking which systems to change and in what order, and handed them to the implementation team.",
+        "Advised C-suite clients on best practices and operational system design, aligning the platform to their growth stage and team structure.",
+        "Guided onboarding, workflow design, and API integrations alongside implementation teams, troubleshooting setup and escalating risk early.",
+        "Ran workshops for client teams showing how each part of the product would work for them."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation",
+      "items": [
+        "Implementation Planning",
+        "Requirements & Scoping",
+        "Tailored Configuration",
+        "Concurrent Project Management",
+        "Change Management & Training",
+        "Best-Practice Advisory"
+      ]
+    },
+    {
+      "category": "Technical",
+      "items": [
+        "REST APIs & Webhooks",
+        "JSON",
+        "OAuth & API Keys",
+        "Zapier, Make, n8n",
+        "SQL (working proficiency)",
+        "Data Imports"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Notion",
+        "Jira",
+        "Asana"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
