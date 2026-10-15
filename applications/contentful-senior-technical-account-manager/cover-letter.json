@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Denver metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 15, 2026",
+  "company": "Contentful by Salesforce",
+  "role": "Senior Technical Account Manager",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Senior Technical Account Manager role in Denver. The Success Architect direction you describe, someone who knows the customer's business and acts as their technical advocate, is the role I've been growing into across implementation, partner success, and my own consulting practice.",
+    "At Birdeye I retained all but one of 15-20 reseller partners by tracking adoption, guiding technical setup, and bringing structured feedback back to Product and Engineering. At Wix I led onboarding teams of up to 30 while launching 25+ clients a month, and built the training and process changes that helped a new vertical become profitable. Today I build integrations hands-on with REST APIs, webhooks, JSON, and JavaScript, and audit sites for schema, content structure, and AI visibility, so content modeling and delivery are conversations I can follow at a technical level.",
+    "My client work has been with mid-market and growth-stage companies rather than Fortune 500 accounts, and the core of it carries over: learning how each stakeholder needs to be communicated with, from the developer to the executive sponsor. I'm local to Denver and would welcome a conversation."
+  ],
+  "closing": "Sincerely,"
+}

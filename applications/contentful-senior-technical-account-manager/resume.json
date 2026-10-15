@@ -1,0 +1,131 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Technical Account Management | SaaS Implementation, Technical Advocacy & Adoption | REST APIs, Web Technologies",
+  "contact": {
+    "location": "Arvada, CO (Denver metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical account manager and implementation lead with 15+ years in SaaS, MarTech, and agency environments. Owns the customer relationship end to end: learns the business, maps it to the platform, guides architecture and setup, and advocates for the customer with Product and Engineering. Retained all but one of 15-20 reseller partners at Birdeye (~94%), led onboarding teams of up to 30 at Wix while launching 25+ clients a month, and advised executives at Accelo on operational system design. Hands-on with REST APIs, webhooks, JSON, JavaScript and Python, HTML/CSS, CMS platforms, and schema markup, and turns complex technical detail into frameworks non-technical stakeholders can act on.",
+  "experience": [
+    {
+      "title": "Technical Consulting & Implementation (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary relationship for each client, running discovery to surface business goals, then translating them into technical configurations, integrations, and hands-on training.",
+        "Design and build integrations with REST APIs, inbound and outbound webhooks, and LLM APIs, reading and editing JSON payloads and debugging failures in production.",
+        "Write JavaScript and Python in custom code steps for Zapier, Make, and n8n, set up OAuth and API-key credentials, and build sites directly in HTML/CSS.",
+        "Run technical website audits with a 9-dimension framework (entity clarity, content clusters, internal linking, schema, AI visibility), implementing fixes directly in client CMS platforms.",
+        "Identify expansion opportunities in existing accounts and write proposals and statements of work for expanded engagements.",
+        "Published 18 articles explaining schema, semantic SEO, AI search, and automation in plain language for non-technical readers."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Led multi-stakeholder accounts as strategic lead, coordinating execution across internal departments and translating performance data into recommendations and QBRs.",
+        "Managed ~3 client accounts at $20K+/month in ad spend each, peaking above $100K/month."
+      ]
+    },
+    {
+      "title": "Partner Success & Technical Onboarding (Channel Partnerships & Customer Onboarding)",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deals ~$10K-$45K), retaining all but one (~94% retention).",
+        "Guided customers through complex technical setup and configuration of reputation, listings, and marketing automation tools.",
+        "Shared structured, prioritized customer feedback with Product and Engineering to inform the roadmap.",
+        "Analyzed partner utilization to find adoption gaps and advised partners on customer health metrics and retention strategy.",
+        "Built automated product-training sequences and communication workflows that reduced onboarding friction across the partner network."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Ran client accounts end to end and built internal processes that improved reporting accuracy and reduced cross-team handoff errors.",
+        "Led the sales team alongside individual account work."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Led and mentored multiple onboarding teams of up to 30 specialists, running weekly training, 1:1 coaching, and workshops for new initiatives.",
+        "Onboarded and launched 25+ clients per month, managing ~25 concurrent onboardings at peak, at 120% of sales and 110% of implementation targets.",
+        "Drove team initiatives and process improvements for a new vertical that grew from proof of concept to a profitable business line, including sales training for tenured account executives.",
+        "Led digital growth consultations on site architecture, SEO, and conversion, contributing to a 30% traffic increase and 25% conversion improvement across the e-commerce segment."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Advised C-suite executives as a trusted advisor on operational system design, guiding onboarding, workflow design, and API integrations for a CRM/PSA platform.",
+        "Built sequenced implementation plans ranking which systems to change and in what order, handing them to the implementation team to execute.",
+        "Ran workshops for client teams showing how each part of the platform would work for them.",
+        "Ranked top three of 8 to 15 reps for most of a 27-month tenure while quota roughly doubled."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Technical Account Management",
+      "items": [
+        "Customer Advocacy",
+        "Adoption & Retention",
+        "Implementation Planning",
+        "Executive Stakeholder Management",
+        "Playbooks & Training",
+        "Cross-functional Collaboration"
+      ]
+    },
+    {
+      "category": "Web & Integration",
+      "items": [
+        "REST APIs & Webhooks",
+        "JSON",
+        "JavaScript",
+        "Python",
+        "HTML/CSS",
+        "OAuth & API Keys",
+        "Schema / Structured Data",
+        "CMS Platforms"
+      ]
+    },
+    {
+      "category": "Platforms",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "Zapier",
+        "Make",
+        "n8n",
+        "Google Tag Manager",
+        "GA4",
+        "Jira"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (Sept 2024)",
+    "Meta Ads Certification - Meta"
+  ]
+}
