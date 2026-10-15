@@ -1,0 +1,21 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote US)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "October 15, 2026",
+  "company": "Morning Consult",
+  "role": "Senior Marketing Operations Specialist",
+  "recipient": "Hiring Team",
+  "salutation": "Dear Hiring Team,",
+  "body": [
+    "I'm applying for the Senior Marketing Operations Specialist role. Your line about building the system rather than inheriting it describes how I've worked for the last several years. At Solenzo I design CRM and automation systems from a blank account: lifecycle stages, lead scoring and MQL criteria, routing, nurture logic, field standards, and the syncs that carry it all into the CRM.",
+    "The measurement side is hands-on too. I build GTM triggers and GA4 conversion events, enforce UTM conventions, and set up domain authentication and consent so the data is clean before it reaches a dashboard. I've worked in Salesforce at three companies, and I helped leadership at Accelo build their lead qualification system while carrying a quota, so I know what sales needs from an MQL handoff. I also use Claude and ChatGPT every day, including LLM API calls inside production workflows.",
+    "My HubSpot depth is in client builds rather than an in-house enterprise instance, and Clay and LeanData would be new tools for me. The architecture thinking behind them is what I do every day. I'd welcome a conversation."
+  ],
+  "closing": "Sincerely,"
+}
