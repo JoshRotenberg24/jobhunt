@@ -1,0 +1,136 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Onboarding & Implementation | Multi-Implementation Project Management, Training, Go-Live | SMB Retail SaaS",
+  "contact": {
+    "location": "Arvada, CO (Denver metro)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer onboarding and implementation specialist with 15+ years in SaaS, including two years onboarding 25+ small-business clients a month at Wix (~25 concurrent at peak) at 110% of implementation targets. Owns the customer from signed contract to go-live: project plans, configuration, training, troubleshooting, and the proactive updates that keep customers from ever chasing a status. Brings a retail owner's view of operations from co-owning a licensed, regulated retail business in Denver, and the technical aptitude to configure platforms, integrations, and workflows hands-on. Comfortable with travel, evenings, and weekends when a go-live needs it.",
+  "experience": [
+    {
+      "title": "Client Onboarding & Implementation (Founder & Strategic / Marketing Operations Lead)",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own onboarding for every client end to end, from discovery through technical setup, configuration, and hands-on training on complex SaaS platforms.",
+        "Translate business requirements into technical configurations, integrations, and automated workflows, troubleshooting issues through resolution.",
+        "Document every interaction, timeline, and deliverable in GoHighLevel, HubSpot, and Notion, keeping project records accurate across concurrent engagements.",
+        "Build automated confirmations, reminders, and follow-ups by email and SMS so customers always know what happens next."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a high-volume partner network, guiding customers through complex technical setup and configuration of listings, reputation, and marketing automation tools.",
+        "Onboarded and managed 15-20 reseller partners across health, home services, and retail, retaining all but one (~94% retention).",
+        "Built automated product-training sequences and communication workflows that reduced onboarding friction.",
+        "Shared structured customer feedback with Product and Engineering, and handled 50+ partner activities per day."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Built internal processes that reduced handoff errors and improved cross-team alignment between sales and delivery."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ small-business clients per month, managing ~25 concurrent onboardings at peak, at 110% of implementation targets and 120% of sales targets.",
+        "Aimed to launch each client on the first call, and scoped multi-session production plans for complex builds to keep go-live on schedule.",
+        "Built and launched e-commerce stores for established brick-and-mortar retailers, including third-party shipping integrations.",
+        "Led onboarding teams of up to 30 specialists, running weekly training, 1:1 coaching, and workshops for new initiatives.",
+        "Defined the CRM fields required for onboarding workflows, standardizing data capture across the team."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team.",
+        "Ran workshops for client teams on how each part of the platform would work for them, and troubleshot workflow and integration issues during setup."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Fivestars",
+      "location": "Denver, CO",
+      "dates": "2017 - 2018",
+      "bullets": [
+        "Sold a loyalty and marketing platform to small businesses, closing up to 10 deals/month."
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Senior Directory",
+      "location": "Denver, CO",
+      "dates": "2012 - 2016",
+      "bullets": [
+        "Qualified leads and booked meetings for regional sales representatives."
+      ]
+    },
+    {
+      "title": "Co-Owner / Operations Lead",
+      "company": "Standing Akimbo",
+      "location": "Denver, CO",
+      "dates": "Jun 2010 - Sep 2012",
+      "bullets": [
+        "Co-owned and ran operations for a state-licensed retail business, building compliance, customer-management, and vendor and supplier workflows from scratch.",
+        "Developed intake processes and reporting systems that scaled the business to profitability."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Onboarding & Implementation",
+      "items": [
+        "End-to-End Onboarding",
+        "Go-Live Readiness",
+        "Platform Configuration",
+        "Customer Training (Remote & On-Site)",
+        "Troubleshooting & Escalation",
+        "Process Improvement"
+      ]
+    },
+    {
+      "category": "Project Management",
+      "items": [
+        "Concurrent Implementations",
+        "Project Plans & Milestones",
+        "Customer Documentation",
+        "Cross-functional Handoffs"
+      ]
+    },
+    {
+      "category": "Systems",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "GoHighLevel",
+        "Stripe",
+        "Zendesk",
+        "Notion",
+        "Zapier"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO"
+  ],
+  "certifications": []
+}
