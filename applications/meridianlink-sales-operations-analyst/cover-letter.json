@@ -1,0 +1,20 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "date": "September 21, 2026",
+  "company": "MeridianLink",
+  "role": "Sales Operations Analyst",
+  "recipient": "Hiring Team",
+  "body": [
+    "I have a genuine personal interest in banking and financial services, specifically in making ownership and purchase processes simpler so people can focus on what they actually need instead of the transactional details behind it. That's what MeridianLink builds toward, and I've spent 15+ years building the CRM systems and reporting infrastructure that sales and marketing leadership rely on to run their own numbers accurately.",
+    "At Solenzo, I architect CRM systems in GoHighLevel and HubSpot and build the dashboards leadership uses for lead, funnel, and pipeline reporting, writing SQL for Power BI data modeling and BigQuery pulls along the way. At Level Agency, I built recurring campaign and pipeline reporting frameworks delivered as QBRs to client leadership. At Wix, I defined the CRM fields that kept sales and onboarding data clean across a team, working inside Salesforce as the system of record. That combination, CRM data integrity plus the analytical layer on top of it, is the same one this role sits on.",
+    "I'd welcome the chance to talk through how that experience maps to MeridianLink's reporting cadence. I'm at 303-726-5037 or jrotnbrg@gmail.com."
+  ],
+  "closing": "Sincerely,"
+}

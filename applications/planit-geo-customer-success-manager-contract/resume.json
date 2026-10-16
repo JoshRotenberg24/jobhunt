@@ -1,0 +1,81 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Customer Success Manager | HubSpot, Retention & AI-Driven Workflow Improvement",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer success professional with 15+ years owning account portfolios in SaaS environments, from onboarding through renewal. Manages customer health, communication, and retention in HubSpot, flags at-risk accounts before they churn, and brings genuine hands-on experience using AI tools to improve day-to-day workflows, not just talking about them. Comfortable working independently in a remote, small-team environment, inheriting an existing book of business and keeping it healthy.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary client relationship for a portfolio of service-based businesses, running discovery and account management to keep records and service updates current.",
+        "Architect and deploy AI-driven agent systems and automation workflows, identifying opportunities to reduce manual effort and improve accuracy across client operations.",
+        "Architect and manage CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and data-hygiene protocols, documenting every client interaction and deliverable."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts in HubSpot, translating performance data into strategic recommendations and resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partner accounts, retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy and customer health metrics, analyzing utilization and performance data to identify adoption gaps and recommend interventions that reduced churn.",
+        "Guided customers through complex technical setup and configuration, equipping them to communicate product value to their own end customers."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets, while maintaining accurate CRM records for a high-value account portfolio.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Customer Success & Retention",
+      "items": [
+        "Account Portfolio Ownership", "Onboarding", "Retention & Renewal", "At-Risk Account Identification", "Customer Health Metrics"
+      ]
+    },
+    {
+      "category": "CRM & Systems",
+      "items": [
+        "HubSpot", "Salesforce", "GoHighLevel", "CRM Data Hygiene"
+      ]
+    },
+    {
+      "category": "AI & Workflow Improvement",
+      "items": [
+        "AI Tool Evaluation & Adoption", "Agentic Workflow Design", "Process Automation", "Remote Independent Work"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Sales Analytics & CRM Pipeline Professional | Salesforce, Excel & Data-Driven Selling",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Sales analytics and CRM professional with 15+ years turning pipeline and performance data into decisions sales leadership can act on. Owns CRM systems in Salesforce and HubSpot, builds Excel and Power BI reporting for executive stakeholders, and develops data-backed recommendations that move deals forward.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build performance dashboards tracking pipeline velocity, funnel progression, and campaign ROI in Power BI and CRM-native reporting tools, delivering insights to executive-level stakeholders on a regular cadence.",
+        "Architect and manage CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols, keeping pipeline data accurate and current.",
+        "Write SQL queries for Power BI data modeling and BigQuery/GA4 pulls, and analyze complex datasets to extract actionable insights and structured recommendations."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs to client leadership.",
+        "Managed multi-stakeholder accounts in HubSpot, translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partner accounts in Salesforce, analyzing partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn, retaining all but one (~94% retention)."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets, while maintaining accurate CRM records for a high-value account portfolio.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture across the team."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "CRM & Pipeline Management",
+      "items": [
+        "Salesforce", "HubSpot", "Pipeline Data Accuracy", "CRM Field Standardization", "Data Hygiene"
+      ]
+    },
+    {
+      "category": "Analytics & Reporting",
+      "items": [
+        "Excel (Advanced, incl. Pivot Tables)", "Power BI", "SQL (Working Proficiency)", "KPI Reporting", "QBRs"
+      ]
+    },
+    {
+      "category": "Business Impact",
+      "items": [
+        "Data-Driven Selling Stories", "Cross-Functional Collaboration", "Customer-First Account Management"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

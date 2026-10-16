@@ -1,0 +1,81 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Revenue Operations & Analytics Professional | Salesforce, Excel, Power BI, SQL",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Revenue operations and analytics professional with 15+ years in SaaS, agency, and B2B environments, including 5+ years architecting CRM systems and building the reporting infrastructure sales and marketing leadership run on. Builds dashboards in Power BI, HubSpot, and Salesforce, with working SQL proficiency, and owns CRM data hygiene end to end, from field-level standardization to executive-facing performance reporting.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Build performance dashboards tracking lead generation, funnel progression, campaign ROI, and pipeline velocity in Power BI and CRM-native reporting tools, delivering insights to executive-level stakeholders on a regular cadence.",
+        "Architect and manage CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and strict data-hygiene protocols, documenting every client interaction and deliverable for auditability.",
+        "Write SQL queries for Power BI data modeling and BigQuery/GA4 pulls.",
+        "Analyze complex marketing and operational datasets, extracting actionable insights and structured recommendations that improve campaign and pipeline performance."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Built rigorous campaign performance reporting frameworks tracking ROI, CAC, LTV, and conversion KPIs, delivering optimization recommendations and QBRs to client leadership.",
+        "Managed multi-stakeholder accounts in HubSpot, translating performance data into strategic recommendations and resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Managed 15-20 reseller partner accounts in Salesforce (deal sizes ~$10K-$45K), analyzing partner utilization and performance metrics to identify adoption gaps and recommend interventions that reduced churn, retaining all but one partner (~94% retention)."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows in Salesforce, standardizing data capture across a team of onboarding specialists.",
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets, while maintaining accurate CRM records for a high-value account portfolio."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "CRM & Data Integrity",
+      "items": [
+        "Salesforce", "HubSpot", "GoHighLevel", "Data Hygiene", "CRM Field Standardization"
+      ]
+    },
+    {
+      "category": "Reporting & Analytics",
+      "items": [
+        "Power BI", "Excel (Advanced)", "SQL", "Dashboard Development", "Bookings & Pipeline Reporting", "QBRs"
+      ]
+    },
+    {
+      "category": "Revenue Operations",
+      "items": [
+        "Pipeline Stage Tracking & Forecast Hygiene", "Cross-Functional Reporting Cadences", "Executive-Level Reporting"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

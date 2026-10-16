@@ -1,0 +1,81 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "AI & Automation Success Leader | Agentic AI, Client Strategy & Value Realization",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "AI-driven customer success and account leader with 15+ years in SaaS, agency, and B2B environments, including hands-on experience architecting and deploying AI agent systems for real clients. Translates non-technical stakeholder goals into precise AI/automation logic, evaluates new tools directly, and owns account health end to end, from onboarding through renewal and expansion. Comfortable operating deep in a technical environment (SQL, Power BI, agent workflow design) without being an engineer.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Architect and deploy AI-driven agent systems for client businesses, translating non-technical stakeholders' goals and feedback into precise, structured AI prompts and agent instructions.",
+        "Break down manual workflows into agent architectures with custom logic that scores inputs and generates personalized, automated outputs at scale.",
+        "Design self-improving evaluation frameworks to monitor agent outputs, and personally perform data labeling and rubric-based grading to keep automated systems accurate.",
+        "Own the primary strategic relationship for a portfolio of clients, evaluating and piloting new automation and AI tools (GoHighLevel, Zapier, Make, n8n) and identifying opportunities to expand engagement scope."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts, delivering optimization recommendations and QBRs to client leadership and translating performance data into strategic recommendations."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy and customer health metrics, analyzing utilization and performance data to identify adoption gaps and recommend interventions that reduced churn."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Directly managed and developed a team of onboarding specialists for 2 years, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & Automation",
+      "items": [
+        "Agentic AI System Design", "Prompt & Agent-Instruction Design", "AI Tool Evaluation & Piloting", "Workflow Decomposition", "Evaluation Frameworks & Output Grading"
+      ]
+    },
+    {
+      "category": "Account & Value Management",
+      "items": [
+        "Account Ownership & Renewal", "QBRs", "Customer Health & Risk Identification", "Stakeholder Consulting"
+      ]
+    },
+    {
+      "category": "Technical & Data",
+      "items": [
+        "SQL (Working Proficiency)", "Power BI", "Salesforce", "HubSpot", "Data-Driven Recommendations"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

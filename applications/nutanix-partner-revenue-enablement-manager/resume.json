@@ -1,0 +1,73 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Partner Enablement & GenAI Content Professional | Channel Programs, Training & Scalable Content Systems",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Partner enablement and channel professional with 15+ years building scalable programs that drive partner adoption and revenue, including hands-on, daily use of Generative AI to accelerate content creation and workflow productivity. Has onboarded and trained a diverse, high-volume reseller partner network, built sales training curriculum for tenured reps, and architects AI-driven systems that turn a single playbook into ready-to-execute assets at scale.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Use Generative AI as a core part of daily workflow, architecting agent systems that translate business goals into structured content, outreach sequences, and automated deliverables at scale.",
+        "Build reusable, template-based marketing assets and messaging frameworks, adapting a shared base to each client's brand rather than starting from scratch, a one-to-many content model.",
+        "Evaluate and pilot GenAI and automation tools (GoHighLevel, Zapier, Make, n8n), recommending the platform that best fits each client's requirements, and design evaluation frameworks with rubric-based grading to keep AI-generated output accurate."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume reseller partner network, driving rapid adoption of marketing-automation and reputation-management solutions.",
+        "Onboarded and managed 15-20 reseller partners (deal sizes ~$10K-$45K), retaining all but one (~94% retention) during tenure.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction across the partner network.",
+        "Advised partners on retention strategy and customer health metrics, analyzing utilization and performance data to identify adoption gaps and recommend interventions."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Drove team initiatives and process improvements for a brand-new Wix vertical, developing sales training curriculum for tenured account executives in addition to onboarding for new hires.",
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), building the training and process documentation the team ran on."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "GenAI & Content at Scale",
+      "items": [
+        "Generative AI Workflow Integration", "AI-Assisted Content Creation", "Agentic Automation Design", "One-to-Many Asset & Template Systems"
+      ]
+    },
+    {
+      "category": "Channel & Partner Enablement",
+      "items": [
+        "Reseller Partner Onboarding", "Partner Training Programs", "Channel Health & Retention Metrics", "Sales Training Curriculum Design"
+      ]
+    },
+    {
+      "category": "Systems & Execution",
+      "items": [
+        "Salesforce", "HubSpot", "Data-Driven Program Tracking", "Autonomous Program Ownership"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

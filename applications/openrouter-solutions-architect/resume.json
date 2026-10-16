@@ -1,0 +1,81 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "AI Systems & Technical Solutions Professional | LLM Tooling, Agentic AI & Regulated-Industry Sales",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Technical solutions professional with 15+ years in B2B SaaS, including hands-on experience evaluating AI tools and LLM platforms, architecting agent systems, and translating customer requirements into working technical solutions. Comfortable operating in the LLM ecosystem day to day, and brings real B2B sales experience into healthcare and financial-services verticals.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Evaluate and pilot AI tools and automation platforms (GoHighLevel, Zapier, Make, n8n), testing hands-on and recommending the platform that best fits each client's technical requirements and constraints.",
+        "Architect and deploy AI-driven agent systems for client businesses, translating non-technical stakeholders' goals into precise, structured prompts and agent instructions.",
+        "Break down manual workflows into agent architectures with custom logic, writing Python and JavaScript in automation-platform code steps to enrich and validate data.",
+        "Design evaluation frameworks to monitor agent outputs, personally performing data labeling and rubric-based grading to keep automated systems accurate."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Sold channel partnerships to agencies focused on healthcare clients, a meaningful share of a 15-20 partner book, developing direct B2B experience selling into a regulated-adjacent vertical.",
+        "Guided customers through complex technical setup and configuration of software platforms, translating technical capability into business outcomes for both technical and non-technical stakeholders."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Served a banking-industry client end to end and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage, direct experience selling into the financial-services vertical."
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Sold and scoped complex CRM and project-management software to agencies and professional-services firms, guiding client onboarding, workflow design, and API integrations as a trusted technical advisor.",
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "AI & LLM Ecosystem",
+      "items": [
+        "AI Tool Evaluation & Piloting", "Agentic AI System Design", "Prompt & Agent-Instruction Design", "Multi-Platform Automation (GoHighLevel, Zapier, Make, n8n)"
+      ]
+    },
+    {
+      "category": "Technical Solutions",
+      "items": [
+        "Solution Scoping", "API Integrations", "Implementation Planning", "Technical-to-Business Translation"
+      ]
+    },
+    {
+      "category": "Sales & Vertical Experience",
+      "items": [
+        "Healthcare-Vertical B2B Sales", "Financial-Services Client Experience", "Executive Stakeholder Communication", "Cross-Functional Collaboration"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

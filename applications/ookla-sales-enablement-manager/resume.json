@@ -1,0 +1,73 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Sales Enablement & Training Professional | Onboarding Programs, Playbooks & Content Systems",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Sales enablement and training professional with 15+ years in SaaS and agency environments, including hands-on experience building onboarding programs, sales training curriculum, and reusable content systems for both new hires and tenured reps. Translates complex product and technical concepts into structured, digestible training materials, and has built the CRM-based playbooks, messaging frameworks, and process documentation that keep revenue teams aligned as they scale.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Write and publish thought leadership content, newsletters, and educational guides on systems architecture, CRM optimization, and operational growth for B2B audiences.",
+        "Build reusable, boilerplate marketing assets and messaging frameworks for clients, adapting a shared template base to each client's brand and vertical rather than starting from scratch each time.",
+        "Translate non-technical stakeholders' generalized ideas and feedback into precise, structured instructions, acting as the bridge between business intent and reliable execution.",
+        "Architect and document CRM systems in GoHighLevel and HubSpot, including contact segmentation and data-hygiene protocols, documenting every client interaction and deliverable."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network, driving rapid adoption of marketing-automation and reputation-management solutions.",
+        "Developed scalable communication workflows and automated product-training sequences that reduced onboarding friction across a network of 15-20 reseller partners."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Drove team initiatives and process improvements for a brand-new Wix vertical that went from proof of concept to a profitable business line, developing sales training for tenured account executives in addition to onboarding curriculum for new hires.",
+        "Directly managed and developed a team of onboarding specialists for 2 years (a team of 20, later a team of 8), building the training and process documentation the team ran on.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, standardizing data capture and process consistency across the team."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Enablement & Training",
+      "items": [
+        "Sales Training Curriculum Design", "Onboarding Program Development", "Instructional Design", "Process Documentation"
+      ]
+    },
+    {
+      "category": "Content & Playbooks",
+      "items": [
+        "Playbook & Messaging Framework Development", "Technical-to-Business Translation", "Thought Leadership Content", "Template & Asset Systems"
+      ]
+    },
+    {
+      "category": "Systems & Collaboration",
+      "items": [
+        "Salesforce", "HubSpot", "GoHighLevel", "Cross-Functional Collaboration", "CRM Data Standardization"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

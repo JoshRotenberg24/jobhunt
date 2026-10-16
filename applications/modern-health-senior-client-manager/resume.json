@@ -1,0 +1,93 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Strategic Client & Account Management Professional | Retention, Expansion & Executive Advisory",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Strategic account and client management professional with 15+ years driving retention, product adoption, and expansion across SaaS, agency, and B2B environments, including direct channel sales into the healthcare vertical. Manages a portfolio of client relationships end to end, from onboarding through renewal, using Salesforce and CRM data to diagnose account health, resolve risk, and identify expansion opportunities. Runs QBRs and executive-facing reporting cadences as the primary point of contact for stakeholder relationships, and brings a genuine personal commitment to healthcare and mental-wellness access.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, running discovery and onboarding to surface client goals, objectives, and market challenges.",
+        "Identify strategic opportunities to expand retainer scope, recommending and scoping complementary services aligned with client objectives.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across the account."
+      ]
+    },
+    {
+      "title": "Account Executive / Client Strategist",
+      "company": "Level Agency",
+      "location": "Remote",
+      "dates": "Sep 2024 - Feb 2025",
+      "bullets": [
+        "Managed multi-stakeholder client accounts, delivering optimization recommendations and QBRs to client leadership and translating performance data into strategic recommendations.",
+        "Held delivery quality consistent across implementations, resolving client feedback promptly to protect satisfaction and retention."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners in Salesforce, spanning health, home-services, and retail verticals (deal sizes ~$10K-$45K), retaining all but one (~94% retention) during tenure.",
+        "Sold channel partnerships to agencies focused on healthcare clients, a meaningful share of the partner book, developing direct B2B experience in the healthcare vertical.",
+        "Advised partners on retention strategy and customer health metrics, analyzing utilization and performance data to identify adoption gaps and recommend interventions that reduced churn.",
+        "Guided customers through complex technical setup of reputation and marketing-automation tools, equipping them to communicate product value to their own end customers."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Served a banking-industry client end to end and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage in that deal.",
+        "Closed 6 new-client deals during tenure, averaging ~$22K each (several exceeding $25K), roughly $130K+ in total bookings."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Directly managed and developed a team of onboarding specialists for 2 years, a team of 20, later a team of 8, overseeing budgets, scope, and delivery for a high-value client portfolio."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Account & Relationship Management",
+      "items": [
+        "Strategic Account Management", "Executive Stakeholder Relationships", "Retention & Renewal", "Account Expansion", "QBRs"
+      ]
+    },
+    {
+      "category": "Data & Systems",
+      "items": [
+        "Salesforce", "HubSpot", "Customer Health Metrics", "Data-Driven Account Strategy"
+      ]
+    },
+    {
+      "category": "Industry & Advisory",
+      "items": [
+        "Healthcare-Vertical B2B Sales", "Trusted Advisor Relationships", "Cross-Functional Collaboration", "Risk Identification & Escalation"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

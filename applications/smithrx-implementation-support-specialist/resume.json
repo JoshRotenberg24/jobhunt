@@ -1,0 +1,88 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Implementation & Onboarding Specialist | CRM Data & Cross-Functional Coordination",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Customer onboarding and implementation professional with 15+ years across SaaS, agency, and B2B environments. Personally onboarded and launched 25+ clients per month while building and maintaining CRM data structures in Salesforce and HubSpot. Builds sequenced implementation plans that keep multi-stakeholder projects on track and on deadline, and brings direct healthcare-vertical B2B experience.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary client relationship for a portfolio of service-based businesses, running discovery and onboarding to surface goals, objectives, and requirements.",
+        "Architect and manage CRM systems in GoHighLevel and HubSpot, including contact segmentation and data-hygiene protocols, documenting every client interaction and deliverable."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Led onboarding and training for a diverse, high-volume partner network in Salesforce.",
+        "Sold channel partnerships to agencies focused on healthcare clients, a meaningful share of the partner book, developing direct B2B healthcare-vertical experience.",
+        "Guided customers through complex technical setup and configuration of reputation and marketing-automation tools, developing scalable communication workflows that reduced onboarding friction."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Onboarded and launched 25+ clients per month, holding 120% of sales targets and 110% of implementation targets, while maintaining accurate CRM records for a high-value account portfolio.",
+        "Labeled and defined the CRM fields required for outbound sales and onboarding workflows, building client profiles and standardizing data capture across a team of onboarding specialists.",
+        "Led onboarding and launch operations as team lead, delivering launches on time and accelerating time-to-value."
+      ]
+    },
+    {
+      "title": "Implementation Support — Account Executive",
+      "company": "Accelo",
+      "location": "Denver, CO",
+      "dates": "Apr 2018 - Jul 2020",
+      "bullets": [
+        "Built sequenced implementation plans for incoming clients, ranking which systems to change and in what order, and handed them to the implementation team to execute against.",
+        "Guided onboarding alongside implementation teams, troubleshooting workflow design and resolving technical challenges during setup."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Implementation & Project Coordination",
+      "items": [
+        "Implementation Planning", "Project Milestone Tracking", "Cross-Functional Coordination", "Go-Live Support"
+      ]
+    },
+    {
+      "category": "CRM & Data",
+      "items": [
+        "Salesforce", "HubSpot", "GoHighLevel", "Client Profile & CRM Data Entry", "Data Hygiene"
+      ]
+    },
+    {
+      "category": "Client & Stakeholder Management",
+      "items": [
+        "Customer Service", "Multi-Stakeholder Communication", "Healthcare-Vertical B2B Experience"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Google Workspace", "Microsoft Excel (Advanced)"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}

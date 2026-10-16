@@ -1,0 +1,81 @@
+{
+  "style": "modern",
+  "name": "Joshua Rotenberg",
+  "headline": "Client Success & Merchant Partner Manager | Retention, Upsell & E-Commerce Expertise",
+  "contact": {
+    "location": "Arvada, CO (Remote)",
+    "phone": "303-726-5037",
+    "email": "jrotnbrg@gmail.com",
+    "linkedin": "linkedin.com/in/joshua-rotenberg"
+  },
+  "summary": "Client success and account management professional with 15+ years managing post-sale partner relationships, driving retention, upsell, and account health across SaaS, agency, and e-commerce environments. Deep marketing-technology and e-commerce expertise, paired with direct financial-services client experience. Manages account health in Salesforce and serves as the cross-functional bridge between partners and internal product, marketing, and operations teams.",
+  "experience": [
+    {
+      "title": "Founder & Strategic / Marketing Operations Lead",
+      "company": "Solenzo LLC",
+      "location": "Arvada, CO (Remote)",
+      "dates": "Feb 2024 - Present",
+      "bullets": [
+        "Own the primary strategic relationship for a portfolio of service-based businesses, identifying opportunities to expand retainer scope and recommending complementary services aligned with client objectives.",
+        "Report performance on a regular cadence with actionable insights and strategic recommendations, backed by rigorous tracking across marketing, sales, and operations.",
+        "Architect and manage CRM systems in GoHighLevel and HubSpot, including contact segmentation, lifecycle stages, and data-hygiene protocols."
+      ]
+    },
+    {
+      "title": "Channel Partnerships & Customer Onboarding",
+      "company": "Birdeye",
+      "location": "Remote",
+      "dates": "Feb 2023 - Apr 2024",
+      "bullets": [
+        "Onboarded and managed 15-20 reseller partners in Salesforce (deal sizes ~$10K-$45K), retaining all but one (~94% retention) during tenure.",
+        "Advised partners on retention strategy and customer health metrics, analyzing utilization and performance data to identify adoption gaps and recommend interventions that reduced churn.",
+        "Collaborated with Product and Engineering to share structured, high-priority customer feedback informing the roadmap."
+      ]
+    },
+    {
+      "title": "Account Executive / Sales Operations",
+      "company": "Fetch & Funnel",
+      "location": "Remote",
+      "dates": "Sep 2022 - Feb 2023",
+      "bullets": [
+        "Served a banking-industry client end to end and helped pursue a major banking prospect in the northeastern U.S., reaching finalist stage in that deal."
+      ]
+    },
+    {
+      "title": "Account Manager, Onboarding Launch Specialist & Team Lead",
+      "company": "Wix.com",
+      "location": "Remote",
+      "dates": "Aug 2020 - Aug 2022",
+      "bullets": [
+        "Managed a high-value account portfolio across diverse verticals, contributing to a 30% increase in website traffic and 25% improvement in conversion rates across the e-commerce segment.",
+        "Built and launched e-commerce websites for established retail businesses adding a bigger online storefront as a secondary revenue line, while onboarding 25+ clients per month and holding 120% of sales targets."
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "category": "Client & Partner Success",
+      "items": [
+        "Merchant/Partner Account Management", "Retention & Upsell Strategy", "Account Health Metrics", "Performance Reviews & QBRs"
+      ]
+    },
+    {
+      "category": "E-Commerce & Marketing Technology",
+      "items": [
+        "E-Commerce Storefront Launch", "Marketing Technology (MarTech)", "Campaign Performance Analysis", "Conversion Optimization"
+      ]
+    },
+    {
+      "category": "Systems & Collaboration",
+      "items": [
+        "Salesforce", "HubSpot", "Cross-Functional Collaboration"
+      ]
+    }
+  ],
+  "education": [
+    "B.A. Liberal Arts, Minor in Political Science - Colorado State University, Fort Collins, CO (2009)"
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Professional Certificate - Google / Coursera (2024)"
+  ]
+}
